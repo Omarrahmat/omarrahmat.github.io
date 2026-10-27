@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fosteringtoday.com/sitemap.xml
