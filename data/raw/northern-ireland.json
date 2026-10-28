@@ -1,0 +1,448 @@
+[
+ {
+  "id": "belfast-hsc-trust-fostering",
+  "name": "Belfast Health and Social Care Trust Foster Care",
+  "providerType": "local_authority",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "Belfast Health and Social Care Trust area"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0800 0720 137",
+  "website": "https://belfasttrust.hscni.net/service/foster-care/",
+  "recruitmentUrl": "https://adoptionandfostercare.hscni.net/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://belfasttrust.hscni.net/service/foster-care/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website"
+    ]
+   },
+   {
+    "url": "https://adoptionandfostercare.hscni.net/getintouch/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.nidirect.gov.uk/articles/becoming-foster-kinship-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Statutory HSC Trust fostering service, recorded as local_authority (public statutory fostering service). Phone is the regional HSC NI Adoption and Foster Care freephone line; https://adoptionandfostercare.hscni.net/getintouch/ says enquiries are forwarded to the applicant's local Trust team. No Trust-specific fostering office address or phone found; address left null. Regulator not confirmed by source. Trust page body could not be read (only navigation returned); fostering types taken from nidirect regional description (also lists kinship and short break)."
+ },
+ {
+  "id": "northern-hsc-trust-fostering",
+  "name": "Northern Health and Social Care Trust Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "Northern Health and Social Care Trust area"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0800 0720 137",
+  "website": "https://www.northerntrust.hscni.net/",
+  "recruitmentUrl": "https://adoptionandfostercare.hscni.net/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.northerntrust.hscni.net/?p=46406",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "phone",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://adoptionandfostercare.hscni.net/getintouch/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.nidirect.gov.uk/articles/becoming-foster-kinship-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Statutory HSC Trust fostering service, recorded as local_authority (public statutory fostering service). Phone is the regional HSC NI Adoption and Foster Care freephone line; https://adoptionandfostercare.hscni.net/getintouch/ says enquiries are forwarded to the applicant's local Trust team. No Trust-specific fostering office address or phone found; address left null. Regulator not confirmed by source. Source page lists regional types: short-term, long-term, emergency, short breaks, short breaks for children with disabilities, supported lodgings."
+ },
+ {
+  "id": "south-eastern-hsc-trust-fostering",
+  "name": "South Eastern Health and Social Care Trust Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "South Eastern Health and Social Care Trust area"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0800 0720 137",
+  "website": "https://setrust.hscni.net/",
+  "recruitmentUrl": "https://adoptionandfostercare.hscni.net/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://setrust.hscni.net/?p=15426",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "phone",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://adoptionandfostercare.hscni.net/getintouch/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.nidirect.gov.uk/articles/becoming-foster-kinship-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Statutory HSC Trust fostering service, recorded as local_authority (public statutory fostering service). Phone is the regional HSC NI Adoption and Foster Care freephone line; https://adoptionandfostercare.hscni.net/getintouch/ says enquiries are forwarded to the applicant's local Trust team. No Trust-specific fostering office address or phone found; address left null. Regulator not confirmed by source. Source article lists emergency, short breaks, short-term, long-term, supported lodgings; it gives Trust HQ as Ulster Hospital, Dundonald, not a fostering office, so address left null."
+ },
+ {
+  "id": "southern-hsc-trust-fostering",
+  "name": "Southern Health and Social Care Trust Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "Southern Health and Social Care Trust area"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0800 0720 137",
+  "website": "https://southerntrust.hscni.net/",
+  "recruitmentUrl": "https://adoptionandfostercare.hscni.net/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://southerntrust.hscni.net/?p=2501",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://adoptionandfostercare.hscni.net/getintouch/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.nidirect.gov.uk/articles/becoming-foster-kinship-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Statutory HSC Trust fostering service, recorded as local_authority (public statutory fostering service). Phone is the regional HSC NI Adoption and Foster Care freephone line; https://adoptionandfostercare.hscni.net/getintouch/ says enquiries are forwarded to the applicant's local Trust team. No Trust-specific fostering office address or phone found; address left null. Regulator not confirmed by source. Source article (dated Feb 2020) mentions short-term and long-term fostering and short breaks for children with a disability; may be out of date."
+ },
+ {
+  "id": "western-hsc-trust-fostering",
+  "name": "Western Health and Social Care Trust Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "Western Health and Social Care Trust area"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0800 0720 137",
+  "website": "https://westerntrust.hscni.net/",
+  "recruitmentUrl": "https://adoptionandfostercare.hscni.net/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://westerntrust.hscni.net/?p=11583",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "phone"
+    ]
+   },
+   {
+    "url": "https://adoptionandfostercare.hscni.net/getintouch/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.nidirect.gov.uk/articles/becoming-foster-kinship-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Statutory HSC Trust fostering service, recorded as local_authority (public statutory fostering service). Phone is the regional HSC NI Adoption and Foster Care freephone line; https://adoptionandfostercare.hscni.net/getintouch/ says enquiries are forwarded to the applicant's local Trust team. No Trust-specific fostering office address or phone found; address left null. Regulator not confirmed by source. Source page (dated 2022) gives no formal types list; types from nidirect regional description."
+ },
+ {
+  "id": "barnardos-fostering-northern-ireland",
+  "name": "Barnardo's Fostering Northern Ireland",
+  "providerType": "independent_agency",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "Northern Ireland"
+  ],
+  "address": {
+   "line1": "230B Belmont Road",
+   "town": "Belfast",
+   "postcode": "BT4 2AW"
+  },
+  "phone": "028 9065 2288",
+  "website": "https://www.barnardos.org.uk/foster/northern-ireland",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term",
+   "sibling-groups"
+  ],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.barnardos.org.uk/sites/default/files/uploads/NI-fostering-statement-of-purpose.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://www.nidirect.gov.uk/articles/becoming-foster-kinship-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "Statement of purpose says NI fostering services await new Fostering Regulations 2025 and that RQIA will take on regulation once established, so RQIA registration is not confirmed; regulator left null. Document header shows number 020764 (not stated to be an RQIA number), not recorded. Website is listed by nidirect; the barnardos.org.uk page itself was not fetchable. Also states planned/short breaks and homes for older young people (not mapped). Statement of purpose may be dated."
+ },
+ {
+  "id": "action-for-children-fostering-northern-ireland",
+  "name": "Action for Children Fostering Northern Ireland",
+  "providerType": "independent_agency",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "Northern Ireland"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "028 9046 0500",
+  "website": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-northern-ireland/",
+  "recruitmentUrl": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "parent-and-child"
+  ],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-northern-ireland/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "No NI office address published on page (only charity registered address in Watford, not recorded). No NI regulator mentioned on page. Also states planned breaks and children with disabilities; parent and child offered only in some services."
+ },
+ {
+  "id": "foster-care-associates-northern-ireland",
+  "name": "Foster Care Associates Northern Ireland",
+  "providerType": "independent_agency",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "Belfast and surrounding areas",
+   "Works in partnership with trusts across Northern Ireland"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0800 023 4561",
+  "website": "https://thefca.co.uk/regions/northern-ireland",
+  "recruitmentUrl": "https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "parent-and-child",
+   "sibling-groups"
+  ],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://thefca.co.uk/regions/northern-ireland",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://www.thefca.co.uk/locations/belfast/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "No NI office address or RQIA mention found on fetched pages. Pages also list babies and disability fostering; site navigation lists respite, teenagers (not mapped)."
+ },
+ {
+  "id": "kindercare-fostering-northern-ireland",
+  "name": "Kindercare Fostering Northern Ireland",
+  "providerType": "independent_agency",
+  "nation": "Northern Ireland",
+  "areasServed": [
+   "Northern Ireland"
+  ],
+  "address": {
+   "line1": "Unit 24, Castlereagh Industrial Estate, Montgomery Road",
+   "town": "Belfast",
+   "postcode": "BT6 9HL"
+  },
+  "phone": "028 9002 0247",
+  "website": "https://www.kindercareni.co.uk",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": null,
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.familysupportni.gov.uk/Service/7775",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.nidirect.gov.uk/articles/becoming-foster-kinship-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website"
+    ]
+   }
+  ],
+  "notes": "Source is the Family Support NI directory listing (third party); the agency's own site was not fetchable (blocked). Listing gives age range birth to 18 but no fostering types. No RQIA mention."
+ }
+]

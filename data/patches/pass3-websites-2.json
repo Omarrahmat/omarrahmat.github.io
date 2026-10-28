@@ -1,0 +1,1425 @@
+[
+ {
+  "id": "fostering-dimensions",
+  "website": "https://fosteringdimensions.co.uk/",
+  "recruitmentUrl": null,
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://fosteringdimensions.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "Home page names Fostering Dimensions and describes it as fostering in Nottingham; no phone number, email address or recruitment page link was found on the home page."
+ },
+ {
+  "id": "fostering-for-you",
+  "website": "https://www.fosteringforyou.co.uk/",
+  "recruitmentUrl": "https://www.fosteringforyou.co.uk/sign-up-to-be-a-foster-carer/",
+  "phone": "0330 123 9433",
+  "publicEnquiryEmail": "recruitment@fosteringforyou.co.uk",
+  "areasServed": [
+   "London"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.fosteringforyou.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Home page shows the address Studio 2.06, The Light Bulb, 1 Filament Walk, London SW18 4GQ. Phone is an 0330 non-geographic number. The home page's 'Become a foster carer' link points to https://www.fosteringforyou.co.uk/?page_id=17128; the 'Request a Callback' sign-up page is recorded as recruitmentUrl instead. Site describes itself as a fostering agency in London / Greater London without listing boroughs."
+ },
+ {
+  "id": "fostering-london",
+  "website": "https://www.fosteringlondon.org.uk/",
+  "recruitmentUrl": "https://www.fosteringlondon.org.uk/how-do-i-foster/",
+  "phone": "0208 815 1995",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "London"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.fosteringlondon.org.uk/contact-us/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the address 34 Shelbourne Road, London, N17 9YH. Phone recorded as listed in the contact details block; the page body elsewhere shows '0208 8155995' and a second landline 01737 645829, so the number should be verified. Site says it covers 'London and surrounding areas'. Email address on the page is obfuscated and not recorded. recruitmentUrl is the 'How Do I Foster?' page."
+ },
+ {
+  "id": "fostering-ltd",
+  "website": "https://fosteringltd.co.uk/",
+  "recruitmentUrl": "https://fosteringltd.co.uk/can-i-foster/",
+  "phone": "01772 288 372",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "Lancashire",
+   "Greater Manchester",
+   "Cheshire",
+   "Liverpool",
+   "Wigan",
+   "Salford",
+   "Cumbria"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://fosteringltd.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Home page footer states the agency is based in Fulwood, Preston and links to the Ofsted report for SC488290; the page title says 'Independent Fostering Agency in Bury'. areasServed as stated on the home page."
+ },
+ {
+  "id": "fostering-matters-ltd",
+  "website": "https://fosteringmatters.com/",
+  "recruitmentUrl": "https://fosteringmatters.com/process/",
+  "phone": "01452 309210",
+  "publicEnquiryEmail": "enquiries@fosteringmatters.com",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://fosteringmatters.com/local-fostering-gloucester/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   },
+   {
+    "url": "https://fosteringmatters.com/process/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Site trades as FosteringMatters; office address shown as 10 College Green, Gloucester GL1 2LX. No dedicated 'become a foster carer' page; the 'our process' page describing the application and approval steps is recorded as recruitmentUrl."
+ },
+ {
+  "id": "fostering-people",
+  "website": "https://www.fosteringpeople.co.uk/",
+  "recruitmentUrl": "https://www.fosteringpeople.co.uk/about-fostering/how-to-become-a-foster-parent/",
+  "phone": "0800 077 8159",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "Nottinghamshire",
+   "East Midlands"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "therapeutic"
+  ],
+  "sources": [
+   {
+    "url": "https://www.fosteringpeople.co.uk/locations/nottingham/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Nottingham location page: https://www.fosteringpeople.co.uk/locations/nottingham/ (mentions a Nottingham office base; no postal address shown). areasServed are those stated on the Nottingham page (Nottingham and Nottinghamshire; every local authority in the East Midlands); the agency lists further regions at https://www.fosteringpeople.co.uk/regions/. fosteringTypes taken from the site's fostering-types navigation menu."
+ },
+ {
+  "id": "fostering-support-group-london",
+  "website": "https://fosteringsupportgroup.com/",
+  "recruitmentUrl": "https://fosteringsupportgroup.com/become-a-foster-carer/",
+  "phone": "0208 778 5656",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "London",
+   "South East England"
+  ],
+  "fosteringTypes": [
+   "parent-and-child",
+   "therapeutic"
+  ],
+  "sources": [
+   {
+    "url": "https://fosteringsupportgroup.com/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Home page shows the address Suite 5, First Floor Office, Carlton Chambers, 5-6 Station Road, Shortlands, BR2 0EY, matching the Ofsted postcode. Site states it places children in London and South East England. 'therapeutic' from the site's own description of itself as an independent therapeutic fostering agency; 'parent-and-child' from its Parent and Child Fostering page. Site links to CareTech group pages."
+ },
+ {
+  "id": "fostering-together-for-children-with-disabilities",
+  "website": "https://www.fosteringtogether.co.uk/",
+  "recruitmentUrl": "https://www.fosteringtogether.co.uk/how-to-become-a-foster-carer",
+  "phone": "01233 515031",
+  "publicEnquiryEmail": "office@fosteringtogether.co.uk",
+  "areasServed": [
+   "South East",
+   "West Midlands",
+   "East Midlands",
+   "East of England"
+  ],
+  "fosteringTypes": [
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://www.fosteringtogether.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Home page shows the Ashford office at The Old Granary, Penstock Hall Farm, Canterbury Rd, Ashford TN25 5LL (phone 01233 515031); it also lists offices in Bury St Edmunds (01284 636640) and Willenhall (0121 818 1331). fosteringTypes 'other' = disability fostering (children with disabilities and complex medical needs), the agency's stated specialism; no placement durations stated."
+ },
+ {
+  "id": "freedom-fostering",
+  "website": "https://www.freedomfostering.com/",
+  "recruitmentUrl": "https://www.freedomfostering.com/start-your-journey/",
+  "phone": "01902 429290",
+  "publicEnquiryEmail": "info@fftservices.org",
+  "areasServed": [
+   "West Midlands"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "parent-and-child",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://www.freedomfostering.com/contact/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.freedomfostering.com/types-of-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the address 27 Waterloo Road, Wolverhampton, West Midlands, WV1 4DJ. Site says it is based in the West Midlands and serves 'much of central England'. The published enquiry email is on a different domain (fftservices.org) from the website. 'other' = remand fostering. Application page: https://www.freedomfostering.com/join-us/."
+ },
+ {
+  "id": "fusion-fostering-north-east-worksop",
+  "website": "https://fusionfostering.com/",
+  "recruitmentUrl": "https://fusionfostering.com/areas-we-cover/fostering-in-the-north-east/",
+  "phone": "0330 0562113",
+  "publicEnquiryEmail": "neregion@fusionfostering.co.uk",
+  "areasServed": [
+   "Nottinghamshire",
+   "Lincolnshire",
+   "Derbyshire",
+   "Yorkshire",
+   "Hull"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/fostering-in-the-north-east/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/fostering-information/types-of-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Regional branch of Fusion Fostering: website is the group's site and recruitmentUrl is the North East regional page, which shows the office at Turbine Innovation Centre, Coach Close, Shireoaks, Worksop S81 8AP and mentions a second office in Hull. Phone is the regional office 0330 number; the group enquiry line is 03301 239 355 and the group mailbox info@fusionfostering.com. fosteringTypes are the group-level placement options; 'other' = unaccompanied asylum-seeking young people and solo placements."
+ },
+ {
+  "id": "fusion-fostering-north-west",
+  "website": "https://fusionfostering.com/",
+  "recruitmentUrl": "https://fusionfostering.com/areas-we-cover/fostering-in-north-west-england/",
+  "phone": "0330 0562092",
+  "publicEnquiryEmail": "nwregion@fusionfostering.co.uk",
+  "areasServed": [
+   "Lancashire",
+   "Greater Manchester",
+   "Merseyside",
+   "Cheshire"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/fostering-in-north-west-england/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/fostering-information/types-of-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Regional branch of Fusion Fostering: website is the group's site and recruitmentUrl is the North West regional page, which shows the office at 26 Hastings Road, Leyland, Lancashire, PR25 3SP. Page says the office covers the 22 North West local authorities from Blackpool to Chester and names Liverpool, Warrington, Manchester, Bolton and Wigan. Phone is the regional office 0330 number; group enquiry line 03301 239 355. fosteringTypes are the group-level placement options; 'other' = unaccompanied asylum-seeking young people and solo placements."
+ },
+ {
+  "id": "fusion-fostering-south-central",
+  "website": "https://fusionfostering.com/",
+  "recruitmentUrl": "https://fusionfostering.com/areas-we-cover/fostering-in-south-central-england/",
+  "phone": "0330 0562111",
+  "publicEnquiryEmail": "scregion@fusionfostering.co.uk",
+  "areasServed": [
+   "Dorset",
+   "Hampshire",
+   "West Sussex",
+   "Berkshire"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/fostering-in-south-central-england/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/fostering-information/types-of-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Regional branch of Fusion Fostering: website is the group's site and recruitmentUrl is the South Central regional page, which shows the office at Room GF5, Cams Hall, Fareham, Hampshire, PO16 8AB. Page describes the area as from Dorset across Hampshire to West Sussex and across Berkshire, naming Bournemouth, Salisbury, Winchester, Southampton, Portsmouth, Basingstoke, Reading, Poole and Weymouth. Phone is the regional office 0330 number; group enquiry line 03301 239 355. fosteringTypes are the group-level placement options; 'other' = unaccompanied asylum-seeking young people and solo placements."
+ },
+ {
+  "id": "fusion-fostering-south-east",
+  "website": "https://fusionfostering.com/",
+  "recruitmentUrl": "https://fusionfostering.com/areas-we-cover/fostering-in-the-south-east/",
+  "phone": "0330 0562110",
+  "publicEnquiryEmail": "seregion@fusionfostering.co.uk",
+  "areasServed": [
+   "Brighton & Hove",
+   "Kent",
+   "West Sussex",
+   "East Sussex",
+   "Essex",
+   "London",
+   "Surrey"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/fostering-in-the-south-east/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/fostering-information/types-of-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Regional branch of Fusion Fostering: website is the group's site and recruitmentUrl is the South East regional page, which shows the office at Office 29, The Cobalt Building, 1600 Eureka Park, Lower Pemberton, Ashford, Kent, TN25 4BF. Phone is the regional office 0330 number; group enquiry line 03301 239 355. fosteringTypes are the group-level placement options; 'other' = unaccompanied asylum-seeking young people and solo placements."
+ },
+ {
+  "id": "fusion-fostering-the-midlands-walsall",
+  "website": "https://fusionfostering.com/",
+  "recruitmentUrl": "https://fusionfostering.com/areas-we-cover/fostering-in-the-midlands/",
+  "phone": "0330 0562047",
+  "publicEnquiryEmail": "mregion@fusionfostering.co.uk",
+  "areasServed": [
+   "Birmingham",
+   "Shropshire",
+   "Staffordshire",
+   "Herefordshire",
+   "Warwickshire",
+   "Worcestershire"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/fostering-in-the-midlands/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/areas-we-cover/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   },
+   {
+    "url": "https://fusionfostering.com/fostering-information/types-of-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Regional branch of Fusion Fostering: website is the group's site and recruitmentUrl is the Midlands regional page, which shows the office at Offices 3, 4 & 5, The Enterprise Hub, 34 Green Lane, Walsall, WS2 8JH. Page says the region covers 14 local authorities across the Midlands from Gloucestershire to Stoke-on-Trent. Phone is the regional office 0330 number; group enquiry line 03301 239 355. fosteringTypes are the group-level placement options; 'other' = unaccompanied asylum-seeking young people and solo placements."
+ },
+ {
+  "id": "futures-for-children",
+  "website": "https://www.futures-for-children.org/",
+  "recruitmentUrl": "https://www.futures-group.org/enquire-now",
+  "phone": "01245 950470",
+  "publicEnquiryEmail": "enquiries@futures-group.org",
+  "areasServed": [
+   "Kent",
+   "London",
+   "Essex"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "emergency",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers"
+  ],
+  "sources": [
+   {
+    "url": "https://www.futures-for-children.org/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   },
+   {
+    "url": "https://www.futures-group.org/contact-us",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Futures for Children is part of the Futures Group; its own home page (futures-for-children.org) carries no contact details, so the group's contact page is the source for the other fields. That page lists the 'Kent, London & Essex' office as Futures for Children, Unit 6 Feltimores Park, Chalk Lane, Moor Hall Road, Harlow, Essex, CM17 0PF, phone 01245 950470; group freephone 0800 408 4710; group site https://www.futures-group.org. areasServed from the office label; the group as a whole states it delivers services in Kent, Essex, East Sussex, Birmingham, Coventry, East London, Bedfordshire, Luton, Buckinghamshire, Milton Keynes, County Durham and Tyne & Wear. fosteringTypes from the group site's 'Thinking of Fostering' menu."
+ },
+ {
+  "id": "futures-for-children-north-east",
+  "website": "https://www.futures-for-children.org/",
+  "recruitmentUrl": "https://www.futures-group.org/enquire-now",
+  "phone": "0191 425 0095",
+  "publicEnquiryEmail": "enquiries@futures-group.org",
+  "areasServed": [
+   "County Durham",
+   "Tyne and Wear"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "emergency",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers"
+  ],
+  "sources": [
+   {
+    "url": "https://www.futures-for-children.org/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   },
+   {
+    "url": "https://www.futures-group.org/contact-us",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "North East office of Futures for Children (Futures Group). The group's contact page lists the County Durham office as 'Futures for Children (formerly known as Foster Care Solutions), 8 Lumley Court, Chester-Le-Street, County Durham, DH2 1AN', phone 0191 425 0095; group freephone 0800 408 4710; group site https://www.futures-group.org. areasServed from the group's statement that it delivers services in County Durham and Tyne & Wear. fosteringTypes from the group site's 'Thinking of Fostering' menu."
+ },
+ {
+  "id": "greater-london-fostering",
+  "website": "https://greaterlondonfostering.org/",
+  "recruitmentUrl": "https://greaterlondonfostering.org/fostering/",
+  "phone": "020 8347 8741",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "London",
+   "Essex",
+   "Kent",
+   "Surrey"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://greaterlondonfostering.org/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Home page shows the address Mirror Works, Unit MI 1.01, 12 Marshgate Lane, London, E15 2NH. Site states it supports carers across all London boroughs and parts of Essex, Kent and Surrey (areas page: https://greaterlondonfostering.org/areaswecover/). Email on the page is obfuscated and not recorded. recruitmentUrl is the 'Start Fostering' page."
+ },
+ {
+  "id": "happy-hearts-foster-care",
+  "website": "https://happyheartsfostercare.co.uk/",
+  "recruitmentUrl": "https://happyheartsfostercare.co.uk/contact/",
+  "phone": "03333 449 409",
+  "publicEnquiryEmail": "info@happyheartsfostercare.co.uk",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://happyheartsfostercare.co.uk/contact/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the address Radclyffe House, 66-68 Hagley Road, Birmingham B16 8PF. Phone is an 0333 non-geographic number. No dedicated 'become a foster carer' page: the site's 'Enquire' link points to the contact page, recorded as recruitmentUrl; the 'Join the Team' page is mainly staff careers. 'About Fostering' page: https://happyheartsfostercare.co.uk/about-fostering/."
+ },
+ {
+  "id": "icanfoster",
+  "website": "https://icanfoster.co.uk/",
+  "recruitmentUrl": "https://icanfoster.co.uk/could-you-foster/",
+  "phone": "01952 601085",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://icanfoster.co.uk/contact-us/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the address Suite 9, M54 Space Centre, Halesfield 8, Telford, Shropshire, TF7 4QN, and a second office at Office 10, The Old Police Station, Market Hall Street, Kington, Herefordshire, HR5 3DP. Email addresses are obfuscated on the page and not recorded. recruitmentUrl is the 'Could You Foster?' page."
+ },
+ {
+  "id": "ideal-fostering",
+  "website": "https://www.idealfostering.com/",
+  "recruitmentUrl": null,
+  "phone": "0121 356 7570",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "Walsall",
+   "West Midlands"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.idealfostering.com/fostering-agency-walsall/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.idealfostering.com/contact/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "phone"
+    ]
+   }
+  ],
+  "notes": "Walsall page shows the address Anchor House, 4 Bridgeman Street, Walsall WS2 9NW (matches the Ofsted postcode); the contact page instead shows Bridge House, 509 Aldridge Road, Great Barr, Birmingham B44 8NA, so the office may have moved. The contact page gives the landline 0121 356 7570 for general matters (including local authorities) and a mobile number for prospective foster carers, which is not recorded. No dedicated 'become a foster carer' page found; services page: https://www.idealfostering.com/services/."
+ },
+ {
+  "id": "ikon-fostering",
+  "website": "https://ikonfostering.org/",
+  "recruitmentUrl": "https://ikonfostering.org/enquire-now/",
+  "phone": "01922 618790",
+  "publicEnquiryEmail": "recruitment@ikonfostering.org.uk",
+  "areasServed": [
+   "West Midlands",
+   "Staffordshire",
+   "Shropshire"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://ikonfostering.org/areas-we-cover/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Areas page shows the address Ikon Fostering, Pool St, Walsall WS1 2EN. Office landline recorded; a mobile recruitment number is also published and not recorded. The published mailbox is a generic foster-carer recruitment address (on the .org.uk domain). areasServed are the counties under which the page lists towns (West Midlands conurbation, Staffordshire, Shropshire); it also names Warwick, Worcester and Redditch and says it covers other parts of the UK."
+ },
+ {
+  "id": "illuminance-fostering-service",
+  "website": "https://illuminancefostering.co.uk/",
+  "recruitmentUrl": "https://illuminancefostering.co.uk/callus",
+  "phone": "0208 017 8181",
+  "publicEnquiryEmail": "admin@illuminancefostering.co.uk",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://illuminancefostering.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Home page footer shows Illuminance Fostering Services Ltd, 100 Avebury Boulevard, Milton Keynes, Buckinghamshire, MK9 1FH. Phone is the published 'Main Office' number (shown as 0208-017-8181); staff direct-dial and mobile numbers are not recorded. The mailbox is the generic admin address published on the home page. No dedicated 'become a foster carer' page; the 'Book a call' page is recorded as recruitmentUrl."
+ },
+ {
+  "id": "infinity-foster-care",
+  "website": "https://infinityfostercare.co.uk/",
+  "recruitmentUrl": "https://infinityfostercare.co.uk/foster-with-us/",
+  "phone": "0203 488 1238",
+  "publicEnquiryEmail": "info@infinityfostercare.co.uk",
+  "areasServed": [
+   "London",
+   "Essex"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://infinityfostercare.co.uk/contact-us/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the address Cranbrook House, 61 Cranbrook Road, Ilford, London, IG1 4PG. Site states it supports carers and children across London and Essex, with area pages for South, North and West London and Essex."
+ },
+ {
+  "id": "integrated-services-programme-isp-chesham",
+  "website": "https://ispfostering.org.uk/",
+  "recruitmentUrl": "https://ispfostering.org.uk/regions/chesham/",
+  "phone": "01494 792999",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "Buckinghamshire",
+   "Hertfordshire",
+   "Berkshire"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "therapeutic",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://ispfostering.org.uk/regions/chesham/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://ispfostering.org.uk/regions/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Chesham office of ISP Fostering (Integrated Services Programme): website is the group's site and recruitmentUrl is the Chesham regional page, which shows the address ISP, Aureole House, 9 Church Street, Chesham, Bucks HP5 1HS. Phone is the Chesham office number; national enquiry line 0800 0857 989. Page states the team works with local authorities across Buckinghamshire, Hertfordshire and parts of Berkshire. fosteringTypes: 'therapeutic' from the page's description of its service; the rest from the site-wide 'Types of fostering' menu ('other' = disability fostering and unaccompanied children). Group enquiry form: https://ispfostering.org.uk/enquiry/."
+ },
+ {
+  "id": "isp-enfield",
+  "website": "https://ispfostering.org.uk/",
+  "recruitmentUrl": "https://ispfostering.org.uk/regions/enfield/",
+  "phone": "020 8370 3670",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "London"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "therapeutic",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://ispfostering.org.uk/regions/enfield/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://ispfostering.org.uk/regions/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Enfield office of ISP Fostering: website is the group's site and recruitmentUrl is the Enfield regional page, which names the Enfield fostering centre but shows no postal address, so the EN2 6AX postcode is not confirmed on the page. Phone is the Enfield office number; national enquiry line 0800 0857 989. Page says the centre supports foster parents in Enfield and surrounding North London boroughs and works with local authorities across London; the regions index names Enfield, Barnet, Hackney and Redbridge. fosteringTypes from the page ('therapeutic') and the site-wide 'Types of fostering' menu ('other' = disability fostering and unaccompanied children). Group enquiry form: https://ispfostering.org.uk/enquiry/."
+ },
+ {
+  "id": "isp-midlands",
+  "website": "https://ispfostering.org.uk/",
+  "recruitmentUrl": "https://ispfostering.org.uk/regions/bromsgrove/",
+  "phone": "01527 839188",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "West Midlands"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "therapeutic",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://ispfostering.org.uk/regions/bromsgrove/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://ispfostering.org.uk/regions/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Bromsgrove office of ISP Fostering (ISP Midlands): website is the group's site and recruitmentUrl is the Bromsgrove regional page, which shows the address ISP, Senate House, Saxon Business Park, Hanbury Road, Stoke Prior, Bromsgrove, B60 4AD. Phone is the office number; national enquiry line 0800 0857 989. Page says the team supports carers across the Midlands / West Midlands and names Birmingham, Wolverhampton, Hereford, Redditch, Coventry and Nuneaton local authorities. fosteringTypes from the page ('therapeutic') and the site-wide 'Types of fostering' menu ('other' = disability fostering and unaccompanied children). Group enquiry form: https://ispfostering.org.uk/enquiry/."
+ },
+ {
+  "id": "liberty-foster-care",
+  "website": "https://libertyfostercare.co.uk/",
+  "recruitmentUrl": "https://libertyfostercare.co.uk/becoming-a-foster-carer/",
+  "phone": "01428 624550",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://libertyfostercare.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone"
+    ]
+   }
+  ],
+  "notes": "Home page shows no postal address, so Liphook / GU30 7SB is not confirmed on the page; the first published number (01428) is in the Haslemere/Liphook dialling area and a second number, 01722 273135, is also shown. The contact page (https://libertyfostercare.co.uk/contact/) returned an error when fetched. The only published mailbox is duty@libertyfostercare.co.uk, a duty address rather than a clear public enquiries mailbox, so it is not recorded."
+ },
+ {
+  "id": "lika-family-fostering",
+  "website": "https://likafamilyfostering.co.uk/",
+  "recruitmentUrl": "https://likafamilyfostering.co.uk/why-foster-care/",
+  "phone": "020 3370 0987",
+  "publicEnquiryEmail": "enquiries@likafamilyfostering.co.uk",
+  "areasServed": [
+   "London"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://likafamilyfostering.co.uk/contact-lika-family-fostering-agency/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the address Battersea Business Centre, Unit 120, 99-109 Lavender Hill, London SW11 5QL. Phone shown on the page as 0203 370 0987 / 020 3370 0987. areasServed: the site describes the agency as based in Battersea, South London, recruiting foster carers in London; no boroughs listed. recruitmentUrl is the 'Become a Foster Carer' page."
+ },
+ {
+  "id": "lotus-foster-care",
+  "website": "https://lotusfostercare.co.uk/",
+  "recruitmentUrl": "https://lotusfostercare.co.uk/fostering-with-us/",
+  "phone": "020 8106 6800",
+  "publicEnquiryEmail": "info@lotusfostercare.co.uk",
+  "areasServed": [],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://lotusfostercare.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   },
+   {
+    "url": "https://lotusfostercare.co.uk/types-of-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Home page shows the address Interchange House, 81-85 Station Road, Croydon CR0 2RD. 'other' = unaccompanied asylum-seeking children. Areas not stated on the pages fetched (home page metadata refers to Greater London; areas page: https://lotusfostercare.co.uk/areas-we-cover/)."
+ },
+ {
+  "id": "national-fostering-agency-london-south",
+  "website": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/",
+  "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/london-south/",
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "Croydon",
+   "Southwark",
+   "Lambeth",
+   "Bexley",
+   "Lewisham"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/find-our-agencies/fostering-in-croydon/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Branch of the National Fostering Agency (National Fostering Group): website is the NFA page on the group site (nfa.co.uk redirects there) and recruitmentUrl is the NFA London South page, which is linked from both fetched pages but could not itself be fetched, so no address or phone was captured and the Croydon postcode CR0 6SR is not confirmed. The group's 'Fostering in Croydon' page names NFA London South as the local agency supporting carers across Croydon, Southwark, Lambeth, Bexley and Lewisham. Group enquiry form: https://www.nationalfosteringgroup.co.uk/enquire-now/."
+ },
+ {
+  "id": "national-fostering-agency-north-west",
+  "website": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/",
+  "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/north-west/",
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Branch of the National Fostering Agency (National Fostering Group): website is the NFA page on the group site and recruitmentUrl is the NFA North West page, which is linked from that page (and is the redirect target of https://www.nfa.co.uk/national-fostering-agency/office/north-west/, titled 'NFA North West - foster care agency in Warrington' in search results) but could not be fetched, so no address, phone or areas were captured and the Warrington postcode WA3 7QS is not confirmed. Group enquiry form: https://www.nationalfosteringgroup.co.uk/enquire-now/."
+ },
+ {
+  "id": "national-fostering-agency-solihull",
+  "website": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/",
+  "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/midlands/",
+  "phone": "0121 788 0477",
+  "publicEnquiryEmail": "MidlandsAdmin@nfa.co.uk",
+  "areasServed": [
+   "East Midlands",
+   "West Midlands"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/midlands/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "NFA Midlands branch of the National Fostering Agency (National Fostering Group): website is the NFA page on the group site and recruitmentUrl is the NFA Midlands page, which shows the office at 1750 Solihull Parkway, Birmingham Business Park, Solihull, West Midlands, B37 7YD. The mailbox is the regional admin address published on the page. Group enquiry form: https://www.nationalfosteringgroup.co.uk/enquire-now/; 'Become a foster parent' page: https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/."
+ },
+ {
+  "id": "new-life-fostering-agency",
+  "website": "https://newlifefostering.co.uk/",
+  "recruitmentUrl": "https://newlifefostering.co.uk/new-foster-careers/",
+  "phone": "0121 359 8811",
+  "publicEnquiryEmail": "fostering@newlifefostering.co.uk",
+  "areasServed": [
+   "West Midlands",
+   "East Midlands"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://newlifefostering.co.uk/contact/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the West Midlands office at Charter House, 848 Tyburn Road, Erdington, Birmingham, B24 9NT and an East Midlands office at Meridian Business Park, 1 Meridian South, Leicester, LE19 1WY; the same number (shown as +44 121 359 8811) is given for both. areasServed reflect the two regional offices; the site also has location pages for Sutton Coldfield, Lichfield and Leicester. recruitmentUrl is the 'New Foster Carers' page."
+ },
+ {
+  "id": "new-routes-fostering",
+  "website": "https://newroutesfostering.org/",
+  "recruitmentUrl": "https://newroutesfostering.org/can-i-foster/",
+  "phone": "01675 434025",
+  "publicEnquiryEmail": "newroutes@fatherhudsons.org.uk",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://newroutesfostering.org/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Home page shows the address St George's House, Gerards Way, Coleshill, B46 3FG; the service is run by Father Hudson's Care and its generic mailbox is on that charity's domain. The contact page returned an error when fetched. No coverage statement on the home page (an enquiry form lists West Midlands areas as options only). Types page: https://newroutesfostering.org/types-of-foster-care/."
+ },
+ {
+  "id": "next-stage-for-fostering",
+  "website": "https://nextstageforfostering.co.uk/",
+  "recruitmentUrl": "https://nextstageforfostering.co.uk/foster-with-us",
+  "phone": "01204 201203",
+  "publicEnquiryEmail": "enquiries@nextstageforfostering.co.uk",
+  "areasServed": [
+   "Bolton",
+   "Blackburn with Darwen",
+   "Wigan",
+   "Lancashire",
+   "Bury",
+   "Chorley",
+   "Preston",
+   "St Helens",
+   "Manchester",
+   "Salford",
+   "Oldham",
+   "Rochdale",
+   "Stockport",
+   "Warrington",
+   "Southport"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://nextstageforfostering.co.uk/contact-us/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the address Comtech House, 28 Manchester Road, Westhoughton, Bolton, BL5 3QJ. A mobile text number is also published and not recorded. areasServed are the places for which the site has 'Become a foster carer in ...' pages (listed on the site as 'Blackburn and Darwen' and 'Chorley & Adlington'). Application page: https://nextstageforfostering.co.uk/apply-to-foster/."
+ },
+ {
+  "id": "next-step-fostering-services",
+  "website": "https://www.nationalfosteringgroup.co.uk/next-step-fostering/",
+  "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/",
+  "phone": "01795 521 739",
+  "publicEnquiryEmail": "info@nextstepfostering.org",
+  "areasServed": [
+   "Kent",
+   "East London",
+   "South London",
+   "Surrey",
+   "Thames Valley"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/next-step-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Next Step Fostering is a National Fostering Group agency; its page on the group site is recorded as website and the group's 'Becoming a foster carer' page as recruitmentUrl. The page shows the Kent office at 41 Stone Street, Faversham, Kent, ME13 8PH (01795 521 739) plus offices at 127 Addington Road, Croydon, CR2 8LH (020 8768 3888; Thames Valley 01628 661 649) and 5A Wellington Road, Wanstead, E11 2AN (01708 209 227). areasServed as named on the page (it also mentions Slough and London boroughs generally). Group enquiry form: https://www.nationalfosteringgroup.co.uk/enquire-now/."
+ },
+ {
+  "id": "nexus-fostering-home-counties-and-east-london",
+  "website": "https://www.nexusfostering.co.uk/",
+  "recruitmentUrl": "https://www.nexusfostering.co.uk/office-locations/harrow",
+  "phone": "0208 864 6040",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "London",
+   "Essex",
+   "Hertfordshire",
+   "Oxfordshire",
+   "Berkshire",
+   "Middlesex",
+   "Buckinghamshire"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "therapeutic",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://www.nexusfostering.co.uk/office-locations/harrow",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Harrow office of Nexus Fostering: website is the group's site and recruitmentUrl is the Harrow office page, which shows the address 4 Jardine House, Harrovian Business Village, Bessborough Road, Harrow, HA1 3EX. Phone is the office number; the site header also shows 0800 389 0143. areasServed combine the page's two coverage statements. fosteringTypes from the site-wide 'Types of fostering' menu ('long-term' = Permanence; 'other' = disability and unaccompanied asylum-seeking children). Enquiry page: https://www.nexusfostering.co.uk/contact-us; foster-with-us page: https://www.nexusfostering.co.uk/foster-with-us."
+ },
+ {
+  "id": "nurture-fostering",
+  "website": "https://www.nurturefostering.co.uk/",
+  "recruitmentUrl": "https://www.nurturefostering.co.uk/about-fostering/the-application-process/",
+  "phone": "0208 690 9012",
+  "publicEnquiryEmail": "info@nurturefostering.co.uk",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.nurturefostering.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Home page shows the address 340 Lewisham High Street, London, SE13 6LE. No page labelled 'become a foster carer'; 'The Application Process' page is recorded as recruitmentUrl ('Can I Foster?' page: https://www.nurturefostering.co.uk/about-fostering/can-i-foster/). The 'Locations We Cover' page could not be fetched."
+ },
+ {
+  "id": "oakwood-fostering",
+  "website": "https://oakwoodfostering.com/",
+  "recruitmentUrl": "https://oakwoodfostering.com/becoming-a-foster-carer/",
+  "phone": "0121 798 1868",
+  "publicEnquiryEmail": "info@oakwoodfostering.com",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://oakwoodfostering.com/contact-us/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Contact page shows the address 142 Stoney Lane, First floor, Sparkbrook, Birmingham, B12 8AQ. The types page (https://oakwoodfostering.com/types-of-foster-care/) could not be fetched."
+ },
+ {
+  "id": "olive-branch-fostering",
+  "website": "https://www.olivebranchfostering.co.uk/",
+  "recruitmentUrl": "https://www.olivebranchfostering.co.uk/foster-with-us",
+  "phone": "01706 558910",
+  "publicEnquiryEmail": null,
+  "areasServed": [
+   "North West England"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "therapeutic",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://www.olivebranchfostering.co.uk/office-locations/lancashire-office",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Rawtenstall office page shows the address Suites G8-12a, Hurstwood Court, New Hall Hey Road, Rawtenstall, BB4 6HR (the Ofsted record gives BB4 6HH). Site says it supports carers across the whole of the North West. fosteringTypes from the site-wide navigation ('other' = unaccompanied asylum-seeking children). Footer says the agency is part of BSN Social Care. Office page: https://www.olivebranchfostering.co.uk/office-locations/lancashire-office."
+ },
+ {
+  "id": "orange-grove-fostercare-three-shires",
+  "website": "https://www.orangegrovefostercare.co.uk/",
+  "recruitmentUrl": "https://www.orangegrovefostercare.co.uk/regions/milton-keynes/",
+  "phone": "01908 804400",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://www.orangegrovefostercare.co.uk/regions/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.orangegrovefostercare.co.uk/wp-content/uploads/2025/06/orange-grove-statement-of-purpose-og-three-shires-june-2025.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Three Shires branch of Orange Grove Fostercare: website is the group's site and recruitmentUrl is the Milton Keynes regional page listed on the regions index (the page itself could not be fetched). The agency's own Statement of Purpose (June 2025, SC485761) gives the Three Shires office as Wavendon Tower, Ortensia Drive, Wavendon Gate, Milton Keynes, Bucks, MK17 8LX, phone 01908 804400, and lists placement types including Permanency, Solo, Unaccompanied Asylum Seeking Young People and Staying Put ('other'). National enquiry line 0800 369 8513; enquiry form https://www.orangegrovefostercare.co.uk/enquiry/."
+ },
+ {
+  "id": "orange-grove-fostercare-yorkshire",
+  "website": "https://www.orangegrovefostercare.co.uk/",
+  "recruitmentUrl": "https://www.orangegrovefostercare.co.uk/regions/doncaster/",
+  "phone": "0800 098 4150",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "other"
+  ],
+  "sources": [
+   {
+    "url": "https://www.orangegrovefostercare.co.uk/regions/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://www.orangegrovefostercare.co.uk/locations/barnsley/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Yorkshire branch of Orange Grove Fostercare: website is the group's site and recruitmentUrl is the Doncaster regional page listed on the regions index (not itself fetched; an office page also exists at https://www.orangegrovefostercare.co.uk/offices/doncaster/). The group's 'Fostering in Barnsley' page lists the Doncaster office at 2b Sidings Court, White Rose Way, Doncaster, Yorkshire, DN4 5NU with the number 0800 098 4150 (shared with the Leeds office). fosteringTypes from the site-wide fostering-types menu ('other' = disability fostering and asylum-seeking children). National enquiry line 0800 369 8513; enquiry form https://www.orangegrovefostercare.co.uk/enquiry/."
+ },
+ {
+  "id": "parallel-parents",
+  "website": "https://www.parallelparents.com/",
+  "recruitmentUrl": "https://www.parallelparents.com/fostering",
+  "phone": "0800 023 4450",
+  "publicEnquiryEmail": "hello@parallelparents.com",
+  "areasServed": [
+   "Greater Manchester",
+   "Stoke-on-Trent",
+   "Staffordshire",
+   "West Midlands",
+   "East Midlands",
+   "Merseyside",
+   "Lancashire",
+   "Cheshire East",
+   "Leeds",
+   "Bradford",
+   "Wakefield",
+   "Sheffield",
+   "Hull",
+   "East Riding of Yorkshire",
+   "Doncaster",
+   "Lincolnshire"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.parallelparents.com/fostering-regions",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.parallelparents.com/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Fostering Info page shows the head office at 2nd floor, Landsdowne House, 85 Buxton Road, Stockport, Greater Manchester, SK2 6LR. areasServed are the places named for the agency's Central, West, East and North teams on the 'Where We Operate' page (which also says 'and surrounding areas'). Enquiry page: https://www.parallelparents.com/enquire-now."
+ }
+]

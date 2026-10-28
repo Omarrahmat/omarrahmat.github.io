@@ -1,0 +1,3 @@
+{
+  "_comment": "Paid placements. Key is the provider id. tier: featured | premium. areas: names as they appear in areasServed or town. until: ISO date. Example: \"example-fostering\": {\"tier\": \"featured\", \"areas\": [\"Cardiff\"], \"until\": \"2027-01-31\"}"
+}

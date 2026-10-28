@@ -1,0 +1,963 @@
+[
+  {
+    "id": "national-fostering-agency-scotland",
+    "name": "NFA Scotland (National Fostering Agency Scotland Limited)",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Inverness",
+      "Aberdeenshire",
+      "Fife",
+      "Edinburgh",
+      "Grangemouth",
+      "Ayr",
+      "Glasgow"
+    ],
+    "address": {
+      "line1": "East Gateway, Beancross Road",
+      "town": "Grangemouth",
+      "postcode": "FK3 8WH"
+    },
+    "phone": "01324 468 055",
+    "website": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/scotland/",
+    "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": "CS2005098696",
+    "sources": [
+      {
+        "url": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/scotland/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.careinspectorate.scot/find-care/search-for-care/care-services/CS2005098696/national-fostering-agency-scotland-limited",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Part of National Fostering Group. The Care Inspectorate service page could not be fetched (site blocked); the CS number and the registered name 'National Fostering Agency Scotland Limited' are taken from the Care Inspectorate URL as it appeared in a search result, not from a fetched page. areasServed lists the locations of carer support groups named on the provider page, not a formally stated coverage area. Provider page says the service is inspected by the Care Inspectorate; no fostering types are specified on it."
+  },
+  {
+    "id": "foster-care-associates-scotland",
+    "name": "Foster Care Associates Scotland (FCA Scotland)",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Scotland",
+      "West Central Scotland",
+      "Eastern Scotland"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0141 646 4805",
+    "website": "https://www.fcascotland.co.uk/",
+    "recruitmentUrl": "https://www.fcascotland.co.uk/about-fostering/how-to-become-a-foster-carer/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "respite",
+      "emergency",
+      "sibling-groups",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.fcascotland.co.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.fcascotland.co.uk/regions/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Part of the FCA group. Two regional teams listed: Foster Care Associates West Central Scotland (https://www.fcascotland.co.uk/regions/foster-care-associates-west-central-scotland/) and Foster Care Associates Eastern Scotland (https://www.fcascotland.co.uk/regions/foster-care-associates-eastern-scotland/); regional pages not fetched (call budget), so no office address recorded. 'short-term' reflects the site's 'interim fostering'; 'respite' reflects 'short break fostering'; 'other' covers solo fostering, specialist fostering, fostering unaccompanied asylum-seeking children and continuing care to 21. Site says rated Very Good by the Care Inspectorate; a Care Inspectorate inspection report titled 'Foster Care Associates Scotland Fostering Service Pavilion 3' appeared in search results but could not be fetched (Care Inspectorate site blocked)."
+  },
+  {
+    "id": "fostering-people-scotland",
+    "name": "Fostering People Scotland",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Aberdeen",
+      "Aberdeenshire",
+      "Angus",
+      "Cumbernauld",
+      "Dundee",
+      "East Lothian",
+      "Edinburgh",
+      "Falkirk",
+      "Fife",
+      "Forfar",
+      "Glasgow",
+      "Midlothian",
+      "Montrose",
+      "Perth",
+      "Stirling",
+      "Stonehaven",
+      "West Lothian"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01382 787480",
+    "website": "https://www.fosteringpeople.co.uk/regions/scotland/",
+    "recruitmentUrl": "https://www.fosteringpeople.co.uk/about-fostering/how-to-become-a-foster-parent/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers",
+      "therapeutic",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": "CS2012311047",
+    "sources": [
+      {
+        "url": "https://www.fosteringpeople.co.uk/regions/scotland/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.fosteringpeople.co.uk/locations/dundee/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.fosteringpeople.co.uk/why-choose-us/inspection-results/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      }
+    ],
+    "notes": "Scottish arm of Fostering People, described on its site as a not-for-profit independent agency (part of the Polaris group of companies). Scotland enquiry line 01382 787480; national line 0800 077 8159. No office address published on the pages fetched. CS number taken from the Care Inspectorate inspection-report link on the Scotland page (the Care Inspectorate site itself could not be fetched). Fostering types are those listed in site navigation; 'other' covers disability, short breaks, step-down, sanctuary-seeking (asylum) and Mockingbird placements."
+  },
+  {
+    "id": "care-visions-fostering-scotland",
+    "name": "Care Visions Fostering Scotland",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Glasgow",
+      "Dundee",
+      "Aberdeen"
+    ],
+    "address": {
+      "line1": "Unit 9, Ramsay House, The Courtyard, Callendar Business Park",
+      "town": "Falkirk",
+      "postcode": "FK1 1XR"
+    },
+    "phone": "01324 464 200",
+    "website": "https://carevisionsfostering.co.uk/",
+    "recruitmentUrl": "https://carevisionsfostering.co.uk/becoming-a-foster-carer/enquire-about-becoming-a-foster-carer/",
+    "publicEnquiryEmail": "fostering.enquiries@carevisions.co.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://carevisionsfostering.co.uk/locations/fostering-in-glasgow",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://carevisionsfostering.co.uk/contact-us/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://carevisionsfostering.co.uk/locations/fostering-in-dundee",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Independent fostering agency with its Scottish office in Falkirk. areasServed reflects the location pages seen (Glasgow, Dundee pages fetched; an Aberdeen location page appeared in search results); no formal coverage list was published. Site also mentions medium-term placements and a 'Pathfinding - Short Term Fostering' service. Links to the Care Inspectorate but publishes no CS number."
+  },
+  {
+    "id": "tact-fostering-scotland",
+    "name": "TACT Fostering Scotland",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Aberdeen",
+      "Ayrshire",
+      "Dundee",
+      "East Lothian",
+      "Edinburgh",
+      "Falkirk",
+      "Fife",
+      "Glasgow",
+      "Renfrewshire",
+      "West Lothian"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0330 123 2250",
+    "website": "https://tactfostering.org.uk/location/fostering-in-scotland/",
+    "recruitmentUrl": "https://tactfostering.org.uk/start-fostering/how-to-become-a-foster-carer/",
+    "publicEnquiryEmail": "fostering@tactcare.org.uk",
+    "fosteringTypes": [
+      "sibling-groups"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://tactfostering.org.uk/location/fostering-in-scotland/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://tactfostering.org.uk/location/fostering-in-scotland/fostering-in-edinburgh/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://tactfostering.org.uk/tact-in-your-area/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Charity (registered in Scotland SC039052; England and Wales 1018963; company 02779751). Site says it recruits all across Scotland; areasServed lists the Scottish locations named. No Scottish office address is published (only the registered office at PO Box 137, Blyth, NE24 9FJ, England). The phone number is TACT's UK-wide enquiry line. Fostering types are not listed on the Scotland pages; sibling groups is mentioned in carer stories only. No CS number published."
+  },
+  {
+    "id": "swiis-foster-care-scotland",
+    "name": "Swiis Foster Care Scotland Limited",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Aberdeenshire",
+      "Aberdeen City",
+      "Angus",
+      "Edinburgh City",
+      "Midlothian",
+      "West Lothian",
+      "East Lothian",
+      "Fife",
+      "Highlands (parts)",
+      "Perth and Kinross",
+      "Tayside",
+      "Dundee"
+    ],
+    "address": {
+      "line1": "Glenelvan House, Enterprise Way, Carnegie Campus South",
+      "town": "Dunfermline",
+      "postcode": "KY11 8PY"
+    },
+    "phone": "0333 240 9049",
+    "website": "https://www.swiisfostercarescotland.com/",
+    "recruitmentUrl": "https://www.swiisfostercarescotland.com/fostering/can-i-foster/",
+    "publicEnquiryEmail": "hello@swiisfostercarescotland.co.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups",
+      "parent-and-child",
+      "teenagers",
+      "respite",
+      "emergency",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.swiisfostercarescotland.com/locations/east-scotland/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed",
+          "recruitmentUrl"
+        ]
+      },
+      {
+        "url": "https://www.swiisfostercarescotland.com/locations/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://www.swiisfostercarescotland.com/fostering/types-of-fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Independent fostering agency; head office in Dunfermline (head office line 01383 842 284; footer also lists 0333 577 1234). areasServed is the East Scotland page's list; the page also refers to a wider Scotland locations section. 'other' covers children with disabilities and sanctuary-seeking (asylum) children; 'emergency' is mentioned only as a possible approval term. Site links to a Care Inspectorate inspection report (getPdfBlob id=321447) but the Care Inspectorate site could not be fetched, so no CS number recorded."
+  },
+  {
+    "id": "aberlour-fostering",
+    "name": "Aberlour Fostering (Aberlour Children's Charity)",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Scotland"
+    ],
+    "address": {
+      "line1": "Kintail House, Forthside Way",
+      "town": "Stirling",
+      "postcode": "FK8 1QZ"
+    },
+    "phone": "01786 437330",
+    "website": "https://www.aberlour.org.uk/fostering",
+    "recruitmentUrl": "https://www.aberlour.org.uk/fostering/become-a-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "respite",
+      "emergency",
+      "short-term",
+      "sibling-groups",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.aberlour.org.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.aberlour.org.uk/fostering/become-a-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "recruitmentUrl"
+        ]
+      },
+      {
+        "url": "https://www.aberlour.org.uk/fostering/about-fostering/types-of-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Scottish charity (SC007991); fostering service of Aberlour Children's Charity. Site says it recruits foster carers across Scotland and refers to local teams, but no team list or addresses were found on the pages fetched; recorded address is the charity's head office. Fostering advisors line 01786 437330 (general charity line 0800 0856150). 'respite' reflects 'short breaks fostering'; 'short-term' reflects 'emergency & interim fostering'; 'other' covers disability fostering. No CS number published on the pages fetched."
+  },
+  {
+    "id": "barnardos-scotland-north-fostering",
+    "name": "Barnardo's Scotland North Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "North Scotland"
+    ],
+    "address": {
+      "line1": "20 Carden Place",
+      "town": "Aberdeen",
+      "postcode": "AB10 1UQ"
+    },
+    "phone": null,
+    "website": "https://www.barnardos.org.uk/foster/north-scotland",
+    "recruitmentUrl": "https://www.barnardos.org.uk/foster/register-to-foster",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "sibling-groups",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": "CS2005095645",
+    "sources": [
+      {
+        "url": "https://www.barnardos.org.uk/sites/default/files/uploads/sop-north-scotland-fostering-may-2026_0.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.barnardos.org.uk/foster/north-scotland",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Charity service (Barnardo's). Statement of Purpose (May 2026) gives the Aberdeen address as the registered provider/responsible individual address for the service; Barnardo's Fostering & Adoption head office is at Youth Village, Hudson Street, North Shields, NE30 1DL (0191 296 3355 - England, not recorded as the phone). No Scottish public enquiry phone number was found on the pages fetched. A separate continuing care service is registered as CS2019375596. 'respite' reflects 'planned breaks'; 'short-term' reflects 'interim/short term'; 'other' covers disabled children, solo care and continuing care. Specific council areas covered are not listed in the SoP extract."
+  },
+  {
+    "id": "barnardos-scotland-edinburgh-fostering",
+    "name": "Barnardo's Scotland Fostering Edinburgh",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Edinburgh"
+    ],
+    "address": {
+      "line1": "111 Oxgangs Road North",
+      "town": "Edinburgh",
+      "postcode": "EH14 1ED"
+    },
+    "phone": "0131 446 7000",
+    "website": "https://www.barnardos.org.uk/foster/north-scotland",
+    "recruitmentUrl": "https://www.barnardos.org.uk/foster/register-to-foster",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": "CS2005096418",
+    "sources": [
+      {
+        "url": "https://www.barnardos.org.uk/sites/default/files/uploads/Statement_of_Purpose_2026_Edinburgh_.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.barnardos.org.uk/foster/north-scotland",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Charity service (Barnardo's). The Statement of Purpose (2026) gives the office address as 111 Oxgangs Road North, Edinburgh with postcode EH11 4EP in the body and EH14 1ED in the Barnardo's Scotland contact footer; the footer postcode is recorded - verify. Phone is the Barnardo's Scotland number from the footer, not a dedicated fostering line. Website recorded is Barnardo's general Scotland fostering page (no Edinburgh-specific page found). A separate continuing care service is registered as CS2019375605. areasServed is inferred only from the service name; the SoP does not list council areas. 'respite' reflects 'planned breaks'; 'other' covers disabled children (enhanced fostering), solo care, enhanced/specialist fostering and continuing care."
+  },
+  {
+    "id": "barnardos-scotland-glasgow-fostering",
+    "name": "Barnardo's Scotland Fostering Glasgow",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Glasgow"
+    ],
+    "address": {
+      "line1": "Building 10,000, Academy Park, Gower Street",
+      "town": "Glasgow",
+      "postcode": "G51 1PR"
+    },
+    "phone": "0141 419 4700",
+    "website": "https://www.barnardos.org.uk/foster/north-scotland",
+    "recruitmentUrl": "https://www.barnardos.org.uk/foster/register-to-foster",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": "CS2004082106",
+    "sources": [
+      {
+        "url": "https://www.barnardos.org.uk/sites/default/files/2026-10/sop-glasgow-fostering-may-2026.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.barnardos.org.uk/foster/north-scotland",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Charity service (Barnardo's). Details from the Statement of Purpose (May 2026). Website recorded is Barnardo's general Scotland fostering page (no Glasgow-specific page found). A separate continuing care service is registered as CS2019375597. 'respite' reflects 'planned breaks'; 'short-term' reflects 'interim/short-term'; 'other' covers solo care and continuing care to 26. Council areas served are not listed in the SoP extract beyond Glasgow."
+  },
+  {
+    "id": "fostering-relations",
+    "name": "Fostering Relations",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Central Scotland",
+      "Lothians",
+      "Fife",
+      "Dumfries and Galloway"
+    ],
+    "address": {
+      "line1": "East Gateway, Beancross Road",
+      "town": "Grangemouth",
+      "postcode": "FK3 8WH"
+    },
+    "phone": "01324 464947",
+    "website": "https://www.nationalfosteringgroup.co.uk/fostering-relations/",
+    "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.nationalfosteringgroup.co.uk/fostering-relations/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://myjobscotland.gov.uk/organisations/fostering-relations",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      }
+    ],
+    "notes": "Independent fostering agency, now part of National Fostering Group (shares the Grangemouth East Gateway address with NFA Scotland). The myjobscotland.gov.uk employer page describes it as an independent not-for-profit fostering agency. Page states it is inspected by the Care Inspectorate (rated Very Good, 2024 report) but gives no CS number; a Care Inspectorate report titled 'Fostering Relations Ltd Fostering Service' appeared in search results but could not be fetched. Fostering types are not listed. A generic admin mailbox is published but it is not clearly a fostering enquiries address, so not recorded."
+  },
+  {
+    "id": "kibble-fostering",
+    "name": "Kibble Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [],
+    "address": {
+      "line1": null,
+      "town": "Paisley",
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.kibble.org/fostering/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "respite",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.kibble.org/fostering/?p=2",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "address",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.kibble.org/fostering/?p=13",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Fostering service of Kibble, a Scottish charity based at its main campus in Paisley (no street address, postcode or fostering phone number published on the pages fetched). Pages name 'full-time fostering' (recorded as other) and 'planned short break fostering' (recorded as respite). No areas served, enquiry page or CS number found on the pages fetched; the fostering section pages are thin so details are incomplete."
+  },
+  {
+    "id": "quarriers-fostering",
+    "name": "Quarriers Foster & Kinship Care and Shared Lives Services",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [],
+    "address": {
+      "line1": "Quarriers Head Office, 20 St Kenneth Drive",
+      "town": "Glasgow",
+      "postcode": "G51 4QD"
+    },
+    "phone": "01505 612224",
+    "website": "https://www.quarriers.org.uk/blog/service/foster-kinship-care-and-shared-lives-services/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://quarriers.org.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website"
+        ]
+      },
+      {
+        "url": "https://www.quarriers.org.uk/blog/service/foster-kinship-care-and-shared-lives-services/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "fosteringTypes",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Scottish charity (SC001960). Service page describes specialised fostering for children, young people and adults with complex needs and disabilities (recorded as 'other'), alongside kinship care and Shared Lives. Phone is the charity's general number (footer also lists 01505 616000), not a dedicated fostering line; address is the head office. No areas served, enquiry page or CS number published on the pages fetched."
+  },
+  {
+    "id": "action-for-children-fostering-scotland",
+    "name": "Action for Children Fostering (Scotland)",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Scotland"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0141 222 1770",
+    "website": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-scotland/fostering-in-scotland-s1/",
+    "recruitmentUrl": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/",
+    "publicEnquiryEmail": "fostercare.caps@actionforchildren.org.uk",
+    "fosteringTypes": [
+      "long-term",
+      "respite",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-scotland/fostering-in-scotland-s1/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://media.actionforchildren.org.uk/documents/Fostering_info_pack_2024_Scotland.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "publicEnquiryEmail",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Charity (Scotland SC038092; England and Wales 1097940). Phone is the Scottish number given in the 2024 Scotland fostering info pack; the UK-wide fostering enquiry line is 0800 208 4379. No Scottish office address published on the pages fetched (registered address is in Watford, England). 'respite' reflects 'planned breaks'; 'other' covers continuing care after 18. Council areas covered are not listed. No CS number published."
+  },
+  {
+    "id": "carolina-house-trust",
+    "name": "Carolina House Trust",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Scotland"
+    ],
+    "address": {
+      "line1": "7 Luna Place, Gateway West, Dundee Technology Park",
+      "town": "Dundee",
+      "postcode": "DD2 1TP"
+    },
+    "phone": "01382 561279",
+    "website": "https://carolinahousetrust.org.uk/",
+    "recruitmentUrl": "https://carolinahousetrust.org.uk/foster-with-us/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "respite"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://carolinahousetrust.org.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://carolinahousetrust.org.uk/foster-with-us/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Dundee-based Scottish charity (SC016289) describing itself as an independent foster care provider working across Scotland. Site names a 'short breaks carer' role (recorded as respite) and refers to therapeutic parenting; other placement types are not listed. The general info@ mailbox is not clearly a fostering enquiries address, so not recorded. Contact page (get-in-touch) failed to fetch. No CS number published on the pages fetched."
+  },
+  {
+    "id": "jmt-fostering",
+    "name": "JMT Fostering (Moore House Group)",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Scotland",
+      "Livingston",
+      "Dundee",
+      "Glasgow",
+      "Fife",
+      "East of Scotland"
+    ],
+    "address": {
+      "line1": "3A Alba Business Pavilions, Alba Campus",
+      "town": "Livingston",
+      "postcode": "EH54 7HG"
+    },
+    "phone": "01506 407 340",
+    "website": "https://moorehousegroup.org.uk/fostering/",
+    "recruitmentUrl": "https://moorehousegroup.org.uk/carer-recruitment/",
+    "publicEnquiryEmail": "info@jmtservices.org.uk",
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://moorehousegroup.org.uk/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://moorehousegroup.org.uk/fostering/contact/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://myjobscotland.gov.uk/childcare/moore-house-group-jmt-fostering-dundee",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Not-for-profit fostering service of Moore House Group with offices in Livingston (recorded), Dundee and Glasgow (addresses not published on pages fetched). The myjobscotland.gov.uk employer page says the Dundee office covers Fife and the East of Scotland and that the service is graded Excellent by the Care Inspectorate. Email is the published fostering enquiries and referrals address. 'respite' reflects 'short breaks'; 'short-term' reflects 'interim'; 'other' covers permanent placements and young adult (continuing care) placements. Out-of-hours referral line 0800 849 1343. No CS number published."
+  },
+  {
+    "id": "dean-and-cauvin-young-peoples-trust-fostering",
+    "name": "Dean & Cauvin Young People's Trust Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "East-Central Scotland (within 40 miles of Edinburgh city centre)"
+    ],
+    "address": {
+      "line1": "68 St John's Road",
+      "town": "Edinburgh",
+      "postcode": "EH12 8AT"
+    },
+    "phone": "0131 297 7322",
+    "website": "https://www.deanandcauvin.org.uk/fostering",
+    "recruitmentUrl": "https://www.deanandcauvin.org.uk/fostering#fosterenquiry",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.deanandcauvin.org.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Edinburgh charity (OSCR SC013890). Page says it will consider carers further afield than its stated 40-mile area. 'respite' reflects 'short break'; 'other' covers full-time placements and continuing care. No CS number published on the page fetched."
+  },
+  {
+    "id": "foster-care-connect",
+    "name": "Foster Care Connect",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Scotland"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://myjobscotland.gov.uk/organisations/foster-care-connect-ltd",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "THIN RECORD - verify before publishing. Only source is the organisation's employer page on myjobscotland.gov.uk, which describes Foster Care Connect (URL slug 'foster-care-connect-ltd') as an independent fostering agency providing home-based care for children and young people in Scotland and working with the Care Inspectorate. No website, address, phone or CS number could be found in searches."
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "_comment": "Stripe Payment Links. When a link is set, the packages page shows a Subscribe button for that tier.",
+  "featured": "https://buy.stripe.com/14AdR21Tn0WCaO20uZ4AU00",
+  "premium": "https://buy.stripe.com/4gM9AM55zdJo6xMcdH4AU01"
+}

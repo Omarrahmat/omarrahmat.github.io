@@ -1,0 +1,145 @@
+[
+ {
+  "id": "acorn-house-fostering-services",
+  "website": "https://www.acornhouse.co.uk/",
+  "recruitmentUrl": "https://www.acornhouse.co.uk/your-fostering-journey/",
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "areasServed": ["North West", "North East", "West Midlands / Birmingham", "Yorkshire"],
+  "fosteringTypes": [],
+  "sources": [{"url": "https://www.acornhouse.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "areasServed"]}],
+  "notes": "Site publishes an 0845 number (08456 44 9077) which is excluded by the landline/0300/0800 rule. Address on site: Hollinwood Business Centre, Albert Street, Hollinwood, OL8 3QL."
+ },
+ {
+  "id": "britannia-fostering-agency",
+  "website": "https://britanniafostering.co.uk/",
+  "recruitmentUrl": "https://britanniafostering.co.uk/fostering-with-us/",
+  "phone": null,
+  "publicEnquiryEmail": "info@britanniafostering.co.uk",
+  "areasServed": [],
+  "fosteringTypes": ["short-term", "long-term", "respite", "emergency"],
+  "sources": [{"url": "https://britanniafostering.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "publicEnquiryEmail", "fosteringTypes"]}],
+  "notes": "Home page matches the agency name and domain but shows no postal address; the contact page could not be fetched, so the Ilford IG1 1QP address was not confirmed on-site. Footer says 'across the UK' with no specific areas."
+ },
+ {
+  "id": "choice-fostering",
+  "website": "https://www.choicefostering.com/",
+  "recruitmentUrl": "https://www.choicefostering.com/becoming-a-foster-carer",
+  "phone": "0800 949 4262",
+  "publicEnquiryEmail": "info@choicefostering.com",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [{"url": "https://www.choicefostering.com/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "publicEnquiryEmail"]}],
+  "notes": "Address on site: Studio House, Delamare Road, Cheshunt, Hertfordshire, EN8 9SH (postcode matches the Ofsted record; site says Cheshunt rather than Waltham Cross)."
+ },
+ {
+  "id": "foster-care-matters",
+  "website": "https://fostercarematters.org.uk/",
+  "recruitmentUrl": "https://fostercarematters.org.uk/can-you-foster/",
+  "phone": "0300 123 1061",
+  "publicEnquiryEmail": null,
+  "areasServed": ["North West", "Stoke-on-Trent"],
+  "fosteringTypes": [],
+  "sources": [{"url": "https://fostercarematters.org.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed"]}],
+  "notes": "Address on site: 14 Liverpool Road, Chester CH2 1AE (matches the Ofsted record). Site describes itself as a not-for-profit fostering agency. A separate domain fostercarematters.com is a resource hub, not this agency's site."
+ },
+ {
+  "id": "fostering-connections",
+  "website": "https://www.fostering-connections.com/",
+  "recruitmentUrl": "https://www.fostering-connections.com/enquiry-to-foster-form-2/",
+  "phone": "01992 712611",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [{"url": "https://www.fostering-connections.com/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone"]}],
+  "notes": "Address on site: Fostering Connections Ltd, Warlies Park House, Horseshoe Hill, Upshire, Essex, EN9 3SL (matches the Ofsted record). Email on page is obfuscated and could not be read."
+ },
+ {
+  "id": "outset-fostering-agency",
+  "website": "https://www.outsetfostering.co.uk/",
+  "recruitmentUrl": "https://www.outsetfostering.co.uk/enquire-now/",
+  "phone": "0204 558 5138",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [{"url": "https://www.outsetfostering.co.uk/about-us/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone"]}],
+  "notes": "Site name matches (Outset Fostering Agency) and the site carries a post about its Ofsted 'Good' rating, but the About Us page shows no postal address, so Enfield EN3 7XU was not confirmed on-site. Page says services are provided to councils 'across the UK'."
+ },
+ {
+  "id": "regional-foster-families-south-central",
+  "website": "https://www.regionalfosterfamilies.co.uk/",
+  "recruitmentUrl": null,
+  "phone": "08000 19 1165",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [{"url": "https://www.regionalfosterfamilies.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "phone"]}],
+  "notes": "Group-level site for Regional Foster Families; no South Central/Hove branch page or office address found on the home page. Site states the agency covers Wales, West Midlands, East Midlands, East Anglia, North West, South West and Sussex (group-wide, not branch-specific, so areasServed left empty). Phone is the group freephone number."
+ },
+ {
+  "id": "action-for-children-fostering-wales",
+  "website": "https://www.actionforchildren.org.uk/fostering/",
+  "recruitmentUrl": "https://www.actionforchildren.org.uk/fostering/local-fostering-service/fostering-in-wales/",
+  "phone": "01633 270422",
+  "publicEnquiryEmail": null,
+  "areasServed": ["South Wales", "North Wales"],
+  "fosteringTypes": ["short-term", "long-term", "respite", "sibling-groups", "parent-and-child"],
+  "sources": [{"url": "https://www.actionforchildren.org.uk/fostering/local-fostering-service/fostering-in-wales/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed", "fosteringTypes"]}],
+  "notes": "Branch of a national charity: website is the group's fostering home page; recruitmentUrl is the Wales service page. Wales page gives service phone 01633 270422 (Newport area code) plus a national line 0800 208 4379; no Welsh office address shown (footer shows only the Watford registered address). Page also lists 'When I'm Ready' (post-18 staying put) and says it often needs homes for teenagers; neither recorded as a type. Email on page obfuscated."
+ },
+ {
+  "id": "foster-care-group-wales",
+  "website": "https://www.fcgw.co.uk/",
+  "recruitmentUrl": "https://www.fcgw.co.uk/fostering-with-us/",
+  "phone": "02920 689849",
+  "publicEnquiryEmail": null,
+  "areasServed": ["South Wales", "Newport", "Cardiff", "Neath Port Talbot", "Swansea"],
+  "fosteringTypes": ["emergency", "long-term", "sibling-groups", "parent-and-child"],
+  "sources": [{"url": "https://www.fcgw.co.uk/about-us/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed", "fosteringTypes"]}],
+  "notes": "About Us page confirms 'Foster Care Group Wales are an Independent Fostering Agency based in South Wales' with a Cardiff (029) landline; no street address or CF14 postcode shown on the page. Areas quoted as 'from Newport and Cardiff, to NPT and Swansea' / 'South East Wales' (NPT expanded to Neath Port Talbot)."
+ },
+ {
+  "id": "foster-care-values",
+  "website": "https://www.fostercarevalues.com/",
+  "recruitmentUrl": "https://www.fostercarevalues.com/new-to-fostering",
+  "phone": "01745 354992",
+  "publicEnquiryEmail": "enquiries@fostercarevalues.com",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [{"url": "https://www.fostercarevalues.com/new-to-fostering", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "publicEnquiryEmail"]}],
+  "notes": "Address on site: Energy House, Tir Llwyd Enterprise Park, Kinmel Bay, Conwy, LL18 5JA (postcode matches the record; site says Kinmel Bay rather than Rhyl). Site has no dedicated 'become a foster carer' page; the 'new to fostering' page describing the process is used as recruitmentUrl."
+ },
+ {
+  "id": "newfocas",
+  "website": "https://newfocas.co.uk/",
+  "recruitmentUrl": "https://www.newfocas.co.uk/become-a-carer/",
+  "phone": "01244 550300",
+  "publicEnquiryEmail": "info@newfocas.co.uk",
+  "areasServed": ["Flintshire"],
+  "fosteringTypes": ["long-term"],
+  "sources": [{"url": "https://newfocas.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "publicEnquiryEmail", "areasServed", "fosteringTypes"]}],
+  "notes": "Address on site: 13-17 Brunswick Court, Brunswick Road, Buckley, Flintshire CH7 2ED (matches the record). Site uses the name NEWFOCAS / New Focas; page title 'Fostering Children in Flintshire' is the only area statement. info@ is labelled for carers; a separate referrals@ mailbox exists for local authorities (not recorded). Site describes itself as a trauma-informed agency but does not list 'therapeutic' as a placement type."
+ },
+ {
+  "id": "pathway-care-calon-cymru",
+  "website": "https://www.caloncymrufostering.co.uk/",
+  "recruitmentUrl": "https://www.caloncymrufostering.co.uk/foster-with-us",
+  "phone": "029 2081 1173",
+  "publicEnquiryEmail": null,
+  "areasServed": ["South Wales", "West Wales"],
+  "fosteringTypes": ["short-term", "long-term", "therapeutic", "parent-and-child", "teenagers", "sibling-groups", "respite", "emergency", "other"],
+  "sources": [{"url": "https://www.caloncymrufostering.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed", "fosteringTypes"]}],
+  "notes": "Site is under the trading name Calon Cymru Fostering; Pathway Care Ltd is not mentioned on the home page, and no office address or CF14 postcode is shown (phone is a Cardiff 029 number). Areas quoted as 'across the South and West of Wales'. 'Therapeutically-Led' recorded as therapeutic; 'Care +' recorded as other."
+ },
+ {
+  "id": "nfa-wales",
+  "website": "https://www.nationalfosteringgroup.co.uk/",
+  "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/wales/",
+  "phone": "02921 672 899",
+  "publicEnquiryEmail": null,
+  "areasServed": ["South Wales"],
+  "fosteringTypes": [],
+  "sources": [{"url": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/wales/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed"]}],
+  "notes": "Branch of a national group: website is the National Fostering Group home page; recruitmentUrl is the NFA Wales page. Address on that page: Solva House, Springmeadow Road, Springmeadow Business Park, Rumney, Cardiff, CF3 2ES (matches the record). The only email shown is a Cardiff team admin mailbox (not a generic public enquiries address), so publicEnquiryEmail left null. Group-wide 'become a foster carer' page: https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/."
+ }
+]

@@ -1,0 +1,579 @@
+[
+  {
+    "id": "barking-and-dagenham-fostering-service",
+    "name": "Barking and Dagenham Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Barking and Dagenham"
+    ],
+    "address": {
+      "line1": "Town Hall, 1 Clockhouse Avenue",
+      "town": "Barking",
+      "postcode": "IG11 7LU"
+    },
+    "phone": "020 8227 5988",
+    "website": "https://www.lbbd.gov.uk/fostering",
+    "recruitmentUrl": "https://fostering.lbbd.gov.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.lbbd.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostering.lbbd.gov.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "address",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council also publishes an online 'leave your details' fostering enquiry form at https://www.lbbd.gov.uk/form/leave-details-for-fostering- . Pages fetched did not list fostering types. Service runs the Mockingbird programme."
+  },
+  {
+    "id": "barnet-fostering",
+    "name": "Barnet Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Barnet"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.barnet.gov.uk/children-and-families/fostering-barnet/how-become-foster-carer",
+    "recruitmentUrl": "https://www.barnet.gov.uk/children-and-families/fostering-barnet/how-become-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.barnet.gov.uk/children-and-families/fostering-barnet/how-become-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      },
+      {
+        "url": "https://www.barnet.gov.uk/node/6950",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      },
+      {
+        "url": "https://fostering.camden.gov.uk/fostering-news-events-stories/north-london-fostering-hub/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Barnet council website returned a bot-check interstitial on 2026-10-27, so only the page name and URL (from search results: 'Fostering in Barnet', 'Contact the Barnet Fostering team') could be confirmed; phone, address and fostering types unverified. Barnet is a member of the North London Fostering Hub hosted by Camden (with Camden, Enfield, Hackney, Haringey and Islington), per Camden's fostering site."
+  },
+  {
+    "id": "bexley-fostering",
+    "name": "Bexley Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Bexley"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 3045 4400",
+    "website": "https://www.bexley.gov.uk/foster-bexley",
+    "recruitmentUrl": "https://www.bexley.gov.uk/foster-bexley/new-fostering/how-apply-become-foster-carer",
+    "publicEnquiryEmail": "fostering@bexley.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.bexley.gov.uk/foster-bexley/new-fostering/how-apply-become-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council's recruitment site section is branded 'Foster for Bexley' / 'Fostering with Bexley'. Online enquiry form at https://www.bexley.gov.uk/foster-bexley/how-apply/contact-us . Service also runs a 'Host and Support' (16+ supported lodgings) scheme and accepts transfers from other fostering services. Page fetched did not name specific fostering types."
+  },
+  {
+    "id": "brent-fostering",
+    "name": "Brent Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Brent"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 8753 1075",
+    "website": "https://www.brent.gov.uk/children-young-people-and-families/fostering-and-adoption/fostering",
+    "recruitmentUrl": "https://www.fosterwithwestlondon.org.uk/contact/brent",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers",
+      "therapeutic",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.brent.gov.uk/children-young-people-and-families/fostering-and-adoption/fostering/how-to-become-a-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.brent.gov.uk/children-young-people-and-families/fostering-and-adoption/fostering/types-of-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Brent recruits foster carers through the Foster with West London regional hub, described on the council site as its partner organisation; the published enquiry phone number is the Foster with West London team's. 'Other' types listed: fostering babies, remand fostering, fostering unaccompanied asylum-seeking children, fostering for adoption / concurrent placements. Council hub page: https://www.brent.gov.uk/children-young-people-and-families/fostering-and-adoption/fostering/foster-with-west-london"
+  },
+  {
+    "id": "bromley-fostering",
+    "name": "Bromley Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Bromley"
+    ],
+    "address": {
+      "line1": "Fostering Team, Bromley Civic Centre, Churchill Court, 2 Westmoreland Road",
+      "town": "Bromley",
+      "postcode": "BR1 1AS"
+    },
+    "phone": "020 8461 7701",
+    "website": "https://www.bromley.gov.uk/fostering",
+    "recruitmentUrl": "https://www.bromley.gov.uk/fostering/becoming-foster-carer-process",
+    "publicEnquiryEmail": "fostering@bromley.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "therapeutic",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.bromley.gov.uk/fostering/becoming-foster-carer-process",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "address",
+          "publicEnquiryEmail",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.bromley.gov.uk/fostering/types-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "phone",
+          "address",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Council pages use the campaign name 'Foster with Bromley' and refer to the 'Fostering Team'. Online enquiry form at https://www.bromley.gov.uk/Fosteringrequestform . Therapeutic provision is published as 'Encompass Therapeutic Fostering' and 'New Horizons' specialist fostering. 'Other' types listed: short break care for children with disabilities, Weekenders, fostering for adoption, Staying Put, Supported Lodgings, friends and family care, private fostering."
+  },
+  {
+    "id": "camden-fostering",
+    "name": "Camden Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Camden"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 7974 6783",
+    "website": "https://fostering.camden.gov.uk/",
+    "recruitmentUrl": "https://fostering.camden.gov.uk/become-a-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.camden.gov.uk/become-a-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostering.camden.gov.uk/fostering-news-events-stories/north-london-fostering-hub/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Freephone number also published: 0800 028 1436. Contact page: https://fostering.camden.gov.uk/contact/ . Camden hosts the North London Fostering Hub (one of 14 regional fostering hubs in England) covering Barnet, Camden, Enfield, Hackney, Haringey and Islington, building on the North London Fostering and Permanency Consortium (since 2012); launch date published as Thursday 1 October. Pages fetched did not name specific fostering types."
+  },
+  {
+    "id": "croydon-council-fostering-service",
+    "name": "Croydon Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Croydon"
+    ],
+    "address": {
+      "line1": "4th Floor, Bernard Weatherill House, 8 Mint Walk",
+      "town": "Croydon",
+      "postcode": "CR0 1EA"
+    },
+    "phone": "0300 222 2112",
+    "website": "https://www.croydon.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fosteringenquiries@croydon.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.croydon.gov.uk/sites/default/files/2024-08/fostering-statement-of-purpose-2024-2025.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "publicEnquiryEmail",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Details taken from the council's Fostering Statement of Purpose 2024-2025 (PDF); the live page https://www.croydon.gov.uk/fostering could not be fetched on 2026-10-27, so current recruitment arrangements are unverified. Statement also publishes freephone 0800 389 0129 and a second enquiry mailbox iwanttofoster@croydon.gov.uk. 'Other' = connected persons (family and friends) placements, including immediate/emergency placements with connected persons under Regulation 24."
+  },
+  {
+    "id": "ealing-fostering-connections",
+    "name": "Ealing Fostering Connections",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Ealing"
+    ],
+    "address": {
+      "line1": "Perceval House 2SE, 14-16 Uxbridge Road",
+      "town": "Ealing",
+      "postcode": "W5 2HL"
+    },
+    "phone": "0800 731 6550",
+    "website": "https://www.ealing.gov.uk/fosteradopt",
+    "recruitmentUrl": "https://ealingfosteradopt.co.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.ealing.gov.uk/fosteradopt",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council page names the service 'Ealing Fostering Connections' (contact block: 'Ealing Fostering & Adoption Connections'); the phone number is the combined fostering and adoption enquiry line. The separate recruitment site ealingfosteradopt.co.uk, linked from the council page, could not be fetched on 2026-10-27, so fostering types are unverified."
+  },
+  {
+    "id": "enfield-fostering",
+    "name": "Enfield Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Enfield"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 8379 2831",
+    "website": "https://www.enfield.gov.uk/services/children-and-education/fostering-a-child",
+    "recruitmentUrl": "https://www.enfield.gov.uk/fostering/enquire-about-fostering",
+    "publicEnquiryEmail": "fostering@enfield.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.enfield.gov.uk/services/children-and-education/fostering-a-child",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.enfield.gov.uk/fostering/enquire-about-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "recruitmentUrl"
+        ]
+      },
+      {
+        "url": "https://fostering.camden.gov.uk/fostering-news-events-stories/north-london-fostering-hub/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council page is titled 'Fostering with Enfield Council'; the council also publishes a fostering and permanence section at https://enfield.gov.uk/fosteringandpermanence (seen in search results, not fetched). Enfield is a member of the North London Fostering Hub hosted by Camden, per Camden's and Hackney's fostering pages. Pages fetched did not list fostering types."
+  },
+  {
+    "id": "royal-greenwich-fostering",
+    "name": "Royal Greenwich Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Royal Borough of Greenwich"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 052 1499",
+    "website": "https://www.royalgreenwich.gov.uk/children-young-people-and-families/become-foster-carer",
+    "recruitmentUrl": "https://www.royalgreenwich.gov.uk/children-young-people-and-families/fostering-royal-greenwich/get-touch-our-fostering-team-0",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "respite",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.royalgreenwich.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.royalgreenwich.gov.uk/children-young-people-and-families/fostering-royal-greenwich/different-ways-you-can-foster",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council pages use the name 'Fostering with Royal Greenwich'. Types page lists emergency, short-term, short breaks/respite and long-term fostering (plus private fostering, which is a notification duty rather than a council placement type). Council also accepts transfers from other local authorities."
+  },
+  {
+    "id": "hackney-fostering",
+    "name": "Hackney Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Hackney"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0207 974 0125",
+    "website": "https://www.hackney.gov.uk/fostering",
+    "recruitmentUrl": "https://www.fosternorthlondon.gov.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.hackney.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council page is titled 'Fostering with Hackney' (canonical URL https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/fostering-hackney). Page states Hackney joined the North London Fostering Hub (Barnet, Camden, Enfield, Hackney, Haringey, Islington) in October 2026 and directs enquiries and registration to the hub site fosternorthlondon.gov.uk; the hub site itself could not be fetched on 2026-10-27. Pages fetched did not list fostering types."
+  },
+  {
+    "id": "havering-fostering",
+    "name": "Havering Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Havering"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 8496 3437",
+    "website": "https://www.havering.gov.uk/fostering-1",
+    "recruitmentUrl": "https://www.localcommunityfostering.co.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.havering.gov.uk/fostering-1",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.havering.gov.uk/news/article/1365/fostering-change",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council fostering page describes Havering's role within the 'Local Community Fostering' service, a north-east London partnership (council page says four boroughs; the council's 'Fostering change' news article names six: Waltham Forest, Barking and Dagenham, Havering, Newham, Redbridge and Tower Hamlets); the 'start your journey' enquiry link goes to localcommunityfostering.co.uk, which could not be fetched on 2026-10-27. Council page also has a register-interest section at https://www.havering.gov.uk/fostering-1#askusaboutfostering and publishes a fostering Statement of Purpose at https://www.havering.gov.uk/downloads/download/321/fostering---our-statement-of-purpose . 'Other' = unaccompanied minors, children with disabilities, family and friends fostering, foster to adopt."
+  },
+  {
+    "id": "lambeth-fostering",
+    "name": "Lambeth Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Lambeth"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 7926 8710",
+    "website": "https://www.lambeth.gov.uk/fostering",
+    "recruitmentUrl": "https://www.lambeth.gov.uk/fostering/get-touch",
+    "publicEnquiryEmail": "fosteringduty@lambeth.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.lambeth.gov.uk/fostering/meet-our-foster-carers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://love.lambeth.gov.uk/become-a-foster-carer-become-a-hero",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Council fostering section is branded 'Foster for Lambeth'. Phone number and duty mailbox come from a council 'Love Lambeth' article dated 2020 and may be out of date; the council's current get-in-touch form is https://forms.lambeth.gov.uk/FOSTERING-GETINTOUCH/launch . Types page (https://www.lambeth.gov.uk/fostering/about-fostering/types-fostering) was not fetched, so fostering types are unverified."
+  }
+]

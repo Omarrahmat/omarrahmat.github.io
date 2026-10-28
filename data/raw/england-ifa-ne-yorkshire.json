@@ -1,0 +1,927 @@
+[
+  {
+    "id": "foster-cares-ltd",
+    "name": "Foster Cares Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "7 Fern Court, Bracken Hill Business Park",
+      "town": "Peterlee",
+      "postcode": "SR8 2RR"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036057",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036057",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "reach-out-care",
+    "name": "Reach-Out Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Jordan House, Forster Business Centre, Finchdale Road, Framwellgate Moor",
+      "town": "Durham",
+      "postcode": "DH1 5HL"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036188",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036188",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "futures-for-children-north-east",
+    "name": "Futures for Children North East Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "8 Lumley Court, Drum Industrial Estate",
+      "town": "Chester le Street",
+      "postcode": "DH2 1AN"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC413428",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC413428",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "acorn-care-ne",
+    "name": "Acorn Care (NE) Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Yarm Road Business Park",
+      "town": "Darlington",
+      "postcode": "DL1 4YA"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC463071",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC463071",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "swiis-foster-care-leeds",
+    "name": "Swiis Foster Care Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 5, Pavilion Business Park, Royds Hall Road, Wortley",
+      "town": "Leeds",
+      "postcode": "LS12 6AJ"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC358729",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC358729",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted-registered office of this England registration is in Leeds."
+  },
+  {
+    "id": "foster-care-associates-yorks-and-lincs",
+    "name": "Foster Care Associates Yorks and Lincs",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Sheffield",
+      "Leeds",
+      "Hull",
+      "Huddersfield",
+      "Wakefield",
+      "Doncaster",
+      "Barnsley",
+      "Rotherham",
+      "Bradford",
+      "Yorkshire"
+    ],
+    "address": {
+      "line1": "Europa View, Sheffield Business Park",
+      "town": "Sheffield",
+      "postcode": "S9 1XH"
+    },
+    "phone": "0114 261 5750",
+    "website": "https://www.thefca.co.uk/",
+    "recruitmentUrl": "https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC038256",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC038256",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50280577",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.thefca.co.uk/locations/sheffield/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.thefca.co.uk/locations/hull/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of Foster Care Associates (FCA), rated Outstanding at the April 2025 inspection. National enquiry line 0800 023 4561; enquiry form https://www.thefca.co.uk/enquiry/. 'other' covers disability, sanctuary-seeking children, step-down and babies."
+  },
+  {
+    "id": "chrysalis-consortium",
+    "name": "Chrysalis Consortium Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "48 Wolstenholm Road, Nether Edge",
+      "town": "Sheffield",
+      "postcode": "S7 1LL"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC456174",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC456174",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "compass-fostering-north",
+    "name": "Compass Fostering North Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Hope Park Business Centre, Hope Park",
+      "town": "Bradford",
+      "postcode": "BD5 8HH"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC405567",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC405567",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of Compass Fostering."
+  },
+  {
+    "id": "family-foster-care-doncaster",
+    "name": "Family Foster Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Apex Office Space, 1 Watervole Way, Balby",
+      "town": "Doncaster",
+      "postcode": "DN4 5JP"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC483928",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/CARE/SC483928",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "A local news article (not used as a source) refers to this agency as Family Fostercare with offices in Doncaster and Carlisle and website familyfostercare.co.uk; the agency's own site could not be fetched to confirm."
+  },
+  {
+    "id": "orange-grove-fostercare-yorkshire",
+    "name": "Orange Grove Fostercare Yorkshire",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "South Yorkshire Office, 2b Sidings Court, White Rose Way",
+      "town": "Doncaster",
+      "postcode": "DN4 5NU"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC485769",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC485769",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of Orange Grove Fostercare."
+  },
+  {
+    "id": "cornerstone-north-east-fostering-service",
+    "name": "Cornerstone North East Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "1st Floor, Mattersey Hall Training Centre, Retford Road",
+      "town": "Doncaster",
+      "postcode": "DN10 5HD"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC066812",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC066812",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted lists the postal town as Doncaster; the DN10 address lies on the Doncaster/Nottinghamshire border, so region should be verified. A 2019 Redcar & Cleveland contract award notice (Contracts Finder) listed 'Cornerstone North East Fostering and Adoption Services' in Sunderland."
+  },
+  {
+    "id": "team-fostering-north-east",
+    "name": "Team Fostering (North East)",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "North Tyneside",
+      "Newcastle",
+      "Sunderland",
+      "Darlington",
+      "Middlesbrough",
+      "Stockton",
+      "Redcar",
+      "Hartlepool",
+      "Tyne and Wear"
+    ],
+    "address": {
+      "line1": "Unit 6 Hedley Court, Orion Business Park",
+      "town": "North Shields",
+      "postcode": "NE29 7ST"
+    },
+    "phone": "0800 292 2003",
+    "website": "https://teamfostering.co.uk/",
+    "recruitmentUrl": "https://teamfostering.co.uk/make-an-enquiry/",
+    "publicEnquiryEmail": "info@teamfostering.co.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "parent-and-child",
+      "teenagers",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC033433",
+    "sources": [
+      {
+        "url": "https://teamfostering.co.uk/ofsted-ne/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://teamfostering.co.uk/why-us/areas-we-cover/north-east/fostering-in-middlesbrough/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Not-for-profit agency. NE office phone 0191 257 6806; also has a Teesside office at 1 Eggleston Court, Riverside Park, Middlesbrough TS2 1RU. 'other' covers staying put and unaccompanied children placements. URN and address taken from the agency's own page reproducing its Ofsted report; Ofsted provider page not fetched."
+  },
+  {
+    "id": "team-fostering-yorkshire-east-midlands",
+    "name": "Team Fostering (Yorkshire and East Midlands)",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Yorkshire",
+      "East Midlands",
+      "Sheffield",
+      "Rotherham",
+      "Doncaster",
+      "Barnsley",
+      "Leeds",
+      "Huddersfield"
+    ],
+    "address": {
+      "line1": "Suite 3, The Quadrant, 99 Parkway Avenue",
+      "town": "Sheffield",
+      "postcode": "S9 4WG"
+    },
+    "phone": "0114 261 7762",
+    "website": "https://teamfostering.co.uk/",
+    "recruitmentUrl": "https://teamfostering.co.uk/make-an-enquiry/",
+    "publicEnquiryEmail": "info@teamfostering.co.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC060698",
+    "sources": [
+      {
+        "url": "https://teamfostering.co.uk/yem-ofsted-report-25/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes",
+          "areasServed",
+          "address"
+        ]
+      },
+      {
+        "url": "https://teamfostering.co.uk/why-us/areas-we-cover/north-east/fostering-in-middlesbrough/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Second Ofsted registration of Team Fostering covering Yorkshire and the East Midlands. The 2025 Ofsted report names the inspected Sheffield office as Unit 3 & 4, Shepcote Office Village, Shepcote Lane, Sheffield S9 1TG and the registered office as 6 Hedley Court, North Shields NE29 7ST; the agency website currently lists the South Yorkshire office at Parkway Avenue. Also has an East Midlands office at 12 Maisies Way, South Normanton DE55 2DS. 'other' covers staying put, unaccompanied children and disabled children placements."
+  },
+  {
+    "id": "tact-fostering-yorkshire-north-east",
+    "name": "TACT Fostering Yorkshire & North East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Innovation House, Coniston Court, PO Box 137",
+      "town": "Blyth",
+      "postcode": "NE24 9FJ"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC448336",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC448336",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional registration of TACT (The Adolescent and Children's Trust), a fostering charity; Ofsted lists the Blyth head office as the registered address."
+  },
+  {
+    "id": "tact-fostering-london-and-south-east",
+    "name": "TACT Fostering London and South East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Innovation House, Coniston Court, PO Box 137",
+      "town": "Blyth",
+      "postcode": "NE24 9FJ"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC063688",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC063688",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional registration of TACT serving London and the South East; included here only because Ofsted lists the Blyth (Northumberland) head office as its registered address."
+  },
+  {
+    "id": "tact-fostering-west-midlands",
+    "name": "TACT Fostering - West Midlands",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Innovation House, Coniston Court, PO Box 137",
+      "town": "Blyth",
+      "postcode": "NE24 9FJ"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC056442",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC056442",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional registration of TACT serving the West Midlands; included here only because Ofsted lists the Blyth (Northumberland) head office as its registered address."
+  },
+  {
+    "id": "tact-fostering-east-midlands",
+    "name": "TACT Fostering - East Midlands",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Innovation House, Coniston Court, PO Box 137",
+      "town": "Blyth",
+      "postcode": "NE24 9FJ"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC043094",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC043094",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional registration of TACT serving the East Midlands; included here only because Ofsted lists the Blyth (Northumberland) head office as its registered address."
+  },
+  {
+    "id": "first-for-fostering",
+    "name": "First for Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "181 Coniscliffe Road",
+      "town": "Darlington",
+      "postcode": "DL3 8DE"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2618526",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2618526",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "A third-party directory listing (not used as a source) gives the website as firstforfostering.co.uk; the agency's own site could not be fetched to confirm."
+  },
+  {
+    "id": "foster-care-associates-north-east",
+    "name": "Foster Care Associates North East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Durham",
+      "Darlington",
+      "Gateshead",
+      "Hartlepool",
+      "Middlesbrough",
+      "Newcastle",
+      "North Tyneside",
+      "South Tyneside",
+      "Stockton",
+      "Sunderland",
+      "Northumberland",
+      "North East"
+    ],
+    "address": {
+      "line1": "Evolve Business Centre, Cygnet Way",
+      "town": "Houghton le Spring",
+      "postcode": "DH4 5QY"
+    },
+    "phone": "0191 217 3640",
+    "website": "https://www.thefca.co.uk/",
+    "recruitmentUrl": "https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.thefca.co.uk/locations/durham/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.thefca.co.uk/locations/newcastle-upon-tyne/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "website"
+        ]
+      },
+      {
+        "url": "https://thefca.co.uk/locations/middlesbrough/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "North East regional team of Foster Care Associates (FCA); the agency website describes it as Ofsted 'Outstanding' and links an Ofsted report (files.ofsted.gov.uk/v1/file/50274209) that could not be fetched, so the Ofsted registration name and URN are unconfirmed. National enquiry line 0800 023 4561. 'other' covers disability, sanctuary-seeking children, step-down and babies."
+  },
+  {
+    "id": "st-cuthberts-care",
+    "name": "St Cuthbert's Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": null,
+      "town": "Newcastle upon Tyne",
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.find-tender.service.gov.uk/Notice/017849-2022",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address"
+        ]
+      },
+      {
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/d1e0ba2c-d54c-47c0-a8c0-4023e98bb607",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Charity fostering provider listed as an awarded supplier on the NEPO603 Tyne-Tees Independent Foster Care Services framework (2022) and the Redcar & Cleveland IFA framework (2019); only the town is given. Ofsted registration and website not confirmed - needs verification."
+  },
+  {
+    "id": "evolve-fostering-beta-north",
+    "name": "Beta North Limited t/a Evolve Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": null,
+      "town": "Darlington",
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.find-tender.service.gov.uk/Notice/017849-2022",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address"
+        ]
+      },
+      {
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/d1e0ba2c-d54c-47c0-a8c0-4023e98bb607",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      }
+    ],
+    "notes": "Listed as an awarded supplier on the NEPO603 Tyne-Tees Independent Foster Care Services framework (2022, location Darlington) and the Redcar & Cleveland IFA framework (2019, location Durham). Ofsted registration and website not confirmed - needs verification."
+  },
+  {
+    "id": "unity-foster-care",
+    "name": "Unity Foster Care Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.find-tender.service.gov.uk/Notice/017849-2022",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      },
+      {
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/d1e0ba2c-d54c-47c0-a8c0-4023e98bb607",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      }
+    ],
+    "notes": "Listed as an awarded supplier on the NEPO603 framework (2022, location Leeds) and the Redcar & Cleveland IFA framework (2019, address Unit 54, Titan Business Centre, Euroway House, Roysdale Way, Bradford BD4 6SE). Current registered address, Ofsted URN and website not confirmed - needs verification."
+  },
+  {
+    "id": "foster-care-solutions-chester-le-street",
+    "name": "Foster Care Solutions",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": null,
+      "town": "Chester-le-Street",
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.contractsfinder.service.gov.uk/Notice/d1e0ba2c-d54c-47c0-a8c0-4023e98bb607",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Listed (location Chester-le-Street) as an awarded supplier on the 2019 Redcar & Cleveland IFA framework; a 2022 NEPO603 notice lists a 'Foster Care Solutions' in Maidstone, which may be a different company. Ofsted registration and website not confirmed - needs verification."
+  },
+  {
+    "id": "fostering-to-inspire",
+    "name": "Fostering To Inspire",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Wakefield",
+      "West Yorkshire"
+    ],
+    "address": {
+      "line1": "Office 26 and 27, The Rear Walled Garden, The Estate Office",
+      "town": "Wakefield",
+      "postcode": "WF4 1AB"
+    },
+    "phone": null,
+    "website": "https://www.fosteringtoinspire.co.uk/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1259729",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/CARE/1259729",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://jobs.shaw-trust.org.uk/VacancyInformation.aspx?VId=27180",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Part of the Shaw Trust group; website taken from a Shaw Trust (parent charity) careers page because the agency's own site could not be fetched."
+  }
+]

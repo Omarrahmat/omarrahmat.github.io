@@ -1,0 +1,1451 @@
+[
+ {
+  "id": "foster-wales-network",
+  "name": "Foster Wales",
+  "providerType": "other",
+  "nation": "Wales",
+  "areasServed": [
+   "Wales"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": null,
+  "website": "https://fosterwales.gov.wales/",
+  "recruitmentUrl": "https://fosterwales.gov.wales/ways-to-foster/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "therapeutic",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://fosterwales.gov.wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "recruitmentUrl",
+     "fosteringTypes",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://fosterwales.gov.wales/your-local-authority/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "areasServed",
+     "name"
+    ]
+   },
+   {
+    "url": "https://fosterwales.gov.wales/about-us",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "National network of the 22 Welsh local authority fostering services. No phone, email or postal address published on the network pages; enquiries go to local teams. Network is not itself a CIW-registered service."
+ },
+ {
+  "id": "foster-wales-anglesey",
+  "name": "Foster Wales Isle of Anglesey",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Isle of Anglesey"
+  ],
+  "address": {
+   "line1": "Council Offices",
+   "town": "Llangefni",
+   "postcode": "LL77 7TW"
+  },
+  "phone": "01248 752772",
+  "website": "https://anglesey.fosterwales.gov.wales/",
+  "recruitmentUrl": "https://anglesey.fosterwales.gov.wales/how-it-works/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://anglesey.fosterwales.gov.wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": null
+ },
+ {
+  "id": "foster-wales-blaenau-gwent",
+  "name": "Foster Wales Blaenau Gwent",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Blaenau Gwent"
+  ],
+  "address": {
+   "line1": "Foster Wales Blaenau Gwent Family Resource Centre, Beaufort Road",
+   "town": "Ebbw Vale",
+   "postcode": "NP23 5LH"
+  },
+  "phone": "01495 369620",
+  "website": "https://blaenau-gwent.fosterwales.gov.wales",
+  "recruitmentUrl": "https://blaenau-gwent.fosterwales.gov.wales/en/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://blaenau-gwent.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Site mentions a parent and child fostering page but does not itself describe types in fetched content."
+ },
+ {
+  "id": "foster-wales-bridgend",
+  "name": "Foster Wales Bridgend",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Bridgend"
+  ],
+  "address": {
+   "line1": "Civic Offices, Angel Street",
+   "town": "Bridgend",
+   "postcode": "CF31 4WB"
+  },
+  "phone": "01443 425007",
+  "website": "https://bridgend.fosterwales.gov.wales",
+  "recruitmentUrl": "https://bridgend.fosterwales.gov.wales/contact-us/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://bridgend.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Phone 01443 425007 as published on page; same number is shown on Merthyr Tydfil and RCT pages (appears to be a shared regional line). recruitmentUrl is the enquiry page."
+ },
+ {
+  "id": "foster-wales-caerphilly",
+  "name": "Foster Wales Caerphilly",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Caerphilly"
+  ],
+  "address": {
+   "line1": "Tredomen House, Tredomen Park",
+   "town": "Ystrad Mynach",
+   "postcode": "CF82 7WF"
+  },
+  "phone": "0800 587 5664",
+  "website": "https://caerphilly.fosterwales.gov.wales",
+  "recruitmentUrl": "https://caerphilly.fosterwales.gov.wales/how-it-works/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://caerphilly.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/sites/default/files/inspection-reports/sin-00002674_c_21112024_e.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": "CIW report gives address as Ty Tredomen, Tredomen Business Park, Ystrad Mynach, Hengoed CF82 7PG; website address used here."
+ },
+ {
+  "id": "foster-wales-cardiff",
+  "name": "Foster Wales Cardiff",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Cardiff"
+  ],
+  "address": {
+   "line1": "Cardiff Council, County Hall, Atlantic Wharf",
+   "town": "Cardiff",
+   "postcode": "CF10 4UW"
+  },
+  "phone": "029 2087 3797",
+  "website": "https://cardiff.fosterwales.gov.wales/",
+  "recruitmentUrl": "https://cardiff.fosterwales.gov.wales/contact-us/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://cardiff.fosterwales.gov.wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "recruitmentUrl is the enquiry page."
+ },
+ {
+  "id": "foster-wales-carmarthenshire",
+  "name": "Foster Wales Carmarthenshire",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Carmarthenshire"
+  ],
+  "address": {
+   "line1": "Ty Elwyn",
+   "town": "Llanelli",
+   "postcode": "SA15 3AP"
+  },
+  "phone": "0800 0933 699",
+  "website": "https://carmarthenshire.fosterwales.gov.wales",
+  "recruitmentUrl": "https://carmarthenshire.fosterwales.gov.wales/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://carmarthenshire.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": null
+ },
+ {
+  "id": "foster-wales-ceredigion",
+  "name": "Foster Wales Ceredigion",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Ceredigion"
+  ],
+  "address": {
+   "line1": "Penmorfa",
+   "town": "Aberaeron",
+   "postcode": "SA46 0PA"
+  },
+  "phone": "01545 574000",
+  "website": "https://ceredigion.fosterwales.gov.wales",
+  "recruitmentUrl": "https://ceredigion.fosterwales.gov.wales/contact-us/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://ceredigion.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "recruitmentUrl is the enquiry page. Phone may be the council switchboard; page lists it under fostering contact."
+ },
+ {
+  "id": "foster-wales-conwy",
+  "name": "Foster Wales Conwy",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Conwy"
+  ],
+  "address": {
+   "line1": "Conwy County Borough Council, PO Box 1",
+   "town": "Conwy",
+   "postcode": "LL30 9GL"
+  },
+  "phone": "01492 576350",
+  "website": "https://conwy.fosterwales.gov.wales/",
+  "recruitmentUrl": "https://conwy.fosterwales.gov.wales/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://conwy.fosterwales.gov.wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": null
+ },
+ {
+  "id": "foster-wales-denbighshire",
+  "name": "Foster Wales Denbighshire",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Denbighshire"
+  ],
+  "address": {
+   "line1": "PO Box 62",
+   "town": "Ruthin",
+   "postcode": "LL15 9AZ"
+  },
+  "phone": "0800 7313 215",
+  "website": "https://denbighshire.fosterwales.gov.wales/",
+  "recruitmentUrl": "https://denbighshire.fosterwales.gov.wales/how-it-works/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://denbighshire.fosterwales.gov.wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": null
+ },
+ {
+  "id": "foster-wales-flintshire",
+  "name": "Foster Wales Flintshire",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Flintshire"
+  ],
+  "address": {
+   "line1": "Foster Wales Flintshire County Offices, Chapel Street",
+   "town": "Flint",
+   "postcode": "CH6 5BD"
+  },
+  "phone": "01352 701965",
+  "website": "https://flintshire.fosterwales.gov.wales",
+  "recruitmentUrl": "https://flintshire.fosterwales.gov.wales/how-it-works/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://flintshire.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": null
+ },
+ {
+  "id": "foster-wales-gwynedd",
+  "name": "Foster Wales Gwynedd",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Gwynedd"
+  ],
+  "address": {
+   "line1": "Foster Wales Gwynedd Social Services, Arfon Area Office, Penrallt",
+   "town": "Caernarfon",
+   "postcode": "LL55 1BN"
+  },
+  "phone": "01286 682660",
+  "website": "https://fosterwales.gwynedd.llyw.cymru/",
+  "recruitmentUrl": "https://fosterwales.gwynedd.llyw.cymru/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://fosterwales.gwynedd.llyw.cymru/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://fosterwales.gwynedd.llyw.cymru/already-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/service-modal/14387",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": "CIW directory lists Gwynedd Fostering Service at Cyfadran Gofal, Swyddfa'r Cyngor, Penrallt, Caernarfon LL55 1SH; website address used here."
+ },
+ {
+  "id": "foster-wales-merthyr-tydfil",
+  "name": "Foster Wales Merthyr Tydfil",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Merthyr Tydfil"
+  ],
+  "address": {
+   "line1": "Civic Centre, Castle Street",
+   "town": "Merthyr Tydfil",
+   "postcode": "CF47 8AN"
+  },
+  "phone": "01443 425007",
+  "website": "https://merthyrtydfil.fosterwales.gov.wales",
+  "recruitmentUrl": "https://merthyrtydfil.fosterwales.gov.wales/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://merthyrtydfil.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Phone shared with Bridgend and RCT pages."
+ },
+ {
+  "id": "foster-wales-monmouthshire",
+  "name": "Foster Wales Monmouthshire",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Monmouthshire"
+  ],
+  "address": {
+   "line1": "Monmouthshire County Council, County Hall, The Rhadyr",
+   "town": "Usk",
+   "postcode": "NP15 1GA"
+  },
+  "phone": "01291 635682",
+  "website": "https://monmouthshire.fosterwales.gov.wales",
+  "recruitmentUrl": "https://monmouthshire.fosterwales.gov.wales/how-it-works/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://monmouthshire.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Page also describes short breaks and overnight stays."
+ },
+ {
+  "id": "foster-wales-neath-port-talbot",
+  "name": "Foster Wales Neath Port Talbot",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Neath Port Talbot"
+  ],
+  "address": {
+   "line1": "2nd Floor, Neath Civic Centre",
+   "town": "Neath",
+   "postcode": "SA11 3QZ"
+  },
+  "phone": "01639 685866",
+  "website": "https://npt.fosterwales.gov.wales",
+  "recruitmentUrl": "https://npt.fosterwales.gov.wales/contact-us/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "other"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://npt.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "'other' = Foster Plus step down, as stated. Areas on page: Neath, Port Talbot, Pontardawe. recruitmentUrl is the contact page."
+ },
+ {
+  "id": "foster-wales-newport",
+  "name": "Foster Wales Newport",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Newport"
+  ],
+  "address": {
+   "line1": "Civic Centre",
+   "town": "Newport",
+   "postcode": "NP20 4UR"
+  },
+  "phone": "01633 656615",
+  "website": "https://newport.fosterwales.gov.wales/",
+  "recruitmentUrl": "https://newport.fosterwales.gov.wales/how-it-works/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://newport.fosterwales.gov.wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/service-modal/10374",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": null
+ },
+ {
+  "id": "foster-wales-pembrokeshire",
+  "name": "Foster Wales Pembrokeshire",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Pembrokeshire"
+  ],
+  "address": {
+   "line1": "County Hall, Freeman's Way",
+   "town": "Haverfordwest",
+   "postcode": "SA61 1TP"
+  },
+  "phone": "01437 774650",
+  "website": "https://pembrokeshire.fosterwales.gov.wales",
+  "recruitmentUrl": "https://pembrokeshire.fosterwales.gov.wales/contact-us/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://pembrokeshire.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "recruitmentUrl is the enquiry page."
+ },
+ {
+  "id": "foster-wales-powys",
+  "name": "Foster Wales Powys",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Powys"
+  ],
+  "address": {
+   "line1": "Foster Wales Powys, County Hall",
+   "town": "Llandrindod Wells",
+   "postcode": "LD1 5LG"
+  },
+  "phone": "0800 22 30 627",
+  "website": "https://powys.fosterwales.gov.wales",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://powys.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone"
+    ]
+   },
+   {
+    "url": "https://powys.fosterwales.gov.wales/the-process/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone"
+    ]
+   }
+  ],
+  "notes": null
+ },
+ {
+  "id": "foster-wales-rhondda-cynon-taf",
+  "name": "Foster Wales Rhondda Cynon Taf",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Rhondda Cynon Taf"
+  ],
+  "address": {
+   "line1": "Ty Catrin, Unit 1, Maritime Industrial Estate",
+   "town": "Pontypridd",
+   "postcode": "CF37 1NY"
+  },
+  "phone": "01443 425007",
+  "website": "https://rct.fosterwales.gov.wales",
+  "recruitmentUrl": "https://rct.fosterwales.gov.wales/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://rct.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Phone shared with Bridgend and Merthyr Tydfil pages."
+ },
+ {
+  "id": "foster-wales-swansea",
+  "name": "Foster Wales Swansea",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Swansea"
+  ],
+  "address": {
+   "line1": "The Guildhall",
+   "town": "Swansea",
+   "postcode": "SA1 4PE"
+  },
+  "phone": null,
+  "website": "https://swansea.fosterwales.gov.wales",
+  "recruitmentUrl": "https://swansea.fosterwales.gov.wales/how-it-works/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://swansea.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Page shows 0300 555 0111 under general Contact Us but not labelled as fostering line, so phone left null."
+ },
+ {
+  "id": "foster-wales-torfaen",
+  "name": "Foster Wales Torfaen",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Torfaen"
+  ],
+  "address": {
+   "line1": "Civic Centre",
+   "town": "Pontypool",
+   "postcode": "NP4 6YB"
+  },
+  "phone": "01495 766669",
+  "website": "https://torfaen.fosterwales.gov.wales",
+  "recruitmentUrl": "https://torfaen.fosterwales.gov.wales/how-it-works/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "teenagers",
+   "long-term"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://torfaen.fosterwales.gov.wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Page also describes short breaks."
+ },
+ {
+  "id": "foster-wales-vale-of-glamorgan",
+  "name": "Foster Wales Vale of Glamorgan",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Vale of Glamorgan"
+  ],
+  "address": {
+   "line1": "Docks Office, Subway Road",
+   "town": "Barry",
+   "postcode": "CF63 4RU"
+  },
+  "phone": "01446 729600",
+  "website": "https://valeofglamorgan.fosterwales.gov.wales/",
+  "recruitmentUrl": "https://valeofglamorgan.fosterwales.gov.wales/the-process/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://valeofglamorgan.fosterwales.gov.wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.dewis.wales/ResourceDirectory/ViewResource.aspx?id=1791",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address"
+    ]
+   }
+  ],
+  "notes": "Vale council's Dewis entry gives postcode CF63 4RT for same address; Foster Wales site value CF63 4RU used."
+ },
+ {
+  "id": "foster-wales-wrexham",
+  "name": "Foster Wales Wrexham",
+  "providerType": "local_authority",
+  "nation": "Wales",
+  "areasServed": [
+   "Wrexham"
+  ],
+  "address": {
+   "line1": "Wrexham County Borough Council, Foster Wales Wrexham, Crown Buildings, 31 Chester Street",
+   "town": "Wrexham",
+   "postcode": "LL13 8BG"
+  },
+  "phone": "01978 295316",
+  "website": "https://wrexham.fosterwales.gov.wales/",
+  "recruitmentUrl": "https://wrexham.fosterwales.gov.wales/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://wrexham.fosterwales.gov.wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "areasServed",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "recruitmentUrl is the site home page, titled 'Become a Foster Carer in Wrexham'."
+ },
+ {
+  "id": "tlc-wales",
+  "name": "TLC (Wales) Independent Fostering Ltd (TLC Wales)",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [
+   "South East and West Wales",
+   "Local authorities under the All Wales Framework Agreement and off-framework purchasers",
+   "English local authorities, for placements based in Wales"
+  ],
+  "address": {
+   "line1": "Golygfa Gwawr, Pontarddulais Road",
+   "town": "Cross Hands, Llanelli",
+   "postcode": "SA14 6PG"
+  },
+  "phone": "01269 846 371",
+  "website": "https://tlcwales.org.uk/",
+  "recruitmentUrl": "https://tlcwales.org.uk/fostering-with-tlc/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://tlcwales.org.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://tlcwales.org.uk/statement-of-purpose/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Specialist service for children aged 0-18 with a medical condition and/or disability. 'other' covers palliative, shared care, bridging, transition and pre-adoptive placements as stated. Site spells road as Pontardulais Road; statement of purpose as Pontarddulais Road. Provider shown as CareTech Community Services Ltd. CIW reference not published."
+ },
+ {
+  "id": "compass-fostering-wales",
+  "name": "Compass Fostering Cymru (Compass Fostering Wales)",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [
+   "Clwyd",
+   "Dyfed",
+   "Gwent",
+   "Gwynedd",
+   "Mid Glamorgan",
+   "Powys",
+   "South Glamorgan",
+   "West Glamorgan"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0800 566 8317",
+  "website": "https://www.compassfostering.com/wales/",
+  "recruitmentUrl": "https://www.compassfostering.com/advice/how-to-become-a-foster-parent/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "parent-and-child",
+   "sibling-groups",
+   "respite",
+   "other"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.compassfostering.com/wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Page names offices in Cardiff and Wrexham without street addresses. 'other' = disability and complex needs. Respite listed as 'sleepover care'. recruitmentUrl is the group's general how-to-become page, not Wales-specific. No CIW registered-entity name or reference confirmed; verify."
+ },
+ {
+  "id": "nfa-wales",
+  "name": "The National Fostering Agency - Cymru (NFA Wales)",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [
+   "Wales"
+  ],
+  "address": {
+   "line1": "Solva House, Springmeadow Business Park, Rumney",
+   "town": "Cardiff",
+   "postcode": "CF3 2ES"
+  },
+  "phone": "02920 894893",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "respite",
+   "short-term",
+   "long-term",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://assets.ctfassets.net/qgpn44y3rm46/3irWQ4fPKHwda6oznCxQEy/f4112bd3184f757bd628b13873bc3782/NFA_Wales_Statement_of_Purpose_February_2026.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/sites/default/files/inspection-reports/00011471-xwdd_c_27112023_w.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Website not confirmed (statement of purpose PDF only). 'other' covers solo, bridging, unaccompanied children, When I am Ready, Bridge to Foster and Invictus as stated. CIW report gives provider as The National Fostering Agency Limited."
+ },
+ {
+  "id": "barnardos-cymru-fostering",
+  "name": "Barnardo's Cymru Fostering Service",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [
+   "Wales"
+  ],
+  "address": {
+   "line1": "Britannia House, Van Road",
+   "town": "Caerphilly",
+   "postcode": "CF83 3GG"
+  },
+  "phone": "02920484316",
+  "website": "https://www.barnardos.org.uk/foster/wales",
+  "recruitmentUrl": "https://www.barnardos.org.uk/foster",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://careinspectorate.wales/barnardos",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   },
+   {
+    "url": "https://www.barnardos.org.uk/sites/default/files/uploads/Annual%20Return%20-%20Cymru%20-%20June%2026%20-%20English%20Version_1.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://barnardos.org.uk/foster/wales",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Charity. Page states it covers all areas in Wales (Mid, North, South, West). Fostering types not stated in sources fetched."
+ },
+ {
+  "id": "action-for-children-fostering-wales",
+  "name": "Action for Children Fostering Wales (Maethu Cymru)",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [
+   "South Wales",
+   "North Wales",
+   "Neath",
+   "Swansea"
+  ],
+  "address": {
+   "line1": "The Old Stables, Beechwood Park",
+   "town": "Newport",
+   "postcode": "NP19 8AJ"
+  },
+  "phone": "01633 270422",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "sibling-groups",
+   "respite"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://media.actionforchildren.org.uk/documents/1868_Wales_Statement_of_Purpose_Bilingual_2025-26.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/sites/default/files/inspection-reports/00011407-qvkw_c_04092023_e.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Charity. North Wales satellite: 24 Mold Business Park, Wrexham Road, Mold CH7 1XP, tel 01352 759597. Separate NPT/Swansea community short breaks service (Llandarcy, SA10 6EJ, 01792 813522). CIW report gives Newport address as The Stable Block, Beechwood Park; statement of purpose says The Old Stables. Website and recruitment page not retrieved."
+ },
+ {
+  "id": "foster-care-associates-cymru",
+  "name": "Foster Care Associates Cymru (FCA Wales)",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [
+   "Abergele",
+   "Cardiff",
+   "Swansea",
+   "Bridgend",
+   "Newport",
+   "Wrexham",
+   "Powys",
+   "Conwy"
+  ],
+  "address": {
+   "line1": "Ground Floor Building, 5510 North Wales Business Park",
+   "town": "Abergele",
+   "postcode": "LL22 8LJ"
+  },
+  "phone": "0800 023 4561",
+  "website": "https://www.thefca.co.uk/regions/cymru/",
+  "recruitmentUrl": "https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "other"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.thefca.co.uk/regions/cymru/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/foster-care-associates-cymru",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Second office: Suite 4, Elm Court, Cowbridge Road, Bridgend CF31 3SR (01792 315800). Abergele office phone 01745 778610; 0800 number is the fostering enquiries line. 'other' covers disability, sanctuary-seeking children and step-down as stated."
+ },
+ {
+  "id": "resilient-foster-care",
+  "name": "Resilient Foster Care Ltd",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [],
+  "address": {
+   "line1": "Ty Menter, Navigation Park",
+   "town": "Mountain Ash",
+   "postcode": "CF45 4SN"
+  },
+  "phone": null,
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://careinspectorate.wales/sites/default/files/inspection-reports/00011403-FJTF_c_131023_e.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Sourced only from a CIW inspection report (Oct 2023). Website, phone and areas not found."
+ },
+ {
+  "id": "foster-care-group-wales",
+  "name": "Foster Care Group Wales Cyf",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [],
+  "address": {
+   "line1": "Schools Into Europe, Unit 6 Cleeve House, Lambourne Crescent",
+   "town": "Cardiff",
+   "postcode": "CF14 5GP"
+  },
+  "phone": null,
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://careinspectorate.wales/foster-care-group-wales-cyf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/providers?page=146",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name"
+    ]
+   }
+  ],
+  "notes": "Listed on CIW register as fostering services. Website, phone and areas not found."
+ },
+ {
+  "id": "foster-care-values",
+  "name": "Foster Care Values Ltd",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [],
+  "address": {
+   "line1": "Energy House, Tir Llwyd Industrial Estate",
+   "town": "Rhyl",
+   "postcode": "LL18 5JA"
+  },
+  "phone": null,
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.careinspectorate.wales/sites/default/files/inspection-reports/00011263-hvdf_c_15112023_w.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Sourced only from CIW inspection report (Nov 2023). Website, phone and areas not found."
+ },
+ {
+  "id": "fostering-solutions-wales",
+  "name": "Fostering Solutions Limited",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [],
+  "address": {
+   "line1": "57 Regent Street",
+   "town": "Wrexham",
+   "postcode": "LL11 1PF"
+  },
+  "phone": null,
+  "website": "https://www.nationalfosteringgroup.co.uk/fostering-solutions/wales/",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://careinspectorate.wales/fostering-solutions-limited",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/sites/default/files/inspection-reports/00011467-JQCL_c_170424_e.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   },
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/fostering-solutions/wales/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "Website URL taken from a web search result titled 'Fostering Solutions Wales'; the page itself could not be fetched (server error), so the link between it and this CIW record is unverified."
+ },
+ {
+  "id": "newfocas",
+  "name": "N.E.W.Fo.Ca.S. Limited (Newfocas)",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [
+   "Flintshire"
+  ],
+  "address": {
+   "line1": "13-14 Brunswick Court, Brunswick Road",
+   "town": "Buckley",
+   "postcode": "CH7 2ED"
+  },
+  "phone": null,
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://careinspectorate.wales/newfocas-limited-0",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://careinspectorate.wales/sites/default/files/inspection-reports/00011550-jgvf_c_22122023_w.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": "areasServed is the CIW directory's local authority for the office address, not a stated service area. Website and phone not found."
+ },
+ {
+  "id": "pathway-care-calon-cymru",
+  "name": "Pathway Care Ltd (trading as Calon Cymru Fostering)",
+  "providerType": "independent_agency",
+  "nation": "Wales",
+  "areasServed": [],
+  "address": {
+   "line1": "Unit 12, Cardiff Business Park, Lambourne Crescent",
+   "town": "Cardiff",
+   "postcode": "CF14 5GF"
+  },
+  "phone": null,
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate Wales",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://careinspectorate.wales/pathway-care-ltd-trading-calon-cymru-fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Trading name taken from the CIW page URL slug and a Fostering Network listing title; website and phone not found."
+ }
+]

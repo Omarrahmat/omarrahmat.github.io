@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "portsmouth-city-council-fostering",
+    "name": "Portsmouth City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Portsmouth"
+    ],
+    "address": {
+      "line1": "Civic Offices, Guildhall Square",
+      "town": "Portsmouth",
+      "postcode": "PO1 2EA"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC061504",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/5/SC061504",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "areasServed",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted provider page lists the service as 'Portsmouth City Council Fostering' (provider type: Local Authority Fostering). The council homepage fetched did not expose a fostering page, so website, phone and recruitment URL could not be confirmed within the call limit."
+  },
+  {
+    "id": "west-berkshire-fostering",
+    "name": "West Berkshire Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "West Berkshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.westberks.gov.uk/article/39681/West-Berkshire-Fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.westberks.gov.uk/article/39681/West-Berkshire-Fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://citizen.westberks.gov.uk/fostering-south-east-2024",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council page states West Berkshire is one of 20 South East local authorities in the regional recruitment hub 'Local Authority Fostering South East' (launched 8 July 2024); no hub URL was given on the page. No phone or email published on the pages fetched."
+  },
+  {
+    "id": "west-sussex-county-council-fostering",
+    "name": "West Sussex County Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "West Sussex"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "03302 227 775",
+    "website": "https://fosteringwestsussex.org.uk/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fostering@westsussex.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.westsussex.gov.uk/local-offer/services/details/api/type/localoffers/view/wscc-fostering-service",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Council Local Offer listing is titled 'WSCC Fostering Service' and links to the council's dedicated fostering website fosteringwestsussex.org.uk (tracking parameters removed). 'other' covers short breaks and fostering for asylum-seeking children as stated on the listing. The fostering website itself could not be fetched (not on allowlist)."
+  },
+  {
+    "id": "windsor-and-maidenhead-council-fostering",
+    "name": "Royal Borough of Windsor and Maidenhead Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Windsor and Maidenhead"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.rbwm.gov.uk/children-and-families/fostering-royal-borough-windsor-and-maidenhead",
+    "recruitmentUrl": "https://www.rbwm.gov.uk/fostering",
+    "publicEnquiryEmail": "fosteringenquiries@achievingforchildren.org.uk",
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.rbwm.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed",
+          "fosteringTypes",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Council page is titled 'Fostering with the Royal Borough of Windsor and Maidenhead' and states the service is run in partnership with Achieving for Children; the published enquiry mailbox is the Achieving for Children fostering enquiries address. No phone number on the page fetched."
+  },
+  {
+    "id": "wokingham-borough-council-fostering",
+    "name": "Wokingham Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Wokingham"
+    ],
+    "address": {
+      "line1": "Civic Offices, Shute End",
+      "town": "Wokingham",
+      "postcode": "RG40 1BN"
+    },
+    "phone": "0118 974 6204",
+    "website": "https://fostering.wokingham.gov.uk/",
+    "recruitmentUrl": "https://fostering.wokingham.gov.uk/fostering-us/become-foster-carer",
+    "publicEnquiryEmail": "fostering@wokingham.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.wokingham.gov.uk/fostering-us/become-foster-carer/step-1-initial-enquiry",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostering.wokingham.gov.uk/contact-us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "address",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council fostering site is titled 'Wokingham Fostering and Adoption'. Phone recorded is the Wokingham Fostering Team line (select Children's Services). The contact page also gives the regional hub 'Local Authority Fostering South East' line 0300 131 2797 and mailbox contact@lafosteringse.org.uk; Wokingham works with 19 other councils through that hub. Types of fostering not described on pages fetched."
+  },
+  {
+    "id": "bath-and-north-east-somerset-council-fostering",
+    "name": "Bath and North East Somerset Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Bath and North East Somerset"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01225 394949",
+    "website": "https://fostering.bathnes.gov.uk",
+    "recruitmentUrl": "https://fostering.bathnes.gov.uk/fostering-information-pack",
+    "publicEnquiryEmail": "fostering@bathnes.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.bathnes.gov.uk/fostering-information-pack",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Council fostering site (fostering.bathnes.gov.uk) run by Bath & North East Somerset Council's Family Placement Team; no separate brand name published. 'other' covers stay-over care, Family Link (disabled children), Fostering Families and supported lodgings (16-25) as listed in the information pack. The site home page could not be fetched (not on allowlist)."
+  },
+  {
+    "id": "bcp-council-fostering",
+    "name": "BCP Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Bournemouth, Christchurch and Poole"
+    ],
+    "address": {
+      "line1": "BCP Council, Civic Centre",
+      "town": "Bournemouth",
+      "postcode": "BH2 6DY"
+    },
+    "phone": "01202 123 345",
+    "website": "https://www.bcpfostering.co.uk/Home.aspx",
+    "recruitmentUrl": "https://contact.fosterwithyourlocalcouncil.org.uk/lareferral/bournemouth-christchurch-poole",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fid.bcpcouncil.gov.uk/family-information-directory/directory/health-and-wellbeing/counselling-relationships/family-life/fostering-service-bcp-council",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Listed on the council's Family Information Directory as 'Fostering Service - BCP Council', linking to the council's fostering website bcpfostering.co.uk and an online enquiry form hosted on the national 'Foster with your local council' site (recorded as recruitmentUrl). The bcpfostering.co.uk site could not be fetched (not on allowlist), so fostering types are unconfirmed."
+  },
+  {
+    "id": "foster-with-bristol-city-council",
+    "name": "Foster with Bristol City Council",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Bristol"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0117 3534200",
+    "website": "https://www.bristol.gov.uk/foster-with-bristol-city-council",
+    "recruitmentUrl": "https://www.bristol.gov.uk/foster-with-bristol-city-council/our-carers/the-application-process",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.bristol.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.bristol.gov.uk/foster-with-bristol-city-council/our-carers/types-of-foster-care",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council's fostering section is branded 'Foster with Bristol City Council'. Types page lists general fostering, specialist fostering, fostering disabled children (short breaks) and Bristol supported lodgings; only 'other' can be mapped with confidence. Online enquiry form is on the national 'Foster with your local council' site (contact.fosterwithyourlocalcouncil.org.uk/lareferral/bristol); contact page: https://www.bristol.gov.uk/foster-with-bristol-city-council/apply/contact-us."
+  },
+  {
+    "id": "cornwall-council-fostering",
+    "name": "Cornwall Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Cornwall",
+      "Isles of Scilly"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 456 0120",
+    "website": "https://www.cornwall.gov.uk/fostering",
+    "recruitmentUrl": "https://www.cornwall.gov.uk/health-and-social-care/childrens-services/adoption-and-fostering-in-cornwall-and-the-isles-of-scilly/foster/how-do-i-foster/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.cornwall.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.cornwall.gov.uk/council-news/together-for-families/new-fostering-recruitment-hub-aims-to-create-more-loving-homes-for-vulnerable-children-in-cornwall",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://scilly.gov.uk/node/5863",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council fostering pages sit under 'Adoption and fostering in Cornwall and the Isles of Scilly'. The phone recorded is the regional 'Fostering South West' recruitment hub line published on the council page as the fostering enquiry number (hub acts as single entry point for South West councils; no hub URL shown). The page also gives the hub mailbox info@fosterwithyourlocalcouncil.org.uk and an enquiry form at contact.fosterwithyourlocalcouncil.org.uk/lareferral/cornwall-and-isles-of-scilly/. 'other' = short breaks. A Council of the Isles of Scilly page (scilly.gov.uk) states the Isles of Scilly Council has commissioned Cornwall Council's foster care services and gives fosteringrecruitment@cornwall.gov.uk as the fostering event contact; it links the Fostering South West hub to https://www.fosterwithyourlocalcouncil.org.uk/. No separate Isles of Scilly fostering service was found, so none is recorded."
+  },
+  {
+    "id": "devon-county-council-fostering",
+    "name": "Devon County Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Devon"
+    ],
+    "address": {
+      "line1": "County Hall, Topsham Road",
+      "town": "Exeter",
+      "postcode": "EX2 4QD"
+    },
+    "phone": null,
+    "website": "https://www.fosteringdevon.org.uk/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.devon.gov.uk/children-families-education/childrens-social-care/adoption-and-fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council 'Adoption and fostering' page links its fostering service to the dedicated site fosteringdevon.org.uk (not fetched within the call limit, so phone, email, recruitment URL and types are unconfirmed). Address is the council's main County Hall address as published on that page, not a fostering-specific office."
+  },
+  {
+    "id": "dorset-council-fostering",
+    "name": "Dorset Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Dorset"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01305 225568",
+    "website": "https://www.fosterindorset.co.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://news.dorsetcouncil.gov.uk/?p=76777",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council news page gives the fostering information and enquiries website fosterindorset.co.uk (brand 'Foster in Dorset' appears only in the URL/social handle) and the enquiry phone. The page describes a joint Christmas recruitment campaign by Dorset with Bath and North East Somerset, Cornwall, Devon, Gloucestershire, North Somerset, Somerset, South Gloucestershire, Swindon and Wiltshire councils. fosterindorset.co.uk could not be fetched (not on allowlist)."
+  },
+  {
+    "id": "gloucestershire-county-council-fostering",
+    "name": "Gloucestershire County Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Gloucestershire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01242 532654",
+    "website": "https://www.gloucestershire.gov.uk/fostering",
+    "recruitmentUrl": "https://www.gloucestershire.gov.uk/childrens-social-work-jobs/foster-with-us/",
+    "publicEnquiryEmail": "fostering@gloucestershire.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.gloucestershire.gov.uk/childrens-social-work-jobs/foster-with-us/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://gloucestershire.gov.uk/county-council-newsletters/councils-connected/october-2024/fostering-is-everything/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council pages use the heading 'Foster with us'; no separate brand name. Website address was printed as www.gloucestershire.gov.uk/fostering on the council newsletter page (recorded as https). Text enquiry line: text FOSTER to 60060. Types of fostering not named on pages fetched."
+  },
+  {
+    "id": "fostering-north-somerset",
+    "name": "Fostering North Somerset",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "North Somerset"
+    ],
+    "address": {
+      "line1": "Walliscote Grove Road",
+      "town": "Weston-super-Mare",
+      "postcode": "BS23 1UJ"
+    },
+    "phone": "01275 888 999",
+    "website": "https://fostering.n-somerset.gov.uk/",
+    "recruitmentUrl": "https://fostering.n-somerset.gov.uk/about-fostering/the-application-process/",
+    "publicEnquiryEmail": "fostering@n-somerset.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.n-somerset.gov.uk/about-us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "publicEnquiryEmail",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://fostering.n-somerset.gov.uk/about-fostering/types-of-fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Site states Fostering North Somerset is part of North Somerset Council's Children's Services. 'respite' = Day Care & Short Breaks ('Sleepovers'); 'other' covers fostering children with disabilities, step-down fostering, Weekenders and supported lodgings as listed on the types page."
+  },
+  {
+    "id": "foster-for-plymouth",
+    "name": "Foster for Plymouth",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Plymouth"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01752 308762",
+    "website": "https://www.fosterforplymouth.co.uk/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.plymouth.gov.uk/could-you-change-childs-life-through-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council news article (dated 1 July 2020) refers to Plymouth City Council's fostering service as 'Foster for Plymouth' and links to fosterforplymouth.co.uk (linked as http; recorded as https). It states carers are needed for siblings and teenagers. The fostering site could not be fetched (not on allowlist), so details may be dated and should be re-verified."
+  },
+  {
+    "id": "fostering-in-somerset",
+    "name": "Fostering in Somerset",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Somerset"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 587 9900",
+    "website": "https://www.fosteringinsomerset.org.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://somerset.gov.uk/news/urgent-need-for-somerset-residents-to-support-local-children-in-care",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council news page names the service 'Fostering in Somerset', run by Somerset Council's Fostering Service, with website fosteringinsomerset.org.uk. 'other' = 'High Need' foster care as described on the page. The fostering site could not be fetched (not on allowlist)."
+  },
+  {
+    "id": "south-gloucestershire-council-fostering",
+    "name": "South Gloucestershire Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "South Gloucestershire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 456 0120",
+    "website": null,
+    "recruitmentUrl": "https://www.fosterwithyourlocalcouncil.org.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://sites.southglos.gov.uk/newsroom/children-and-young-people/local-council-fostering-partnership-launched-in-the-south-west",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.southglos.gov.uk/news/south-gloucestershire-council-appeals-for-more-fosterers-to-come-forward",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council newsroom states South Gloucestershire fosters through the regional hub 'Fostering South West' (virtual hub of 14 south west councils, hosted by Wiltshire Council, DfE-funded), with enquiry line 0300 456 0120 and mailbox info@fosterwithyourlocalcouncil.org.uk; the recruitmentUrl recorded is that hub site. No South Gloucestershire fostering page URL was found on the pages fetched. An older council news page (22 September 2014) gave a council fostering line 01454 866423 and 'Badminton Road offices', not recorded as current."
+  },
+  {
+    "id": "swindon-borough-council-fostering",
+    "name": "Swindon Borough Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Swindon"
+    ],
+    "address": {
+      "line1": "Clarence House, Euclid Street",
+      "town": "Swindon",
+      "postcode": "SN1 2JH"
+    },
+    "phone": "07917 503447",
+    "website": "https://www.swindon.gov.uk/fostering",
+    "recruitmentUrl": "https://www.fosterwithyourlocalcouncil.org.uk",
+    "publicEnquiryEmail": "fosteringrecruitment@swindon.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://swindon.gov.uk/download/downloads/id/11219/fostering_statement_of_purpose_2024-2025.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Facts from the council's Fostering Statement of Purpose 2024-2025 (service named 'Swindon Borough Council Children Services, Fostering Service'; address is the Children, Families & Community Health office). Phone is the fostering recruitment mobile published in that document. The document names 'Fostering South West' (fosterwithyourlocalcouncil.org.uk) as the front door for enquiries, recorded as recruitmentUrl. 'other' covers connected persons, Home from Home short breaks, early permanence and the Mockingbird scheme. The council /fostering page could not be fetched (not on allowlist)."
+  },
+  {
+    "id": "torbay-council-fostering",
+    "name": "Torbay Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Torbay"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01803 207845",
+    "website": "https://www.torbay.gov.uk/fostering",
+    "recruitmentUrl": "https://www.torbay.gov.uk/children-and-families/fostering/become-a-foster-carer/",
+    "publicEnquiryEmail": "fostering@torbay.gov.uk",
+    "fosteringTypes": [
+      "emergency",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.torbay.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://torbay.gov.uk/news/pr8919",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council fostering page is headed 'Torbay's Fostering Family' (page title 'Fostering - Torbay Council'). It links the regional hub 'Fostering South West' (https://www.fosterwithyourlocalcouncil.org.uk/) and an enquiry form at contact.fosterwithyourlocalcouncil.org.uk/lareferral/torbay. Types from the council news page: emergency foster care and short-term respite care for other foster carers."
+  },
+  {
+    "id": "fostering-wiltshire",
+    "name": "Fostering Wiltshire",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Wiltshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 456 0120",
+    "website": null,
+    "recruitmentUrl": "https://www.fosterwithyourlocalcouncil.org.uk/",
+    "publicEnquiryEmail": "fostering@wiltshire.gov.uk",
+    "fosteringTypes": [
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.wiltshire.gov.uk/news/who-can-foster-wiltshire-council-tours-the-county-to-encourage-more-carers-to-come-forward",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://www.wiltshire.gov.uk/news/wiltshire-council-urges-people-to-foster-and-help-keep-brothers-and-sisters-together",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council news page names the service 'Fostering Wiltshire'. Phone recorded is the 'Fostering South West' regional hub line (hub hosted by Wiltshire Council; site www.fosterwithyourlocalcouncil.org, recorded as recruitmentUrl) as published on the more recent council news page; an earlier council news page gave 0800 169 6321 (text 'Foster' to 60002). No wiltshire.gov.uk fostering page URL was found on the pages fetched (search surfaced only a hosting-mirror copy of a 'fostering with us' page, not recorded)."
+  },
+  {
+    "id": "south-ayrshire-council-fostering",
+    "name": "South Ayrshire Council Fostering",
+    "providerType": "local_authority",
+    "nation": "Scotland",
+    "areasServed": [
+      "South Ayrshire"
+    ],
+    "address": {
+      "line1": "181 Whitletts Road",
+      "town": "Ayr",
+      "postcode": "KA8 0JQ"
+    },
+    "phone": "01292 267675",
+    "website": "https://hscp.south-ayrshire.gov.uk/Fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://hscp.south-ayrshire.gov.uk/Fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://hscp.south-ayrshire.gov.uk/FosteringandAdoption",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Service is delivered by South Ayrshire Council's Family Placement and Adoption Team and published on the South Ayrshire Health and Social Care Partnership site (council-run) under 'Fostering, Adoption and Kinship Care'. Phone is the team's general number. 'short-term' = interim care; 'respite' = short break care; 'teenagers' = supported care for young people aged 16+; 'other' = shared care for children with complex needs. Fostering enquiry email was redacted on the page."
+  },
+  {
+    "id": "south-lanarkshire-council-fostering",
+    "name": "South Lanarkshire Council Fostering",
+    "providerType": "local_authority",
+    "nation": "Scotland",
+    "areasServed": [
+      "South Lanarkshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "sibling-groups"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.southlanarkshire.gov.uk/view/news/article/2578/learn_more_about_becoming_a_foster_carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.southlanarkshire.gov.uk/view/news/article/2561/fostering_relationships_can_transform_childrens_lives",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council news pages (May and June 2025) describe fostering run by the council's 'Family Connections' team and refer readers to the council website for information and enquiries, but give no fostering page URL, phone or email. The May 2025 article states carers are sought for family groups so siblings can live together, and for older children. Website, phone and recruitment URL remain unconfirmed."
+  },
+  {
+    "id": "stirling-council-fostering",
+    "name": "Stirling Council Fostering",
+    "providerType": "local_authority",
+    "nation": "Scotland",
+    "areasServed": [
+      "Stirling"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01786 404040",
+    "website": "https://www.stirling.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "adoption-fostering@stirling.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.stirling.gov.uk/news/find-out-how-foster-caring-in-stirling-could-work-for-you-at-drop-in-event",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Council news page gives the fostering contact as 01786 404040 (also the council's main number) and the adoption-fostering mailbox, and prints the fostering information address as www.stirling.gov.uk/fostering (recorded as https; that page could not be fetched - not on allowlist). The page also links the national Scottish foster care recruitment campaign at fostercare.campaign.gov.scot. Article year not shown."
+  },
+  {
+    "id": "west-dunbartonshire-council-fostering",
+    "name": "West Dunbartonshire Council Fostering",
+    "providerType": "local_authority",
+    "nation": "Scotland",
+    "areasServed": [
+      "West Dunbartonshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01389 776414",
+    "website": "https://www.west-dunbarton.gov.uk/health-social-care/children/fostering-adoption/fostering",
+    "recruitmentUrl": "https://www.west-dunbarton.gov.uk/site-data/external-links/online-forms/health-and-social-care/fostering-enquiry",
+    "publicEnquiryEmail": "fostering@west-dunbarton.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.west-dunbarton.gov.uk/health-social-care/children/fostering-adoption/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://www.west-dunbarton.gov.uk/media/gwiazbjd/wdc-fostering-information-pack-03062026.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council page sits under 'Fostering and Adoption Services'; the council's fostering information pack (June 2026) names the Family Placement Team. Types mapped from the council's own terms: interim/temporary = short-term, permanent = long-term, short break = respite. Foster homes sought from Dumbarton, Clydebank, Alexandria and surrounding towns. Care Inspectorate registration number not published on the pages fetched."
+  },
+  {
+    "id": "fostering-and-adoption-west-lothian",
+    "name": "Fostering and Adoption West Lothian",
+    "providerType": "local_authority",
+    "nation": "Scotland",
+    "areasServed": [
+      "West Lothian"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://fosteringandadoption.westlothian.gov.uk/",
+    "recruitmentUrl": "https://fosteringandadoption.westlothian.gov.uk/article/80125/How-to-become-a-Foster-Carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fosteringandadoption.westlothian.gov.uk/article/80117/Foster-with-Us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://fosteringandadoption.westlothian.gov.uk/article/80129/Get-in-touch",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "West Lothian Council's dedicated site 'Fostering and Adoption West Lothian'. 'other' = Intensive Fostering (children generally aged 10+ with significant and complex needs); the enquiry form also offers short breaks, supported care and kinship care options but the types page was not fetched. No phone or email was visible on the pages fetched (contact is via online enquiry form at the Get-in-touch page)."
+  }
+]

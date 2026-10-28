@@ -1,0 +1,295 @@
+[
+  {
+    "id": "national-fostering-agency-north",
+    "name": "National Fostering Agency North",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Yorkshire",
+      "Lincolnshire"
+    ],
+    "address": {
+      "line1": "Elant House Unit A3, Old Power Way, Lowfields Business Park",
+      "town": "Elland",
+      "postcode": "HX5 9DE"
+    },
+    "phone": null,
+    "website": "https://www.nfa.co.uk/national-fostering-agency/office/north/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2533109",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2533109",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.nationalfosteringgroup.co.uk/find-our-agencies/fostering-in-york/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.nfa.co.uk/national-fostering-agency/office/north/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      }
+    ],
+    "notes": "Branch of the National Fostering Agency (National Fostering Group) registered separately with Ofsted on 1 September 2019; local authority area Calderdale. Group's York page states NFA North covers all of Yorkshire and Lincolnshire. Website URL taken from a search result (title 'NFA North - independent foster care agency'); the group's NFA North page could not be fetched, so phone, email and placement types were not captured."
+  },
+  {
+    "id": "tree-house-care-fostering",
+    "name": "Tree House Care Fostering Solutions",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Humberside",
+      "Lincolnshire",
+      "Yorkshire",
+      "East Midlands",
+      "North West"
+    ],
+    "address": {
+      "line1": "The Old Vicarage, 17 Heneage Road",
+      "town": "Grimsby",
+      "postcode": "DN32 9DZ"
+    },
+    "phone": "0800 012 6507",
+    "website": "https://treehousecare.org/",
+    "recruitmentUrl": "https://treehousecare.org/fostering-with-us/",
+    "publicEnquiryEmail": "enquiries@treehousecare.org",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC033189",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC033189",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://treehousecare.org/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted registered address The Old Vicarage, 17 Heneage Road, Grimsby (local authority area North East Lincolnshire; registered 31 March 2004; latest full inspection 1 December 2025). Operated by Treehouse Care Fostering Solutions Limited (trading as Tree House Care), whose website also lists a Yorkshire/North West office at Unit 14, Ebor Court, Malton Way, Adwick le Street, Doncaster DN6 7FE and a company registered address of 107 Cleethorpe Road, Grimsby DN31 3ER. The organisation also runs children's homes and domiciliary care. Placement types not stated on pages fetched."
+  },
+  {
+    "id": "safe-base-fostering",
+    "name": "Safe Base Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit A1, Patrick Tobin Business Park, Manvers",
+      "town": "Rotherham",
+      "postcode": "S63 7LL"
+    },
+    "phone": "01709 717901",
+    "website": "https://www.safebasefostering.org.uk/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "respite",
+      "emergency",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1232651",
+    "sources": [
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/2690369",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.safebasefostering.org.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      }
+    ],
+    "notes": "Address, phone, URN and placement types are from the Ofsted inspection report of May 2017 (judgement Good; 'other' = permanent placements), which is the most recent report found; the agency's website appeared in search results but could not be fetched (site error), so current operation, address and phone should be verified before publication. Areas served not stated in the report."
+  },
+  {
+    "id": "the-ethical-fostering-service",
+    "name": "The Ethical Fostering Service Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "North East Lincolnshire"
+    ],
+    "address": {
+      "line1": "123 Hallgate",
+      "town": "Cottingham",
+      "postcode": "HU16 4DA"
+    },
+    "phone": "0800 830 3023",
+    "website": "https://www.ethicalfosteringservice.co.uk/",
+    "recruitmentUrl": "https://www.ethicalfosteringservice.co.uk/who-can-foster/",
+    "publicEnquiryEmail": "enquiries@ethicalfosteringservice.co.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1274892",
+    "sources": [
+      {
+        "url": "https://www.ethicalfosteringservice.co.uk/fostering-grimsby/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1274892",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Office address in Cottingham, East Riding of Yorkshire; the fetched page is the agency's Grimsby recruitment page, which names only North East Lincolnshire as an area where carers are sought, so areas served are likely wider. URN taken from the Ofsted provider page URL seen in search results (title 'The Ethical Fostering Service Limited - Open'); that page and the 2023 inspection report (https://files.ofsted.gov.uk/v1/file/50235468) could not be fetched, so placement types were not captured. Contact page: https://www.ethicalfosteringservice.co.uk/contact-us/."
+  },
+  {
+    "id": "parallel-parents-east",
+    "name": "Parallel Parents East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Sheffield"
+    ],
+    "address": {
+      "line1": "Hub26.2, Office 003, Lawrence House, Riverside Drive",
+      "town": "Cleckheaton",
+      "postcode": "BD19 4DH"
+    },
+    "phone": "0800 023 4450",
+    "website": "https://www.parallelparents.com/",
+    "recruitmentUrl": "https://www.parallelparents.com/enquire-now",
+    "publicEnquiryEmail": "hello@parallelparents.com",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2742886",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2742886",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.parallelparents.com/fostering-regions",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://www.parallelparents.com/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl",
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Separately registered Yorkshire branch of Parallel Parents (Stockport head office, URN SC067795, already in dataset). Ofsted lists provider type 'Independent Fostering Services, Refuge', local authority area Kirklees, registration report dated 16 October 2023, latest full inspection 10 February 2025. Group's regions page says the East team is 'dedicated to Leeds, Bradford, Wakefield, Sheffield, and surrounding areas'; phone and email are the group's general enquiry contacts, not East-specific. The regions page also names a 'Parallel Parents North' team (Hull, East Riding, Doncaster, Lincolnshire) whose registration status was not confirmed."
+  },
+  {
+    "id": "action-for-children-fostering-york",
+    "name": "Action For Children Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Action for Children Roundhay Suite, Regus Tower Court, Oakdale Road",
+      "town": "York",
+      "postcode": "YO30 4XL"
+    },
+    "phone": "0800 208 4379",
+    "website": "https://www.actionforchildren.org.uk/fostering/",
+    "recruitmentUrl": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/",
+    "publicEnquiryEmail": "fostering@actionforchildren.org.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036242",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036242",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.actionforchildren.org.uk/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl",
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Charity (Action for Children) fostering service registered with Ofsted under this name at a York address; Ofsted local authority area York, registered 1 April 2003, latest full inspection 17 March 2025. Other Action for Children fostering registrations (South East, South West, Devon, North West) are already in the dataset. Phone and the generic fostering enquiry mailbox (decoded from a Cloudflare-protected link) are the charity's England-wide fostering contacts, not York-specific. The charity's England team listing names a 'North and North East England' team (https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/north-and-north-east-england/), which was not fetched, so areas served for this registration are unconfirmed."
+  }
+]

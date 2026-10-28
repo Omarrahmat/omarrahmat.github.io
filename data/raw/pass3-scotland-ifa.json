@@ -1,0 +1,98 @@
+[
+  {
+    "id": "st-andrews-childrens-society",
+    "name": "St Andrew's Children's Society",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Within 60 miles of Edinburgh",
+      "Within 60 miles of Aberdeen or Elgin"
+    ],
+    "address": {
+      "line1": "7 John's Place",
+      "town": "Edinburgh",
+      "postcode": "EH6 7EL"
+    },
+    "phone": "0131 454 3370",
+    "website": "https://sacsadopt.scot/",
+    "recruitmentUrl": "https://sacsadopt.scot/foster/fostering/",
+    "publicEnquiryEmail": "info@standrews-children.org.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://sacsadopt.scot/foster/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://sacsadopt.scot/https-sacsadopt-scot/foster/types-of-foster-care/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Voluntary adoption and fostering agency (Scottish charity SC005754). Second office published at 62 Dee Street, Aberdeen AB11 6DS, tel 01224 878158. Fostering types published as short term, long term and short break (respite). Care Inspectorate registration number not published on the pages fetched."
+  },
+  {
+    "id": "scottish-adoption-and-fostering",
+    "name": "Scottish Adoption & Fostering",
+    "providerType": "independent_agency",
+    "nation": "Scotland",
+    "areasServed": [
+      "Edinburgh and central Scotland (within a 70-mile radius of the Edinburgh office)"
+    ],
+    "address": {
+      "line1": "111 Oxgangs Road North",
+      "town": "Edinburgh",
+      "postcode": "EH14 1ED"
+    },
+    "phone": "0131 553 5060",
+    "website": "https://www.scottishadoptionandfostering.org/",
+    "recruitmentUrl": "https://www.scottishadoptionandfostering.org/fostering/foster-with-us/",
+    "publicEnquiryEmail": "info@scottishadoptionandfostering.org",
+    "fosteringTypes": [
+      "short-term",
+      "emergency",
+      "long-term",
+      "other"
+    ],
+    "regulatorName": "Care Inspectorate",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.scottishadoptionandfostering.org/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.scottishadoptionandfostering.org/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Legal name Scottish Adoption, trading as Scottish Adoption & Fostering (Scottish charity number shown on site as 012403). Fostering types published as 'Interim & Emergency Fostering' (recorded as short-term and emergency), 'Long-Term Fostering', 'Early Permanence & Concurrency' and 'Part-time Fostering' (recorded as other). Care Inspectorate registration number not published on the pages fetched."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tact-fostering-wales",
+    "name": "TACT Fostering Wales (TACT Cymru)",
+    "providerType": "independent_agency",
+    "nation": "Wales",
+    "areasServed": ["Wales", "Cardiff", "Swansea", "Port Talbot", "Neath", "Newport", "Bridgend", "Rhondda Cynon Taf", "Llandrindod Wells", "Llanelli", "North Wales"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "03301232250",
+    "website": "https://tactfostering.org.uk/",
+    "recruitmentUrl": "https://tactfostering.org.uk/location/fostering-in-wales/",
+    "publicEnquiryEmail": "fostering@tactcare.org.uk",
+    "fosteringTypes": ["parent-and-child", "other"],
+    "regulatorName": "Care Inspectorate Wales",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://tactfostering.org.uk/location/fostering-in-wales/", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website", "publicEnquiryEmail", "areasServed", "recruitmentUrl"]},
+      {"url": "https://tactfostering.org.uk/location/fostering-in-wales/fostering-in-cardiff/", "retrievedOn": "2026-10-27", "supports": ["phone", "publicEnquiryEmail", "areasServed", "fosteringTypes"]}
+    ],
+    "notes": "Welsh service of the TACT fostering charity (The Adolescent and Children's Trust); the Wales page links to a CIW Annual Return 2025/26 but gives no CIW registration number. No Wales office address is published; the only address shown is the charity's registered office, TACT Fostering, PO Box 137, Blyth NE24 9FJ (England). National enquiry line and fostering@tactcare.org.uk are charity-wide. 'other' = caring for a child with additional needs (Cardiff page). Enquiry form: https://tactfostering.org.uk/enquiry/. Welsh-language page: https://tactfostering.org.uk/location/fostering-in-wales/maethu-yng-nghymru/. Regional sub-pages exist for Cardiff, Swansea, Port Talbot, Neath, Newport, Bridgend, RCT, Wrexham and North Wales."
+  },
+  {
+    "id": "family-fostering-partners",
+    "name": "Family Fostering Partners",
+    "providerType": "independent_agency",
+    "nation": "Wales",
+    "areasServed": ["Wales", "South Wales", "Mid Wales", "Carmarthenshire", "Swansea"],
+    "address": {"line1": null, "town": "Llanelli", "postcode": null},
+    "phone": "03300948816",
+    "website": "https://www.familyfosteringpartners.co.uk/",
+    "recruitmentUrl": "https://www.familyfosteringpartners.co.uk/how-to-become-a-foster-parent/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": ["short-term", "long-term", "respite", "emergency", "parent-and-child", "teenagers"],
+    "regulatorName": "Care Inspectorate Wales",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://www.familyfosteringpartners.co.uk/fostering-in-swansea/", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website", "areasServed", "fosteringTypes", "recruitmentUrl", "address"]},
+      {"url": "https://www.familyfosteringpartners.co.uk/fostering-in-carmarthenshire/", "retrievedOn": "2026-10-27", "supports": ["phone", "areasServed", "fosteringTypes"]}
+    ],
+    "notes": "Welsh head office of Family Fostering Partners Limited (the dataset already holds its Ofsted-registered Hereford branch, family-fostering-partners-hereford, whose notes place the registered provider in Cross Hands, Carmarthenshire). The Swansea page describes the company only as 'Llanelli-based'; no street address or postcode was published on the fetched pages and the contact page could not be fetched (not on allowlist). A Carmarthenshire enquiry line 01267 232228 appears in the Carmarthenshire page's meta description. The site also says the network stretches into Mid-West England. No CIW registration number seen; footer shows FosterTalk / NAFP membership."
+  },
+  {
+    "id": "supported-fostering-services-cardiff",
+    "name": "Supported Fostering Services (SFS) - The Supported Fostering Services Charitable Trust",
+    "providerType": "independent_agency",
+    "nation": "Wales",
+    "areasServed": ["Cardiff", "South Wales", "Wales"],
+    "address": {"line1": "4 Richmond Road", "town": "Cardiff", "postcode": "CF24 3AS"},
+    "phone": "02920460004",
+    "website": "https://fostering.com/",
+    "recruitmentUrl": "https://fostering.com/foster-parent-enquiry/",
+    "publicEnquiryEmail": "cardiff@fostering.com",
+    "fosteringTypes": ["long-term", "parent-and-child"],
+    "regulatorName": "Care Inspectorate Wales",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://fostering.com/contact-us/", "retrievedOn": "2026-10-27", "supports": ["name", "address", "phone", "publicEnquiryEmail", "areasServed", "recruitmentUrl"]},
+      {"url": "https://fostering.com/", "retrievedOn": "2026-10-27", "supports": ["name", "website", "areasServed", "fosteringTypes"]},
+      {"url": "https://www.careinspectorate.wales/supported-fostering-services-charitable-trust-0", "retrievedOn": "2026-10-27", "supports": ["name"]}
+    ],
+    "notes": "Registered fostering charity based in Cardiff (site says 25 years operating, with a Cardiff-based social work team covering South Wales). The CIW service page 'The Supported Fostering Services Charitable Trust' appeared in search results (name only) but could not be fetched (site error), so no CIW reference recorded. publicEnquiryEmail is the Cardiff office mailbox shown on the contact page. fosteringTypes taken from the home page's 'Long Term Fostering' and 'Parent & Child Fostering' story headings only; the site does not publish a full list of placement types. Charity number not shown on the fetched pages."
+  },
+  {
+    "id": "1st-affinity-fostering-services",
+    "name": "1st Affinity Fostering Services Limited (1st Affinity Fostering Service)",
+    "providerType": "independent_agency",
+    "nation": "Wales",
+    "areasServed": ["North Wales", "North West England"],
+    "address": {"line1": "19A Chester Road, Gresford", "town": "Wrexham", "postcode": "LL12 8NB"},
+    "phone": null,
+    "website": "https://1st-affinity-fostering.co.uk/",
+    "recruitmentUrl": "https://1st-affinity-fostering.co.uk/become-a-foster-carer/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Care Inspectorate Wales",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://1st-affinity-fostering.co.uk/", "retrievedOn": "2026-10-27", "supports": ["name", "address", "website", "areasServed", "recruitmentUrl"]}
+    ],
+    "notes": "Small independent agency in Gresford, Wrexham; not related to Affinity Fostering (Essex, already in dataset). The home-page footer shows two Gresford addresses: 19A Chester Road, Gresford, Wrexham LL12 8NB and 4a Chester Road, Gresford, Wrexham LL12 8TN; which is the registered office is not stated. No phone or email published on the home page; the contact and become-a-foster-carer pages were declined by the fetch allowlist. Site says foster families are mainly in North Wales and North West England, placements taken from across the UK, ages 0-18, and it works with local authorities in Wales and England. Regulator not stated on the site (assumed CIW from the Welsh office; verify)."
+  }
+]

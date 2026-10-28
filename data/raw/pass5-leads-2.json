@@ -1,0 +1,764 @@
+[
+ {
+  "id": "compass-fostering-south",
+  "name": "Compass Fostering South",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "West Sussex",
+   "Hampshire",
+   "East Sussex"
+  ],
+  "address": {
+   "line1": "Unimer House, Dominion Way, Rustington",
+   "town": "Littlehampton",
+   "postcode": "BN16 3HQ"
+  },
+  "phone": "01903857250",
+  "website": "https://www.compassfostering.com/",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "emergency",
+   "sibling-groups",
+   "parent-and-child"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC465949",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC465949",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50225995",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "fosteringTypes",
+     "areasServed",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://www.compassfostering.com/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open; latest full inspection 7 September 2026 (published 16 October 2026), rating not shown on the provider page. Phone and placement types are from the June 2023 Ofsted inspection report (judgement good; registered provider Compass Fostering South Limited, 3 Rayns Way, Syston, Leicester LE7 1PF). areasServed are the office locations named in that report: head office Rustington, West Sussex, with additional offices in Fareham (Hampshire) and Hastings (East Sussex). One of seven Compass Fostering branches; group website seen as a search result only, so no recruitment page recorded."
+ },
+ {
+  "id": "isp-southampton",
+  "name": "ISP Southampton",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Hampshire",
+   "Dorset"
+  ],
+  "address": {
+   "line1": "ISP, Ashurst Lodge, Ashurst",
+   "town": "Southampton",
+   "postcode": "SO40 7AA"
+  },
+  "phone": "02380089689",
+  "website": "https://ispfostering.org.uk/",
+  "recruitmentUrl": "https://ispfostering.org.uk/regions/hampshire-dorset/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "therapeutic",
+   "respite",
+   "short-term",
+   "long-term",
+   "emergency",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://ispfostering.org.uk/regions/hampshire-dorset/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://ispfostering.org.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "Regional office of ISP (Integrated Services Programme) Fostering: the Hampshire & Dorset regional page is headed 'Fostering in Southampton' and gives the Ashurst Lodge address and office phone 02380 089689 (national enquiry line 0800 0857 989). The Ofsted provider page was not found by search and the Ofsted report linked from the page could not be fetched, so the URN and Ofsted status are unconfirmed (the page links an ISP Sussex statement of purpose, URN SC383539, so this office may sit under another ISP registration). Page lists Horsham, Fareham, Portsmouth, Waterlooville, Southampton, Winchester, Andover, Salisbury, Christchurch, Bournemouth, Poole, Basingstoke, Eastleigh and Gosport (list may be site-wide). fosteringTypes: therapeutic and respite stated on the page; the rest from the site-wide 'Types of fostering' menu ('other' = disability fostering and unaccompanied children). Enquiry form: https://ispfostering.org.uk/enquiry/."
+ },
+ {
+  "id": "quality-foster-care",
+  "name": "Quality Foster Care",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Essex",
+   "East London"
+  ],
+  "address": {
+   "line1": "4 Sylvan Court, Sylvan Way",
+   "town": "Basildon",
+   "postcode": "SS15 6TH"
+  },
+  "phone": "01268919469",
+  "website": "https://www.qualityfostercare.com/",
+  "recruitmentUrl": "https://www.qualityfostercare.com/become-a-foster-carer/",
+  "publicEnquiryEmail": "carer.enquiries@qualityfostercare.com",
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC048508",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC048508",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://www.qualityfostercare.com/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (registered 19 January 2004; Independent Fostering Services; local authority area Essex). Ofsted address is Basildon; the website says the agency is 'based in Benfleet' but shows no postal address. Registered company Quality Foster Care Ltd. Phone is the new-enquiries line (existing-carers line 01268 795 597). Website says rated Good by Ofsted. Types-of-fostering page not fetched, so no fostering types recorded. Apply page: https://www.qualityfostercare.com/apply-to-foster/. The Five Rivers London & East hub page (https://five-rivers.org/fostering/hub/london-and-east/) lists 'Quality Foster Care' among its local teams and gives the same 4 Sylvan Court, Basildon SS15 6TH address (Five Rivers Fostering Service London and East, SC036616), so this agency appears to operate within the Five Rivers group while keeping its own Ofsted registration."
+ },
+ {
+  "id": "brighter-fostering",
+  "name": "Brighter Fostering Limited",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Suite F, 2nd Floor, Mabgate Mills, Mill 2",
+   "town": "Leeds",
+   "postcode": "LS9 7DZ"
+  },
+  "phone": "01133509006",
+  "website": "https://brighterfostering.co.uk/",
+  "recruitmentUrl": "https://brighterfostering.co.uk/become-a-foster-carer/",
+  "publicEnquiryEmail": "info@brighterfostering.co.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2651004",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2651004",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://brighterfostering.co.uk/privacy-notice/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (registered 23 November 2021; provider type 'Independent Fostering Services, Refuge'; local authority area Leeds; latest full inspection 20 October 2025, outcome not shown on the provider page). Trading as Brighter Fostering; company number 13362439. Website address matches the Ofsted record. Phone is the Leeds number shown in the site header; a second footer number 0203 930 0277 is also published. Areas served and fostering types are not stated on the page fetched (only the privacy-notice page was reachable). Contact page: https://brighterfostering.co.uk/contact/."
+ },
+ {
+  "id": "unity-foster-care",
+  "name": "Unity Foster Care",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Leeds",
+   "Bradford",
+   "Calderdale",
+   "Darlington",
+   "Durham",
+   "Halifax",
+   "Huddersfield",
+   "Hull",
+   "Kirklees",
+   "Teesside",
+   "Wakefield",
+   "York"
+  ],
+  "address": {
+   "line1": "First Floor, 4340 The Pentagon, Park Approach, Thorpe Park",
+   "town": "Leeds",
+   "postcode": "LS15 8GB"
+  },
+  "phone": "03337722333",
+  "website": "https://unityfostercare.co.uk/",
+  "recruitmentUrl": "https://unityfostercare.co.uk/becoming-a-foster-carer/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1228523",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1228523",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://unityfostercare.co.uk/our-locations/leeds/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "regulatorReference"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (registered 7 June 2016; Independent Fostering Services; local authority area Leeds; full inspection published 27 September 2025 and monitoring visit published 13 October 2026, outcomes not shown on the provider page). Website states 'Ofsted Number: 1228523'. areasServed are the locations listed in the site navigation (Leeds page plus Bradford, Calderdale, Darlington, Durham, Halifax, Huddersfield, Hull, Kirklees, Teesside, Wakefield, York). Types-of-foster-care page not fetched; the Leeds page notes placements are more commonly for children aged 8+. Email obfuscated on the site. Apply page: https://unityfostercare.co.uk/apply/."
+ },
+ {
+  "id": "the-childrens-family-trust",
+  "name": "The Children's Family Trust",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Hanbury Court, Harris Business Park, Hanbury Road, Stoke Prior",
+   "town": "Bromsgrove",
+   "postcode": "B60 4DJ"
+  },
+  "phone": null,
+  "website": "https://thecft.org.uk/",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC034804",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC034804",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://thecft.org.uk/about-us/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (Independent Fostering Services; local authority area Worcestershire; latest full inspection 14 July 2025, published 21 August 2025, outcome not shown on the provider page). Fostering charity with a national network of offices; the 'where we work' page (https://thecft.org.uk/who-we-are/where-we-work/) failed to load, so phone, areas served, fostering types and recruitment page are unrecorded. Website seen as a search result only (about-us page and a March 2025 statement of purpose PDF at thecft.org.uk)."
+ },
+ {
+  "id": "lorimer-foster-services",
+  "name": "Lorimer Foster Services",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Greater Manchester",
+   "Manchester",
+   "Trafford",
+   "Oldham",
+   "Tameside",
+   "Stockport",
+   "Salford",
+   "Cheshire",
+   "Warrington",
+   "Lancashire",
+   "Blackpool",
+   "Bolton",
+   "Preston",
+   "Lancaster",
+   "Merseyside",
+   "Liverpool",
+   "St Helens",
+   "Wirral",
+   "Knowsley",
+   "Sefton"
+  ],
+  "address": {
+   "line1": "Lorimer House, 2a Carrington Lane",
+   "town": "Sale",
+   "postcode": "M33 5ND"
+  },
+  "phone": "01619727760",
+  "website": "https://www.lorimerfostering.com/",
+  "recruitmentUrl": "https://www.lorimerfostering.com/becoming-a-foster-carer/",
+  "publicEnquiryEmail": "foster@lorimerfostering.com",
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC059742",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC059742",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://www.lorimerfostering.com/about-us/areas-we-cover/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (Independent Fostering Services; local authority area Trafford; latest full inspection 6 November 2023, published 3 January 2024, outcome not shown on the provider page). Trades as Lorimer Fostering; Ofsted address 2a Carrington Lane, Sale, Cheshire M33 5ND matches the website. Phone recorded is the office landline for 'all other enquiries'; the site directs fostering enquiries to a mobile/WhatsApp number, which is not recorded. Types-of-foster-care page not fetched, so no fostering types recorded."
+ },
+ {
+  "id": "thrive-foster-care",
+  "name": "Thrive Foster Care Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Guardian House, Capricorn Park, Blakewater Road",
+   "town": "Blackburn",
+   "postcode": "BB1 5QR"
+  },
+  "phone": null,
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "sibling-groups",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2727994",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2727994",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50250900",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes",
+     "regulatorReference"
+    ]
+   }
+  ],
+  "notes": "Lead was 'Inspire Fostering, Rossendale': the same registration (URN 2727994, registered 17 August 2023) was inspected in May 2024 as Inspire Fostering Ltd, Link 665 Business Centre, Todd Hall Road, Haslingden, Rossendale BB4 5HU (judgement good; telephone then published as 01282 222060), and the Ofsted provider page now shows the service as Thrive Foster Care Ltd at Blackburn BB1 5QR, status Open, local authority area Blackburn with Darwen. No current website or phone found; the 2024 number is not recorded because it predates the rename and move. 'other' = specialist placements for unaccompanied asylum-seeking children (from the 2024 report)."
+ },
+ {
+  "id": "skylark-fostering",
+  "name": "Skylark Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Lincolnshire"
+  ],
+  "address": {
+   "line1": "Unit 11 Oak House, Waterside South",
+   "town": "Lincoln",
+   "postcode": "LN5 7FB"
+  },
+  "phone": "01522303275",
+  "website": "https://www.skylarkfostering.co.uk/",
+  "recruitmentUrl": "https://www.skylarkfostering.co.uk/assessment",
+  "publicEnquiryEmail": "info@skylarkfostering.co.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2798877",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2798877",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://www.skylarkfostering.co.uk/contact",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (Registration entry dated 8 November 2024; Independent Fostering Services; local authority area Lincolnshire; latest full inspection 10 November 2025, published 17 December 2025, outcome not shown on the provider page). Website contact page gives 'Office 11, Oak House, Waterside South, Lincoln LN5 7FB', matching the Ofsted record. recruitmentUrl is the site's 'Assessment process' page (no separate become-a-foster-carer page in the navigation; brochure request: https://www.skylarkfostering.co.uk/brochure-request). Types-of-fostering page (https://www.skylarkfostering.co.uk/fostering-types) not fetched."
+ },
+ {
+  "id": "fostering-solutions-midlands",
+  "name": "Fostering Solutions Midlands",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Midlands",
+   "Staffordshire",
+   "Nottingham"
+  ],
+  "address": {
+   "line1": "Priestly Court, Gillette Close, Staffordshire Technology Park, Beaconside",
+   "town": "Stafford",
+   "postcode": "ST18 0LQ"
+  },
+  "phone": "01785250300",
+  "website": "https://www.nationalfosteringgroup.co.uk/fostering-solutions/midlands/",
+  "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/",
+  "publicEnquiryEmail": "hello@fosteringsolutions.com",
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC060642",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC060642",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/fostering-solutions/midlands/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Ofsted registered name 'Fostering Solutions Ltd' (registered 14 April 2005; status Open; Independent Fostering Services; local authority area Staffordshire; latest full inspection 29 September 2025, published 15 November 2025, outcome not shown on the provider page). Part of National Fostering Group; the Midlands page shows two offices, Stafford (ST18 0LQ, matching Ofsted) and Long Eaton (Bramley House, 2a Bramley Road, Long Eaton, Nottingham NG10 3SX), sharing phone 01785 250300. Page says rated Good by Ofsted. No fostering types stated on the page. Enquiry form: https://www.nationalfosteringgroup.co.uk/enquire-now/."
+ },
+ {
+  "id": "voice-fostering",
+  "name": "Voice Fostering Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "595 Tanworth Lane, Shirley",
+   "town": "Solihull",
+   "postcode": "B90 4JE"
+  },
+  "phone": null,
+  "website": "https://voicefostering.co.uk/",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": "info@voicefostering.co.uk",
+  "fosteringTypes": [
+   "long-term"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC451077",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC451077",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://voicefostering.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "website",
+     "publicEnquiryEmail",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (registered 1 August 2012; Independent Fostering Services; local authority area Solihull; latest full inspection 3 February 2025, published 15 March 2025, outcome not shown on the provider page). Website address matches the Ofsted record. The only phone published on the website is a mobile number, so phone is not recorded. Website states long-term/permanent placements only; no areas served stated; no separate become-a-foster-carer page (contact form on the homepage)."
+ },
+ {
+  "id": "all4u-fostering",
+  "name": "All4u Fostering Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Bedfordshire",
+   "Buckinghamshire",
+   "Cambridgeshire",
+   "East Sussex",
+   "Hertfordshire",
+   "Kent",
+   "Milton Keynes",
+   "Northamptonshire",
+   "South London"
+  ],
+  "address": {
+   "line1": "Wood Farm, Burlings Lane, Knockholt",
+   "town": "Sevenoaks",
+   "postcode": "TN14 7PF"
+  },
+  "phone": "08009175754",
+  "website": "https://www.all4ufostering.co.uk/",
+  "recruitmentUrl": "https://www.all4ufostering.co.uk/fostering-with-all4u",
+  "publicEnquiryEmail": "info@all4ufostering.co.uk",
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "sibling-groups",
+   "parent-and-child",
+   "respite",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1255143",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1255143",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://www.all4ufostering.co.uk/where-we-operate",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (registered 11 June 2017; Independent Fostering Services; local authority area Kent; latest full inspection 22 June 2026, published 7 August 2026, outcome not shown on the provider page). Website says head office is in Sevenoaks, Kent (no street address shown); page says the agency works with local authorities across the south and east of England, over 50 including London boroughs. fosteringTypes are from the site navigation on the page fetched ('other' = fostering asylum-seekers and children with disabilities). Ofsted reports page: https://www.all4ufostering.co.uk/ofsted-reports; contact page: https://www.all4ufostering.co.uk/contact-us."
+ },
+ {
+  "id": "uk-fostering-north-east",
+  "name": "UK Fostering North East",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "North East"
+  ],
+  "address": {
+   "line1": "Suite 36 and 37, Business & Innovation Centre, Wearfield",
+   "town": "Sunderland",
+   "postcode": "SR5 2TA"
+  },
+  "phone": null,
+  "website": "https://ukfostering.org.uk/",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term",
+   "parent-and-child",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2587198",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2587198",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50168059",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "fosteringTypes",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://ukfostering.org.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "Separately registered North East branch of UK Fostering (registered 26 May 2020; status Open; Independent Fostering Services; local authority area Sunderland; latest full inspection 10 February 2025, published 26 June 2025, outcome not shown on the provider page). July 2021 inspection report: judgement Outstanding; registered provider UK Fostering (NE) Limited, Bridge House, High Street, Dartford, Kent DA1 1DJ (the group's head office, already recorded as 'uk-fostering', URN SC448220); office then Room L1 at the same Sunderland centre; the only phone published in that report is a mobile number, so phone is not recorded (group enquiry line is on the uk-fostering record). 'other' = remand placements. areasServed taken from the branch name; group website seen as a search result only."
+ },
+ {
+  "id": "county-fostering-service",
+  "name": "County Fostering Service Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Northampton",
+   "Milton Keynes"
+  ],
+  "address": {
+   "line1": "Flexspace, Unit 22, 4 Summerhouse Road, Moulton Park",
+   "town": "Northampton",
+   "postcode": "NN3 6BJ"
+  },
+  "phone": "01604438581",
+  "website": "https://countyfostering.com/",
+  "recruitmentUrl": "https://countyfostering.com/about-fostering/become-a-foster-carer/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2484185",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2484185",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://countyfostering.com/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (registered 8 March 2019; Independent Fostering Services; local authority area West Northamptonshire; full inspection 8 July 2024 and monitoring visit 21 October 2025, outcomes not shown on the provider page). Website footer names 'County Fostering Services Ltd' and trades as County Fostering; address matches the Ofsted record. Website describes itself as an independent fostering agency for Northampton and Milton Keynes. Published mailboxes are admin@countyfostering.co.uk and a gmail address, neither clearly a fostering-enquiries address, so publicEnquiryEmail is null."
+ },
+ {
+  "id": "five-rivers-fostering-service-london-and-east",
+  "name": "Five Rivers Fostering Service London and East",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "London and East England",
+   "Barking & Dagenham",
+   "Romford",
+   "Enfield",
+   "Colchester",
+   "Ilford",
+   "Chelmsford",
+   "Walthamstow",
+   "Hornchurch",
+   "Rainham"
+  ],
+  "address": {
+   "line1": "Atlas House, 4 Sylvan Court, Sylvan Way",
+   "town": "Basildon",
+   "postcode": "SS15 6TH"
+  },
+  "phone": "03330603962",
+  "website": "https://five-rivers.org/",
+  "recruitmentUrl": "https://five-rivers.org/fostering/hub/london-and-east/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC036616",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC036616",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://five-rivers.org/fostering/hub/london-and-east/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open (registration entry 19 August 2003; Independent Fostering Services; local authority area Essex; latest full inspection 22 September 2025, published 12 November 2025, outcome not shown on the provider page). Five Rivers Child Care group site; the London & East hub page gives Atlas House, 4 Sylvan Court, Sylvan Way, Laindon SS15 6TH, matching the Ofsted record. Phone is the 'Enquire to foster' 03 number (existing-carers line 01708 242385). Enquiry email is obfuscated on the page. The hub page lists local teams including 'Quality Foster Care', which is separately registered with Ofsted (SC048508) at the same Basildon address. Group become-a-foster-carer page: https://five-rivers.org/fostering/becoming-a-foster-carer/; apply page: https://five-rivers.org/fostering/apply/. No fostering types stated on the page."
+ }
+]

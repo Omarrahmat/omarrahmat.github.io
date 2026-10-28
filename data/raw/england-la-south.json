@@ -1,0 +1,595 @@
+[
+  {
+    "id": "bracknell-forest-fostering",
+    "name": "Bracknell Forest Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Bracknell Forest"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 131 2797",
+    "website": "https://www.bracknell-forest.gov.uk/children-and-family-services/fostering-adoption-and-looked-after-children/bracknell-forest-fostering",
+    "recruitmentUrl": "https://www.bracknell-forest.gov.uk/children-and-family-services/fostering-adoption-and-looked-after-children/bracknell-forest-fostering/becoming-foster-carer",
+    "publicEnquiryEmail": "info@lafosteringse.org.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.bracknell-forest.gov.uk/children-and-family-services/fostering-adoption-and-looked-after-children/bracknell-forest-fostering/becoming-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://www.bracknell-forest.gov.uk/children-and-family-services/fostering-adoption-and-looked-after-children/bracknell-forest-fostering/types-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Bracknell Forest Council's fostering service. Enquiries are routed via the Local Authority Fostering South East regional hub (phone 0300 131 2797, info@lafosteringse.org.uk, enquiry form at contact.lafosteringse.org.uk). 'Other' types: supported lodgings (16-18), children seeking refuge (unaccompanied asylum-seeking children), connected care."
+  },
+  {
+    "id": "brighton-and-hove-city-council-fostering",
+    "name": "Brighton & Hove City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Brighton and Hove"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.brighton-hove.gov.uk/fostering-brighton-hove",
+    "recruitmentUrl": "https://www.brighton-hove.gov.uk/fostering-brighton-hove/your-journey-becoming-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.brighton-hove.gov.uk/news/2024/celebrate-foster-care-fortnight-taking-first-step-becoming-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Main fostering page (www.brighton-hove.gov.uk/fostering-brighton-hove) returned no readable content when fetched; details taken from a council news page linking to it. No phone number found."
+  },
+  {
+    "id": "foster-with-bucks",
+    "name": "Foster with Bucks",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Buckinghamshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01296 674 973",
+    "website": "https://fostering.buckinghamshire.gov.uk",
+    "recruitmentUrl": "https://fostering.buckinghamshire.gov.uk/how-to-apply/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "therapeutic",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.buckinghamshire.gov.uk",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostering.buckinghamshire.gov.uk/types-of-foster-care/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Buckinghamshire Council's fostering service, branded 'Foster with Bucks'. Phone line Mon-Fri 9am-5pm. 'Other' types: early permanence, family and friends, refugees and asylum, short breaks."
+  },
+  {
+    "id": "east-sussex-county-council-fostering",
+    "name": "East Sussex County Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "East Sussex"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01323 464129",
+    "website": "https://www.eastsussex.gov.uk/children-families/children-in-care/fostering",
+    "recruitmentUrl": "https://www.eastsussex.gov.uk/children-families/children-in-care/fostering/become-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.eastsussex.gov.uk/children-families/children-in-care/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.eastsussex.gov.uk/children-families/children-in-care/fostering/become-foster-carer/fostering-reference-forms/form-adoption-fostering-service",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Phone number is the Adoption/Fostering service number published on the council's fostering reference form page; the main fostering page uses an online enquiry form (form-fostering-enquiry) and a contact-us page rather than a listed number."
+  },
+  {
+    "id": "fostering-hampshire-children",
+    "name": "Fostering Hampshire Children",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Hampshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01489 587052",
+    "website": "https://www.hants.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.hants.gov.uk/socialcareandhealth/fostering/storiesandevents/news/find-more-foster-carers-110724",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.hants.gov.uk/socialcareandhealth/fostering/storiesandevents/news/reasons-to-foster",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      }
+    ],
+    "notes": "Hampshire County Council's fostering service, branded 'Fostering Hampshire Children'. Member of the Local Authority Fostering South East regional hub (hub recruitment line 0300 131 2797). The main fostering landing page URL was not confirmed within the call limit; website recorded as the council domain."
+  },
+  {
+    "id": "isle-of-wight-council-fostering",
+    "name": "Isle of Wight Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Isle of Wight"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 131 2797",
+    "website": "https://www.iow.gov.uk/children-and-family-support/fostering/what-is-fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "info@lafosteringse.org.uk",
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.iow.gov.uk/children-and-family-support/fostering/what-is-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://www.iow.gov.uk/article/3691/Isle-of-Wight-Council-Supports-Foster-Care-Fortnight-2026",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Isle of Wight Council's fostering team recruits through the Local Authority Fostering South East regional hub; the phone number and email recorded are the hub's published enquiry contacts (line open 9am-5pm)."
+  },
+  {
+    "id": "kent-county-council-fostering",
+    "name": "Kent County Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Kent"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 131 2797",
+    "website": "https://www.kent.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://news.kent.gov.uk/articles/kent-county-councils-fostering-service-joins-forces-with-other-south-east-local-authorities-to-recruit-more-foster-carers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Kent County Council's fostering service recruits through the Local Authority Fostering South East regional hub (LAfosteringSE.org.uk); phone recorded is the hub recruitment line. The dedicated Kent fostering web page URL was not confirmed within the call limit; website recorded as the council domain."
+  },
+  {
+    "id": "foster-for-medway",
+    "name": "Foster for Medway",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Medway"
+    ],
+    "address": {
+      "line1": "Gun Wharf, Dock Road",
+      "town": "Chatham",
+      "postcode": "ME4 4TR"
+    },
+    "phone": "0300 131 2797",
+    "website": "https://www.medway.gov.uk/fostering",
+    "recruitmentUrl": "https://www.medway.gov.uk/info/200250/fostering_process",
+    "publicEnquiryEmail": "fcrecruitment@medway.gov.uk",
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.medway.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "publicEnquiryEmail",
+          "address"
+        ]
+      },
+      {
+        "url": "https://www.medway.gov.uk/info/200918/what_fostering_is",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "phone",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Medway Council's fostering service. Address is the council's published main office address (page footer), not a fostering-specific office. Member of the Local Authority Fostering South East regional hub (www.lafosteringse.org.uk); phone recorded is the hub line; hub enquiry form at contact.lafosteringse.org.uk/lareferral/medway. 'Other' types: short-break fostering, supported homes scheme."
+  },
+  {
+    "id": "milton-keynes-city-council-fostering",
+    "name": "Milton Keynes City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Milton Keynes"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 131 2797",
+    "website": "https://www.milton-keynes.gov.uk/children-young-people-and-families/fostering",
+    "recruitmentUrl": "https://www.milton-keynes.gov.uk/children-young-people-and-families/fostering/fostering-process",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.milton-keynes.gov.uk/children-young-people-and-families/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.milton-keynes.gov.uk/children-young-people-and-families/fostering/fostering-process",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Page carries the 'Fostering South East' hub branding; enquiry form hosted by the Local Authority Fostering South East hub (contact.lafosteringse.org.uk/lareferral/milton-keynes). A 'Types of fostering' page exists but was not fetched."
+  },
+  {
+    "id": "oxfordshire-county-council-fostering",
+    "name": "Fostering with Oxfordshire County Council",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Oxfordshire"
+    ],
+    "address": {
+      "line1": "County Hall, New Road",
+      "town": "Oxford",
+      "postcode": "OX1 1ND"
+    },
+    "phone": "0300 131 2797",
+    "website": "https://www.oxfordshire.gov.uk/fostering",
+    "recruitmentUrl": "https://www.oxfordshire.gov.uk/fostering",
+    "publicEnquiryEmail": "fostering@oxfordshire.gov.uk",
+    "fosteringTypes": [
+      "teenagers",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.oxfordshire.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://news.oxfordshire.gov.uk/transform-your-life--become-a-foster-carer/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "publicEnquiryEmail",
+          "fosteringTypes",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Phone is the number on the current council fostering page (Mon-Thu 9am-5pm, Fri 9am-4pm), which matches the Local Authority Fostering South East hub line; a council press release (schools.oxfordshire.gov.uk, 2024) reports Oxfordshire joined the regional hub. Email, address and fostering types come from a council news article (undated in extract) and may be older. 'Other': babies and toddlers, children with disabilities, specialist schemes."
+  },
+  {
+    "id": "brighter-futures-for-children-reading",
+    "name": "Brighter Futures for Children",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Reading"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.reading.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.reading.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council-owned company delivering children's services, including fostering, for Reading Borough Council. The council's fostering page (reading.gov.uk/fostering) redirects to www.readingfostering.co.uk, which could not be fetched (not on allowlist), so phone, email and fostering types are unconfirmed."
+  },
+  {
+    "id": "slough-children-first",
+    "name": "Slough Children First",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Slough"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://fosterwithslough.co.uk/",
+    "recruitmentUrl": "https://www.slough.gov.uk/children-young-people-families/foster-slough-1",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.slough.gov.uk/children-young-people-families/foster-slough-1",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council-owned company delivering children's services for Slough Borough Council; fostering recruitment is branded 'Foster with Slough' (fosterwithslough.co.uk, which could not be fetched). The council page gives an SMS enquiry route (text FOSTER to 60066) but no phone number."
+  },
+  {
+    "id": "fostering-southampton",
+    "name": "Fostering Southampton",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Southampton"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 131 2797",
+    "website": "https://www.southampton.gov.uk/children-families/fostering/",
+    "recruitmentUrl": "https://www.southampton.gov.uk/children-families/fostering/become-a-foster-carer/",
+    "publicEnquiryEmail": "info@lafosteringse.org.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.southampton.gov.uk/children-families/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://southampton.gov.uk/children-families/fostering/why-foster-with-us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "recruitmentUrl",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Southampton City Council's fostering team, branded 'Fostering Southampton' on council news pages. Member of the Local Authority Fostering South East regional hub; phone and email recorded are the hub's (line 9am-5pm Mon-Fri); hub enquiry form at contact.lafosteringse.org.uk/lareferral/southampton. A 'types of fostering' page exists but was not fetched."
+  },
+  {
+    "id": "surrey-county-council-fostering",
+    "name": "Surrey County Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Surrey"
+    ],
+    "address": {
+      "line1": "Woodhatch Place, 11 Cockshot Hill",
+      "town": "Reigate",
+      "postcode": "RH2 8EF"
+    },
+    "phone": "01372 832929",
+    "website": "https://www.surreycc.gov.uk/children/social-care/fostering",
+    "recruitmentUrl": "https://www.surreycc.gov.uk/children/social-care/fostering/how",
+    "publicEnquiryEmail": "info@lafosteringse.org.uk",
+    "fosteringTypes": [
+      "emergency",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.surreycc.gov.uk/children/social-care/fostering/how",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes",
+          "address"
+        ]
+      },
+      {
+        "url": "https://www.surreycc.gov.uk/children/social-care/fostering/contact",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Address is the council's published headquarters. Phone line Mon-Fri 9am-5pm; the enquiry email is the Local Authority Fostering South East hub mailbox. 'Other' types listed: general fostering, short breaks, sleepover foster carers, supported lodgings, young refugees, foster to adopt, kinship, Helping Hands."
+  }
+]

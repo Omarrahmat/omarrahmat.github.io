@@ -1,0 +1,846 @@
+[
+  {
+    "id": "hammersmith-and-fulham-council-fostering",
+    "name": "Hammersmith and Fulham Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Hammersmith and Fulham"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.lbhf.gov.uk/children-and-young-people/fostering-and-adoption",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.lbhf.gov.uk/children-and-young-people/fostering-and-adoption",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.lbhf.gov.uk/news/2024/01/hf-foster-carers-exempt-local-council-tax",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council page describes its fostering service as a joint service with the Royal Borough of Kensington and Chelsea and Westminster City Council. No published service name, phone or recruitment page found on the pages fetched. The council publishes a 'Foster with West London' privacy notice (https://www.lbhf.gov.uk/councillors-and-democracy/data-and-information/foster-west-london-privacy-notice, seen in search results), indicating participation in the Foster with West London regional recruitment hub; hub page for the borough not confirmed. Fostering Service Statement of Purpose 2020-2021 page: https://www.lbhf.gov.uk/children-and-young-people/fostering-and-adoption/fostering-service-statement-purpose-2020-2021 (seen in search results, not fetched)."
+  },
+  {
+    "id": "haringey-council-fostering",
+    "name": "Haringey Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Haringey"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://haringey.gov.uk/children-young-people-families/childrens-social-care/fostering",
+    "recruitmentUrl": "https://haringey.gov.uk/children-young-people-families/childrens-social-care/fostering/become-a-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.minutes.haringey.gov.uk/documents/s154275/Appendix I - Haringey - Fostering Annual Report 2024-2025.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://haringey.gov.uk/children-young-people-families/childrens-social-care/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      },
+      {
+        "url": "https://haringey.gov.uk/children-young-people-families/childrens-social-care/fostering/become-a-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Name and fostering types from the council's Fostering Service Annual Report 2024/25 (council committee papers). Website and recruitment URLs seen as search results on haringey.gov.uk (not fetched). Haringey is one of the six boroughs (Barnet, Camden, Enfield, Hackney, Haringey, Islington) whose foster carer recruitment is provided through the shared North London Fostering Hub / Foster North London (https://www.fosternorthlondon.gov.uk), per Islington Council's fostering site; Haringey also publishes a 'North London fostering hub' page (https://haringey.gov.uk/children-young-people-families/childrens-social-care/fostering/fostering-blog/north-london-fostering-hub). Statement of purpose PDF: https://www.haringey.gov.uk/sites/default/files/2024-08/fostering_service_statement_of_purpose_1.pdf (not fetched). No phone or address confirmed."
+  },
+  {
+    "id": "harrow-council-fostering",
+    "name": "Harrow Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Harrow"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 8753 1075",
+    "website": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1",
+    "recruitmentUrl": "https://www.fosterwithwestlondon.org.uk/your-local-council/fostering-harrow",
+    "publicEnquiryEmail": "contact@fosterwithwestlondon.org.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://harrow.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "phone",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Enquiries, recruitment and assessment for Harrow are handled by the Foster with West London regional fostering service (eight west London local authorities). The phone number and email recorded are the Foster with West London team's, as published on the council's fostering page. Hub site: https://www.fosterwithwestlondon.org.uk/ ; register-interest page for Harrow: https://www.fosterwithwestlondon.org.uk/contact/harrow. The council page https://harrow.gov.uk/fostering resolves to the canonical page recorded as website. No office address or fostering types stated on the page."
+  },
+  {
+    "id": "hillingdon-council-fostering",
+    "name": "Hillingdon Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Hillingdon"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.hillingdon.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.hillingdon.gov.uk/article/14197/Could-you-give-a-child-a-loving-home",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council article directs readers to www.hillingdon.gov.uk/fostering for fostering with Hillingdon; that page could not be fetched (not permitted), so no phone, address, service name or fostering types are confirmed. A Hillingdon page on the Foster with West London hub site exists at a council-hosted domain (https://fosterwithwestlondon.lbhill1-prd.gosshosted.com/article/13964/Hillingdon, seen in search results, not fetched); hub membership not confirmed from a fetched page."
+  },
+  {
+    "id": "hounslow-council-fostering",
+    "name": "Foster with Hounslow",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Hounslow"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.hounslow.gov.uk/foster-hounslow",
+    "recruitmentUrl": "https://www.hounslow.gov.uk/foster-hounslow/contact-fostering-team",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.hounslow.gov.uk/foster-hounslow",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.hounslow.gov.uk/news/article/10125/hounslow-council-launches-new-fostering-campaign-to-inspire-a-new-generation-of-carers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      }
+    ],
+    "notes": "No phone number, email or address published on the pages fetched; enquiries are via the 'contact fostering team' page recorded as recruitmentUrl. Types of fostering page: https://www.hounslow.gov.uk/foster-hounslow/types-fostering (not fetched). Fostering statement of purpose 2020 PDF: https://www.hounslow.gov.uk/download/downloads/id/2643/statement_of_purpose_2020.pdf (seen in search results, not fetched)."
+  },
+  {
+    "id": "islington-council-fostering",
+    "name": "Islington Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Islington"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 7527 7933",
+    "website": "https://fostering.islington.gov.uk/",
+    "recruitmentUrl": "https://www.fosternorthlondon.gov.uk",
+    "publicEnquiryEmail": "fostering@islington.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.islington.gov.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "phone",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.islington.gov.uk/sitecore/content/iscp/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Council fostering site (https://www.islington.gov.uk/fostering redirects to https://fostering.islington.gov.uk/). Freephone 0800 073 0428 also published (Mon-Fri 9am-5pm). Recruitment for Barnet, Camden, Enfield, Hackney, Haringey and Islington is provided through the shared North London Fostering Hub (Foster North London, https://www.fosternorthlondon.gov.uk; hub enquiry line 020 7974 0125), recorded as recruitmentUrl. Islington's own enquiry form: https://fostering.islington.gov.uk/fosteringenquiryform. Types of fostering page exists (https://fostering.islington.gov.uk/what-is-fostering/types-of-fostering) but types were not named on the pages fetched."
+  },
+  {
+    "id": "kensington-and-chelsea-council-fostering",
+    "name": "Fostering Shared Services (Kensington and Chelsea)",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Royal Borough of Kensington and Chelsea"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.rbkc.gov.uk/fostering/",
+    "recruitmentUrl": "https://www.fosteringsharedservices.org.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.rbkc.gov.uk/newsroom/could-i-really-be-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.rbkc.gov.uk/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      },
+      {
+        "url": "https://www.lbhf.gov.uk/children-and-young-people/fostering-and-adoption",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Published name of the shared service is 'Fostering Shared Services' (title of the council's fostering site https://www.rbkc.gov.uk/fostering/, seen in search results; fetch failed with a client error; also named on Westminster City Council's news page as the tri-borough foster carers service). The council newsroom links enquiries to https://www.fosteringsharedservices.org.uk/. Hammersmith and Fulham's council page describes the fostering service as a joint service with Kensington and Chelsea and Westminster City Council. The newsroom article states Foster with West London helps recruit local foster carers; the council publishes a Foster with West London privacy notice (https://www.rbkc.gov.uk/data-protection/foster-west-london-privacy-notice, seen in search results). No fostering phone number or office address confirmed. See also westminster-council-fostering."
+  },
+  {
+    "id": "kingston-upon-thames-council-fostering",
+    "name": "Kingston upon Thames Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Royal Borough of Kingston upon Thames"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.achievingforchildren.org.uk/pages/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fosteringenquiries@achievingforchildren.org.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.kingston.gov.uk/news/2024/shining-light-positive-impact-fostering-can-have-children",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.richmond.gov.uk/media/7545/fostering_statement_of_purpose.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.richmond.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Children's services for Kingston are delivered by Achieving for Children (AfC), which runs a 'Joint Fostering Service' for the Royal Borough of Kingston upon Thames and the London Borough of Richmond upon Thames (fostering Statement of Purpose 2017/18 published on richmond.gov.uk; that document also lists respite, task-centred/emergency, long-term, specialist and family-and-friends care). No Kingston council fostering page was found in search; the website recorded is the AfC fostering site as linked from Richmond council's fostering page (not fetched), and the email is AfC's fostering enquiries mailbox published on that page. Kingston council news page (2024) names short-term, long-term, emergency and short-break arrangements. No phone or address confirmed. See also richmond-upon-thames-council-fostering."
+  },
+  {
+    "id": "richmond-upon-thames-council-fostering",
+    "name": "Richmond upon Thames Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Richmond upon Thames"
+    ],
+    "address": {
+      "line1": "Civic Centre, 44 York Street",
+      "town": "Twickenham",
+      "postcode": "TW1 3BZ"
+    },
+    "phone": null,
+    "website": "https://www.richmond.gov.uk/services/children_and_family_care/fostering",
+    "recruitmentUrl": "https://www.achievingforchildren.org.uk/pages/fostering",
+    "publicEnquiryEmail": "fosteringenquiries@achievingforchildren.org.uk",
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.richmond.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "address",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.richmond.gov.uk/media/7545/fostering_statement_of_purpose.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Fostering is delivered by Achieving for Children (AfC), which runs a 'Joint Fostering Service' for Richmond upon Thames and Kingston upon Thames (fostering Statement of Purpose 2017/18, https://www.richmond.gov.uk/media/7545/fostering_statement_of_purpose.pdf). https://www.richmond.gov.uk/fostering resolves to the page recorded as website. Address is the council's Civic Centre contact address as shown on the fostering page (Mon-Fri 9am-5pm), not a dedicated fostering office; no fostering phone number published on the page. See also kingston-upon-thames-council-fostering."
+  },
+  {
+    "id": "merton-council-fostering",
+    "name": "Merton Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Merton"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://fostering.merton.gov.uk/",
+    "recruitmentUrl": "https://www.merton.gov.uk/social-care/children-young-people-and-families/fostering/could-you-foster",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.merton.gov.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      },
+      {
+        "url": "https://www.merton.gov.uk/social-care/children-young-people-and-families/fostering/could-you-foster",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Name ('Merton Fostering'), website and recruitment page seen as search results on merton.gov.uk only; https://fostering.merton.gov.uk/ could not be fetched (robots disallowed). Council fostering section also at https://www.merton.gov.uk/social-care/children-young-people-and-families/fostering. No phone, email, address or fostering types confirmed."
+  },
+  {
+    "id": "southwark-council-fostering",
+    "name": "Southwark Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Southwark"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.southwark.gov.uk/children-young-people-and-families/adoption-fostering-and-kinship-care/fostering",
+    "recruitmentUrl": "https://www.southwark.gov.uk/children-young-people-and-families/adoption-fostering-and-kinship-care/fostering/become-foster",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.southwark.gov.uk/children-young-people-and-families/adoption-fostering-and-kinship-care/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://southwark.gov.uk/children-and-families/adoption-fostering-and-special-guardians/fostering/southwark-fostering/aims",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      }
+    ],
+    "notes": "Council pages refer to 'the Southwark fostering service'. Statement of purpose 2025 to 26: https://www.southwark.gov.uk/children-and-families/adoption-fostering-and-special-guardians/fostering/statement-of-purpose (placement types section at .../statement-of-purpose-1, not fetched). Main page names parent and child fostering under specialist fostering, plus schemes for children with disabilities. No phone, email or office address on the pages fetched."
+  },
+  {
+    "id": "sutton-council-fostering",
+    "name": "Sutton Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Sutton"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 8770 5563",
+    "website": "https://www.sutton.gov.uk/children-and-families/fostering",
+    "recruitmentUrl": "https://www.sutton.gov.uk/w/become-a-foster-carer",
+    "publicEnquiryEmail": "fostering.duty@sutton.gov.uk",
+    "fosteringTypes": [
+      "long-term",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://sutton.gov.uk/-/sutton-council-calls-on-residents-to-consider-becoming-foster-carers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.sutton.gov.uk/children-and-families/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      },
+      {
+        "url": "https://www.sutton.gov.uk/w/become-a-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "recruitmentUrl"
+        ]
+      },
+      {
+        "url": "https://www.sutton.gov.uk/w/sutton-fostering-service-has-launched-its-new-recruitment-campaign",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      }
+    ],
+    "notes": "Phone, email and types (long-term care; weekends and respite care) from a council news page. Service name, website and 'Become a foster carer' page seen as search results on sutton.gov.uk only (not fetched). Council news page refers to the Fostering Team and to the council's own fostering hub (no URL given). No office address confirmed."
+  },
+  {
+    "id": "tower-hamlets-council-fostering",
+    "name": "Tower Hamlets Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Tower Hamlets"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://towerhamlets.gov.uk/fostering",
+    "recruitmentUrl": "https://localcommunityfostering.co.uk/become-a-foster-carer/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://towerhamlets.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Page heading 'Join our fostering family'; no formal service name published. The council's 'Make an enquiry' and 'Become a foster carer' links go to the Local Community Fostering hub (enquiry form https://localcommunityfostering.gov.uk/#enquire), a partnership of Havering, Redbridge, Tower Hamlets and Waltham Forest councils per Redbridge council's fostering page. Council section URL: https://www.towerhamlets.gov.uk/lgnl/health__social_care/fostering,_adopting_and_looked/fostering/Fostering.aspx ; types of fostering page: https://www.towerhamlets.gov.uk/lgnl/health__social_care/fostering,_adopting_and_looked/Fostering/Types-of-fostering.aspx (not fetched). No phone, email, address or fostering types on the page fetched."
+  },
+  {
+    "id": "waltham-forest-council-fostering",
+    "name": "Waltham Forest Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Waltham Forest"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 8496 3437",
+    "website": "https://www.walthamforest.gov.uk/families-young-people-and-children/fostering-and-adoption/fostering-waltham-forest",
+    "recruitmentUrl": "https://localcommunityfostering.co.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "emergency",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.walthamforest.gov.uk/families-young-people-and-children/fostering-and-adoption/fostering-waltham-forest",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.walthamforest.gov.uk/families-young-people-and-children/fostering-and-adoption",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      }
+    ],
+    "notes": "Council states it is part of the Local Community Fostering service, a network of four north-east London boroughs (Havering, Redbridge, Tower Hamlets and Waltham Forest per Redbridge council's page); applications are via the short form on the hub site (council links it as http://www.localcommunityfostering.co.uk/). The phone number published is the same number published by Redbridge, i.e. the shared hub line. Council also links a 'Fostering with Waltham Forest' site at https://fosteringwalthamforest.co.uk/ (not fetched) and publishes a Local Community Fostering privacy notice. Types stated: short-term emergency care and longer-term/permanent arrangements. No email or address on the page."
+  },
+  {
+    "id": "wandsworth-council-fostering",
+    "name": "Wandsworth Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Wandsworth"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 8871 6666",
+    "website": "https://microsite2.richmondandwandsworth.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fostering@wandsworth.gov.uk",
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "respite",
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://microsite2.richmondandwandsworth.gov.uk",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://wandsworth.gov.uk/news/2024-news/news-october-2024/wandsworth-foster-carers-honoured-at-annual-celebration",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council fostering microsite headed 'Foster with us' (hosted on the Richmond and Wandsworth shared-staffing domain; the page refers to Wandsworth Council only) names long-term, short-term, respite and emergency care; no formal service name published. Phone and email from a council news page (October 2024). No office address or dedicated 'become a foster carer' page URL confirmed."
+  },
+  {
+    "id": "westminster-council-fostering",
+    "name": "Fostering Shared Services (Westminster)",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "City of Westminster"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.fosteringsharedservices.org.uk/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.westminster.gov.uk/news/meet-westminster-foster-carer-who-committed-changing-young-peoples-lives",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.rbkc.gov.uk/newsroom/could-i-really-be-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      },
+      {
+        "url": "https://www.lbhf.gov.uk/children-and-young-people/fostering-and-adoption",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Westminster City Council's news page names the service 'Fostering Shared Services' and describes it as the tri-borough foster carers service, linking to https://www.fosteringsharedservices.org.uk/ (also linked from Kensington and Chelsea's newsroom); Hammersmith and Fulham's council page describes the fostering service as a joint service with Kensington and Chelsea and Westminster. No Westminster council fostering page, phone number or office address found (the shared-service site was not fetched). Council publishes a Foster with West London privacy notice (https://www.westminster.gov.uk/data-protection/childrens-services-privacy-notice/foster-west-london, seen in search results). Information events: https://www.fosteringsharedservices.org.uk/information-events. See also kensington-and-chelsea-council-fostering."
+  },
+  {
+    "id": "lewisham-council-fostering",
+    "name": "Lewisham Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Lewisham"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 015 0129",
+    "website": "https://lewisham.gov.uk/myservices/children-and-young-people-service/looking-after-someone-elses-child/fostering/why-choose-lewisham/why-foster-with-us",
+    "recruitmentUrl": "https://lewisham.gov.uk/myservices/children-and-young-people-service/looking-after-someone-elses-child/fostering/foster-for-lewisham",
+    "publicEnquiryEmail": "fosteringrecruitment@lewisham.gov.uk",
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://lewisham.gov.uk/myservices/children-and-young-people-service/looking-after-someone-elses-child/fostering/why-choose-lewisham/why-foster-with-us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "phone",
+          "publicEnquiryEmail",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Page refers to the Lewisham Fostering Team (no separate brand name). Phone line Mon-Fri 9am-5pm; out-of-hours fostering duty line 020 8314 6655 (ext 46655). Online sign-up form: https://forms.office.com/e/0mStuifS5p. Types stated: emergency (up to seven days), short-term, long-term/permanent, parent and baby, teenagers and sibling groups of 2-6; specialist fostering also offered. Lewisham Fostering Statement of Purpose 2023-2024: https://lewisham.gov.uk/-/media/0-childrens-social-care/lewisham-fostering-statment-of-purpose-2023-2024.ashx. No office address published on the page."
+  },
+  {
+    "id": "newham-council-fostering",
+    "name": "Newham Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Newham"
+    ],
+    "address": {
+      "line1": "Carer Recruitment Team, 2nd Floor, West Wing, Newham Dockside, 1000 Dockside Road",
+      "town": "London",
+      "postcode": "E16 2QU"
+    },
+    "phone": "0808 175 3989",
+    "website": "https://www.newham.gov.uk/children-families/fostering-newham-council",
+    "recruitmentUrl": "https://newham-self.achieveservice.com/service/Adoption_and_Fostering_Enquiry_Form",
+    "publicEnquiryEmail": "fosteringrecruitment@newham.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.newham.gov.uk/children-families/fostering-newham-council",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.newham.gov.uk/children-families/fostering-newham-council/9",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Page heading 'Fostering with Newham Council'; enquiries go via the council's online Adoption and Fostering Enquiry Form to Newham's Fostering Recruitment Team (Carer Recruitment Team postal address recorded). How to apply page: https://www.newham.gov.uk/children-families/fostering-newham-council/4 ; contact page: https://www.newham.gov.uk/children-families/fostering-newham-council/9 . Page mentions a Specialist Fostering Scheme but names no fostering types."
+  },
+  {
+    "id": "redbridge-council-fostering",
+    "name": "Redbridge Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "London Borough of Redbridge"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "020 8496 3437",
+    "website": "https://www.redbridge.gov.uk/adult-and-childrens-services/childrens-services/fostering/",
+    "recruitmentUrl": "https://localcommunityfostering.gov.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.redbridge.gov.uk/adult-and-childrens-services/childrens-services/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Page refers to the Redbridge Fostering Team. Phone published as 0208 496 3437 (Mon-Fri 9am-5pm). Enquiries are directed to Local Community Fostering, a partnership between Havering, Redbridge, Tower Hamlets and Waltham Forest councils (hub site https://localcommunityfostering.gov.uk/ with enquiry form at #enquire and events at /events), recorded as recruitmentUrl. Types stated include short-term, long-term, emergency, short break/respite and shared care, parent and child (specialist pathway), sibling groups and teenagers; also a specialist fostering pathway and residential step-down. Redbridge Fostering Handbook: https://redbridgefch.trixonline.co.uk/ . No email or office address on the page."
+  }
+]

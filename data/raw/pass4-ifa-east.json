@@ -1,0 +1,543 @@
+[
+  {
+    "id": "eastern-fostering-services",
+    "name": "Eastern Fostering Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Essex",
+      "Cambridgeshire",
+      "Suffolk",
+      "Norfolk"
+    ],
+    "address": {
+      "line1": "Unit 1E, The Gattinetts, Hadleigh Road, East Bergholt",
+      "town": "Colchester",
+      "postcode": "CO7 6QT"
+    },
+    "phone": "01206 299775",
+    "website": "https://eastern-fostering-services.com/",
+    "recruitmentUrl": "https://eastern-fostering-services.com/contact/start-fostering",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC437835",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC437835",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://eastern-fostering-services.com/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority: Suffolk (East Bergholt, Babergh). Website gives office as Unit 3b, The Gattinetts; Ofsted registered address is Unit 1E. 'Other' covers refugee children and Staying Put placements as stated on the website."
+  },
+  {
+    "id": "to-the-moon-and-back-foster-care",
+    "name": "To The Moon And Back Foster Care Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Cambridgeshire",
+      "Peterborough",
+      "Hertfordshire",
+      "Northamptonshire",
+      "Essex",
+      "Norfolk"
+    ],
+    "address": {
+      "line1": "Future Business Centre, Kings Hedges Road",
+      "town": "Cambridge",
+      "postcode": "CB4 2HY"
+    },
+    "phone": "01223 800420",
+    "website": "https://tothemoonandbackfostering.com/",
+    "recruitmentUrl": "https://tothemoonandbackfostering.com/become-a-foster-carer/",
+    "publicEnquiryEmail": "hello@moonandbackfostering.com",
+    "fosteringTypes": [
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1259274",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1259274",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://tothemoonandbackfostering.com/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority: Cambridgeshire. Website names 'Short Break Foster Care' (recorded as respite); Norfolk appears in the site's meta description but not its footer list of areas."
+  },
+  {
+    "id": "fostering-uk",
+    "name": "Fostering UK",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Peterborough",
+      "Buckinghamshire",
+      "Milton Keynes",
+      "Luton",
+      "Bedfordshire",
+      "Oxfordshire",
+      "Northamptonshire",
+      "Watford"
+    ],
+    "address": {
+      "line1": "Maple House",
+      "town": "Potters Bar",
+      "postcode": "EN6 5BS"
+    },
+    "phone": "0333 044 8890",
+    "website": "https://fosteringuk.org.uk/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "therapeutic"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1243868",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1243868",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://fosteringuk.org.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority: Hertfordshire. Ofsted registered address gives only 'Maple House, Potters Bar'; the website homepage shows no postal address or recruitment page link."
+  },
+  {
+    "id": "fostering-options-milton-keynes",
+    "name": "Fostering Options",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Bedfordshire",
+      "Luton",
+      "Buckinghamshire",
+      "Milton Keynes"
+    ],
+    "address": {
+      "line1": "Hayfield Farm, Berry Lane, Aspley Guise",
+      "town": "Milton Keynes",
+      "postcode": "MK17 8HS"
+    },
+    "phone": "01908 587666",
+    "website": "https://www.futures-group.org/",
+    "recruitmentUrl": "https://www.futures-group.org/enquire-now",
+    "publicEnquiryEmail": "enquiries@futures-group.org",
+    "fosteringTypes": [
+      "short-term",
+      "emergency",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC063551",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC063551",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.futures-group.org/contact-us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Part of Futures Group (head office Maidstone; group freephone 0800 408 4710). Ofsted local authority: Central Bedfordshire. Group contact page gives the Milton Keynes office as Threshing House, Hayfield Business Park, Berry Lane, MK17 8HS. https://fostering-options.org/ redirects to futures-group.org. areasServed lists the group's stated areas nearest this office; fosteringTypes are those stated on the group site, not office-specific."
+  },
+  {
+    "id": "blossom-fostering-services",
+    "name": "Blossom Fostering Services Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 28 Future House, Marsh Farm, Moakes",
+      "town": "Luton",
+      "postcode": "LU3 3QB"
+    },
+    "phone": null,
+    "website": "https://blossomfostering.co.uk/",
+    "recruitmentUrl": "https://blossomfostering.co.uk/application-process/",
+    "publicEnquiryEmail": "info@blossomfostering.co.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2677223",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2677223",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://blossomfostering.co.uk/contact-us/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority: Luton. Website publishes only mobile numbers, so phone not recorded. Areas served and fostering types not stated on the fetched contact page (site has a 'Types of Foster Care' page at https://blossomfostering.co.uk/types-of-foster-care/ not fetched)."
+  },
+  {
+    "id": "vineyard-fostering",
+    "name": "Vineyard Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Bedfordshire",
+      "Luton",
+      "Dunstable",
+      "Houghton Regis",
+      "Central Bedfordshire",
+      "Buckinghamshire",
+      "Milton Keynes",
+      "Northamptonshire",
+      "Northampton",
+      "Leicester",
+      "Coventry",
+      "Letchworth",
+      "St Albans",
+      "Welwyn Garden City"
+    ],
+    "address": {
+      "line1": "Hart House, Kimpton Road",
+      "town": "Luton",
+      "postcode": "LU2 0LB"
+    },
+    "phone": "0800 246 1889",
+    "website": "https://www.vineyardfostering.co.uk/",
+    "recruitmentUrl": "https://www.vineyardfostering.co.uk/becoming-a-foster-carer/",
+    "publicEnquiryEmail": "enquiries@vineyardfostering.co.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2605955",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2605955",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.vineyardfostering.co.uk/fostering-agency-in-bedfordshire/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority: Luton (region East of England). Areas served taken from the website's 'Locations We Deliver' menu."
+  },
+  {
+    "id": "oak-fostering",
+    "name": "Oak Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Bedfordshire",
+      "Milton Keynes",
+      "Watford",
+      "Northamptonshire",
+      "Cambridgeshire"
+    ],
+    "address": {
+      "line1": "12 Dunstable Street, The Limes",
+      "town": "Ampthill",
+      "postcode": "MK45 2GJ"
+    },
+    "phone": "01525 868682",
+    "website": "https://oakfostering.co.uk/",
+    "recruitmentUrl": "https://oakfostering.co.uk/application-process/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "therapeutic"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1241664",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1241664",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://oakfostering.co.uk/independent-fostering-agency-in-watford/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority: Central Bedfordshire. Website states it covers a 1.5-hour radius from its Ampthill office; the listed areas are those named on the page."
+  },
+  {
+    "id": "st-christophers-fostering-stevenage",
+    "name": "St. Christopher's Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Essex",
+      "Southend",
+      "Cambridgeshire",
+      "Hertfordshire"
+    ],
+    "address": {
+      "line1": "4 Viewpoint Office Village, Babbage Road",
+      "town": "Stevenage",
+      "postcode": "SG1 2EQ"
+    },
+    "phone": "01438 572257",
+    "website": "https://www.stchris.org.uk/services/fostering/",
+    "recruitmentUrl": "https://www.stchris.org.uk/services/fostering/enquire/",
+    "publicEnquiryEmail": "fostering@stchris.org.uk",
+    "fosteringTypes": [
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC069455",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC069455",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.stchris.org.uk/services/fostering/eastern-england/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Eastern England fostering service of the charity St Christopher's Fellowship; separate Ofsted registration from the West Midlands service (SC458341, already in dataset). Ofsted local authority: Hertfordshire. Phone is the Stevenage office number given on the page; national freephone 0800 234 6282, Essex office 01245 392102. 'Other' = Staying Put arrangements mentioned on the page; no specific placement types stated."
+  },
+  {
+    "id": "little-acorns-fostering",
+    "name": "Little Acorns Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Suffolk",
+      "Cambridgeshire",
+      "Essex",
+      "Hertfordshire"
+    ],
+    "address": {
+      "line1": "Rook Tree Barn, Withersfield Road, Great Wratting",
+      "town": "Haverhill",
+      "postcode": "CB9 7HD"
+    },
+    "phone": "01440 732010",
+    "website": "https://www.littleacornsfostering.co.uk/",
+    "recruitmentUrl": "https://www.littleacornsfostering.co.uk/fostering-with-us/can-i-foster/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC457688",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC457688",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.littleacornsfostering.co.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority: Suffolk (region East of England). Website states it is based near Haverhill in Suffolk with links to Cambridgeshire, Essex and Herts. 'Emergency' recorded from the site's 'Crash Bed Fostering' service. Email address obfuscated on the site; out-of-hours line 01440 732019."
+  },
+  {
+    "id": "national-fostering-agency-east",
+    "name": "National Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "North of England",
+      "East of England"
+    ],
+    "address": {
+      "line1": "2 Quay View Business Park, Barnards Way",
+      "town": "Lowestoft",
+      "postcode": "NR32 2HD"
+    },
+    "phone": "01502 588349",
+    "website": "https://www.nfa.co.uk/national-fostering-agency/office/east/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC038843",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC038843",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://reports.ofsted.gov.uk/search?q=national+fostering+agency&radius=&location=",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50083550",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "areasServed",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.nfa.co.uk/national-fostering-agency/office/east/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      }
+    ],
+    "notes": "NFA East: the National Fostering Agency registration whose registered office is Lowestoft, Suffolk (Ofsted local authority Suffolk, region East of England); the registered provider's address is Uxbridge. Separate Ofsted registrations from the Solihull (SC470279), Warrington (1234377) and London South (2688691) entries already in the dataset. Phone, areas ('North and East of England') and placement types come from the May 2019 Ofsted inspection report, so may be out of date. Website URL seen in search results only ('NFA East - independent foster care agency'); it redirects to nationalfosteringgroup.co.uk, which could not be fetched."
+  }
+]

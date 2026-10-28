@@ -1,0 +1,241 @@
+[
+  {
+    "id": "derby-city-council-fostering",
+    "name": "Derby City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Derby"],
+    "address": {"line1": "Council House, Corporation Street", "town": "Derby", "postcode": "DE1 2FS"},
+    "phone": "03033 132 950",
+    "website": "https://www.derby.gov.uk",
+    "recruitmentUrl": "https://fosterforeastmidlands.org.uk/",
+    "publicEnquiryEmail": "hello@fosterforeastmidlands.org.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://derby.gov.uk/news/2026/june/pride-month-2026-celebrating-diverse-foster-carers-and-inspiring-first-steps/", "retrievedOn": "2026-10-27", "supports": ["name", "address", "phone", "website", "recruitmentUrl", "publicEnquiryEmail", "areasServed"]}
+    ],
+    "notes": "Derby City Council recruits foster carers through the Foster for East Midlands Councils regional hub (a partnership covering Derby, Derbyshire, Nottingham and Nottinghamshire). Phone and email recorded are the hub's published enquiry contacts as given on the council's page. Address is the council's published Council House address, not a dedicated fostering office. Source is a council news article (June 2026)."
+  },
+  {
+    "id": "derbyshire-county-council-fostering",
+    "name": "Derbyshire County Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Derbyshire"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "03033 132 950",
+    "website": "https://schoolsnet.derbyshire.gov.uk/childrens-support-services/children-in-care/foster-caring-in-derbyshire.aspx",
+    "recruitmentUrl": "https://fosterforeastmidlands.org.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://schoolsnet.derbyshire.gov.uk/childrens-support-services/children-in-care/foster-caring-in-derbyshire.aspx", "retrievedOn": "2026-10-27", "supports": ["name", "website"]},
+      {"url": "https://derby.gov.uk/news/2026/june/pride-month-2026-celebrating-diverse-foster-carers-and-inspiring-first-steps/", "retrievedOn": "2026-10-27", "supports": ["phone", "recruitmentUrl", "areasServed"]}
+    ],
+    "notes": "Limited record: the derbyshire.gov.uk fostering news page found by search returned a 404 and the council's main fostering page could not be located within the call limit; website is a derbyshire.gov.uk schools-portal page seen only as a search result. Derby City Council's page states the Foster for East Midlands Councils hub recruits for Derbyshire; the phone recorded is the hub's. Verify before publishing."
+  },
+  {
+    "id": "leicester-city-council-fostering",
+    "name": "Leicester City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Leicester"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "0116 454 4500",
+    "website": "https://leicester.gov.uk/health-and-social-care/adoption-and-fostering/fostering/why-foster",
+    "recruitmentUrl": "https://leicester.gov.uk/health-and-social-care/adoption-and-fostering/fostering/why-foster",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": ["short-term", "long-term", "respite", "sibling-groups", "teenagers"],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://leicester.gov.uk/health-and-social-care/adoption-and-fostering/fostering/why-foster", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website", "recruitmentUrl", "areasServed", "fosteringTypes"]}
+    ],
+    "notes": "Council page refers to the service as 'Leicester Fostering' on social media. Respite recorded on the basis of short-break care for disabled children described on the page."
+  },
+  {
+    "id": "leicestershire-county-council-fostering",
+    "name": "Leicestershire County Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Leicestershire"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "0116 305 0505",
+    "website": "https://www.leicestershire.gov.uk/education-and-children/fostering",
+    "recruitmentUrl": "https://www.leicestershire.gov.uk/education-and-children/fostering/become-a-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": ["short-term", "long-term", "respite", "parent-and-child", "other"],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://www.leicestershire.gov.uk/education-and-children/fostering/become-a-foster-carer", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website", "recruitmentUrl", "areasServed"]},
+      {"url": "https://www.leicestershire.gov.uk/education-and-children/fostering/different-ways-to-foster", "retrievedOn": "2026-10-27", "supports": ["fosteringTypes", "phone"]}
+    ],
+    "notes": "'Other' covers specialist roles listed by the council (bridging placements, short-break carers for children with additional needs, specialist Pathway/One2One carers and supported lodgings hosts)."
+  },
+  {
+    "id": "lincolnshire-fostering-service",
+    "name": "Lincolnshire Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Lincolnshire"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "01522 554114",
+    "website": "https://www.lincolnshire.gov.uk/fostering-1/thinking-fostering",
+    "recruitmentUrl": "https://www.lincolnshire.gov.uk/fostering-1/thinking-fostering",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": ["long-term", "respite", "parent-and-child", "sibling-groups", "other"],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://www.lincolnshire.gov.uk/fostering-1/thinking-fostering", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website", "recruitmentUrl", "areasServed"]},
+      {"url": "https://lincolnshire.gov.uk/adoption-fostering/fostering/print", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "fosteringTypes"]}
+    ],
+    "notes": "Lincolnshire County Council's in-house service. 'Other' covers fostering for unaccompanied asylum-seeking children, which the council page describes."
+  },
+  {
+    "id": "northamptonshire-childrens-trust",
+    "name": "Northamptonshire Children's Trust",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["North Northamptonshire", "West Northamptonshire"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": null,
+    "website": "https://nctrust.co.uk/fostering/",
+    "recruitmentUrl": "https://nctrust.co.uk/fostering/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://northnorthants.gov.uk/children-and-families/fostering", "retrievedOn": "2026-10-27", "supports": ["name", "website", "recruitmentUrl", "areasServed"]},
+      {"url": "https://www.westnorthants.gov.uk/support-families/fostering", "retrievedOn": "2026-10-27", "supports": ["name", "website", "recruitmentUrl", "areasServed"]}
+    ],
+    "notes": "Council-owned trust that delivers children's services, including fostering recruitment, training and support, for both North Northamptonshire Council and West Northamptonshire Council. Both councils' fostering pages direct enquirers to the trust's site (nctrust.co.uk/fostering), which could not be fetched, so phone, email and fostering types are unconfirmed."
+  },
+  {
+    "id": "nottingham-city-council-fostering",
+    "name": "Nottingham City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Nottingham"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "0115 876 3335",
+    "website": "https://www.fosteringnottingham.com",
+    "recruitmentUrl": "https://www.fosteringnottingham.com",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": ["short-term", "long-term", "emergency"],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://www.mynottinghamnews.co.uk/make-a-difference-foster-with-nottingham-city-council/", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website", "recruitmentUrl", "areasServed", "fosteringTypes"]},
+      {"url": "https://derby.gov.uk/news/2026/june/pride-month-2026-celebrating-diverse-foster-carers-and-inspiring-first-steps/", "retrievedOn": "2026-10-27", "supports": ["areasServed"]}
+    ],
+    "notes": "Source is an article on My Nottingham News, Nottingham City Council's own news site, dated May 2017, so the phone number and website may be out of date; verify before publishing. Derby City Council's 2026 page states that the Foster for East Midlands Councils hub (fosterforeastmidlands.org.uk, 03033 132 950) now recruits for Nottingham as well."
+  },
+  {
+    "id": "nottinghamshire-county-council-fostering-service",
+    "name": "Nottinghamshire County Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Nottinghamshire"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": null,
+    "website": "https://fostering.nottinghamshire.gov.uk/fostering",
+    "recruitmentUrl": "https://fosterforeastmidlands.org.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://fostering.nottinghamshire.gov.uk/fostering", "retrievedOn": "2026-10-27", "supports": ["name", "website", "areasServed"]},
+      {"url": "https://fostering.nottinghamshire.gov.uk/fostering/fostering/statement-of-purpose/", "retrievedOn": "2026-10-27", "supports": ["name"]},
+      {"url": "https://derby.gov.uk/news/2026/june/pride-month-2026-celebrating-diverse-foster-carers-and-inspiring-first-steps/", "retrievedOn": "2026-10-27", "supports": ["recruitmentUrl"]}
+    ],
+    "notes": "The council's fostering.nottinghamshire.gov.uk site is aimed at existing foster carers and publishes no enquiry phone number. Derby City Council's page states that the Foster for East Midlands Councils hub (03033 132 950) recruits for Nottinghamshire; the hub URL is recorded as the recruitment page on that basis."
+  },
+  {
+    "id": "rutland-county-council-fostering",
+    "name": "Rutland County Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Rutland"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "01572 720 942",
+    "website": "https://www.rutland.gov.uk/children-young-people-families/fostering-adoption-kinship-care/fostering",
+    "recruitmentUrl": "https://www.rutland.gov.uk/children-young-people-families/fostering-adoption-kinship-care/fostering/steps-become-foster-carer",
+    "publicEnquiryEmail": "fostering@rutland.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://www.rutland.gov.uk/children-young-people-families/fostering/steps-become-foster-carer", "retrievedOn": "2026-10-27", "supports": ["name", "website", "recruitmentUrl", "areasServed"]},
+      {"url": "https://www.rutland.gov.uk/children-young-people-families/fostering-adoption-kinship-care/fostering/how-contact-us", "retrievedOn": "2026-10-27", "supports": ["phone", "publicEnquiryEmail"]}
+    ],
+    "notes": null
+  },
+  {
+    "id": "birmingham-childrens-trust",
+    "name": "Birmingham Children's Trust",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Birmingham"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "0121 303 7575",
+    "website": "https://www.birmingham.gov.uk/info/50080/fostering/1111/what_is_foster_care",
+    "recruitmentUrl": "https://www.birmingham.gov.uk/info/50080/fostering/1111/what_is_foster_care",
+    "publicEnquiryEmail": "fostering@birminghamchildrenstrust.co.uk",
+    "fosteringTypes": ["sibling-groups", "teenagers", "other"],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://www.birmingham.gov.uk/info/50080/fostering/1111/what_is_foster_care", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website", "recruitmentUrl", "publicEnquiryEmail", "areasServed"]},
+      {"url": "https://www.birmingham.gov.uk/info/50080/fostering/1113/what_types_of_foster_carer_do_we_currently_need", "retrievedOn": "2026-10-27", "supports": ["name", "publicEnquiryEmail", "fosteringTypes"]}
+    ],
+    "notes": "Council-owned trust that delivers children's services, including the fostering service, for Birmingham City Council. Fostering pages are published on birmingham.gov.uk; enquiries go to the trust's fostering mailbox. 'Other' covers carers for children with additional needs and unaccompanied asylum-seeking children, which the council page lists as current needs. No separate trust website for fostering was found."
+  },
+  {
+    "id": "coventry-city-council-fostering-service",
+    "name": "Coventry City Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Coventry"],
+    "address": {"line1": "One Friargate", "town": "Coventry", "postcode": "CV1 2GN"},
+    "phone": "024 7683 2828",
+    "website": "https://www.coventry.gov.uk/fostering-1",
+    "recruitmentUrl": "https://www.coventry.gov.uk/fostering-1/becoming-foster-carer",
+    "publicEnquiryEmail": "foster@coventry.gov.uk",
+    "fosteringTypes": ["short-term", "long-term", "emergency", "parent-and-child", "sibling-groups", "teenagers", "therapeutic", "other"],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://www.coventry.gov.uk/fostering-1/becoming-foster-carer", "retrievedOn": "2026-10-27", "supports": ["name", "address", "phone", "website", "recruitmentUrl", "publicEnquiryEmail", "areasServed", "fosteringTypes"]},
+      {"url": "https://www.coventry.gov.uk/fostering-1/different-types-fostering", "retrievedOn": "2026-10-27", "supports": ["address", "phone", "publicEnquiryEmail", "fosteringTypes"]}
+    ],
+    "notes": "Council uses the brand 'Foster with Coventry'. Types mapped from the council's own labels: Short Stay (short-term), Mainstream (long-term), Out-of-hours (emergency), Next Steps (therapeutic), Parent and Child; 'other' covers unaccompanied teenagers and children with complex needs."
+  },
+  {
+    "id": "fostering-in-dudley",
+    "name": "Fostering in Dudley",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": ["Dudley"],
+    "address": {"line1": null, "town": null, "postcode": null},
+    "phone": "01384 815833",
+    "website": "https://www.fosteringindudley.org.uk/",
+    "recruitmentUrl": "https://www.fosteringindudley.org.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {"url": "https://councilnews.dudley.gov.uk/news/dudley-calls-for-60-more-foster-carers-as-local-heroes-celebrated-during-foster-care-fortnight", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website", "recruitmentUrl", "areasServed"]},
+      {"url": "https://councilnews.dudley.gov.uk/news/find-out-more-about-fostering", "retrievedOn": "2026-10-27", "supports": ["name", "phone", "website"]}
+    ],
+    "notes": "Dudley Council's in-house fostering service, branded 'Fostering in Dudley'. Sources are articles on the council's own news site (May 2026 and Feb 2021); the council links the fostering site as http://www.fosteringindudley.org.uk, recorded here as https. The fostering site itself was not fetched. The only email on the council page is the council's general contact-centre mailbox, so no fostering email is recorded."
+  }
+]

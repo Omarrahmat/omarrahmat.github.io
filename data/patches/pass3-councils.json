@@ -1,0 +1,428 @@
+[
+ {
+  "id": "hull-city-council-fostering",
+  "website": "https://hullfostering.co.uk/",
+  "recruitmentUrl": "https://hullfostering.co.uk/apply-foster",
+  "phone": "01482 612 800",
+  "publicEnquiryEmail": "fostering@hullcc.gov.uk",
+  "address": {
+   "line1": "Kenworthy House, George Street",
+   "town": "Hull",
+   "postcode": "HU1 3DT"
+  },
+  "areasServed": [],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "parent-and-child",
+   "respite"
+  ],
+  "sources": [
+   {
+    "url": "https://hullfostering.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "phone",
+     "publicEnquiryEmail",
+     "address",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://hullfostering.co.uk/apply-foster",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "hullfostering.co.uk states it is part of Hull City Council. fosteringTypes mapped from descriptive text on the homepage (care for days or months; ongoing care until adulthood; immediate short-term support; supporting young parents and their babies; giving other carers a break) rather than from labelled type names."
+ },
+ {
+  "id": "portsmouth-city-council-fostering",
+  "website": "https://foster.portsmouth.gov.uk/",
+  "recruitmentUrl": "https://foster.portsmouth.gov.uk/enquire-now/",
+  "phone": "0300 131 2797",
+  "publicEnquiryEmail": "info@lafosteringse.org.uk",
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://foster.portsmouth.gov.uk/enquire-now/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   },
+   {
+    "url": "https://foster.portsmouth.gov.uk/about-fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Phone and email published on the Foster Portsmouth site are those of the regional Local Authority Fostering South East hub (lafosteringse.org.uk), to which Portsmouth directs enquiries. Site also offers Supported Lodgings and the Mockingbird model; no fostering type names stated."
+ },
+ {
+  "id": "together-for-children-sunderland-fostering",
+  "website": "https://togetherforchildren.org.uk/article/21218/Fostering",
+  "recruitmentUrl": null,
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://togetherforchildren.org.uk/article/21218/Fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "URL taken from a search result only (title 'Fostering - Together for Children'); fetching togetherforchildren.org.uk and the Foster with North East partner page both failed with a client error, so the page content is unverified."
+ },
+ {
+  "id": "wirral-council-fostering",
+  "website": "https://www.wirral.gov.uk/health-and-social-care/children/fostering",
+  "recruitmentUrl": "https://www.foster4.co.uk/wirral/",
+  "phone": "0345 646 0098",
+  "publicEnquiryEmail": "Enquiry@foster4.co.uk",
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.wirral.gov.uk/health-and-social-care/children/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   },
+   {
+    "url": "https://www.foster4.co.uk/wirral/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Wirral's council page directs enquiries to Foster4, a collaboration of nine Cheshire and Merseyside local authorities including Wirral. Phone and email are the Foster4 hub's site-wide contact details, not Wirral-specific."
+ },
+ {
+  "id": "barnet-fostering",
+  "website": null,
+  "recruitmentUrl": null,
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [],
+  "fosteringTypes": [
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "respite",
+   "long-term"
+  ],
+  "sources": [
+   {
+    "url": "https://barnet.moderngov.co.uk/documents/s89948/Appendix%20B%20Fostering%20Annual%20Report.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "barnet.gov.uk pages returned a bot-detection interstitial; types taken from the council's Fostering Service Annual Report 2024/25 (committee papers on barnet.moderngov.co.uk), which also mentions Supported Lodgings, Staying Put and early permanence. No contact details found."
+ },
+ {
+  "id": "darlington-borough-council-fostering",
+  "website": "https://www.darlington.gov.uk/children-and-young-people/childrens-social-care/fostering/",
+  "recruitmentUrl": "https://www.darlington.gov.uk/children-and-young-people/childrens-social-care/fostering/enquiries/",
+  "phone": "0800 917 7771",
+  "publicEnquiryEmail": null,
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [
+   "Darlington"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.darlington.gov.uk/children-and-young-people/childrens-social-care/fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.darlington.gov.uk/children-and-young-people/childrens-social-care/fostering/enquiries/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone"
+    ]
+   }
+  ],
+  "notes": "Phone is the Foster with North East regional hub number as published on Darlington's fostering pages; the council directs enquiries to fosterwithnortheast.org.uk. Page also offers Supported Lodgings; no fostering type names stated."
+ },
+ {
+  "id": "south-tyneside-council-fostering",
+  "website": null,
+  "recruitmentUrl": "https://campaigns.southtyneside.gov.uk/fostering",
+  "phone": "0800 917 7771",
+  "publicEnquiryEmail": null,
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [
+   "South Tyneside"
+  ],
+  "fosteringTypes": [
+   "parent-and-child",
+   "sibling-groups",
+   "long-term"
+  ],
+  "sources": [
+   {
+    "url": "https://campaigns.southtyneside.gov.uk/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://www.southtyneside.gov.uk/article/2234/How-to-find-out-more",
+    "retrievedOn": "2026-10-27",
+    "supports": []
+   }
+  ],
+  "notes": "Phone is the Foster with North East regional hub number as published on the council's campaign page. Types listed on that page: 'Mum and baby', 'Older children', 'Sibling groups', 'Long term fostering' ('older children' not mapped). Info sessions are held at 25-27 Marketplace, South Shields NE33 1JF (venue, not recorded as office address)."
+ },
+ {
+  "id": "falkirk-council-fostering",
+  "website": "https://falkirkfosteringandadoption.co.uk/",
+  "recruitmentUrl": "https://falkirkfosteringandadoption.co.uk/fostering/",
+  "phone": "01324 508656",
+  "publicEnquiryEmail": "familyplacementteam.cbs@falkirk.gov.uk",
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [
+   "Falkirk and surrounding areas"
+  ],
+  "fosteringTypes": [
+   "respite",
+   "sibling-groups",
+   "teenagers"
+  ],
+  "sources": [
+   {
+    "url": "https://falkirkfosteringandadoption.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "phone",
+     "publicEnquiryEmail",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://falkirkfosteringandadoption.co.uk/fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Dedicated site speaks as Falkirk Council ('At Falkirk Council we pride ourselves...') and lists a falkirk.gov.uk mailbox, but its footer copyright reads 'Fostering and Adoption' and does not name the council; the previously recorded falkirk.gov.uk fostering page remains valid. Types mapped from: 'Short Break fostering', 'children or siblings aged 7 years and older', 'local foster care placements to adolescents'. Contact form at https://falkirkfosteringandadoption.co.uk/contact/."
+ },
+ {
+  "id": "inverclyde-council-fostering",
+  "website": null,
+  "recruitmentUrl": null,
+  "phone": "01475 715367",
+  "publicEnquiryEmail": "adoptionandfostering@inverclyde.gov.uk",
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [
+   "Inverclyde"
+  ],
+  "fosteringTypes": [
+   "respite",
+   "short-term",
+   "long-term"
+  ],
+  "sources": [
+   {
+    "url": "https://www.inverclyde.gov.uk/assets/attach/10040/4345-Fostering-handbook_WEB.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "inverclyde.gov.uk HTML pages are robots-disallowed; details come from the council's undated fostering handbook PDF, so contact details may be dated. Handbook also gives a second number 01475 715020. Types mapped from 'Short break carers', 'Temporary'/'Interim foster carers', 'Long term'/'Permanent foster care'; it also describes 'Supported care' (16+) and 'Level 4 care' for highly complex needs in a 'therapeutic environment' (not mapped)."
+ },
+ {
+  "id": "merton-council-fostering",
+  "website": null,
+  "recruitmentUrl": "https://forms.merton.gov.uk/article/1268/Fostering-enquiry-form",
+  "phone": "0800 073 0874",
+  "publicEnquiryEmail": "fostering@merton.gov.uk",
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [
+   "Merton"
+  ],
+  "fosteringTypes": [
+   "respite"
+  ],
+  "sources": [
+   {
+    "url": "https://www.merton.gov.uk/social-care/children-young-people-and-families/fostering/could-you-foster",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "fostering.merton.gov.uk is robots-disallowed; details from the council's main-site fostering page, which also gives landline 020 8545 4070 and links to the fostering section at https://www.merton.gov.uk/social-care/children-young-people-and-families/fostering. Page text mentions 'short break/respite carer' and 'Special needs' fostering; a carer video transcript on the page lists short-term, long-term, respite, babies, mother and babies, toddlers and teenagers (not recorded as service-stated types)."
+ },
+ {
+  "id": "hillingdon-council-fostering",
+  "website": null,
+  "recruitmentUrl": "https://www.fosterwithwestlondon.org.uk/contact/hillingdon",
+  "phone": "020 8753 1075",
+  "publicEnquiryEmail": "contact@fosterwithwestlondon.org.uk",
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [
+   "Hillingdon"
+  ],
+  "fosteringTypes": [],
+  "sources": [
+   {
+    "url": "https://www.hillingdon.gov.uk/article/4740/Contact-us-about-fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://pre.hillingdon.gov.uk/fostering/contact-us-fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "The council's 'Contact us about fostering' page (which redirected to pre.hillingdon.gov.uk) directs enquiries to the Foster with West London team, described as bringing together the 8 west London local authorities as one regional fostering service; phone and email are the hub's."
+ },
+ {
+  "id": "luton-borough-council-fostering",
+  "website": "https://www.luton.gov.uk/health-social-care/children-young-people-families/adoption-fostering/fostering",
+  "recruitmentUrl": "https://www.luton.gov.uk/health-social-care/children-young-people-families/adoption-fostering/fostering/how-become-foster-carer",
+  "phone": "01582 547633",
+  "publicEnquiryEmail": null,
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "areasServed": [
+   "Luton"
+  ],
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "teenagers"
+  ],
+  "sources": [
+   {
+    "url": "https://www.luton.gov.uk/health-social-care/children-young-people-families/adoption-fostering/fostering/how-become-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "phone",
+     "website",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/health-social-care/children-young-people-families/adoption-fostering/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Types from the council's fostering section ('Short term and long term fostering, respite, parent and child, PACE and shared care fostering'; 'Foster Carer Plus' described as offering teenagers stability). Council directs expressions of interest to the regional Foster East hub. Phone line stated as available Monday to Friday 9am to 4.30pm."
+ }
+]

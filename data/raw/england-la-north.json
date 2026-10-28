@@ -1,0 +1,669 @@
+[
+  {
+    "id": "darlington-borough-council-fostering",
+    "name": "Darlington Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Darlington"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.darlington.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.darlington.gov.uk/education-and-learning/childrens-social-care/fostering/why-we-care/our-care-leavers-stories",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Council fostering section exists under /education-and-learning/childrens-social-care/fostering/ but the landing page could not be fetched; only a sub-page was retrieved. No phone, email or fostering types confirmed."
+  },
+  {
+    "id": "durham-county-council-fostering",
+    "name": "Durham County Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "County Durham"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://durham.gov.uk/Fostering",
+    "recruitmentUrl": "https://www.fosterwithnortheast.org.uk/enquire-now",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://durham.gov.uk/Fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Recruits via the Foster with North East regional hub (council page links to its enquire-now page). Council page states the service is rated Outstanding by Ofsted. Council also publishes 'How to get started' (https://durham.gov.uk/article/35132/How-to-get-started) and 'Types of fostering' (https://durham.gov.uk/article/9938/Types-of-fostering) pages (not fetched)."
+  },
+  {
+    "id": "foster-with-gateshead",
+    "name": "Foster with Gateshead",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Gateshead"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.gateshead.gov.uk/fostering",
+    "recruitmentUrl": "https://www.gateshead.gov.uk/startyourfosteringjourney",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.gateshead.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.gateshead.gov.uk/startyourfosteringjourney",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Gateshead Council fostering service, branded 'Foster with Gateshead'. Member of the Foster with North East regional enquiry hub (12 North East local authorities). Council page states Ofsted rated the service Good in 2024."
+  },
+  {
+    "id": "hartlepool-borough-council-fostering",
+    "name": "Hartlepool Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Hartlepool"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 917 7771",
+    "website": "https://www.hartlepool.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.hartlepool.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council page refers enquiries and applications to the Foster with North East regional hub (12 North East local authorities), but does not give the hub URL. The phone number shown is the shared Foster with North East hub number."
+  },
+  {
+    "id": "middlesbrough-council-fostering",
+    "name": "Middlesbrough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Middlesbrough"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://middlesbrough.gov.uk/need-to-know/foster-with-north-east",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://middlesbrough.gov.uk/need-to-know/foster-with-north-east",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Only a search result was obtained (council page titled 'foster with north east'); the page itself was not fetched, so no phone, email or fostering types are confirmed. Council appears to recruit via the Foster with North East regional hub."
+  },
+  {
+    "id": "newcastle-fostering-service",
+    "name": "Newcastle Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Newcastle upon Tyne"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 917 7771",
+    "website": "https://new.newcastle.gov.uk/fostering",
+    "recruitmentUrl": "https://new.newcastle.gov.uk/fostering/get-touch",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://new.newcastle.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://new.newcastle.gov.uk/fostering/get-touch",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Newcastle City Council fostering service, part of the Foster with North East regional hub (https://www.fosterwithnortheast.org.uk/). The phone number shown is the shared Foster with North East hub number. Council publishes an 'About fostering' page at https://new.newcastle.gov.uk/fostering/about-fostering."
+  },
+  {
+    "id": "north-tyneside-council-fostering",
+    "name": "North Tyneside Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "North Tyneside"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://my.northtyneside.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://my.northtyneside.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      }
+    ],
+    "notes": "The council fostering URL returned only a redirect notice when fetched, so no phone, email or fostering types are confirmed. A legacy fostering category page also exists at https://legacy.northtyneside.gov.uk/category/512/fostering (not fetched)."
+  },
+  {
+    "id": "foster-with-northumberland",
+    "name": "Foster with Northumberland",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Northumberland"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01670 626262",
+    "website": "https://www.northumberland.gov.uk/foster",
+    "recruitmentUrl": "https://www.northumberland.gov.uk/foster/could-i-foster",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.northumberland.gov.uk/foster",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "recruitmentUrl"
+        ]
+      },
+      {
+        "url": "https://www.northumberland.gov.uk/foster/types-of-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Northumberland County Council fostering service, branded 'Foster with Northumberland'; part of the Foster with North East regional hub (https://www.fosterwithnortheast.org.uk/). 'Other' covers fostering asylum-seeking children and young people and Staying Put; 'respite' is published as Short Breaks fostering. Online enquiry form linked from the council site at https://nland.cc/FWNWebEnquiry."
+  },
+  {
+    "id": "fostering-redcar-and-cleveland",
+    "name": "Fostering Redcar and Cleveland",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Redcar and Cleveland"
+    ],
+    "address": {
+      "line1": "Redcar & Cleveland House, Kirkleatham Street",
+      "town": "Redcar",
+      "postcode": "TS10 1RT"
+    },
+    "phone": "0800 917 7771",
+    "website": "https://fostering.redcar-cleveland.gov.uk/",
+    "recruitmentUrl": "https://fostering.redcar-cleveland.gov.uk/get-in-touch/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.redcar-cleveland.gov.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Redcar & Cleveland Borough Council fostering service. Enquiry link on the council's fostering site goes to the Foster with North East regional hub; the phone number shown is the shared hub number."
+  },
+  {
+    "id": "south-tyneside-council-fostering",
+    "name": "Fostering with South Tyneside Council",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "South Tyneside"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.southtyneside.gov.uk/article/1412/Fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.southtyneside.gov.uk/article/1412/Fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Council fostering pages returned client errors when fetched; only search results (name and URL) were obtained. Council also publishes a campaign page titled 'Foster with North East and South Tyneside Council' at https://campaigns.southtyneside.gov.uk/fostering and a 'Steps to becoming a foster carer' page at https://www.southtyneside.gov.uk/article/2225/Steps-to-becoming-a-foster-carer (not fetched)."
+  },
+  {
+    "id": "stockton-on-tees-borough-council-fostering",
+    "name": "Stockton-on-Tees Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Stockton-on-Tees"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 917 7771",
+    "website": "https://stockton.gov.uk/fostering",
+    "recruitmentUrl": "https://stockton.gov.uk/become-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "teenagers",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://stockton.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://stockton.gov.uk/become-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "recruitmentUrl",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Member of the Foster with North East regional hub (12 North East local authorities); the phone number shown is the shared hub number. Council also mentions supported lodgings."
+  },
+  {
+    "id": "together-for-children-sunderland-fostering",
+    "name": "Together for Children Sunderland Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Sunderland"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": "https://fosterwithne.suncc2-prd.gosshosted.com/together-for-children",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "long-term",
+      "short-term",
+      "teenagers",
+      "sibling-groups",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fosterwithne.suncc2-prd.gosshosted.com/together-for-children",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed",
+          "fosteringTypes",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Sunderland City Council's children's services, including fostering, are delivered by Together for Children (council-owned company). Information sourced from the Foster with North East regional hub's Together for Children page; a Together for Children website could not be confirmed. 'Other' covers specialist fostering and unaccompanied asylum-seeking children. Hub page states the service is rated Outstanding by Ofsted."
+  },
+  {
+    "id": "blackburn-with-darwen-council-fostering-service",
+    "name": "Blackburn with Darwen Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Blackburn with Darwen"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 019 0200",
+    "website": "https://blackburn.gov.uk",
+    "recruitmentUrl": "https://fosterwithus.org.uk",
+    "publicEnquiryEmail": "hello@fosterwithus.org.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://theshuttle.org.uk/foster-care-fortnight-12th-may-to-23rd-may-2025/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from The Shuttle, Blackburn with Darwen Council's own news site (May 2025 article), not from a blackburn.gov.uk fostering page. Council recruits through the 'Foster with Us' regional recruitment hub (fosterwithus.org.uk), a partnership of five North West councils led by Blackburn with Darwen (with Lancashire, Blackpool, Cumberland and Westmorland and Furness per Lancashire County Council news); the phone number and email shown are the hub's. No fostering types confirmed."
+  },
+  {
+    "id": "blackpool-council-fostering",
+    "name": "Blackpool Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Blackpool"
+    ],
+    "address": {
+      "line1": "Municipal Buildings, Corporation Street",
+      "town": "Blackpool",
+      "postcode": "FY1 1NF"
+    },
+    "phone": "01253 420222",
+    "website": "https://www.blackpool.gov.uk/Fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "respite",
+      "emergency",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.blackpool.gov.uk/Residents/Health-and-social-care/Adoption-and-fostering/Fostering-in-Blackpool/Why-foster-with-us.aspx",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.blackpool.gov.uk/news/new-film-shows-any-of-us-can-foster.aspx",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Address is Blackpool Council's main office address from the council site footer, not a fostering-specific address. 'Respite' is published as short breaks; 'parent-and-child' is published as mother and child arrangements. Blackpool is a partner in the Blackburn with Darwen-led North West regional fostering recruitment hub (per Lancashire County Council news), but the council pages fetched did not mention it."
+  },
+  {
+    "id": "bolton-council-fostering",
+    "name": "Bolton Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Bolton"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 303 0321",
+    "website": "https://www.bolton.gov.uk/fostering",
+    "recruitmentUrl": "https://www.bolton.gov.uk/fostering/enquire-fostering",
+    "publicEnquiryEmail": "enquire@fosterforgm.com",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.bolton.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.bolton.gov.uk/fostering/guide-fostering-bolton",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Member of Foster for Greater Manchester, the regional hub for all 10 Greater Manchester local authorities (council page links to www.fosterforgm.com); the phone number and enquiry email published on the council page are the hub's. Council also publishes a 'Why foster with Bolton?' page at https://www.bolton.gov.uk/fostering/become-a-foster-carer."
+  },
+  {
+    "id": "bury-council-fostering",
+    "name": "Foster with Bury",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Bury"
+    ],
+    "address": {
+      "line1": "Knowsley Street",
+      "town": "Bury",
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://bury.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fosteringduty@bury.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.mynewsdesk.com/uk/bury-council/pressreleases/bury-council-launches-groundbreaking-foster-carers-hub-to-support-carers-and-build-community-3420280?site=uk",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from a Bury Council press release on the council's Mynewsdesk newsroom (not a bury.gov.uk fostering page) - treat as provisional. Press release also gives the Greater Manchester hub mailbox enquire@fosterforgm.com. Postcode printed as 'BL9 OSW' in the source (apparent typo) so left null. Press release mentions respite and planned/emergency care within its Mockingbird programme but does not list recruitment fostering types."
+  },
+  {
+    "id": "foster-for-lancashire",
+    "name": "Foster for Lancashire",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Lancashire"
+    ],
+    "address": {
+      "line1": "PO Box 78, County Hall, Fishergate",
+      "town": "Preston",
+      "postcode": "PR1 8XJ"
+    },
+    "phone": "0300 019 0200",
+    "website": "https://www.lancashire.gov.uk/children-and-families/fostering/",
+    "recruitmentUrl": "https://www.lancashire.gov.uk/fostering/get-in-touch/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "teenagers",
+      "sibling-groups",
+      "parent-and-child",
+      "long-term",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.lancashire.gov.uk/children-and-families/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://news.lancashire.gov.uk/news/boost-of-more-than-gbp-1-2m-funding-for-foster-care-recruitment",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name"
+        ]
+      }
+    ],
+    "notes": "Lancashire County Council fostering service, branded 'Foster for Lancashire'. 'Other' covers fostering children with additional needs, family and friends foster care, step down fostering and pause and reflect foster care. Lancashire is a partner in the Blackburn with Darwen-led North West regional fostering recruitment and retention hub (DfE-funded pathfinder) per council news; the phone number on the fostering page matches the hub number published by Blackburn with Darwen."
+  }
+]

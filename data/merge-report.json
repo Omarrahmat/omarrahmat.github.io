@@ -1,0 +1,86 @@
+{
+  "accepted": 498,
+  "rejected": [
+    {
+      "file": "england-ifa-ne-yorkshire.json",
+      "id": "cornerstone-north-east-fostering-service",
+      "errors": [
+        "duplicate of cornerstone-north-east-fostering-service-mattersey (same registration)"
+      ]
+    },
+    {
+      "file": "england-ifa-ne-yorkshire.json",
+      "id": "st-cuthberts-care",
+      "errors": [
+        "excluded: Only source is a tender notice; registration and current details not yet verified"
+      ]
+    },
+    {
+      "file": "england-ifa-ne-yorkshire.json",
+      "id": "evolve-fostering-beta-north",
+      "errors": [
+        "excluded: Only source is a tender notice; registration and current details not yet verified"
+      ]
+    },
+    {
+      "file": "england-ifa-ne-yorkshire.json",
+      "id": "unity-foster-care",
+      "errors": [
+        "excluded: Only source is a tender notice; registration and current details not yet verified"
+      ]
+    },
+    {
+      "file": "england-ifa-ne-yorkshire.json",
+      "id": "foster-care-solutions-chester-le-street",
+      "errors": [
+        "excluded: Only source is a tender notice; registration and current details not yet verified"
+      ]
+    },
+    {
+      "file": "pass2-scotland-ifa.json",
+      "id": "foster-care-connect",
+      "errors": [
+        "excluded: Only source is a jobs listing page; registration and details not yet verified"
+      ]
+    },
+    {
+      "file": "pass5-leads-2.json",
+      "id": "unity-foster-care",
+      "errors": [
+        "excluded: Only source is a tender notice; registration and current details not yet verified"
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "file": "england-ifa-london.json",
+      "id": "shining-stars-fostering-agency",
+      "warning": "mobile number removed"
+    },
+    {
+      "file": "england-ifa-london.json",
+      "id": "indigo-fostering",
+      "warning": "mobile number removed"
+    },
+    {
+      "file": "england-ifa-london.json",
+      "id": "daffodils-fostering",
+      "warning": "mobile number removed"
+    },
+    {
+      "file": "pass2-la-south-scotland.json",
+      "id": "swindon-borough-council-fostering",
+      "warning": "mobile number removed"
+    },
+    {
+      "file": "pass2-scotland-ifa.json",
+      "id": "action-for-children-fostering-scotland",
+      "warning": "non-generic email removed: fostercare.caps@…"
+    },
+    {
+      "file": "pass4-ifa-wales-ni.json",
+      "id": "supported-fostering-services-cardiff",
+      "warning": "non-generic email removed: cardiff@…"
+    }
+  ]
+}

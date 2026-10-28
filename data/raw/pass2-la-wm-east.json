@@ -1,0 +1,1011 @@
+[
+  {
+    "id": "herefordshire-council-fostering",
+    "name": "Herefordshire Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Herefordshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01432 383240",
+    "website": "https://www.herefordshire.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fostering@herefordshire.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.herefordshire.gov.uk/news/article/2006/urgent-need-for-foster-carers-in-herefordshire",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "publicEnquiryEmail",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Source is a Herefordshire Council news article which gives the fostering team phone and generic fostering mailbox but does not link the fostering web page, so recruitmentUrl is null. No published service name found; generic name used. No regional hub mentioned."
+  },
+  {
+    "id": "sandwell-childrens-trust-fostering",
+    "name": "Sandwell Children's Trust Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Sandwell"
+    ],
+    "address": {
+      "line1": "Sandwell Children's Trust HQ, Dudley Road",
+      "town": "Oldbury",
+      "postcode": "B69 3DL"
+    },
+    "phone": null,
+    "website": "https://www.sandwellchildrenstrust.org",
+    "recruitmentUrl": "https://sandwellchildrenstrust.org/fostering-and-adoption/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1267324",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1267324",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "regulatorReference",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.sandwellchildrenstrust.org/?p=17115",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "website",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Sandwell Children's Trust delivers children's services on behalf of Sandwell Metropolitan Borough Council. Ofsted registered address is 'Sandwell Metropolitan Borough Council, PO Box 2374, Oldbury, B69 3DE'; address recorded is the Trust HQ as published on its website. No fostering-specific phone found (only the Trust's general HQ line 0121 569 3100, not recorded). Trust page retrieved dates from September 2021."
+  },
+  {
+    "id": "shropshire-fostering",
+    "name": "Shropshire Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Shropshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.shropshirefostering.co.uk",
+    "recruitmentUrl": "https://www.shropshirefostering.co.uk/enquire",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://newsroom.shropshire.gov.uk/2025/12/shropshire-fostering-launches-campaign-to-find-loving-homes-for-babies/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Shropshire Council's fostering service trades as 'Shropshire Fostering' (described by the council as a not-for-profit service backed by Shropshire Council). The shropshirefostering.co.uk site itself could not be fetched (blocked), so website and recruitmentUrl are as linked from the council newsroom article (December 2025). No fostering-specific phone found (council general line only). Fostering types from the article's description of arrangements lasting a few weeks up to two years."
+  },
+  {
+    "id": "foster-for-solihull",
+    "name": "Foster for Solihull",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Solihull"
+    ],
+    "address": {
+      "line1": "Jubilee House, 655 Auckland Drive, Smiths Wood",
+      "town": "Solihull",
+      "postcode": "B36 0SN"
+    },
+    "phone": "0121 788 4474",
+    "website": "https://www.solihull.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "therapeutic",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.solihull.gov.uk/news/solihull-council-launches-new-fostering-campaign",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.solihull.gov.uk/sites/default/files/migrated/Portals_0_SocialServicesAndHealth%252FSTATEMENT_OF_PURPOSE.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Solihull Metropolitan Borough Council's fostering service, promoted as 'Foster for Solihull'. The council news page refers to a Foster for Solihull website but does not link it, so recruitmentUrl is null. Address and fostering types come from the council's Statement of Purpose dated February 2013 (2013-14) and may be out of date; verify before publishing ('other' = family and friends/connected person care, support care and part-time fostering as listed there). Council page states applicants can live anywhere across the West Midlands."
+  },
+  {
+    "id": "foster-for-staffordshire",
+    "name": "Foster for Staffordshire",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Staffordshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 169 2061",
+    "website": "https://www.staffordshire.gov.uk",
+    "recruitmentUrl": "https://www.staffordshire.gov.uk/Children-and-early-years/Fostering-for-Staffordshire.aspx",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.staffordshire.gov.uk/Children-and-early-years/Fostering-for-Staffordshire.aspx",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.staffordshire.gov.uk/newsroom/2026/fostering-staffordshire-joins-staffy-trail-inspire-future-carers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Staffordshire County Council's fostering service; the council uses the names 'Foster for Staffordshire', 'Foster with Staffordshire' and 'Fostering for Staffordshire' across its pages. The council also publishes the short link https://www.staffordshire.gov.uk/foster-staffordshire for the fostering pages. No office address, email or fostering types published on the pages retrieved."
+  },
+  {
+    "id": "fostering-stoke",
+    "name": "Fostering Stoke",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Stoke-on-Trent"
+    ],
+    "address": {
+      "line1": "Civic Centre, Glebe Street",
+      "town": "Stoke-on-Trent",
+      "postcode": "ST4 1HH"
+    },
+    "phone": "01782 234555",
+    "website": "https://www.stoke.gov.uk",
+    "recruitmentUrl": "https://fostering.stoke.gov.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.stoke.gov.uk/news/article/1880/fostering_recruitment_drive_launched_to_support_stoke-on-trent_teenagers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "address",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostering.stoke.gov.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Stoke-on-Trent City Council's fostering service, published as 'Fostering Stoke' / 'Foster with Stoke-on-Trent City Council'. Address is the council's Civic Centre address from the council page footer, not a dedicated fostering office. 'teenagers' reflects the council's Family Pathways programme (specialist foster care for teenagers stepping down from residential care); the fostering site has a 'types of foster care' section (https://fostering.stoke.gov.uk/types-foster-care-1?categoryId=11) and a contact page (https://fostering.stoke.gov.uk/fostering-2/contact-us) that were not retrieved. Also runs the Mockingbird programme."
+  },
+  {
+    "id": "telford-fostering",
+    "name": "Fostering for Telford & Wrekin Council",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Telford and Wrekin"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01952 387387",
+    "website": "https://www.telford.gov.uk",
+    "recruitmentUrl": "https://www.telfordfostering.co.uk/site/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://newsroom.telford.gov.uk/news/foster-with-telford-and-wrekin-council",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.telford.gov.uk/media/vqac3kzf/telford-wrekin-council-fostering-flyer.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Telford & Wrekin Council's fostering service, also referred to as 'Telford Fostering'. The service's dedicated site telfordfostering.co.uk could not be fetched (blocked); recruitmentUrl is as linked from the council newsroom. Council flyer also lists www.telfordfostering.co.uk/fosterwithus and states fostering is offered full or part time. No office address or email found."
+  },
+  {
+    "id": "walsall-fostering-service",
+    "name": "Walsall Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Walsall"
+    ],
+    "address": {
+      "line1": "Fallings Heath, Walsall Road",
+      "town": "Darlaston",
+      "postcode": "WS10 9SH"
+    },
+    "phone": "0800 923 3706",
+    "website": "https://go.walsall.gov.uk",
+    "recruitmentUrl": "https://go.walsall.gov.uk/fostering",
+    "publicEnquiryEmail": "FosteringInWalsall@walsall.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://go.walsall.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "publicEnquiryEmail",
+          "address",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://go.walsall.gov.uk/newsroom/walsall-celebrates-foster-care-fortnight-2025",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Walsall Council's in-house fostering service. 'respite' recorded for the service's listed 'short breaks'; 'other' = New Horizons scheme (see https://go.walsall.gov.uk/fostering/types-fostering). Application page: https://go.walsall.gov.uk/fostering/start-your-fostering-journey. Runs the Mockingbird programme."
+  },
+  {
+    "id": "fostering-in-warwickshire",
+    "name": "Fostering in Warwickshire",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Warwickshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 408 1556",
+    "website": "https://www.warwickshire.gov.uk",
+    "recruitmentUrl": "https://fostering.warwickshire.gov.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.warwickshire.gov.uk/news/article/4073/fostering-good-relationships",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostering.warwickshire.gov.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "recruitmentUrl",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Warwickshire County Council's fostering service (council also uses 'Foster for Warwickshire'). 'respite' recorded for the service's listed 'short breaks' and Family Link fostering; 'other' = solo, solo disability, flexible, Breathing Space and Treehouse foster care schemes listed on the site. Enquiry form is a Microsoft Forms link on the fostering site. No office address or email published on pages retrieved."
+  },
+  {
+    "id": "fostering-for-wolverhampton",
+    "name": "Fostering for Wolverhampton",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Wolverhampton"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01902 551133",
+    "website": "https://www.wolverhampton.gov.uk",
+    "recruitmentUrl": "https://www.fosteringforwolverhampton.com/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://wolverhampton.gov.uk/news/fostering-annual-report-reveals-2022-2023-highlights",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "City of Wolverhampton Council's in-house fostering service. The dedicated site fosteringforwolverhampton.com could not be fetched (blocked); recruitmentUrl is as linked from the council news release (August 2023). No office address, email or fostering types published on the page retrieved."
+  },
+  {
+    "id": "worcestershire-fostering",
+    "name": "Worcestershire Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Worcestershire"
+    ],
+    "address": {
+      "line1": "County Hall, Spetchley Road",
+      "town": "Worcester",
+      "postcode": "WR5 2NP"
+    },
+    "phone": null,
+    "website": "https://www.worcestershire.gov.uk",
+    "recruitmentUrl": "https://www.worcestershire.gov.uk/worcestershire-children-first-fostering",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2549696",
+    "sources": [
+      {
+        "url": "https://www.worcestershire.gov.uk/worcestershire-children-first-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.worcestershire.gov.uk/sites/default/files/2023-04/Statement%20of%20Purpose%2C%20Worcestershire%20children%20first%20fostering%20URN%202549696.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Fostering service of Worcestershire Children First, the not-for-profit company wholly owned by Worcestershire County Council that delivers children's services; the Statement of Purpose (2021-2023, updated February 2023) names it 'Worcestershire Children First Independent Fostering Agency'. The URN 2549696 is taken from the council-published Statement of Purpose filename, not stated in the document body; verify against Ofsted. Address is the management contact address given in the Statement of Purpose (County Hall), not a dedicated fostering office. Phone set to null: the only number found (01905 845509) is a management contact in the Statement of Purpose, not labelled as the public enquiry line. 'teenagers' = contract care for teenagers (Statement of Purpose); 'other' = buddy and specialist foster care (council page). Get-in-touch page: https://www.worcestershire.gov.uk/council-services/childrens-social-care/worcestershire-fostering/get-touch-us-about-fostering."
+  },
+  {
+    "id": "bedford-borough-council-fostering",
+    "name": "Bedford Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Bedford Borough"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01234 718718",
+    "website": "https://www.bedford.gov.uk",
+    "recruitmentUrl": "https://www.fostereast.org.uk/bedford",
+    "publicEnquiryEmail": "fostering@bedford.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.bedford.gov.uk/social-care-and-health/adoption-and-fostering/fostering/fostering-overview",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "publicEnquiryEmail",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.bedford.gov.uk/social-care-health-and-community/adoption-and-fostering/fostering/who-can-foster/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "fosteringTypes",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Bedford Borough Council's in-house fostering service (no distinct published service name). Council recruits through the Foster East regional hub: its 'Enquire about fostering' link goes to the hub page recorded as recruitmentUrl; the council's own fostering pages are at https://www.bedford.gov.uk/social-care-and-health/adoption-and-fostering/fostering/fostering-overview. Fostering types reflect only the page's statement that care may be for a short period or longer term. Council runs Mockingbird constellations."
+  },
+  {
+    "id": "cambridgeshire-fostering-service",
+    "name": "Cambridgeshire Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Cambridgeshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 052 0078",
+    "website": "https://www.cambridgeshire.gov.uk",
+    "recruitmentUrl": "https://www.fostereast.gov.uk/cambridgeshire",
+    "publicEnquiryEmail": "fostering@cambridgeshire.gov.uk",
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.cambridgeshire.gov.uk/residents/children-and-families/fostering-and-adoption/fostering-with-us/why-foster-with-cambridgeshire-county-council",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "publicEnquiryEmail",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.cambridgeshire.gov.uk/residents/children-and-families/fostering-and-adoption/different-types-of-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "fosteringTypes",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Cambridgeshire County Council's in-house fostering service. Council's 'Enquire now' links go to the Foster East regional hub page recorded as recruitmentUrl; the council's own fostering pages are under https://www.cambridgeshire.gov.uk/residents/children-and-families/fostering-and-adoption/. 'short-term' recorded for the council's 'Time Limited' fostering; 'other' = Link Care (disability), PACE, Supported Lodgings and unaccompanied asylum-seeking children placements as listed by the council. No office address published on pages retrieved."
+  },
+  {
+    "id": "central-bedfordshire-council-fostering",
+    "name": "Central Bedfordshire Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Central Bedfordshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 300 8181",
+    "website": "https://www.centralbedfordshire.gov.uk",
+    "recruitmentUrl": "https://www.centralbedfordshire.gov.uk/fostering-support",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.centralbedfordshire.gov.uk/fostering-support",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.centralbedfordshire.gov.uk/news/2024/east-england-local-authorities-collaborate-appeal-more-foster-families-work-their-council",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Central Bedfordshire Council's in-house fostering service (no distinct published service name). Council states it is part of the Foster East regional partnership (eleven East of England local authorities, DfE-funded, launched May 2024) but the pages retrieved do not give the hub URL. recruitmentUrl is the council's 'Fostering support and allowances' page, which carries the 'Request an information pack' call to action; no dedicated 'become a foster carer' page URL was found. Council page states the service is rated Good by Ofsted (no URN shown). Fostering types from the council news release (short-term care from a weekend a month; longer-term opportunities)."
+  },
+  {
+    "id": "essex-fostering",
+    "name": "Essex Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Essex"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 801 530",
+    "website": "https://www.essex.gov.uk",
+    "recruitmentUrl": "https://www.essex.gov.uk/fostering",
+    "publicEnquiryEmail": "FosterRecruitment@essex.gov.uk",
+    "fosteringTypes": [
+      "teenagers",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.essex.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.essex.gov.uk/children-young-people-and-families/fostering/contact-essex-fostering-team",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Essex County Council's in-house fostering service; the council refers to the 'Essex fostering team' and publishes its pages at essex.gov.uk/fostering (page title 'Fostering and Supported Lodgings'). 'teenagers' = the council's 16+ Foster Carer role (young people aged 16 to 18); 'other' = Supported Lodgings. Council states it is part of the Foster East partnership (not linked on pages retrieved). Enquiry form and phone line hours are on the contact page. No office address published."
+  },
+  {
+    "id": "hertfordshire-county-council-fostering-service",
+    "name": "Hertfordshire County Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Hertfordshire"
+    ],
+    "address": {
+      "line1": "First Floor, Farnham House, Six Hills Way",
+      "town": "Stevenage",
+      "postcode": "SG1 2FQ"
+    },
+    "phone": "0800 917 0925",
+    "website": "https://www.hertfordshire.gov.uk",
+    "recruitmentUrl": "https://www.hertfordshire.gov.uk/fostering",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.hertfordshire.gov.uk/media-library/documents/childrens-services/fostering/fostering-statement-of-purpose-2024-25.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://hertscouncil-newsroom.prgloo.com/news/east-of-england-local-authorities-join-forces-to-help-thousands-of-children",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Hertfordshire County Council's in-house fostering service. Address is the Stevenage office housing the Adoption & Fostering Recruitment team per the 2024-25 Statement of Purpose (a second office is at Apsley Two, Brindley Way, Hemel Hempstead HP3 9BF). recruitmentUrl is the council's published short link www.hertfordshire.gov.uk/fostering (seen as text, not fetched). Council is one of the 11 members of the Foster East regional hub (www.fostereast.org.uk per the council newsroom), which it directs enquiries to. 'other' = Mockingbird, sleepover, shared care, day care, supported lodgings and Staying Put schemes listed in the Statement of Purpose."
+  },
+  {
+    "id": "luton-borough-council-fostering",
+    "name": "Luton Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Luton"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.luton.gov.uk",
+    "recruitmentUrl": "https://www.fostereast.gov.uk/luton",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.fostereast.gov.uk/luton",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.luton.gov.uk/news/2024/east-england-local-authorities-collaborate-appeal-more-foster-families-work-their-council",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      }
+    ],
+    "notes": "Limited record: Luton Council's own Foster East news page (luton.gov.uk) returned a client error and the council's mobile news link redirected to the general news index, so only the Foster East hub enquiry page for Luton (fostereast.gov.uk/luton, headed 'Luton Borough Council's fostering enquiry form' and stating the council is part of Foster East) was retrieved. Website is the council site seen only as a search-result URL. No phone, email, address or fostering types confirmed; verify before publishing."
+  },
+  {
+    "id": "norfolk-fostering-service",
+    "name": "Norfolk Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Norfolk"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.norfolk.gov.uk",
+    "recruitmentUrl": "https://www.norfolk.gov.uk/fostering",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://norfolk.gov.uk/article/59110/About-Foster-East",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.norfolk.gov.uk/article/75754/Norfolk-welcomes-national-focus-on-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Norfolk County Council's in-house fostering service, published as 'Norfolk Fostering Service at Norfolk County Council'. recruitmentUrl is the council's published short link www.norfolk.gov.uk/fostering (seen as text, not fetched). Council is a member of the Foster East regional hub (11 East of England councils); the council's About Foster East page lists 'Become a foster carer' and 'Transfer to Norfolk Fostering Service' pages but no URLs were captured. No phone, email, address or fostering types published on pages retrieved; verify before publishing."
+  },
+  {
+    "id": "peterborough-city-council-fostering-service",
+    "name": "Peterborough City Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Peterborough"
+    ],
+    "address": {
+      "line1": "St Martin House, Bittern Way, Fletton Quays",
+      "town": "Peterborough",
+      "postcode": "PE2 8TY"
+    },
+    "phone": "01733 868686",
+    "website": "https://www.peterborough.gov.uk",
+    "recruitmentUrl": "https://fosterwithpeterborough.org.uk",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://peterborough.gov.uk/residents/fostering-and-adoption/fostering-with-us/fostering-statement-of-purpose",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "website",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.peterborough.gov.uk/engagement-hub/people-thinking-about-fostering-encouraged-to-make-contact",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "recruitmentUrl",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Peterborough City Council's in-house fostering service (operating as a council service since 1 November 2023 per its Statement of Purpose). Address is the council office given in the Statement of Purpose. recruitmentUrl is the council's published fostering site fosterwithpeterborough.org.uk (seen as bare domain text, not fetched). 'short-term' recorded for the council's 'time limited' fostering; 'other' = supported lodgings, link care, PACE and Staying Put. Council states it is part of the Foster East network."
+  },
+  {
+    "id": "southend-fostering",
+    "name": "Southend Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Southend-on-Sea"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01702 212938",
+    "website": "https://www.southend.gov.uk",
+    "recruitmentUrl": "https://www.fostereast.gov.uk/southendonsea",
+    "publicEnquiryEmail": "fostering@southend.gov.uk",
+    "fosteringTypes": [
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.southend.gov.uk/news/article/3209/prospective-foster-carer-open-weekend-welcomes-future-carers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://southend.gov.uk/news/article/2744/council-s-fostering-service-recognises-importance-of-keeping-siblings-together",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.fostereast.gov.uk/southendonsea",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Southend-on-Sea City Council's in-house fostering service; the council refers to the 'Southend Fostering team' and a 'Southend Fostering website' but did not link it on the pages retrieved. recruitmentUrl is the Foster East hub enquiry page for Southend-on-Sea, seen only as a search-result URL (not fetched); Southend-on-Sea City Council is listed as a Foster East member on Hertfordshire County Council's newsroom. No office address published on pages retrieved."
+  },
+  {
+    "id": "suffolk-fostering-service",
+    "name": "Suffolk Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Suffolk"
+    ],
+    "address": {
+      "line1": "Endeavour House, 8 Russell Road",
+      "town": "Ipswich",
+      "postcode": "IP1 2BX"
+    },
+    "phone": "01473 264800",
+    "website": "https://www.suffolk.gov.uk",
+    "recruitmentUrl": "https://www.fosterandadopt.suffolk.gov.uk",
+    "publicEnquiryEmail": "foster@suffolk.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "sibling-groups",
+      "teenagers",
+      "therapeutic",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.suffolk.gov.uk/council-and-democracy/council-news/why-foster-with-suffolk-county-council",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "publicEnquiryEmail",
+          "website",
+          "recruitmentUrl",
+          "address",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fosterandadopt.suffolk.gov.uk/asset-library/2023-2024-fostering-statement-of-purpose1.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Suffolk County Council's in-house fostering service. Address is Endeavour House, the council's headquarters, given as the service address in the 2023-24 Statement of Purpose (updated March 2023). Email recorded is the one on the council's news page; the 2023 Statement of Purpose gives fosterandadopt@suffolk.gov.uk. 'other' = PACE scheme, Link scheme (short breaks for disabled children) and foster to adopt/early permanence. Council is a Foster East member (Foster East has a Suffolk page at https://www.fostereast.gov.uk/article/57917/Suffolk-County-Council, not fetched)."
+  },
+  {
+    "id": "thurrock-council-fostering",
+    "name": "Thurrock Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Thurrock"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.thurrock.gov.uk",
+    "recruitmentUrl": "https://www.fostereast.gov.uk/thurrock",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.thurrock.gov.uk/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.thurrock.gov.uk/news/thurrock-calls-more-foster-carers-during-foster-care-fortnight",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website"
+        ]
+      }
+    ],
+    "notes": "Thurrock Council's in-house fostering service (council page heading 'Fostering in Thurrock'; social handle 'thurrockfostering'). The council's 'Enquire about fostering' link goes to the Foster East hub page recorded as recruitmentUrl; the council's own pages are https://www.thurrock.gov.uk/fostering/ and https://www.thurrock.gov.uk/how-to-become-foster-carer. No phone, email, office address or fostering types published on the pages retrieved; verify before publishing."
+  }
+]

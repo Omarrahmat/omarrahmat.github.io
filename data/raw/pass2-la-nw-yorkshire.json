@@ -1,0 +1,1410 @@
+[
+  {
+    "id": "cheshire-east-council-fostering",
+    "name": "Cheshire East Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Cheshire East"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 123 3223",
+    "website": "https://www.cheshireeast.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://cheshireeast.gov.uk/council_and_democracy/council_information/media_hub/media_releases/cheshire-east-council's-fostering-service-makes-vital-appeal.aspx",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://cheshireeast.gov.uk/council_and_democracy/council_information/media_hub/media_releases/council-launches-'wish-for-you-the-world'-fostering-recruitment-campaign.aspx",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Sourced from two Cheshire East Council media releases; both refer to 'the council's dedicated fostering website' but neither gives its address, so the fostering page URL could not be confirmed and the website field is the council's main site. Media releases mention a need for carers for older children and teenagers, brothers and sisters, and children with additional needs but do not list fostering types. Cheshire East is not described as part of a regional hub in the pages fetched."
+  },
+  {
+    "id": "cheshire-west-and-chester-council-fostering",
+    "name": "Cheshire West and Chester Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Cheshire West and Chester"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01925 444100",
+    "website": "https://www.cheshirewestandchester.gov.uk",
+    "recruitmentUrl": "https://www.foster4.co.uk",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.cheshirewestandchester.gov.uk/news/council-highlights-the-need-for-more-foster-carers-this-foster-care-fortnight",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.cheshirewestandchester.gov.uk/news/could-you-be-a-specialist-foster-carer-and-open-your-home-and-heart-to-a-child-in-care",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Recruits through Foster4, described on the council site as the fostering recruitment collaboration between Cheshire West and Chester Council, Halton Council and Warrington Council (www.foster4.co.uk, tel 01925 444100); the phone number recorded is the Foster4 number published on the council news page. The Foster4 website itself could not be fetched (blocked). 'other' = the council's specialist foster carer scheme (page www.cheshirewestandchester.gov.uk/specialistfostering, linked to https://www.foster4.co.uk/specialist-foster-carer-professional-fee-of-52000-per-annum). Council site is the council's main domain; a dedicated council fostering page URL was not confirmed."
+  },
+  {
+    "id": "cumberland-council-fostering",
+    "name": "Cumbria Fostering (Cumberland Council)",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Cumberland"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 013 2065",
+    "website": "https://www.cumberland.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.cumberland.gov.uk/cared-care-experienced-and-separated-young-people-sufficiency-strategy/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://cumberland.gov.uk/book/export/html/4395683",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.westmorlandandfurness.gov.uk/news/2023/cumbria-fostering-launches-campaign-during-foster-care-fortnight",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Cumberland Council's sufficiency strategy describes 'a hosted fostering service which covers the Cumberland Council and Westmorland and Furness Council'; a Westmorland and Furness Council news page (May 2023) names it 'Cumbria Fostering', working on behalf of both councils, with phone 0300 013 2065 and website cumbriafostering.org.uk (not fetched, so not recorded as website). Both Cumbrian councils are partners in the North West regional fostering recruitment hub 'Foster with Us' (with Blackburn with Darwen, Blackpool and Lancashire); no hub URL was given. Fostering types are taken from recruitment needs stated in the strategy (long-term fostering, carers for a mother or father and their baby, larger sibling groups, teenagers). Phone is from a 2023 page and may be out of date."
+  },
+  {
+    "id": "halton-borough-council-fostering",
+    "name": "Halton Borough Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Halton"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 195 3175",
+    "website": null,
+    "recruitmentUrl": "https://www.foster4.co.uk",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://hbcnewsroom.co.uk/?p=133",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://hbcnewsroom.co.uk/?p=8605",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced only from Halton Borough Council's own newsroom site (hbcnewsroom.co.uk, which carries the council's branding and links to halton.gov.uk); no halton.gov.uk fostering page was found in the search. Both articles (one dated August 2019) direct enquiries to www.foster4.co.uk and 0800 195 3175; Foster4 is the Cheshire West and Chester / Halton / Warrington fostering recruitment collaboration (per Cheshire West and Chester Council). The Foster4 site and foster4halton.co.uk could not be fetched (blocked). Phone may be out of date. Website left null because no fostering page on the council's main site (halton.gov.uk) was retrieved."
+  },
+  {
+    "id": "knowsley-council-fostering",
+    "name": "Knowsley Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Knowsley"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "03456 460098",
+    "website": "https://fostering.knowsley.gov.uk",
+    "recruitmentUrl": "https://fostering.knowsley.gov.uk/Home/BecomingaFosterCarer",
+    "publicEnquiryEmail": "enquiry@foster4.co.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.knowsley.gov.uk/children-young-people-and-families/adoption-and-fostering/fostering-knowsley",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostering.knowsley.gov.uk/Home/News",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council page 'Fostering in Knowsley' and the council's dedicated fostering site (fostering.knowsley.gov.uk, copyright Knowsley MBC) both direct enquiries to Foster4 (www.foster4.co.uk, enquiry@foster4.co.uk, 03456 460098); the dedicated site carries the Foster4 logo and its articles also call the service 'Foster for Knowsley'. Older articles on the site give 0151 443 3958 / 0151 443 3959 as the fostering team numbers. Foster4 enquiry page: https://www.foster4.co.uk/enquire/ (Foster4 site itself could not be fetched). Short-term and permanent/long-term care and sibling groups are stated in site news articles; the site has a 'Types of Fostering Placements' page that was not fetched."
+  },
+  {
+    "id": "liverpool-city-council-fostering",
+    "name": "Liverpool City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Liverpool"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://fostering.liverpool.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://liverpoolexpress.co.uk/foster-for-liverpool/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from Liverpool Express, Liverpool City Council's news site (council logo and 'Copyright Liverpool City Council' footer), article 'Could you foster for Liverpool' dated 1 March 2022, which links to the council's dedicated fostering site fostering.liverpool.gov.uk (event page https://fostering.liverpool.gov.uk/events/liverpool-city-region-fostering-information-event/); that site could not be fetched (blocked), so no phone, address, enquiry page or fostering types are recorded. The article gives 0151 515 0000 for information about the event only, so it is not recorded as the fostering enquiry line. The article describes a joint recruitment campaign by Liverpool, Knowsley, St Helens and Sefton councils. Search results also showed Liverpool Express items on a North West fostering recruitment hub launch (31 May 2026) that were not fetched."
+  },
+  {
+    "id": "manchester-city-council-fostering",
+    "name": "Manchester City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Manchester"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/why-you-should-foster-with-us",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/why-you-should-foster-with-us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/types-of-fostering/short-term-fostering/long-term-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council fostering pages fetched give no phone number, email or office address; enquiries go via a 'Foster for Greater Manchester enquiry form' (Manchester is one of the 10 Greater Manchester councils in the Foster for Greater Manchester hub, fosterforgm.com, per other GM council pages), but no hub URL was shown on the fetched page. Only 'long-term fostering' was stated in the page fetched; the council site has a wider 'Types of fostering' section (including a short-term fostering path) that was not fully fetched. Council site also has 'Manchester fostering hives' support pages."
+  },
+  {
+    "id": "oldham-council-fostering",
+    "name": "Oldham Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Oldham"
+    ],
+    "address": {
+      "line1": "Metropolitan Place, Hobson Street",
+      "town": "Oldham",
+      "postcode": "OL1 1TT"
+    },
+    "phone": "0300 303 0321",
+    "website": "https://www.oldham.gov.uk/fostering",
+    "recruitmentUrl": "https://www.oldham.gov.uk/info/200381/fostering/578/how_to_become_a_foster_carer",
+    "publicEnquiryEmail": "enquire@fosterforgm.com",
+    "fosteringTypes": [
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.oldham.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.oldham.gov.uk/info/200381/fostering/578/how_to_become_a_foster_carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "publicEnquiryEmail",
+          "address",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Phone number and enquiry email published on the council's 'How to become a foster carer' page are those of the Foster for Greater Manchester regional hub (fosterforgm.com), of which Oldham is a member; no hub URL was linked on the pages fetched. Address is given under the 'Fostering Team' heading on that page (the council's main office in the site footer is Spindles Shopping Centre, West Street, Oldham, OL1 1HD). 'parent-and-child' is published as 'Parent and baby fostering'; the council's 'Types of fostering' page was not fetched. Information pack request form: https://www.oldham.gov.uk/info/200381/fostering/3155/fostering_-_request_an_information_pack."
+  },
+  {
+    "id": "rochdale-borough-council-fostering",
+    "name": "Rochdale Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Rochdale"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 303 0321",
+    "website": "https://www.rochdale.gov.uk/foster",
+    "recruitmentUrl": "https://www.rochdale.gov.uk/fostering/enquire-fostering",
+    "publicEnquiryEmail": "enquire@fosterforgm.com",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.rochdale.gov.uk/foster",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.rochdale.gov.uk/fostering/enquire-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Member of the Foster for Greater Manchester partnership of the 10 Greater Manchester councils (council page links to https://fosterforgm.com/ and to https://fosterforgm.com/contact-us for enquiries); the phone number and enquiry email published on the council's enquiry page are the hub's. Council also publishes 'How to become a foster carer' at https://www.rochdale.gov.uk/fostering/become-foster-carer and a 'Types of fostering' section that was not fetched."
+  },
+  {
+    "id": "salford-city-council-fostering",
+    "name": "Salford City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Salford"
+    ],
+    "address": {
+      "line1": "Salford Civic Centre, Chorley Road, Swinton",
+      "town": "Salford",
+      "postcode": "M27 5AW"
+    },
+    "phone": "0161 799 1268",
+    "website": "https://www.salford.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.salford.gov.uk/your-council/news/news-archive/news-from-march-2023/amazing-salford-foster-carers-to-get-16m-increase-in-payments/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://news.salford.gov.uk/news/new-salford-mockingbird-hubs-to-boost-support-for-foster-carers/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "address",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from two Salford City Council news pages (March 2023 and July 2025), not the fostering pages themselves; the 2023 article names the 'Foster for Salford team' and gives 0161 799 1268, the 2025 article links to https://www.salford.gov.uk/fostering (not fetched). Address is the council's general 'Where to find us' address (Salford Civic Centre), not a fostering-specific office. Salford is one of the 10 Greater Manchester councils in the Foster for Greater Manchester hub, but the pages fetched did not mention it. Phone may be out of date."
+  },
+  {
+    "id": "sefton-council-fostering",
+    "name": "Sefton Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Sefton"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 923 2777",
+    "website": "https://seftonfostering.co.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://sefton.gov.uk/mysefton-news/latest-news/sefton-council-celebrates-foster-care-fortnight",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from a Sefton Council news page (18 May 2023) which names 'Sefton Fostering Service', gives freephone 0800 923 2777 and links to the service's own website https://seftonfostering.co.uk/ (blocked when fetched, so no address, enquiry page or fostering types recorded). The council page footer gives the council's main address (Bootle Town Hall, Oriel Road, Bootle, L20 7AE), not recorded as it is not stated to be the fostering office. Phone may be out of date."
+  },
+  {
+    "id": "st-helens-borough-council-fostering",
+    "name": "St Helens Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "St Helens"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://fostering.sthelens.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "enquiry@foster4.co.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://sthelens.gov.uk/article/13296/Residents-encouraged-to-step-up-to-the-challenge-during-Foster-Care-Fortnight",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from a St Helens Borough Council news article (12 May 2025) which gives the council's fostering site as fostering.sthelens.gov.uk (blocked when fetched, so no address, enquiry page or fostering types recorded) and directs enquiries to Enquiry@foster4.co.uk, the mailbox of the Foster4 Cheshire and Merseyside recruitment hub. The article's phone number is printed as '0345646009' (only 10 digits, apparently truncated; the Foster4 number published by Warrington and Knowsley councils is 0345 646 0098), so no phone is recorded. The article refers to 'Team Foster4 St Helens'."
+  },
+  {
+    "id": "stockport-council-fostering",
+    "name": "Stockport Council Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Stockport"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 303 0321",
+    "website": "https://www.stockport.gov.uk",
+    "recruitmentUrl": "https://fosterforgm.com/stockport",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.stockport.gov.uk/news/stockport-council-calls-for-more-foster-carers-as-foster-care-fortnight-launches",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from a Stockport Council news article (11 May 2026) which names the 'Stockport Council Fostering Service', gives 0300 303 0321 (the Foster for Greater Manchester hub number also published by other Greater Manchester councils) and links to the hub's Stockport page www.fosterforgm.com/stockport (blocked when fetched). No dedicated stockport.gov.uk fostering page was confirmed, so website is the council's main site; the article also links fostering events at stockport.gov.uk/events?tag=fostering. Article says placements range 'from a few nights a week to a long-term home' but names no fostering types."
+  },
+  {
+    "id": "tameside-council-fostering",
+    "name": "Tameside Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Tameside"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 303 0321",
+    "website": "https://www.tameside.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fosteringenquiries@tameside.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://tameside.gov.uk/Newsroom/Articles/Tameside-family-share-their-favourite-fostering-moments",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from a Tameside Council newsroom press release (13 May 2024) which gives www.tameside.gov.uk/fostering, 0300 303 0321 (the Foster for Greater Manchester hub number also published by other Greater Manchester councils) and fosteringenquiries@tameside.gov.uk. The council fostering page itself was blocked when fetched, so no address, enquiry page or fostering types are recorded. Tameside is one of the 10 Greater Manchester councils in the Foster for Greater Manchester hub, but the page fetched did not mention it."
+  },
+  {
+    "id": "trafford-council-fostering",
+    "name": "Trafford Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Trafford"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0161 912 3558",
+    "website": "https://www.trafford.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.trafford.gov.uk/news/2022/celebrating-amazing-work-carried-out-trafford-foster-carers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.trafford.gov.uk/residents/news/articles/2018/20180523-Fostering-in-Trafford-Think-You-Cant-Think-Again.aspx",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Sourced only from Trafford Council news articles (June 2022 and May 2018); neither links to a council fostering page, so website is the council's main site. The phone number comes from the 2018 article and may well be out of date: Trafford is one of the 10 Greater Manchester councils in the Foster for Greater Manchester hub (0300 303 0321 per other Greater Manchester council pages), but the Trafford pages fetched did not mention the hub. The 2018 article mentions a 'Fostering Plus' carer scheme but names no fostering types."
+  },
+  {
+    "id": "warrington-borough-council-fostering",
+    "name": "Warrington Borough Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Warrington"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0345 646 0098",
+    "website": "https://www.warrington.gov.uk/fostering",
+    "recruitmentUrl": "https://www.foster4.co.uk/enquire/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.warrington.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council page states Warrington Borough Council hosts Foster4, 'the collaborative Local Authority Foster Carer Recruitment Hub for Cheshire and Merseyside', and enquiries go to the Foster4 team (0345 646 0098, enquiry form https://www.foster4.co.uk/enquire/); the Foster4 site itself could not be fetched. 'long-term' is published as 'Permanent'; 'respite' as 'Carer to carer short stay/ Respite'; 'other' covers 'Short Breaks for Disabled Children', 'Supporting Foster Carer' and 'Mockingbird Hub Home Carer'. The enquiry email on the page is hidden behind email-protection code so is not recorded."
+  },
+  {
+    "id": "westmorland-and-furness-council-fostering",
+    "name": "Cumbria Fostering (Westmorland and Furness Council)",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Westmorland and Furness"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0300 013 2065",
+    "website": "https://www.westmorlandandfurness.gov.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.westmorlandandfurness.gov.uk/news/2023/cumbria-fostering-launches-campaign-during-foster-care-fortnight",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.westmorlandandfurness.gov.uk/news/2023/cumbrian-councils-set-benefit-ps1m-regional-boost-foster-carer-recruitment",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Westmorland and Furness Council news pages (May and November 2023) describe 'Cumbria Fostering' as the fostering service working on behalf of Cumberland Council and Westmorland and Furness Council (Cumberland Council's sufficiency strategy calls it a hosted fostering service covering both councils). The service website is given as cumbriafostering.org.uk, which was not fetched, so the website field is the council's main site. Both Cumbrian councils are partners with Blackburn with Darwen, Blackpool and Lancashire in the North West 'Regional Fostering Recruitment and Retention Hub' (Foster with Us); no hub URL was given. Fostering types reflect the stated need for 'long-term homes for slightly older children and sibling groups'. Phone is from a 2023 page and may be out of date."
+  },
+  {
+    "id": "wigan-council-fostering",
+    "name": "Wigan Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Wigan"
+    ],
+    "address": {
+      "line1": "Wigan Life Centre, College Avenue",
+      "town": "Wigan",
+      "postcode": "WN1 1NJ"
+    },
+    "phone": "0300 303 0321",
+    "website": "https://www.wigan.gov.uk/Resident/Health-Social-Care/Children-and-young-people/Fostering/Fostering.aspx",
+    "recruitmentUrl": "https://www.wigan.gov.uk/Resident/Health-Social-Care/Children-and-young-people/Fostering/Enquire-about-fostering.aspx",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.wigan.gov.uk/Resident/Health-Social-Care/Children-and-young-people/Fostering/Enquire-about-fostering.aspx",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "address",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.wigan.gov.uk/Resident/Health-Social-Care/Children-and-young-people/Fostering/Fostering.aspx",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council enquiry page names the 'Fostering for Wigan team' and says Wigan is part of the Greater Manchester partnership of all 10 local authorities with a 'united, single support hub' (Foster for Greater Manchester; link mentioned but no URL shown); 0300 303 0321 is the hub number published by other Greater Manchester councils. Address is published on the enquiry page as 'Wigan Life Centre, College Ave, Wigan WN1 1NJ'. Fostering types from the navigation text 'from providing short to long term care, to those with special needs or challenging behaviour'. Council also publishes an application-process page at https://www.wigan.gov.uk/Resident/Health-Social-Care/Children-and-young-people/Fostering/Application-process.aspx and a fostering team contact page at https://www.wigan.gov.uk/Contacts/Fostering-team.aspx."
+  },
+  {
+    "id": "wirral-council-fostering",
+    "name": "Wirral Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Wirral"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": "https://www.foster4.co.uk/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://wirralview.com/node/12136",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://democracy.wirral.gov.uk/documents/s50108483/Appendix%202%20Annual%20Fostering%20Report.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from Wirral View (Wirral Council's news site, 'Copyright Wirral Council' footer; article 24 November 2025) which names 'Wirral Fostering Service' and directs people to the Foster4 website, described as a regional collaboration for recruitment and retention (Foster4 is the Cheshire and Merseyside local authority recruitment hub hosted by Warrington Borough Council; its site could not be fetched), and from the council's annual fostering report on its democracy site. No council fostering web page, phone or address was found; the annual report notes a bespoke fostering website as a future priority. 'respite' is published as 'weekend respite/short breaks'; the report refers to parent and child placements only as a future option, so not recorded."
+  },
+  {
+    "id": "barnsley-council-fostering",
+    "name": "Fostering Barnsley",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Barnsley"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.barnsley.gov.uk/fostering-barnsley/about-fostering-barnsley",
+    "recruitmentUrl": "https://www.barnsley.gov.uk/fostering-barnsley/fostering-barnsley-enquiry/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.barnsley.gov.uk/fostering-barnsley/about-fostering-barnsley",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council page names the service 'Fostering Barnsley', part of Barnsley Council. No phone number, email or address is shown on the page fetched; the enquiry link redirects to an online form at https://my.barnsley.gov.uk/form/fostering-enquiry/page-1 (not fetched). The site has 'Types of foster care' and 'Getting started as a foster carer' (https://www.barnsley.gov.uk/fostering-barnsley/about-fostering-barnsley/getting-started-as-a-foster-carer/) pages that were not fetched, so fostering types are not recorded."
+  },
+  {
+    "id": "bradford-children-and-families-trust-fostering",
+    "name": "Foster for Bradford",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Bradford"
+    ],
+    "address": {
+      "line1": "Sir Henry Mitchell House, 4 Manchester Road",
+      "town": "Bradford",
+      "postcode": "BD5 0QL"
+    },
+    "phone": null,
+    "website": "https://www.bradfordcft.org.uk",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2725774",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2725774",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "areasServed",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.bradford.gov.uk/children-young-people-and-families/bradford-children-and-families-trust/bradford-children-and-families-trust",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website"
+        ]
+      }
+    ],
+    "notes": "Bradford's children's services, including fostering, are run by Bradford Children and Families Trust on behalf of Bradford Council. Ofsted lists the provider as 'Foster for Bradford, Bradford Children and Families Trust' (URN 2725774, category 'Independent Fostering Services, Agency performing the function(s) of LAs'; the address record's first line reads 'Bradford Metropolitan District Council'); latest full inspection 8 September 2025, monitoring visit 8 September 2026, no grade shown. The Trust website is linked from the council page as www.bradfordcft.org.uk (linked as http; not fetched, so no phone, enquiry page or fostering types recorded)."
+  },
+  {
+    "id": "calderdale-council-fostering",
+    "name": "Calderdale Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Calderdale"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01422 266020",
+    "website": "https://www.calderdale.gov.uk/fostering",
+    "recruitmentUrl": "https://foster4yourcouncil.org/",
+    "publicEnquiryEmail": "fostering@calderdale.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://news.calderdale.gov.uk/?p=10395",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Sourced from a Calderdale Council news article (10 May 2024) giving 01422 266020, fostering@calderdale.gov.uk and www.calderdale.gov.uk/fostering (which redirects to https://new.calderdale.gov.uk/health-and-social-care/children-and-family-care/fostering; the page itself was not fetched). The council is part of the Foster4YourCouncil partnership of Yorkshire and Humber local authorities (https://foster4yourcouncil.org/, recorded as the recruitment hub URL). Fostering types are taken from the article's account of a council foster family providing short-term, long-term and emergency placements and fostering siblings, not from a published list."
+  },
+  {
+    "id": "doncaster-council-fostering",
+    "name": "Foster for Doncaster",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Doncaster"
+    ],
+    "address": {
+      "line1": "Civic Office, Waterdale",
+      "town": "Doncaster",
+      "postcode": "DN1 3BU"
+    },
+    "phone": "01302 737 789",
+    "website": "https://www.doncaster.gov.uk/services/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fosterfor@doncaster.gov.uk",
+    "fosteringTypes": [
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC046856",
+    "sources": [
+      {
+        "url": "https://www.doncaster.gov.uk/services/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/5/SC046856",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "areasServed",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Council fostering page is branded 'Foster for Doncaster' (fostering team open Monday to Friday, 9am to 5pm; email published as FosterFor@doncaster.gov.uk). Address is the registered address on Ofsted's provider page for 'Doncaster Metropolitan Borough Council Fostering Services' (URN SC046856, 'Local Authority Fostering', status open; last inspection shown there dated 24 May 2010, as local authority fostering is now inspected under ILACS). 'teenagers' is recorded because the council page features 'Fostering Teens' as a placement story; no list of fostering types was on the page fetched. The council also publishes a Fostering Service Statement of Purpose at https://www.doncaster.gov.uk/services/fostering/fostering-service-statement-of-purpose (not fetched)."
+  },
+  {
+    "id": "east-riding-of-yorkshire-council-fostering",
+    "name": "East Riding Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "East Riding of Yorkshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01482 394095",
+    "website": "https://www.eastriding.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fosteringrecruitment@eastriding.gov.uk",
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://eastriding-newsroom.prgloo.com/news/the-run-aims-to-inspire-people-to-foster",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Sourced from East Riding of Yorkshire Council's newsroom ('News from East Riding of Yorkshire', article 9 October 2025), which names 'East Riding Fostering', gives (01482) 394095 and fosteringrecruitment@eastriding.gov.uk, and points to www.eastriding.gov.uk/fostering (blocked when fetched). 'respite' is published as 'short break fostering'; the article also describes 'fostering while plans are made for the child's future', which is not recorded as a type because it is not labelled short-term."
+  },
+  {
+    "id": "hull-city-council-fostering",
+    "name": "Hull City Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Kingston upon Hull"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://news.hull.gov.uk/26/06/2025/hull-city-council-urges-local-families-to-foster-as-it-increases-its-support",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Provisional record: only Hull City Council newsroom articles (news.hull.gov.uk, e.g. 'Hull City Council appeals for more foster carers to join them this Foster Care Fortnight', 13 May 2025, and 'Hull City Council urges local families to foster as it increases its support', 26 June 2025) were found in the search, and the newsroom pages could not be fetched (the server redirected in a loop to an http URL). No council fostering page, phone, email, address or fostering types were retrieved; the record is supported only by the search-result title and URL."
+  },
+  {
+    "id": "kirklees-council-fostering",
+    "name": "Kirklees Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Kirklees"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 389 0086",
+    "website": "https://www.kirklees.gov.uk/beta/fostering/index.aspx",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fostering@kirklees.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://kirkleestogether.co.uk/2021/03/12/fostering-in-kirklees-be-that-special-someone/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from Kirklees Together, Kirklees Council's own news site ('News and stories from your local council', 'Kirklees Council' copyright footer), article dated 12 March 2021, which gives 0800 389 0086, fostering@kirklees.gov.uk and links the council fostering pages at https://www.kirklees.gov.uk/beta/fostering/index.aspx (blocked when fetched). Details are from 2021 and may be out of date. The article mentions joining forces with other Yorkshire local authorities for an online fostering event but names no hub."
+  },
+  {
+    "id": "leeds-city-council-fostering",
+    "name": "Foster4Leeds",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Leeds"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0113 378 3538",
+    "website": "https://foster4.leeds.gov.uk",
+    "recruitmentUrl": "https://eforms.leeds.gov.uk/ExpressionOfInterestInFostering/Description",
+    "publicEnquiryEmail": "foster4leeds@leeds.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://foster4.leeds.gov.uk/fostering-and-working-at-leeds-city-council",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://foster4.leeds.gov.uk/types-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "publicEnquiryEmail",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Foster4Leeds (also written 'Foster 4 Leeds') is Leeds City Council's fostering service site; enquiry line open Monday to Friday, 9am to 5pm; email published as Foster4Leeds@leeds.gov.uk. 'respite' is published as 'Short breaks (mainstream)'; 'other' covers 'Support care', 'Supported lodgings (Post-16+ provision)' and 'Short breaks (disabled children)' (the page also lists private fostering, kinship care and special guardianship, which are not recruitment fostering types). The site states a shortage of carers for young people aged 11 to 17, large sibling groups and disabled children. A separate Leeds City Council one-minute guide to the Leeds Fostering Service exists at https://www.leeds.gov.uk/one-minute-guides/leeds-fostering-service (not fetched)."
+  },
+  {
+    "id": "north-east-lincolnshire-council-fostering",
+    "name": "North East Lincolnshire Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "North East Lincolnshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "01472 323966",
+    "website": "https://www.nelincs.gov.uk/fostering",
+    "recruitmentUrl": "https://my.nelincs.gov.uk/s/form/fostering-enquiries",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.nelincs.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Council page is titled 'Fostering in North East Lincolnshire' and refers to the service as 'Fostering NEL'. 'short-term' is published as 'Short stay care' and 'respite' as 'Short break care (for children with disabilities)'; the page also lists kinship care. The enquiry email on the page is obfuscated by email-protection code so is not recorded. Further pages: https://www.nelincs.gov.uk/health-wellbeing-and-social-care/childrens-social-care/interested-in-fostering/ (not fetched). No regional hub is mentioned."
+  },
+  {
+    "id": "north-lincolnshire-council-fostering",
+    "name": "North Lincolnshire Council Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "North Lincolnshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.northlincs.gov.uk/people-health-and-care/some-people-foster/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.northlincs.gov.uk/people-health-and-care/some-people-foster/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Provisional record: the council's fostering page (search-result title 'some people foster') and a council news page both returned only a 'Bot Verification' screen when fetched, so no phone, email, address, enquiry page or fostering types could be confirmed. The record is supported only by the search-result title and URL on the council's site. Search results also listed a council news item 'council increases payments for foster carers' at https://www.northlincs.gov.uk/news/council-increases-payments-for-foster-carers/ (also bot-walled)."
+  },
+  {
+    "id": "north-yorkshire-council-fostering",
+    "name": "Fostering North Yorkshire",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "North Yorkshire"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": null,
+    "website": "https://www.northyorks.gov.uk/fostering-north-yorkshire/what-fostering",
+    "recruitmentUrl": "https://forms.northyorks.gov.uk/service/Fostering_request_a_call_back",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.northyorks.gov.uk/fostering-north-yorkshire/types-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.northyorks.gov.uk/fostering-north-yorkshire/steps-fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "North Yorkshire Council's fostering pages are published under 'Fostering North Yorkshire' (section https://www.northyorks.gov.uk/fostering-north-yorkshire/...; the 'What is fostering' page URL seen in search results is recorded as the website). No phone number, email or office address appears on the pages fetched; enquiries are via the 'request a call back' form. 'respite' is published as 'Short breaks fostering and planned sleepovers'; 'other' covers 'Specialist foster care' and 'No Wrong Door' (hubs combining residential care with fostering, https://www.northyorks.gov.uk/fostering-north-yorkshire/no-wrong-door). Events page: https://www.northyorks.gov.uk/fostering-north-yorkshire/fostering-events."
+  },
+  {
+    "id": "rotherham-council-fostering",
+    "name": "Fostering Rotherham",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Rotherham"
+    ],
+    "address": {
+      "line1": "Riverside House, Main Street",
+      "town": "Rotherham",
+      "postcode": "S60 1AE"
+    },
+    "phone": null,
+    "website": "https://www.rotherham.gov.uk/fostering",
+    "recruitmentUrl": "https://www.fosteringrotherham.com/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://rotherham.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "website",
+          "recruitmentUrl",
+          "address",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Council page heading 'Fostering Rotherham' ('Fostering Rotherham is part of Rotherham Council') links to the service's own website https://www.fosteringrotherham.com/ (blocked when fetched, so no phone, email or fostering types recorded). Address is the council's address given in the page metadata (Riverside House), not stated to be a fostering-specific office. The page mentions respite only as support for existing carers through Mockingbird hubs, so it is not recorded as a fostering type. Page refers to fostering families 'across Rotherham and South Yorkshire' but names no regional hub."
+  },
+  {
+    "id": "sheffield-city-council-fostering",
+    "name": "Sheffield Fostering Service",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Sheffield"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0114 273 5075",
+    "website": "https://fostering.sheffield.gov.uk",
+    "recruitmentUrl": "https://fostering.sheffield.gov.uk/your-fostering-journey/becoming-foster-carer",
+    "publicEnquiryEmail": "fostering@sheffield.gov.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.sheffield.gov.uk/welcome-sheffield-fostering-service",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostering.sheffield.gov.uk/about-fostering/types-foster-care",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Sheffield City Council's dedicated fostering site ('Welcome to Sheffield Fostering Service'; logo 'Fostering with Sheffield'). Enquiry page: https://fostering.sheffield.gov.uk/contact-fostering-sheffield. 'respite' is published as 'Short breaks'; 'parent-and-child' as 'Parent and baby care'; 'other' is 'Support care'. No office address or regional hub is shown on the pages fetched."
+  },
+  {
+    "id": "wakefield-council-fostering",
+    "name": "Fostering Wakefield",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "Wakefield"
+    ],
+    "address": {
+      "line1": null,
+      "town": null,
+      "postcode": null
+    },
+    "phone": "0800 197 0320",
+    "website": "https://www.wakefield.gov.uk/fostering",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fostering@wakefield.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://www.wakefield.gov.uk/your-district/wakefield-council-foster-carers-earn-an-average-of-31-200-tax-free-with-potential-to-earn-more",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "website",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Sourced from a Wakefield Council news page (13 August 2025) which refers to 'Fostering Wakefield', gives 0800 197 0320 and Fostering@wakefield.gov.uk, and points to www.wakefield.gov.uk/fostering (blocked when fetched, so no address, enquiry page or fostering types recorded). The council also publishes a 'Fostering Hub Home' (Mockingbird) news page. No regional hub is mentioned."
+  },
+  {
+    "id": "city-of-york-council-fostering",
+    "name": "York Fostering",
+    "providerType": "local_authority",
+    "nation": "England",
+    "areasServed": [
+      "York"
+    ],
+    "address": {
+      "line1": "West Offices, Station Rise",
+      "town": "York",
+      "postcode": "YO1 6GA"
+    },
+    "phone": "01904 555678",
+    "website": "https://fostering.york.gov.uk",
+    "recruitmentUrl": "https://fostering.york.gov.uk/becoming-foster-carer?categoryId=1",
+    "publicEnquiryEmail": "foster4york@york.gov.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": null,
+    "sources": [
+      {
+        "url": "https://fostering.york.gov.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "address",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "City of York Council's dedicated fostering site (reached via the council short link https://york.gov.uk/Fostering, which redirects there), published as 'Welcome to York Fostering' / 'York Fostering', team listed as 'Fostering Team Children's Social Care'. Contact page: https://fostering.york.gov.uk/contact-us. The home page names no fostering types (it mentions an 'advanced level carer' role). No regional hub is mentioned."
+  }
+]

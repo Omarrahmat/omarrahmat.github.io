@@ -1,0 +1,740 @@
+[
+ {
+  "id": "mosaic-foster-care",
+  "name": "Mosaic Foster Care",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Essex",
+   "Suffolk",
+   "Hertfordshire",
+   "North Kent",
+   "Northamptonshire",
+   "Milton Keynes",
+   "Gloucestershire",
+   "Cheltenham",
+   "Worcestershire",
+   "Worcester",
+   "Kidderminster",
+   "Croydon"
+  ],
+  "address": {
+   "line1": "Suite 8, Chalkwell Lawns, 648-656 London Road",
+   "town": "Southend-on-Sea",
+   "postcode": "SS0 9HR"
+  },
+  "phone": "0800 233 5570",
+  "website": "https://mosaicfostercare.com/",
+  "recruitmentUrl": "https://mosaicfostercare.com/apply-to-foster/",
+  "publicEnquiryEmail": "enquiry@mosaicfostercare.com",
+  "fosteringTypes": [
+   "therapeutic",
+   "long-term"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC417598",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC417598",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address"
+    ]
+   },
+   {
+    "url": "https://mosaicfostercare.com/contact-us/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes",
+     "regulatorReference"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open; local authority area Southend on Sea; registered 16 September 2010; latest full inspection 12 January 2026 (report published 17 March 2026). Ofsted registered address is Suite 2, Chalkwell Lawns, 648-656 London Road, Westcliff-on-Sea, Essex SS0 9HR; the agency's contact page gives its South East office as Suite 8 in the same building (Southend-on-Sea) and a Midlands office at Victory House, 400 Pavilion Drive, Northampton NN4 7PA. Phone is the published fostering enquiries line; referrals 01702 414962, head office 01702 344088. Company number 07133494. areasServed are the locations listed on the contact page; fosteringTypes from the services named there (therapeutic foster care, long-term fostering); the page links to a separate types guide that was not fetched."
+ },
+ {
+  "id": "fostering-hearts",
+  "name": "Fostering Hearts Limited",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Epping Civic Centre, 323 High Street",
+   "town": "Epping",
+   "postcode": "CM16 4BZ"
+  },
+  "phone": "020 8347 8741",
+  "website": "https://fosteringhearts.co.uk/",
+  "recruitmentUrl": "https://fosteringhearts.co.uk/start-fostering/",
+  "publicEnquiryEmail": "info@fosteringhearts.co.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2572055",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2572055",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://fosteringhearts.co.uk/contact/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "publicEnquiryEmail",
+     "regulatorReference"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open; registered 15 May 2020; Ofsted registered address Unit MI.113, 12 Marshgate Lane, Stratford, London E15 2NH (local authority area Newham); latest full inspection 18 November 2024 (published 19 December 2024). Address recorded is the office published on the agency's contact page (visits by arrangement). Phone is the recruitment team line (Mon-Fri 9am-5pm); a WhatsApp mobile is also published and not recorded. Email is the published address for general questions and fostering enquiries. Company number 12007042. Areas covered are on a separate page (https://fosteringhearts.co.uk/areas-we-cover/) that was not fetched; fostering types not stated on the pages fetched."
+ },
+ {
+  "id": "solace-fostering",
+  "name": "Solace Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Norfolk",
+   "Suffolk",
+   "Norwich",
+   "Ipswich",
+   "Great Yarmouth",
+   "Lowestoft"
+  ],
+  "address": {
+   "line1": "Beacon Innovation Centre, Beacon Park",
+   "town": "Gorleston-on-Sea",
+   "postcode": "NR31 7RA"
+  },
+  "phone": null,
+  "website": "https://solacefostering.com/",
+  "recruitmentUrl": "https://solacefostering.com/become-a-foster-carer",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "therapeutic"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://solacefostering.com/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://solacefostering.com/fostering-in-gorleston",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "No Ofsted provider page appeared in the search results, so the URN and current registration status could not be confirmed from the regulator; the agency's Gorleston page describes it as 'Rated Outstanding' (regulator not named on the pages fetched). Only a mobile number and named-person email addresses (at solacepartnerships.com) are published, so phone and email are not recorded. Address is the office given in the site footer (Gorleston-on-Sea, Great Yarmouth). Town pages also exist for Dereham, Fakenham, Attleborough, Bury St Edmunds and Beccles. Enquiry page: https://solacefostering.com/contact-us."
+ },
+ {
+  "id": "starz-fostering-cic",
+  "name": "Starz Fostering CIC",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Wisbech",
+   "King's Lynn",
+   "Sandringham",
+   "Downham Market",
+   "Holbeach",
+   "Spalding",
+   "Peterborough",
+   "March",
+   "Chatteris",
+   "Ely"
+  ],
+  "address": {
+   "line1": "36 Hungate Road",
+   "town": "Emneth",
+   "postcode": "PE14 8DE"
+  },
+  "phone": null,
+  "website": "https://www.starzfosteringcic.co.uk/",
+  "recruitmentUrl": "https://www.starzfosteringcic.co.uk/fostering-contact-us",
+  "publicEnquiryEmail": "info@starzfosteringcic.co.uk",
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "therapeutic",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2589370",
+  "sources": [
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50203026",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://www.starzfosteringcic.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "website",
+     "recruitmentUrl",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Ofsted service name 'Starz Fostering'; registered provider Starz Fostering Community Interest Company (Companies House 12222564, seen in search results). URN and registered address (36 Hungate Road, Emneth, Wisbech, Norfolk PE14 8DE) from the Ofsted inspection report of 31 October-4 November 2022 (judged good overall). The Ofsted provider page was not fetched, so current status rests on the agency's website, which refers to a December 2025 Ofsted inspection rated Good. Only a mobile number is published, so phone is not recorded. Short-term and long-term placements per the Ofsted report; 'therapeutic' reflects the site's 'therapeutically underpinned' care; 'other' = Staying Put and post-18 support (to age 27) for young people placed permanently. areasServed are the towns listed on the homepage (also Swaffham in the banner)."
+ },
+ {
+  "id": "fostering-solutions-oundle",
+  "name": "Fostering Solutions - Oundle",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Wharf House, Station Road",
+   "town": "Oundle",
+   "postcode": "PE8 4DE"
+  },
+  "phone": null,
+  "website": "https://www.nationalfosteringgroup.co.uk/fostering-solutions/oundle/",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1244627",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1244627",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address"
+    ]
+   },
+   {
+    "url": "https://www.nationalfosteringgroup.co.uk/fostering-solutions/oundle/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open; registered 15 November 2016; local authority area North Northamptonshire (East Midlands); latest full inspection 5 August 2024 (published 7 September 2024). Registered address per Ofsted: Foster Solutions, Wharf House, Station Road, Oundle, Peterborough PE8 4DE. Oundle branch of Fostering Solutions (National Fostering Group). The website URL was seen in search results and as the redirect target of https://www.nfa.co.uk/fostering-solutions/office/fostering-solutions-oundle/, but the page itself was not fetched (3-call limit), so phone, areas served and fostering types are not recorded. See also fostering-solutions-wales (CIW record)."
+ },
+ {
+  "id": "changing-futures-fostering",
+  "name": "Changing Futures Fostering Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "3 Abbey Street, Headland",
+   "town": "Hartlepool",
+   "postcode": "TS24 0JR"
+  },
+  "phone": "01429 363127",
+  "website": "https://changingfuturesfostering.co.uk/",
+  "recruitmentUrl": "https://changingfuturesfostering.co.uk/could-you-foster/how-to-become-become-a-foster-parent/",
+  "publicEnquiryEmail": "admin@changingfuturesfostering.co.uk",
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "sibling-groups",
+   "parent-and-child",
+   "therapeutic",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.changingfuturesfostering.co.uk/wp-content/uploads/2024/05/Statement-of-Purpose-2023.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://changingfuturesfostering.co.uk/contact-us/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "recruitmentUrl",
+     "website"
+    ]
+   }
+  ],
+  "notes": "Not-for-profit company limited by shares, wholly owned by the charity Changing Futures North East (Statement of Purpose 2023); Companies House 11976708 (seen in search results). No Ofsted provider page appeared in the search results and the URN is not stated in the Statement of Purpose or on the contact page, so the registration status could not be confirmed from the regulator. Email is the generic address on the contact page; the Statement of Purpose also gives an enquiries mailbox (Enquires@changingfuturesfostering.co.uk, as spelt there). Placement types from the Statement of Purpose: short term, long term, short break (respite), sibling placements, specialist placements including parent and child, Staying Put ('other'); therapeutic fostering is described as the agency's general approach. Areas served not stated (based in Hartlepool; the sister charity works in the Tees Valley and East Durham). Types page: https://changingfuturesfostering.co.uk/could-you-foster/types-of-fostering/; book-a-call page: https://changingfuturesfostering.co.uk/book-a-call/."
+ },
+ {
+  "id": "amicus-foster-care",
+  "name": "Amicus Foster Care",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "St. Werburghs Community Centre, Horley Road",
+   "town": "Bristol",
+   "postcode": "BS2 9TJ"
+  },
+  "phone": null,
+  "website": "https://www.amicusfostercare.com/",
+  "recruitmentUrl": "https://www.amicusfostercare.com/become-a-foster-carer/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC389720",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC389720",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address"
+    ]
+   },
+   {
+    "url": "https://www.amicusfostercare.com/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open; registered 26 January 2009; local authority area Bristol; latest full inspection 23 February 2026 (report published 14 April 2026). Website and 'Become a Foster Carer' page URLs were seen as search results only (titles 'Fostercare Agency Bristol - Amicus Fostercare' and 'Become a Foster Carer - Amicus Fostercare'); the agency's enquiry/contact page (https://www.amicusfostercare.com/enquiry-contact/) could not be fetched (robots disallowed), so phone, email, areas served and fostering types are not recorded. A 2022 Ofsted inspection report exists at https://files.ofsted.gov.uk/v1/file/50199055 (not fetched)."
+ },
+ {
+  "id": "nexus-fostering-midlands-and-west",
+  "name": "Nexus Fostering Midlands and West",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Bristol",
+   "Herefordshire",
+   "Gloucestershire",
+   "Wiltshire",
+   "Worcestershire"
+  ],
+  "address": {
+   "line1": "Unit A5, Elmbridge Court, Cheltenham Road East",
+   "town": "Gloucester",
+   "postcode": "GL3 1JZ"
+  },
+  "phone": "01452 491980",
+  "website": "https://www.nexusfostering.co.uk/",
+  "recruitmentUrl": "https://www.nexusfostering.co.uk/office-locations/gloucester",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "therapeutic",
+   "short-term",
+   "parent-and-child",
+   "long-term",
+   "respite",
+   "sibling-groups",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.nexusfostering.co.uk/news/outstanding-fostering-agency-in-gloucester-celebrates-recent-ofsted-rating",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "areasServed",
+     "fosteringTypes",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://www.nexusfostering.co.uk/about",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "fosteringTypes",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Regional registration of Nexus Fostering ('Nexus Fostering Midlands & West' on the agency's site), whose teams are in Birmingham, Nottingham, Telford and Gloucester; the Gloucester office (address and phone above) is the one the lead referred to and the registered office of this registration was not confirmed. No Ofsted provider page appeared in the search results, so the URN and registration status are not confirmed from the regulator; the agency's news page reports a 3-7 November 2025 Ofsted inspection rated Outstanding in all areas (agency-hosted report: https://www.nexusfostering.co.uk/media/cbynk05h/ofsted-report-2025.pdf, not fetched). Phone is the Gloucester office line; national line 0800 389 0143. areasServed as stated on the Gloucester news page (focus on Gloucester and surrounding area). fosteringTypes from the site-wide types menu ('long-term' = Permanence; 'other' = disability and unaccompanied asylum-seeking children). Other office pages: https://www.nexusfostering.co.uk/office-locations/birmingham, /nottingham, /telford. See also nexus-fostering-home-counties-and-east-london."
+ },
+ {
+  "id": "beacon-fostering",
+  "name": "Beacon Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "North West of England",
+   "Preston",
+   "Lancashire",
+   "Blackpool"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "01772 287402",
+  "website": "https://beaconfostering.com/",
+  "recruitmentUrl": "https://beaconfostering.com/how-to-become-a-foster-parent/",
+  "publicEnquiryEmail": "info@beaconfostering.com",
+  "fosteringTypes": [
+   "therapeutic"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://beaconfostering.com/fostering-in-preston/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://beaconfostering.com/applying-to-be-a-foster-carer/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "The agency's pages name offices in Manchester (0161 266 2079), Liverpool (0151 453 5392) and Preston (01772 287402, recorded as the lead was for Preston) but publish no street addresses or postcodes, so the address is not recorded. No Ofsted provider page appeared in the search results and no URN is shown on the pages fetched (the site has an 'Ofsted Information' page, not fetched), so registration status is not confirmed from the regulator. Legal name not stated. Therapeutic foster care is the only type described on the Preston page; a separate types page exists. Request-a-callback: https://beaconfostering.com/request-a-callback/; contact page: https://beaconfostering.com/contact-us/."
+ },
+ {
+  "id": "orange-grove-fostercare-north-west",
+  "name": "Orange Grove Fostercare Northwest",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Bolton",
+   "Bury",
+   "Cheshire",
+   "Ellesmere Port",
+   "Lancashire",
+   "Liverpool",
+   "Manchester",
+   "Northwich",
+   "Preston",
+   "Salford",
+   "St Helens",
+   "Stockport",
+   "Tameside",
+   "Trafford",
+   "Warrington",
+   "Wigan",
+   "Widnes",
+   "Knowsley",
+   "Runcorn",
+   "Altrincham",
+   "Halton",
+   "Merseyside"
+  ],
+  "address": {
+   "line1": "North West Office, Walnut Tree Business Centre, Suite 3, Northwich Road, Lower Stretton",
+   "town": "Warrington",
+   "postcode": "WA4 4PG"
+  },
+  "phone": "0800 369 8513",
+  "website": "https://www.orangegrovefostercare.co.uk/",
+  "recruitmentUrl": "https://www.orangegrovefostercare.co.uk/regions/warrington/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "emergency",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC485778",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC485778",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address"
+    ]
+   },
+   {
+    "url": "https://www.orangegrovefostercare.co.uk/regions/warrington/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Regional Ofsted registration of Orange Grove Fostercare (North West). Ofsted status Open; registered 24 February 2015; local authority area Warrington; latest full inspection 1 September 2025 (published 24 October 2025); the Warrington page says the region has been rated Outstanding at its last four inspections and links the September 2025 report (https://www.orangegrovefostercare.co.uk/wp-content/uploads/2025/12/Orange-Grove-North-West-Ofsted-September-2025.pdf, not fetched). Phone is the group's national enquiry line shown on the Warrington page (no office line or address published there; office hours Mon-Fri 9am-5pm). areasServed from the Warrington page's coverage list. fosteringTypes: short-term, long-term, respite and emergency from the page text; parent and child, sibling, teenagers, disability and asylum-seeking children ('other') from the site's types menu. Enquiry form: https://www.orangegrovefostercare.co.uk/enquiry/. See also orange-grove-fostercare-three-shires and orange-grove-fostercare-yorkshire."
+ },
+ {
+  "id": "banya-family-placement-agency",
+  "name": "Banya Family Placement Agency",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "England (national)"
+  ],
+  "address": {
+   "line1": "3rd Floor, 67 Wingate Square, Clapham Old Town",
+   "town": "London",
+   "postcode": "SW4 0AF"
+  },
+  "phone": "020 8678 5330",
+  "website": "https://www.banya.co.uk/",
+  "recruitmentUrl": "https://www.banya.co.uk/become-a-foster-parent/the-fostering-journey/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "respite",
+   "short-term",
+   "long-term",
+   "parent-and-child",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC033818",
+  "sources": [
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50183131",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address",
+     "phone",
+     "fosteringTypes",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.banya.co.uk/become-a-foster-parent/the-fostering-journey/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Registered provider Banya Family Placement Agency Limited (Companies House 03161115, seen in search results). URN, address, phone, placement types and national coverage are from the Ofsted inspection report of 7-11 March 2022 (judged outstanding); the report describes the agency as supporting children nationally and offering emergency, respite, short-term, long-term, parent and child placements and staying put ('other'). The Ofsted provider page did not appear in search results, so current registration status is not confirmed from the regulator; a 2024 Ofsted report is hosted on the agency's site (https://www.banya.co.uk/wp-content/uploads/Banya-Ofsted-Report-2024.pdf, not fetched). An older Ofsted file title gives a previous address at 286A-288 Croxted Road, Croxted Mews, London (SE24), which the lead referred to. The agency's website could not be fetched (robots disallowed); website and recruitment URL are taken from search-result URLs only. The report's email is a named-person address and is not recorded."
+ },
+ {
+  "id": "the-foster-care-charity",
+  "name": "The Foster Care Charity",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Central and northern England",
+   "North West England",
+   "Yorkshire",
+   "Midlands",
+   "Eastern Counties",
+   "Bristol and South West England"
+  ],
+  "address": {
+   "line1": "Penny Hall, The Haysfield, Spring Lane North",
+   "town": "Malvern",
+   "postcode": "WR14 1GF"
+  },
+  "phone": "0800 0856 538",
+  "website": "https://fostercarecharity.org.uk/",
+  "recruitmentUrl": "https://fostercarecharity.org.uk/fostering-for-us/",
+  "publicEnquiryEmail": "hello@fccharity.org.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2744403",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2744403",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address"
+    ]
+   },
+   {
+    "url": "https://fostercarecharity.org.uk/our-locations/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Registered charity (no. 1201143) and company limited by guarantee (no. 14472135). Ofsted status Open; registered 17 August 2023; local authority area Worcestershire (West Midlands); latest full inspection 10 June 2024 (published 13 August 2024). Address is the Ofsted registered address (the locations page says only that the head office is in Malvern). Phone and email are the general contact details published on the locations page (the organisation is solely a fostering charity). areasServed are the regions on the locations page, which also lists towns including Manchester, Liverpool, Warrington, Blackburn, Sheffield, Hull, Doncaster, Birmingham, Stoke-on-Trent, Leicester, Coventry, Nottingham, Derby, Worcester, Norwich, Chelmsford, Cambridge and Bristol. Fostering types are on a separate page (https://fostercarecharity.org.uk/fostering-for-us/types-of-fostering/) not fetched. Enquiry form: https://fostercarecharity.org.uk/contact-us-2/."
+ },
+ {
+  "id": "lighthouse-fostering",
+  "name": "Lighthouse Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Kent",
+   "Medway",
+   "East Sussex"
+  ],
+  "address": {
+   "line1": "Quayside House, Standard Quay",
+   "town": "Faversham",
+   "postcode": "ME13 7BS"
+  },
+  "phone": "01227 250096",
+  "website": "https://www.lighthousefostering.co.uk/",
+  "recruitmentUrl": "https://www.lighthousefostering.co.uk/new-to-fostering",
+  "publicEnquiryEmail": "info@lighthousefostering.co.uk",
+  "fosteringTypes": [
+   "therapeutic"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC479090",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC479090",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address"
+    ]
+   },
+   {
+    "url": "https://www.lighthousefostering.co.uk/contact-us",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Ofsted status Open; registered 14 October 2014; local authority area Kent (South East); latest full inspection 16 October 2023 (published 30 November 2023). Registered company Lighthouse Fostering Limited (Companies House 08922770, seen in search results). Head office as above (matches Ofsted); East Sussex office at Monkhurst House, Sandy Cross Lane, Heathfield, East Sussex TN21 8QR. Phone recorded is the first of three published lines (01227 250096, 01424 320036, 01634 562074); the contact page does not say which office each serves. Therapeutic fostering is the only type named on the contact page; a separate types page exists. Contact page has a call-back request form; 2023 Ofsted report and Statement of Purpose PDFs are linked from the site."
+ },
+ {
+  "id": "orange-grove-fostercare-southern-counties",
+  "name": "Orange Grove Fostercare Southern Counties",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Sussex",
+   "Surrey",
+   "Kent",
+   "Medway",
+   "Berkshire",
+   "Hampshire"
+  ],
+  "address": {
+   "line1": "3 Albourne Court, Henfield Road",
+   "town": "Albourne",
+   "postcode": "BN6 9FF"
+  },
+  "phone": "0800 369 8513",
+  "website": "https://www.orangegrovefostercare.co.uk/",
+  "recruitmentUrl": "https://www.orangegrovefostercare.co.uk/regions/west-sussex/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC485748",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC485748",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "regulatorReference",
+     "address"
+    ]
+   },
+   {
+    "url": "https://www.orangegrovefostercare.co.uk/regions/west-sussex/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Regional Ofsted registration of Orange Grove Fostercare (Southern Counties). Ofsted status Open; registered 24 February 2015; local authority area West Sussex; latest full inspection 9 February 2026 (published 11 March 2026); the West Sussex page describes the agency as four times Ofsted Outstanding. Ofsted address '3, Albourne Court, Henfield Road, Albourne, West Sussex, BN6 9FF' (Albourne is near Hassocks). Phone is the group's national enquiry line shown on the page (office hours Mon-Fri 9am-5pm; a 24/7 helpline is mentioned without a number). areasServed are the counties on the West Sussex page, which also lists towns from Andover to Worthing (including Brighton & Hove, Crawley, Guildford, Maidstone, Reading, Southampton, Portsmouth, Poole and Swanage) and training centres at Bracknell Forest, Eastbourne, Ashford and Maidstone. fosteringTypes as listed on the page ('other' = disability fostering and asylum-seeking children). Enquiry form: https://www.orangegrovefostercare.co.uk/enquiry/. See also orange-grove-fostercare-three-shires, orange-grove-fostercare-yorkshire and orange-grove-fostercare-north-west."
+ }
+]

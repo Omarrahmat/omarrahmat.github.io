@@ -1,0 +1,464 @@
+[
+  {
+    "id": "foster-care-link",
+    "name": "Foster Care Link",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "London",
+      "East Midlands",
+      "West Midlands",
+      "North West",
+      "Yorkshire"
+    ],
+    "address": {
+      "line1": "66B Cazenove Road, Stoke Newington",
+      "town": "London",
+      "postcode": "N16 6AA"
+    },
+    "phone": "020 8880 5387",
+    "website": "https://fostercarelink.com/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "admin@fostercarelink.com",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC049096",
+    "sources": [
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50214175",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://fostercarelink.com/contact/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Hackney (registered office Stoke Newington; search listing on reports.ofsted.gov.uk shows the same address). Phone, email, address, URN and placement types from the February 2023 Ofsted inspection report (rated Outstanding); 'other' covers children with disabilities, unaccompanied asylum-seeking children and staying put. Agency specialises in foster care for Muslim children. Regions served taken from the website contact page, which also lists Midlands (Leicester LE2 0AU, 0116 210 2248) and North (Oldham OL4 1FN, 0161 633 5000) offices. No dedicated become-a-foster-carer page found (menu link points to testimonials). Ofsted provider page could not be fetched (not on allowlist)."
+  },
+  {
+    "id": "silver-lining-fostering",
+    "name": "Silver Lining Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "England"
+    ],
+    "address": {
+      "line1": "Unit 9.7, 9th Floor, The Mille, 1000 Great West Road",
+      "town": "Brentford",
+      "postcode": "TW8 9DW"
+    },
+    "phone": "0208 150 7238",
+    "website": "https://www.silverliningfostering.co.uk/",
+    "recruitmentUrl": "https://www.silverliningfostering.co.uk/why-foster-with-us",
+    "publicEnquiryEmail": "foster@silverliningfostering.co.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1277596",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1277596",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.silverliningfostering.co.uk/contact-us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Hounslow; latest full inspection 13 May 2024. Website trades as Silver Lining Fostering Agency (Silver Lining Fostering Ltd). Phone is the published main line (fostering-enquiries and out-of-hours numbers are mobiles and were not recorded). Website states it works 'across England'. Fostering types not confirmed: the types page https://www.silverliningfostering.co.uk/types-of-fostering was not fetched."
+  },
+  {
+    "id": "compass-fostering-london",
+    "name": "Compass Fostering London Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "London"
+    ],
+    "address": {
+      "line1": "135 Albany Road",
+      "town": "Hornchurch",
+      "postcode": "RM12 4AQ"
+    },
+    "phone": "01708 733 735",
+    "website": "https://www.compassfostering.com/",
+    "recruitmentUrl": "https://www.compassfostering.com/enquiry-form/",
+    "publicEnquiryEmail": "carer.enquiries@compassfostering.com",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC033806",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC033806",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.compassfostering.com/locations/fostering-romford/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Havering; latest full inspection 16 September 2024. Registered service of the Compass Fostering group (group registered office 3 Rayns Way, Syston, Leicester LE7 1PF; group enquiry line 0800 566 8317). The Romford location page lists 'Compass Fostering London' offices at Hornchurch (address above) and Brixton (no address given). Phone is the Hornchurch office line. Fostering types not confirmed (page links to a separate types page that was not fetched). The 2019 gov.uk agency data CSV (https://assets.publishing.service.gov.uk/media/5d763df3ed915d5eeacf8d06/Adoption_and_fostering_data_agency_as_at_31_March_2019.csv) lists the same URN and address."
+  },
+  {
+    "id": "be-my-family-fostering-agency",
+    "name": "Be My Family Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "11 St. Albans Avenue",
+      "town": "Feltham",
+      "postcode": "TW13 6RL"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC402560",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC402560",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Hounslow; registered 25 November 2009; latest full inspection 4 November 2024. Registered company Be My Family Fostering Agency Ltd (seen in search results). The agency's own site (domain bemyfamilyfostering.co.uk) is served over http only (the https URL redirects back to http), so it was not fetched and no website, phone, areas or fostering types were recorded."
+  },
+  {
+    "id": "national-fostering-agency-london-north",
+    "name": "National Fostering Agency London North",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "North London (areas above the Thames and within the M25)"
+    ],
+    "address": {
+      "line1": "Waterside House, 20 Riverside Way",
+      "town": "Uxbridge",
+      "postcode": "UB8 2YF"
+    },
+    "phone": "01895 200300",
+    "website": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/london-north/",
+    "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/",
+    "publicEnquiryEmail": "londonnorthadmin@nfa.co.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2677721",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2677721",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.nationalfosteringgroup.co.uk/national-fostering-agency/london-north/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Regional branch of National Fostering Agency (National Fostering Group); Ofsted local authority area: Hillingdon; registered 13 June 2022; latest full inspection 19 February 2024. Website is the branch page on the group site; recruitment URL is the group's become-a-foster-carer page linked from it (group enquiry form: https://www.nationalfosteringgroup.co.uk/enquire-now/). Email is the office mailbox published on the branch page. Fostering types not stated on the branch page. The earlier NFA registration at 71 Cowley Road, Uxbridge (SC035553; 2018 Ofsted report https://files.ofsted.gov.uk/v1/file/50013913 listed emergency, short-term, long-term, bridging and parent-and-child placements) appears to have been superseded by this registration."
+  },
+  {
+    "id": "ascent-fostering-agency",
+    "name": "Ascent Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South London",
+      "Kent",
+      "Surrey",
+      "Bromley",
+      "Croydon",
+      "Lambeth",
+      "Lewisham",
+      "Merton",
+      "Southwark",
+      "Sutton",
+      "Wandsworth"
+    ],
+    "address": {
+      "line1": "Suite 5, First Floor, Hillcrest House, 51 Woodcote Road",
+      "town": "Wallington",
+      "postcode": "SM6 0LT"
+    },
+    "phone": "020 3281 7067",
+    "website": "https://www.ascentfostering.com/",
+    "recruitmentUrl": "https://www.ascentfostering.com/become-a-foster-carer/",
+    "publicEnquiryEmail": "hello@ascentfostering.com",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC458129",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC458129",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.ascentfostering.com/contact/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Sutton; registered 1 February 2013; latest full inspection 30 September 2024. Website gives the office as Hillcrest House, 51 Woodcote Road, Wallington SM6 0LT (suite number from the Ofsted record). Areas: regions South London, Kent and Surrey plus the boroughs named in the site's 'Fostering in' pages. Fostering types not stated on the contact page; the Ofsted inspection report (https://files.ofsted.gov.uk/v1/file/2766347, seen in search results) was not fetched."
+  },
+  {
+    "id": "phoenix-community-care",
+    "name": "Phoenix Community Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Enfield",
+      "Essex",
+      "Haringey",
+      "Hertfordshire",
+      "Islington",
+      "North Tyneside",
+      "Northumberland",
+      "Reading",
+      "Surrey",
+      "Waltham Forest"
+    ],
+    "address": {
+      "line1": "Room 1, The Trampery, 639 High Road, Tottenham",
+      "town": "London",
+      "postcode": "N17 8AA"
+    },
+    "phone": "020 8887 6888",
+    "website": "https://pccfostering.org/",
+    "recruitmentUrl": "https://pccfostering.org/who-can-foster-is-fostering-for-you-why-not-call-us-for-a-quick-informal-chat-in-the-meantime-ask-yourself-these-questions/",
+    "publicEnquiryEmail": "info@phoenixcommunity.org",
+    "fosteringTypes": [
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC040334",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC040334",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://pccfostering.org/about-us/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "publicEnquiryEmail",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Haringey; registered 27 July 2004; latest full inspection 9 December 2024 (monitoring visit 13 January 2026). Registered charity (no. 1139773) and company (no. 3798480) Phoenix Community Care Ltd, trading as PCC Fostering Agency. Ofsted address is 'Room 1, 639 The Trampery, 639 High Road, London N17 8AA'. Email is the charity's general info mailbox as published on the fostering site. 'other' reflects the about page's statement that it fosters children who have been trafficked or smuggled to the UK and child refugees; the types page https://pccfostering.org/types-of-foster-care-pcc-provides/ and contact page https://pccfostering.org/contact/ were not fetched. The 2020 gov.uk provider-level CSV lists the same URN and address."
+  },
+  {
+    "id": "chrysalis-care",
+    "name": "Chrysalis Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Bexleyheath",
+      "Bromley",
+      "Charlton",
+      "Crayford",
+      "Deptford",
+      "Greenwich",
+      "Lewisham",
+      "Orpington",
+      "Sidcup",
+      "Hornchurch",
+      "Romford",
+      "Dartford",
+      "Greenhithe",
+      "Gravesend",
+      "Chatham",
+      "Rochester",
+      "Medway",
+      "Sittingbourne",
+      "Herne Bay",
+      "Whitstable",
+      "Basildon",
+      "Billericay",
+      "Brentwood",
+      "Chelmsford",
+      "Bedford",
+      "Biggleswade",
+      "Luton",
+      "Milton Keynes",
+      "Exeter",
+      "Newton Abbot",
+      "Paignton",
+      "Plymouth",
+      "Plympton",
+      "Torquay"
+    ],
+    "address": {
+      "line1": "Kings House, 7 Princes Street",
+      "town": "Bexleyheath",
+      "postcode": "DA7 4BQ"
+    },
+    "phone": "0208 298 2800",
+    "website": "https://chrysaliscarefostering.org/",
+    "recruitmentUrl": "https://chrysaliscarefostering.org/could-you-foster/",
+    "publicEnquiryEmail": "info@chrysaliscare.org",
+    "fosteringTypes": [
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036587",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036587",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://chrysaliscarefostering.org/about-us/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "publicEnquiryEmail",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Bexley; registered 3 November 2003; latest full inspection 29 June 2026. Site title 'Chrysalis Care Fostering London'; founded 1997. Ofsted address: 7 Princes Street, Bexleyheath, Kent DA7 4BQ. Phone is the published main line (a mobile recruitment line is also shown and was not recorded). areasServed lists the towns for which the site publishes location pages (London, Kent, Essex, Bedfordshire/Buckinghamshire and Devon); the about page does not state them as service areas explicitly. Fostering types: the page names Parent and Child Fostering, 'Holiday Homes' and 'Specialist Services' ('other' covers the latter two); apply page https://chrysaliscarefostering.org/could-you-foster/apply-now/."
+  },
+  {
+    "id": "fostering-innovations",
+    "name": "Fostering Innovations",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Room 122, Boundary House, Cricket Field Road",
+      "town": "Uxbridge",
+      "postcode": "UB8 1QG"
+    },
+    "phone": "020 7183 6997",
+    "website": "https://www.fostering-innovations.co.uk/",
+    "recruitmentUrl": "https://www.fostering-innovations.co.uk/become-a-foster-carer/",
+    "publicEnquiryEmail": "fostering.innovations@gmail.com",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1221446",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1221446",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.fostering-innovations.co.uk/contact-us/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Hillingdon; registered 22 July 2016; latest full inspection 10 November 2025. Registered company Fostering Innovations Limited (Companies House 09211399, seen in search results). Phone is the published landline (a mobile is also listed and was not recorded); the email is the agency's only published contact mailbox (a gmail address). Areas served and fostering types are not stated on the contact page."
+  }
+]

@@ -1,0 +1,11 @@
+node_modules
+out
+.next
+.static-build
+.env
+.env.local
+outreach/
+dashboard/
+docs/
+tsconfig.tsbuildinfo
+/tmp/

@@ -1,0 +1,323 @@
+[
+ {
+  "id": "action-for-children-family-breaks-devon-fostering-southwest-peninsula",
+  "website": "https://www.actionforchildren.org.uk/fostering/",
+  "recruitmentUrl": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/",
+  "phone": "0800 208 4379",
+  "publicEnquiryEmail": null,
+  "areasServed": ["Bristol", "Cornwall", "Devon", "Gloucestershire", "Somerset", "Wiltshire"],
+  "fosteringTypes": ["short-term", "long-term", "respite", "parent-and-child"],
+  "sources": [
+   {"url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/south-west-england/", "retrievedOn": "2026-10-27", "supports": ["recruitmentUrl", "phone", "areasServed", "fosteringTypes"]},
+   {"url": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone"]}
+  ],
+  "notes": "Regional branch of Action for Children; website is the charity's fostering home page. Branch page: https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/south-west-england/ which lists 'Fostering South West Peninsula and Short Breaks' alongside 'Fostering South West'; areasServed are the recruitment areas stated for the whole South West region, not this service alone. Parent-and-child is stated as offered only in some services. Page also shows a service number 0845 200 5162. The fostering enquiry email is obfuscated on the site and not recorded."
+ },
+ {
+  "id": "action-for-children-fostering-south-east",
+  "website": "https://www.actionforchildren.org.uk/fostering/",
+  "recruitmentUrl": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/",
+  "phone": "0800 208 4379",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": ["emergency", "short-term", "long-term", "parent-and-child", "sibling-groups"],
+  "sources": [
+   {"url": "https://media.actionforchildren.org.uk/documents/SOP_-_Fostering_South_East.pdf", "retrievedOn": "2026-10-27", "supports": ["fosteringTypes"]},
+   {"url": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone"]}
+  ],
+  "notes": "Regional branch of Action for Children; no dedicated South East web page found. Phone is the charity's national fostering enquiry line. Its Statement of Purpose (registered office 3 The Boulevard, Ascot Road, Watford WD18 8AG, matching the Ofsted record) gives a service number 01329 666930 and out-of-hours 01642 226 372, lists no specific local authority areas, and also describes bridging, solo, complex-needs, unaccompanied asylum-seeking children and Staying Put placements; it describes a therapeutic approach rather than a therapeutic placement type."
+ },
+ {
+  "id": "action-for-children-fostering-south-west",
+  "website": "https://www.actionforchildren.org.uk/fostering/",
+  "recruitmentUrl": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/",
+  "phone": "0800 208 4379",
+  "publicEnquiryEmail": null,
+  "areasServed": ["Bristol", "Cornwall", "Devon", "Gloucestershire", "Somerset", "Wiltshire"],
+  "fosteringTypes": ["short-term", "long-term", "respite", "parent-and-child"],
+  "sources": [
+   {"url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/south-west-england/", "retrievedOn": "2026-10-27", "supports": ["recruitmentUrl", "phone", "areasServed", "fosteringTypes"]},
+   {"url": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone"]}
+  ],
+  "notes": "Regional branch of Action for Children; website is the charity's fostering home page. Branch page: https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/south-west-england/ which lists 'Fostering South West' alongside 'Fostering South West Peninsula and Short Breaks'; areasServed are the recruitment areas stated for the whole South West region. Parent-and-child is stated as offered only in some services. Page also shows a service number 0845 200 5162. The fostering enquiry email is obfuscated on the site and not recorded."
+ },
+ {
+  "id": "ansacare-fostering-agency",
+  "website": "https://ansacare.com/",
+  "recruitmentUrl": "https://ansacare.com/become-a-foster-carer/",
+  "phone": "0203 747 4757",
+  "publicEnquiryEmail": "info@ansacare.com",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://www.ansacare.com/index.php/contact-us", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "publicEnquiryEmail"]}
+  ],
+  "notes": "Contact page gives the office as Weatherill House, New South Quarter, 23 Whitestone Way, Croydon CR0 4WF, matching the Ofsted record. Fostering types are on a separate page (https://ansacare.com/types-of-fostering/) that was not fetched."
+ },
+ {
+  "id": "apex-fostering",
+  "website": "https://www.apexfostering.uk/",
+  "recruitmentUrl": null,
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://www.apexfostering.uk/terms-conditions", "retrievedOn": "2026-10-27", "supports": ["website"]}
+  ],
+  "notes": "UNCERTAIN: identified from search results by name only (pages on apexfostering.uk titled 'Apex Fostering'); the site returned an error when fetched, so the Epping address was not confirmed on the page."
+ },
+ {
+  "id": "apple-fostering-services",
+  "website": "https://applefostering.co.uk/",
+  "recruitmentUrl": null,
+  "phone": "0203 432 0663",
+  "publicEnquiryEmail": null,
+  "areasServed": ["London"],
+  "fosteringTypes": ["emergency", "short-term", "long-term", "parent-and-child"],
+  "sources": [
+   {"url": "https://applefostering.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "areasServed", "fosteringTypes"]},
+   {"url": "https://applefostering.co.uk/get-in-touch/", "retrievedOn": "2026-10-27", "supports": ["phone"]}
+  ],
+  "notes": "Contact page gives the office as First Central 200, 2 Lakeside Drive, Park Royal, London NW10 7FQ, matching the Ofsted record. Site also states placements for unaccompanied asylum-seeking children and children with disabilities. Enquiries are via a call-back form; no 'become a foster carer' page URL was visible."
+ },
+ {
+  "id": "asphaleia",
+  "website": "https://www.asphaleia.co.uk/",
+  "recruitmentUrl": "https://www.asphaleia.co.uk/be-a-foster-carer",
+  "phone": "01903 522966",
+  "publicEnquiryEmail": null,
+  "areasServed": ["West Sussex"],
+  "fosteringTypes": ["emergency", "short-term", "long-term", "parent-and-child", "sibling-groups"],
+  "sources": [
+   {"url": "https://www.asphaleia.co.uk/fostering-agency", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "areasServed", "fosteringTypes"]},
+   {"url": "https://www.asphaleia.co.uk/contact-info", "retrievedOn": "2026-10-27", "supports": ["phone"]}
+  ],
+  "notes": "Asphaleia is a wider charity based in Worthing; its fostering service page is https://www.asphaleia.co.uk/fostering-agency. Phone is the organisation's general number (no separate fostering line published). Areas stated as 'West Sussex and neighbouring counties'. Street address and postcode not shown on the pages fetched."
+ },
+ {
+  "id": "aspirations-fostering",
+  "website": "https://aspirationsfostering.co.uk/",
+  "recruitmentUrl": null,
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://aspirationsfostering.co.uk/contact/", "retrievedOn": "2026-10-27", "supports": ["website"]}
+  ],
+  "notes": "UNCERTAIN: identified from search results by name only (pages on aspirationsfostering.co.uk titled 'Contact' and 'Our Story'); the site returned an error when fetched, so the Hockley address was not confirmed on the page."
+ },
+ {
+  "id": "avanti-fostering",
+  "website": "https://avantifostering.co.uk/",
+  "recruitmentUrl": "https://avantifostering.co.uk/new-to-fostering/",
+  "phone": "0208 238 5535",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://avantifostering.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone"]}
+  ],
+  "notes": "Home page gives the office as Devonshire House, 582 Honeypot Lane, Stanmore HA7 1JS, matching the Ofsted record. The 'Become A Foster Parent' button links to https://avantifostering.co.uk/contact-us/; recruitmentUrl is the site's 'New To Fostering' page. Email is obfuscated on the page and not recorded."
+ },
+ {
+  "id": "beams-foster-care-and-family-service",
+  "website": "https://beamsfcfs.co.uk/",
+  "recruitmentUrl": "https://beamsfcfs.co.uk/how-do-i-become-a-foster-carer/",
+  "phone": "01493 751593",
+  "publicEnquiryEmail": "info@beamsfcfs.co.uk",
+  "areasServed": ["Norfolk", "Suffolk", "Cambridgeshire"],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://beamsfcfs.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "publicEnquiryEmail", "areasServed"]}
+  ],
+  "notes": "Home page gives the office as 2A Shrublands Cottages, Magdalen Way, Gorleston NR31 7BP, matching the Ofsted record. Site states coverage is not restricted to the counties listed. Fostering types are on a separate page that was not fetched."
+ },
+ {
+  "id": "bespoke-fostering-agency",
+  "website": "https://bespokefostering.co.uk/",
+  "recruitmentUrl": "https://bespokefostering.co.uk/join-the-team/",
+  "phone": "01493 543197",
+  "publicEnquiryEmail": null,
+  "areasServed": ["Norfolk", "Suffolk"],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://bespokefostering.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed"]}
+  ],
+  "notes": "Home page gives the office as Beacon Innovation Centre, Beacon Park, Camelot Road, Gorleston on Sea, Great Yarmouth NR31 7RA; the Ofsted record has NR31 7RH (same business park, postcode differs). Page metadata also mentions Staffordshire and 'across the Midlands'. Fostering types are on a separate page (https://bespokefostering.co.uk/type-of-fostering/) that was not fetched."
+ },
+ {
+  "id": "blue-sky-fostering",
+  "website": "https://www.blueskyfostering.co.uk/",
+  "recruitmentUrl": "https://www.blueskyfostering.co.uk/fostering",
+  "phone": "01794 590 003",
+  "publicEnquiryEmail": null,
+  "areasServed": ["Hampshire"],
+  "fosteringTypes": ["teenagers", "sibling-groups", "therapeutic", "parent-and-child", "respite"],
+  "sources": [
+   {"url": "https://www.blueskyfostering.co.uk/locations/hampshire", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed", "fosteringTypes"]}
+  ],
+  "notes": "Blue Sky Fostering has several offices; the Hampshire office page gives Broadwater House, Broadwater Road, Romsey, Hampshire (postcode printed as 'S051 8GT', evidently SO51 8GT as in the Ofsted record) and says it covers the whole of Hampshire. Phone is the Romsey office number; the site header also shows 0800 035 6499. Enquiry page: https://www.blueskyfostering.co.uk/contact-us. Site lists 'Therapeutically Led fostering' and also fostering for unaccompanied asylum-seeking children. Site states it is part of BSN Social Care."
+ },
+ {
+  "id": "by-the-bridge",
+  "website": "https://www.bythebridge.co.uk/",
+  "recruitmentUrl": "https://www.bythebridge.co.uk/foster-with-us/",
+  "phone": "0800 644 6230",
+  "publicEnquiryEmail": null,
+  "areasServed": ["Sittingbourne", "Medway", "Dartford", "Bromley", "Maidstone", "Ashford"],
+  "fosteringTypes": ["therapeutic"],
+  "sources": [
+   {"url": "https://www.bythebridge.co.uk/about-us/where-we-are", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "fosteringTypes"]},
+   {"url": "https://www.bythebridge.co.uk/our-locations/south-east/", "retrievedOn": "2026-10-27", "supports": ["phone", "areasServed", "fosteringTypes"]}
+  ],
+  "notes": "South East office of By the Bridge. 'Where we are' page gives Offices 10-12 Main Farm Office, Brogdale Farm, Brogdale Road, Faversham, Kent ME13 8XZ, matching the Ofsted record. Branch page: https://www.bythebridge.co.uk/our-locations/south-east/ (areas listed 'plus surrounding areas'). Phone is the organisation-wide enquiry number; no per-office number published."
+ },
+ {
+  "id": "by-the-bridge-midlands",
+  "website": "https://www.bythebridge.co.uk/",
+  "recruitmentUrl": "https://www.bythebridge.co.uk/foster-with-us/",
+  "phone": "0800 644 6230",
+  "publicEnquiryEmail": null,
+  "areasServed": ["East Midlands", "Rugby", "Corby", "Leicester", "Lincoln", "Northampton"],
+  "fosteringTypes": ["therapeutic"],
+  "sources": [
+   {"url": "https://www.bythebridge.co.uk/about-us/where-we-are", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "fosteringTypes"]},
+   {"url": "https://www.bythebridge.co.uk/our-locations/east-midlands/", "retrievedOn": "2026-10-27", "supports": ["phone", "areasServed", "fosteringTypes"]}
+  ],
+  "notes": "The site labels the Tamworth office 'East Midlands': Thorpe Estate, Stablethorpe Offices, Thorpe Constantine, Tamworth B79 0LH, matching the Ofsted record. Branch page: https://www.bythebridge.co.uk/our-locations/east-midlands/ (areas listed 'and their surrounding areas'). The site also lists a separate West Midlands office at Chelmsley Wood B37 7HG. Phone is the organisation-wide enquiry number."
+ },
+ {
+  "id": "by-the-bridge-north-west",
+  "website": "https://www.bythebridge.co.uk/",
+  "recruitmentUrl": "https://www.bythebridge.co.uk/foster-with-us/",
+  "phone": "0800 644 6230",
+  "publicEnquiryEmail": null,
+  "areasServed": ["North West", "Manchester", "Preston", "Blackburn", "Blackpool", "Bolton", "Bury", "Stockport", "Southport", "Liverpool"],
+  "fosteringTypes": ["therapeutic"],
+  "sources": [
+   {"url": "https://www.bythebridge.co.uk/about-us/where-we-are", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "fosteringTypes"]},
+   {"url": "https://www.bythebridge.co.uk/our-locations/fostering-in-the-north-west/", "retrievedOn": "2026-10-27", "supports": ["phone", "areasServed", "fosteringTypes"]}
+  ],
+  "notes": "North West office of By the Bridge. 'Where we are' page gives The Barn, 122 Hollin Lane, Styal, Cheshire SK9 4LD, matching the Ofsted record. Branch page: https://www.bythebridge.co.uk/our-locations/fostering-in-the-north-west/ (areas listed 'plus their surrounding areas'). Phone is the organisation-wide enquiry number."
+ },
+ {
+  "id": "caldecott-fostering",
+  "website": "https://www.caldecottfostering.co.uk/",
+  "recruitmentUrl": "https://www.caldecottfostering.co.uk/could-you-foster/",
+  "phone": "0300 303 8794",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": ["therapeutic"],
+  "sources": [
+   {"url": "https://www.caldecottfostering.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "fosteringTypes"]}
+  ],
+  "notes": "Home page gives the office as Caldecott House, Hythe Road, Smeeth, Ashford, Kent TN25 6SP, matching the Ofsted record. Site states it is part of the Caldecott Foundation charity. Also has a 'join us' page (https://www.caldecottfostering.co.uk/join-us/) and a transfer page. No recruitment areas stated (page refers to children from across the UK)."
+ },
+ {
+  "id": "capstone-excel",
+  "website": "https://www.capstonefostercare.co.uk/",
+  "recruitmentUrl": "https://www.capstonefostercare.co.uk/become-a-foster-carer",
+  "phone": "01253 835228",
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://www.capstonefostercare.co.uk/local-offices/fostering-in-the-north/blackpool-office", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone"]}
+  ],
+  "notes": "Capstone Foster Care's Blackpool office page gives 4 Calder Court, Amy Johnson Way, Blackpool, Lancashire FY4 2RH, matching the Ofsted record, and describes the office as part of Excel Fostering, a sister agency in the Capstone Foster Care group. Branch pages: https://www.capstonefostercare.co.uk/local-offices/fostering-in-the-north (search result titled 'Capstone Excel') and the Blackpool office page above. The page links to a separate Excel Fostering site (https://www.excelfostering.com/) which could not be fetched, so it is not recorded as the website. Phone is the Blackpool office number; the group enquiry line is 0800 012 4004. The page mentions Lytham St Annes but states no coverage area."
+ },
+ {
+  "id": "capstone-foster-care-uk-london",
+  "website": "https://www.capstonefostercare.co.uk/",
+  "recruitmentUrl": "https://www.capstonefostercare.co.uk/become-a-foster-carer",
+  "phone": "0800 012 4004",
+  "publicEnquiryEmail": null,
+  "areasServed": ["East London", "South East"],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://www.capstonefostercare.co.uk/local-offices/fostering-in-the-south-east/london-office", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone"]},
+   {"url": "https://www.capstonefostercare.co.uk/local-offices/fostering-in-the-south-east/east-london-office", "retrievedOn": "2026-10-27", "supports": ["phone", "areasServed"]}
+  ],
+  "notes": "Capstone's London offices: 'London Office' at Airport House, Purley Way, Croydon CR0 0XZ and 'East London Office' at Fourth Floor, Suite 8, Boardman House, 64 Broadway, Stratford, London E15 1NT (office line 020 4634 5620). The Ofsted record postcode E15 2SP was not found on the site. Branch pages: https://www.capstonefostercare.co.uk/local-offices/fostering-in-the-south-east/ (region), /london-office and /east-london-office. Phone is the group enquiry line. areasServed as stated on the East London page ('East London and the wider South East')."
+ },
+ {
+  "id": "caring-hearts-fostering",
+  "website": "https://caringheartsfostering.co.uk/",
+  "recruitmentUrl": "https://caringheartsfostering.co.uk/become-a-foster-carer.html",
+  "phone": "020 8810 6380",
+  "publicEnquiryEmail": "info@caringheartsfostering.co.uk",
+  "areasServed": ["London"],
+  "fosteringTypes": ["respite", "long-term"],
+  "sources": [
+   {"url": "https://caringheartsfostering.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "publicEnquiryEmail", "areasServed", "fosteringTypes"]}
+  ],
+  "notes": "Home page gives the office as Stanmore HA7 1FW, matching the Ofsted record. Fostering types stated as 'short breaks through to long-term placements' (short breaks recorded as respite). Site also lists a fast-track assessment page and a transfer page."
+ },
+ {
+  "id": "caritas-care",
+  "website": "https://www.caritascare.org.uk/",
+  "recruitmentUrl": "https://www.caritascare.org.uk/fostering/",
+  "phone": "0800 652 6955",
+  "publicEnquiryEmail": null,
+  "areasServed": ["Lancashire", "Preston", "Blackpool", "Blackburn", "Burnley", "Accrington", "Warrington", "Salford", "Wigan"],
+  "fosteringTypes": ["short-term", "long-term"],
+  "sources": [
+   {"url": "https://www.caritascare.org.uk/fostering/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed", "fosteringTypes"]}
+  ],
+  "notes": "Caritas Care is a North West charity offering adoption, fostering and learning disability services; the fostering page is the recruitment page. Site also has a page https://www.caritascare.org.uk/fostering-agency-preston/ which returned an error when fetched, so the Preston PR2 1ES office address was not confirmed on the page. Coverage stated as Lancashire 'and other areas of the North West', list not exhaustive. Types stated as short-term, long-term and permanent."
+ },
+ {
+  "id": "channels-and-choices-therapeutic-fostering",
+  "website": "https://channelsandchoices.co.uk/",
+  "recruitmentUrl": "https://channelsandchoices.co.uk/fostering/",
+  "phone": "01304 361888",
+  "publicEnquiryEmail": null,
+  "areasServed": ["Kent"],
+  "fosteringTypes": ["therapeutic"],
+  "sources": [
+   {"url": "https://channelsandchoices.co.uk/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed", "fosteringTypes"]}
+  ],
+  "notes": "Home page gives the address as Kearsney Manor, Alkham Rd, Temple Ewell, Dover CT16 3EQ, matching the Ofsted record. The organisation also runs residential childcare; recruitmentUrl is its 'Fostering' section page (no separate 'foster with us' page found). Phone is the organisation's general number."
+ },
+ {
+  "id": "child-care-bureau-fostering-services",
+  "website": "https://www.nationalfosteringgroup.co.uk/child-care-bureau/",
+  "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/",
+  "phone": "01905 640022",
+  "publicEnquiryEmail": null,
+  "areasServed": ["West Midlands", "Worcestershire"],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://www.nationalfosteringgroup.co.uk/child-care-bureau/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "areasServed"]}
+  ],
+  "notes": "Child Care Bureau is part of National Fostering Group; its agency page on the group site gives 1st Floor Unit 11-13, Elgar Business Centre, Moseley Road, Hallow, Worcester WR2 6NJ, matching the Ofsted record. Enquiry page: https://www.nationalfosteringgroup.co.uk/enquire-now/. The page publishes an admin mailbox (ccbadmin@childcarebureau.co.uk) rather than a clearly public fostering enquiries address, so no email recorded. A further office page exists at https://www.nfa.co.uk/child-care-bureau/office/worcester/ (not fetched)."
+ },
+ {
+  "id": "children-of-all-nations",
+  "website": "https://www.childrenofallnations.co.uk/",
+  "recruitmentUrl": "https://www.childrenofallnations.co.uk/first-enquiry-form/",
+  "phone": "0203 475 2253",
+  "publicEnquiryEmail": "info@childrenofallnations.co.uk",
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://www.childrenofallnations.co.uk/contacts/", "retrievedOn": "2026-10-27", "supports": ["website", "recruitmentUrl", "phone", "publicEnquiryEmail"]}
+  ],
+  "notes": "Contact page gives the office as Thornton Heath CR7 8DB, matching the Ofsted record; page title refers to 'COAN Fostering Agency Croydon'. Fostering types are on a separate page (https://www.childrenofallnations.co.uk/types-of-fostering-placements/) that was not fetched."
+ },
+ {
+  "id": "children-of-colour",
+  "website": "https://childrenofcolourltd.com/",
+  "recruitmentUrl": null,
+  "phone": null,
+  "publicEnquiryEmail": null,
+  "areasServed": [],
+  "fosteringTypes": [],
+  "sources": [
+   {"url": "https://childrenofcolourltd.com/", "retrievedOn": "2026-10-27", "supports": ["website"]}
+  ],
+  "notes": "Site states the agency is based in Croydon but gives no street address, postcode or phone on the home page; enquiry form is on the home page. A second domain, https://childrenofcolourltd.co.uk/ (search result titled 'Children Of Colour helping you foster a child in Croydon'), also appears to be the agency's but blocked fetching (robots), so it was not verified. Types stated only as 'temporary and permanent care'; a 'Types of placements' page was not fetched."
+ }
+]

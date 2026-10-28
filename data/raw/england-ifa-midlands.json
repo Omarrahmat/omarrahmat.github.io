@@ -1,0 +1,1945 @@
+[
+  {
+    "id": "abacus-fostering",
+    "name": "Abacus Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Suite 301/302, Steward Street Lofts, 69 Stewards Street",
+      "town": "Birmingham",
+      "postcode": "B18 7AF"
+    },
+    "phone": "0121 456 0717",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "sibling-groups",
+      "therapeutic"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC457784",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC457784",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50271768",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the January 2025 Ofsted inspection report (long-term/permanency, sibling placements, placements supported by an agency-employed therapist; 'staying put' also offered)."
+  },
+  {
+    "id": "f5-foster-care",
+    "name": "F5 Foster Care Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "First Floor Amington House, 95 Amington Road",
+      "town": "Birmingham",
+      "postcode": "B25 8EP"
+    },
+    "phone": "0121 2710555",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1277076",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1277076",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50295798",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the November 2025 Ofsted inspection report."
+  },
+  {
+    "id": "happy-hearts-foster-care",
+    "name": "Happy Hearts Foster Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Radclyffe House H2, 66-68 Hagley Road",
+      "town": "Birmingham",
+      "postcode": "B16 8PF"
+    },
+    "phone": "07794238440",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2649488",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2649488",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50217634",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the April 2023 Ofsted inspection report (registered provider Happy Hearts Foster Care Limited)."
+  },
+  {
+    "id": "new-life-fostering-agency",
+    "name": "New Life Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Charter House, 848 Tyburn Road",
+      "town": "Birmingham",
+      "postcode": "B24 9NT"
+    },
+    "phone": "0121 359 8811",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "parent-and-child",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC447166",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC447166",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50308268",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the June 2026 Ofsted inspection report (registered provider New Life Fostering Agency Limited)."
+  },
+  {
+    "id": "national-fostering-agency-solihull",
+    "name": "National Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "1750 Solihull Parkway, Birmingham Business Park",
+      "town": "Solihull",
+      "postcode": "B37 7YD"
+    },
+    "phone": "0121 274 0289",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC470279",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC470279",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50296572",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Ofsted registration SC470279 is the National Fostering Agency office registered at Birmingham Business Park, Solihull; NFA also holds other regional registrations. Phone and placement types (short breaks recorded as respite) are from the December 2025 Ofsted inspection report; registered provider The National Fostering Agency Ltd (Bolton)."
+  },
+  {
+    "id": "by-the-bridge-midlands",
+    "name": "By the Bridge Midlands",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Thorpe Estate, Stablethorpe Offices",
+      "town": "Tamworth",
+      "postcode": "B79 0LH"
+    },
+    "phone": "02476546160",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups",
+      "respite",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2794311",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2794311",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50298619",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted registration dated 29 April 2025 (Staffordshire local authority area). Phone and placement types are from the March 2026 Ofsted inspection report, which lists the inspected office as TS1 Pinewood Business Park, Marston Green, Birmingham B37 7HG; registered provider is By The Bridge Limited (Uxbridge)."
+  },
+  {
+    "id": "new-routes-fostering",
+    "name": "New Routes Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Father Hudson's Society, Coventry Road, Coleshill",
+      "town": "Birmingham",
+      "postcode": "B46 3FG"
+    },
+    "phone": "01675 434 000",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC034855",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC034855",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50261527",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Charity fostering service of Father Hudson's Society (registered provider). Phone from the August 2024 Ofsted inspection report, which describes long-term placements and care for unaccompanied children but lists no formal placement categories."
+  },
+  {
+    "id": "fostering-dimensions",
+    "name": "Fostering Dimensions",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Jarodale House, Office 29, 7 Gregory Boulevard",
+      "town": "Nottingham",
+      "postcode": "NG7 6LB"
+    },
+    "phone": "01159792515",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC438506",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC438506",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50290403",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the September 2025 Ofsted inspection report, which gives the registered provider address as FF23 Foxhall Lodge, Foxhall Road, Nottingham NG7 6LH (bridging placements also offered)."
+  },
+  {
+    "id": "cornerstone-north-east-fostering-service-mattersey",
+    "name": "Cornerstone North East Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "1st Floor, Mattersey Hall Training Centre, Retford Road, Mattersey",
+      "town": "Doncaster",
+      "postcode": "DN10 5HD"
+    },
+    "phone": "01915656423",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "respite",
+      "long-term",
+      "short-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC066812",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC066812",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50297253",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Ofsted lists the region as East Midlands and local authority as Nottinghamshire (Mattersey, Bassetlaw; Doncaster postal address). Registered provider: Cornerstone (North East) Adoption and Fostering Service. Phone and placement types (short breaks recorded as respite) are from the January 2026 Ofsted inspection report."
+  },
+  {
+    "id": "fusion-fostering-north-east-worksop",
+    "name": "Fusion Fostering North East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "East Midlands",
+      "East Yorkshire"
+    ],
+    "address": {
+      "line1": "Worksop Turbine, Coach Close",
+      "town": "Worksop",
+      "postcode": "S81 8AP"
+    },
+    "phone": "01543404760",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1255753",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1255753",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50280592",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Registered office is in Worksop, Nottinghamshire (Ofsted region East Midlands) despite the 'North East' name. Registered provider Fusion Fostering Limited (Yeovil). Phone, areas and placement types are from the May 2025 Ofsted inspection report."
+  },
+  {
+    "id": "acorn-fostering-services",
+    "name": "Acorn Fostering Services Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "80 Burleys Way",
+      "town": "Leicester",
+      "postcode": "LE1 3BD"
+    },
+    "phone": "0116 251 3550",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC060131",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC060131",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50276447",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Trades as Acorn Fostering. Phone and placement types are from the April 2025 Ofsted inspection report (address given there as ASRA Conference Centre, 80 Burleys Way)."
+  },
+  {
+    "id": "compass-fostering-central",
+    "name": "Compass Fostering Central Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "3 Rayns Way, Syston",
+      "town": "Leicester",
+      "postcode": "LE7 1PF"
+    },
+    "phone": "01509221310",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC065772",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC065772",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50313138",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the August 2026 Ofsted inspection report."
+  },
+  {
+    "id": "united-fostering-services",
+    "name": "United Fostering Services Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "101 Lockhurst Lane",
+      "town": "Coventry",
+      "postcode": "CV6 5SF"
+    },
+    "phone": "0247 6993632",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2672815",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2672815",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50284524",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the April/May 2025 Ofsted inspection report (also places unaccompanied asylum-seeking children). An Ofsted search listing fetched on 2026-10-27 showed a different address for this URN (53-55 Butts Road, Earlsdon Park, Coventry CV1 3BH), so the office address may have changed recently."
+  },
+  {
+    "id": "progress-childrens-services",
+    "name": "Progress Children's Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Progress House, 127 Millfields Road",
+      "town": "Wolverhampton",
+      "postcode": "WV4 6JG"
+    },
+    "phone": "01902 561066",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036627",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036627",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://progresscare.co.uk/wp-content/uploads/2022/05/Progress-Childrens-Services-IFA-Full-1.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the November 2021 Ofsted inspection report published on the provider's website (short-break services recorded as respite)."
+  },
+  {
+    "id": "freedom-fostering",
+    "name": "Freedom Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "27 Waterloo Road",
+      "town": "Wolverhampton",
+      "postcode": "WV1 4DJ"
+    },
+    "phone": "01902 429290",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "long-term",
+      "short-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC037304",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC037304",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50242629",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the February 2024 Ofsted inspection report (registered provider Freedom Fostering Limited)."
+  },
+  {
+    "id": "fusion-fostering-the-midlands-walsall",
+    "name": "Fusion Fostering - The Midlands",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "West Midlands",
+      "East Midlands (small number of carers)",
+      "South Yorkshire (small number of carers)"
+    ],
+    "address": {
+      "line1": "The Enterprise Hub, 34 Green Lane",
+      "town": "Walsall",
+      "postcode": "WS2 8JH"
+    },
+    "phone": "01902 539340",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1233309",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1233309",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50293868",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "fosteringTypes",
+          "areasServed",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Ofsted lists the service name as 'The Midlands'; the registered provider is Fusion Fostering Limited (Yeovil). Phone, areas and placement types (short-break recorded as respite) are from the November 2025 Ofsted inspection report."
+  },
+  {
+    "id": "ikon-fostering",
+    "name": "Ikon Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Pool Street",
+      "town": "Walsall",
+      "postcode": "WS1 2EN"
+    },
+    "phone": "01922618790",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "emergency",
+      "parent-and-child",
+      "respite",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC486357",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC486357",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50292476",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the October 2025 Ofsted inspection report, which gives the registered provider address as 1 Coton Lane, Birmingham B23 6TP and the inspected office as Pool Street, Walsall."
+  },
+  {
+    "id": "wholistic-fostering",
+    "name": "Wholistic Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "34 Brook House, Brook Street Business Centre, Brook Street",
+      "town": "Tipton",
+      "postcode": "DY4 9DD"
+    },
+    "phone": "01922 622233",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC476942",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC476942",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50241286",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone is from the January 2024 Ofsted inspection report, which does not list placement types."
+  },
+  {
+    "id": "active-care-solutions",
+    "name": "Active Care Solutions",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Pure Offices, Broadwell Road",
+      "town": "Oldbury",
+      "postcode": "B69 4BY"
+    },
+    "phone": "08009177937",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC484141",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC484141",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50247121",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the March 2024 Ofsted inspection report, which gives the registered provider address as Core Assets, Abberley View, Saxon Business Park, Bromsgrove B60 4AD; the agency office is in Oldbury (Sandwell)."
+  },
+  {
+    "id": "park-foster-care",
+    "name": "Park Foster Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "5 Ridgehouse Drive, Festival Park",
+      "town": "Stoke-on-Trent",
+      "postcode": "ST1 5TL"
+    },
+    "phone": "01782 569500",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC055725",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/sc055725",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50224880",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the June 2023 Ofsted inspection report (registered provider Park Foster Care Ltd, Potters Bar); service address is Festival Park, Hanley, Stoke-on-Trent."
+  },
+  {
+    "id": "families-first-fostering",
+    "name": "Families First Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 7D, Whitebridge Estate, Whitebridge Way",
+      "town": "Stone",
+      "postcode": "ST15 8LQ"
+    },
+    "phone": "01785 747171",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "therapeutic"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2573764",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2573764",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50277017",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the March 2025 Ofsted inspection report (long-term arrangements, step-down from residential care via a 'Stepping Stones' programme, therapeutically informed care)."
+  },
+  {
+    "id": "icanfoster",
+    "name": "icanfoster",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Suite 9, Unit B5, Halesfield 8",
+      "town": "Telford",
+      "postcode": "TF7 4QN"
+    },
+    "phone": "01952 601085",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2576457",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2576457",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50271734",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the January 2025 Ofsted inspection report; registered provider is Ican Foster Ltd (registered provider address in Newport, Wales)."
+  },
+  {
+    "id": "family-fostering-partners-hereford",
+    "name": "Family Fostering Partners",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "22 King Street",
+      "town": "Hereford",
+      "postcode": "HR4 9BX"
+    },
+    "phone": "03300 948816",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2624643",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2624643",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50239023",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted-registered England office in Hereford; registered provider Family Fostering Partners Limited (Cross Hands, Carmarthenshire), which opened its first registered service in England in June 2022. Phone and placement types are from the December 2023 Ofsted inspection report, which also lists an office at Rural Enterprise Centre, Brunel Road, Leominster HR6 0LT."
+  },
+  {
+    "id": "compass-fostering-west",
+    "name": "Compass Fostering West",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit G1, New Venture House, Venture Business Park",
+      "town": "Worcester",
+      "postcode": "WR2 4AY"
+    },
+    "phone": "01905424435",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "sibling-groups",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC360525",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC360525",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50284727",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the June/July 2025 Ofsted inspection report (registered provider Compass Fostering West Limited, Syston, Leicester)."
+  },
+  {
+    "id": "child-care-bureau-fostering-services",
+    "name": "Child Care Bureau Fostering Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "First Floor, Unit 11-13, Elgar Business Centre, Moseley Road, Hallow",
+      "town": "Worcester",
+      "postcode": "WR2 6NJ"
+    },
+    "phone": "01905 640 022",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC034788",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/CARE/SC034788",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50238498",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the November 2023 Ofsted inspection report (registered provider Child Care Bureau Limited, Bolton)."
+  },
+  {
+    "id": "foster-care-associates-midlands",
+    "name": "Foster Care Associates Midlands",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Senate House, Saxon Business Park, Hanbury Road, Stoke Prior",
+      "town": "Bromsgrove",
+      "postcode": "B60 4AD"
+    },
+    "phone": "0800 023 4561",
+    "website": "https://www.thefca.co.uk/",
+    "recruitmentUrl": "https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC045338",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC045338",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.thefca.co.uk/?p=995",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "phone",
+          "recruitmentUrl",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50308689",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Website, national enquiry phone (0800 023 4561), recruitment page and fostering types are from the Foster Care Associates website (organisation-wide); the June 2026 Ofsted inspection report gives the Midlands office telephone as 01527839220 and registered provider Foster Care Associates Limited. Areas served by this Bromsgrove registration not confirmed."
+  },
+  {
+    "id": "isp-midlands",
+    "name": "ISP Midlands",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Senate House, Saxon Business Park, Hanbury Road, Stoke Prior",
+      "town": "Bromsgrove",
+      "postcode": "B60 4AD"
+    },
+    "phone": "01527 556480",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups",
+      "respite",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2795066",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2795066",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50285345",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Ofsted registration dated 2 September 2024. Phone and placement types are from the July 2025 Ofsted inspection report (registered provider ISP, Malvern View, Bromsgrove)."
+  },
+  {
+    "id": "fosterplus",
+    "name": "Fosterplus",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Coventry",
+      "Warwickshire",
+      "Solihull",
+      "Birmingham",
+      "Dudley",
+      "Walsall",
+      "Wolverhampton",
+      "Sandwell",
+      "Staffordshire (parts)",
+      "Leicester",
+      "Leicestershire",
+      "Nottinghamshire"
+    ],
+    "address": {
+      "line1": "Jubilee House, 31-33 Meadow Lane, Long Eaton",
+      "town": "Nottingham",
+      "postcode": "NG10 2FE"
+    },
+    "phone": "0800 369 8512",
+    "website": "https://www.fosterplus.co.uk/",
+    "recruitmentUrl": "https://www.fosterplus.co.uk/becoming-foster-parent/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC384584",
+    "sources": [
+      {
+        "url": "https://www.fosterplus.co.uk/wp-content/uploads/2025/07/Fosterplus-Midlands-and-South-Yorkshire-Ofsted-Report-2025.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://fosterplus.co.uk/offices/coventry/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://fosterplus.co.uk/locations/leicester",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.fosterplus.co.uk/?p=1295",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "phone"
+        ]
+      }
+    ],
+    "notes": "URN SC384584 is from the December 2025 Ofsted inspection report published on the provider's website (agency office inspected: Jubilee House, Long Eaton; registered provider Fosterplus Limited, Bromsgrove B60 4AD). Also has a Coventry office at Parva Mews, Nettle Hill, Brinklow Road, Ansty, Coventry CV7 9JL. Ofsted provider page not fetched."
+  },
+  {
+    "id": "clifford-house-fostering",
+    "name": "Clifford House Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Senate House, Saxon Business Park, Hanbury Road, Stoke Prior",
+      "town": "Bromsgrove",
+      "postcode": "B60 4AD"
+    },
+    "phone": "01527 559366",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC416290",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC416290",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50268651",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the December 2024 Ofsted inspection report (bridging placements also offered; registered provider Clifford House Fostering Limited)."
+  },
+  {
+    "id": "quality-fostering",
+    "name": "Quality Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "1st & 2nd Floor (at the rear of), 45 Russell Street",
+      "town": "Leamington Spa",
+      "postcode": "CV32 5QB"
+    },
+    "phone": "03300 884 654",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "respite",
+      "emergency",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC068494",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/sc068494",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50298085",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the February 2026 Ofsted inspection report, which gives the registered provider address as Celixir House, Stratford Business & Technology Park, Stratford-upon-Avon CV37 7GZ."
+  },
+  {
+    "id": "alliance-foster-care",
+    "name": "Alliance Foster Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "3b Maple Court, Ash Lane, Collingtree",
+      "town": "Northampton",
+      "postcode": "NN4 0NB"
+    },
+    "phone": "01604 879 373",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC033794",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC033794",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/2692647",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the May 2017 Ofsted inspection report and may be out of date; registered provider is Alliance Foster Care Limited (registered provider address in Uxbridge)."
+  },
+  {
+    "id": "triangle-project",
+    "name": "Triangle Project",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Family Society Adoption Focus, Ts3, Pinewood Court, Coleshill Road, Marston Green",
+      "town": "Birmingham",
+      "postcode": "B37 7HG"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2731149",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2731149",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Current Ofsted registration dated 31 July 2023 with no inspection report yet; an earlier Triangle Project registration (URN 1258436) at the same address is closed. Registered at the Family Society / Adoption Focus office."
+  },
+  {
+    "id": "five-rivers-fostering-service-midlands",
+    "name": "Five Rivers Fostering Service - Midlands",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Midlands",
+      "North of England"
+    ],
+    "address": {
+      "line1": "Studio Suites, H, J & K Market Hall, Market Place",
+      "town": "Chesterfield",
+      "postcode": "S40 1AR"
+    },
+    "phone": "01246 558292",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child",
+      "emergency",
+      "respite",
+      "long-term",
+      "short-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC062786",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC062786",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50227002",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone, areas and placement types are from the July 2023 Ofsted inspection report (then named 'Five Rivers Fostering Service - Midlands and the North'; registered provider Five Rivers Child Care Limited, Salisbury; other premises in Bromsgrove, Doncaster and Thornaby)."
+  },
+  {
+    "id": "sunbeam-fostering-east-midlands",
+    "name": "Sunbeam Fostering East Midlands",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Melrose House, 9 Waverley Street",
+      "town": "Nottingham",
+      "postcode": "NG7 4HF"
+    },
+    "phone": "02476420390",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "respite",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2783158",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2783158",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50284767",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Ofsted registration dated 30 July 2024; registered provider Sunbeam Fostering Agency Limited (Slough). Phone and placement types are from the July 2025 Ofsted inspection report (bridging and unaccompanied children also mentioned)."
+  },
+  {
+    "id": "fostering-people",
+    "name": "Fostering People Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Suite D, The Point, Welbeck Road, West Bridgford",
+      "town": "Nottingham",
+      "postcode": "NG2 7QW"
+    },
+    "phone": "0115 945 5445",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC043914",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC043914",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50225174",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the June 2023 Ofsted inspection report (also remand placements, services for disabled children, Mockingbird constellations and step-down from residential care)."
+  },
+  {
+    "id": "swiis-foster-care-birmingham",
+    "name": "SWIIS Foster Care Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "24 Highfield Road, Edgbaston",
+      "town": "Birmingham",
+      "postcode": "B15 3DP"
+    },
+    "phone": "0121 452 7120",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC037164",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC037164",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50272692",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Ofsted registration SC037164 is the SWIIS Foster Care office in Edgbaston, Birmingham; registered provider SWIIS Foster Care Limited (Bristol). Phone and placement types are from the February 2025 Ofsted inspection report."
+  },
+  {
+    "id": "elite-fostering",
+    "name": "Elite Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "International House, 963 Wolverhampton Road",
+      "town": "Oldbury",
+      "postcode": "B69 4RJ"
+    },
+    "phone": "07886700872",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1280530",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1280530",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50243939",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone from the February 2024 Ofsted inspection report, which describes sibling groups placed together and 'staying put' but lists no formal placement categories; registered provider address 1 Gorsey Way, Aldridge, Walsall WS9 0EQ."
+  },
+  {
+    "id": "st-christophers-fellowship-west-bromwich",
+    "name": "St. Christopher's Fellowship",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Kinder House, Lombard Street",
+      "town": "West Bromwich",
+      "postcode": "B70 8SD"
+    },
+    "phone": "01215253738",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC458341",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC458341",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50293545",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Charity fostering service; Ofsted registration SC458341 is the West Bromwich office (registered provider St Christopher's Fellowship, London SW15). Phone and placement types are from the December 2025 Ofsted inspection report."
+  },
+  {
+    "id": "paramount-foster-care",
+    "name": "Paramount Foster Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Sma House, 172 Birmingham Road",
+      "town": "West Bromwich",
+      "postcode": "B70 6QG"
+    },
+    "phone": "07792193400",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2509967",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2509967",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50307111",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the May 2026 Ofsted inspection report."
+  },
+  {
+    "id": "ideal-fostering",
+    "name": "Ideal Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Anchor House, 4 Bridgeman Street",
+      "town": "Walsall",
+      "postcode": "WS2 9NW"
+    },
+    "phone": "0192 2687867",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "long-term",
+      "short-term",
+      "respite",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC472125",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC472125",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50284739",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "regulatorReference",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Phone and placement types are from the June 2025 Ofsted inspection report; registered provider Ideal Fostering Limited, 1 Coton Lane, Erdington, Birmingham B23 6TP."
+  },
+  {
+    "id": "roots-and-wings-fostering-services",
+    "name": "Roots and Wings Fostering Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "15 Seaton Grove",
+      "town": "Birmingham",
+      "postcode": "B13 8PD"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2877992",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2877992",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Newly registered with Ofsted (registration event dated 18 September 2026); no inspection report yet."
+  },
+  {
+    "id": "oakwood-fostering",
+    "name": "Oakwood Fostering LTD",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "142 Stoney Lane, Balsall Heath",
+      "town": "Birmingham",
+      "postcode": "B12 8AQ"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2863552",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2863552",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Registered with Ofsted on 5 January 2026; no inspection report yet."
+  }
+]

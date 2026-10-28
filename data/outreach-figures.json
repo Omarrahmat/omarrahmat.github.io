@@ -1,0 +1,266 @@
+[
+  {
+    "topic": "IFA weekly fee paid by councils (England)",
+    "figure": "Average of £820 per week",
+    "context": "The CMA's final-report England summary (10 March 2022) says fostering prices paid by local authorities have been steady at an average of £820 per week, based on data for the largest independent fostering agencies in 2016-2020.",
+    "quote": "In fostering, prices have been steady at an average of £820 per week.",
+    "source": {
+      "title": "Children's social care market study: final report, England summary (para 23)",
+      "url": "https://assets.publishing.service.gov.uk/media/622878cce90e0747aa8eb67e/England_summary_.pdf",
+      "publisher": "Competition and Markets Authority",
+      "date": "2022-03-10"
+    }
+  },
+  {
+    "topic": "IFA weekly fee paid by councils (England) - CMA interim figures for 2020",
+    "figure": "About £820 per week (2020, largest providers), with 19% average operating profit margin",
+    "context": "The CMA press release on its interim report gives 2020 figures for the largest providers: fostering agencies charged about £820 per week with a 19% operating margin, versus £3,830 per week and 23% for children's homes.",
+    "quote": "for fostering agencies, the average weekly price for fostering was about £820 per week, with an average operating profit margin of 19%",
+    "source": {
+      "title": "CMA outlines concerns on availability and price of children's care (press release)",
+      "url": "https://www.gov.uk/government/news/cma-outlines-concerns-on-availability-and-price-of-children-s-care",
+      "publisher": "Competition and Markets Authority / GOV.UK",
+      "date": "2021-10-22"
+    }
+  },
+  {
+    "topic": "IFA average annual fee per child (largest providers)",
+    "figure": "Average fee per child of £42,626 per year, flat from FY2016 to FY2020",
+    "context": "CMA financial analysis of the eight large fostering providers found the average annual fee per child was flat at £42,626 across FY2016-2020; it also found local authority operating costs were approximately 36.8% lower than those of the large private providers.",
+    "quote": "the average fee per child has remained flat from FY 2016 to 2020 at an average of £42,626.",
+    "source": {
+      "title": "Children's social care market study: interim report, Appendix A: Financial analysis (para 83)",
+      "url": "https://assets.publishing.service.gov.uk/media/617151f8e90e07197b571cb7/Appendices_.pdf",
+      "publisher": "Competition and Markets Authority",
+      "date": "2021-10-22"
+    }
+  },
+  {
+    "topic": "IFA operating profit margins",
+    "figure": "Average operating profit margin of 19.4% for the largest IFAs",
+    "context": "The CMA final-report England summary says profit margins of the largest independent fostering agencies appear consistently high; its Appendix A gives the same 19.4% as the FY2016-2020 average for the eight large fostering providers (19.8% for PE-owned, 17.8% for non-PE-owned).",
+    "quote": "profit margins of the largest IFAs appear consistently high at an average of 19.4%.",
+    "source": {
+      "title": "Children's social care market study: final report, England summary (para 23)",
+      "url": "https://assets.publishing.service.gov.uk/media/622878cce90e0747aa8eb67e/England_summary_.pdf",
+      "publisher": "Competition and Markets Authority",
+      "date": "2022-03-10"
+    }
+  },
+  {
+    "topic": "IFA operating profit margins - DfE restatement (2026)",
+    "figure": "19.4% average operating margin for largest IFAs vs 10.3% net rate of return for private non-financial corporations in 2024",
+    "context": "The DfE's February 2026 fostering strategy repeats the CMA margin figure and contrasts it with the economy-wide corporate rate of return; the same document says IFAs now provide 45% of mainstream fostering households and 48% of filled places.",
+    "quote": "the largest IFAs make average operating margins of 19.4%. This is much higher than the annual net rate of return for private non-financial corporations, which was 10.3% in 2024.",
+    "source": {
+      "title": "Renewing Fostering: homes for 10,000 more children (CP 1503), p.14",
+      "url": "https://assets.publishing.service.gov.uk/media/6982286fe833d031a3158ff1/Renewing_Fostering_-_homes_for_10_000_more_children_-_February_2026_Print_ready.pdf",
+      "publisher": "Department for Education",
+      "date": "2026-02-01"
+    }
+  },
+  {
+    "topic": "IFA vs in-house weekly placement cost (sector source, secondary)",
+    "figure": "Average in-house (LA) placement £440 per week vs average IFA placement approximately £800 per week",
+    "context": "The Fostering Network's September 2025 consultation response cites a 2023 source (Perryman, 2023) for these averages; the figures are secondary and not from an official dataset.",
+    "quote": "The average in-house (LA) placement costs £440 per week ... the average IFA placement costs approximately £800 per week",
+    "source": {
+      "title": "Modernising and improving the administration of council tax consultation: The Fostering Network's response (p.2)",
+      "url": "https://www.thefosteringnetwork.org.uk/media/2aahrpbu/thefos-1.pdf",
+      "publisher": "The Fostering Network",
+      "date": "2025-09-01"
+    }
+  },
+  {
+    "topic": "Cost of assessing one foster carer applicant (sector source, uncited)",
+    "figure": "Assessment costs of £10,000 to £15,000 per candidate",
+    "context": "FosterWiki, a foster-carer-led organisation, states this range in its 2025 impact report with no citation, footnote or link for the figure; no official (DfE, Ofsted, CoramBAAF, Fostering Network or council) cost-per-approval figure could be confirmed in this research.",
+    "quote": "With assessment costs ranging from £10,000 to £15,000 per candidate, the loss of 7 out of 10 applicants represents a considerable waste of public resources",
+    "source": {
+      "title": "2025 Recruitment and Retention Impact Report",
+      "url": "https://fosterwiki.com/2025-recruitment-and-retention-impact-report/",
+      "publisher": "FosterWiki",
+      "date": "2025-03-12"
+    }
+  },
+  {
+    "topic": "Cost of a regional recruitment hub relative to approvals (break-even)",
+    "figure": "Hub would have needed to recruit 88 approved fostering households in year one to break even; DfE invested £3.4 million in 2023/24 in the pathfinder hub",
+    "context": "Ipsos UK and CEI's DfE-commissioned interim evaluation of the Foster with North East pathfinder hub used a break-even approach comparing hub costs (to August 2024) against projected placement savings.",
+    "quote": "the Hub would have needed to recruit 88 approved foster care households in the first year of operation.",
+    "source": {
+      "title": "Evaluation of Foster with North East: Interim report (RR 1555), Executive Summary, Economic analysis",
+      "url": "https://assets.publishing.service.gov.uk/media/68d1272f275fc9339a248aed/Evaluation_of_Foster_with_North_East_interim_report.pdf",
+      "publisher": "Department for Education (Ipsos UK and Centre for Evidence and Implementation)",
+      "date": "2025-09-25"
+    }
+  },
+  {
+    "topic": "Enquiry-to-application conversion rate (national, DfE/Ipsos)",
+    "figure": "6% of enquiries progressed to application (year ending 31 March 2022)",
+    "context": "DfE-commissioned Ipsos research on foster carer recruitment and conversion rates reports that only 6% of initial enquiries at fostering services progressed to the application stage; the same report notes enquiries were 18% higher than in the year ending 31 March 2018.",
+    "quote": "In the year ending 31 March 2022, 6% of enquiries at fostering services progressed to the application stage.",
+    "source": {
+      "title": "Foster carer recruitment and conversion rates: Research report (Chapter 1, p.9)",
+      "url": "https://assets.publishing.service.gov.uk/media/64b155569959000013002b02/Foster_carer_recruitment_and_conversion_rates_report.pdf",
+      "publisher": "Department for Education (Ipsos UK)",
+      "date": "2023-07-01"
+    }
+  },
+  {
+    "topic": "Enquiries vs newly approved carers (national, 2024-25)",
+    "figure": "Almost 150,000 enquiries but only 7,365 newly approved foster carers in 2024-25; 6% of enquiries progressed to application in year ending 31 March 2025",
+    "context": "The DfE's February 2026 fostering strategy gives the latest national enquiry-to-approval picture (carers are individuals, not households).",
+    "quote": "In 2024–25 there were almost 150,000 enquiries but only 7,365 newly approved foster carers.",
+    "source": {
+      "title": "Renewing Fostering: homes for 10,000 more children (CP 1503), p.15 and p.31",
+      "url": "https://assets.publishing.service.gov.uk/media/6982286fe833d031a3158ff1/Renewing_Fostering_-_homes_for_10_000_more_children_-_February_2026_Print_ready.pdf",
+      "publisher": "Department for Education",
+      "date": "2026-02-01"
+    }
+  },
+  {
+    "topic": "Enquiries, applications and application approval rate (national, 2020-21)",
+    "figure": "160,635 initial enquiries; 10,145 (6%) applications; 32% of applications approved (vs 44% in 2015-16); enquiry-to-application rate down from 12% in 2014-15",
+    "context": "House of Commons Library debate pack summarising Ofsted fostering statistics for the year ending 31 March 2021.",
+    "quote": "There were 160,635 initial enquiries from prospective fostering households in the year ending 31 March 2021 ... only 10,145 (6%) foster carer applications were received.",
+    "source": {
+      "title": "General debate on the recruitment and retention of foster carers (Debate Pack CDP-2022-0080)",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CDP-2022-0080/CDP-2022-0080.pdf",
+      "publisher": "House of Commons Library",
+      "date": "2022-04-08"
+    }
+  },
+  {
+    "topic": "Enquiry-to-approval conversion by sector, 2021-22 (Ofsted data analysed by CEI)",
+    "figure": "Local authorities: 31,045 enquiries, 3,665 applications, 675 approved (2.17% of enquiries); IFAs: 4,615 applications, 900 approved (0.84% of enquiries)",
+    "context": "CEI's research report for The Fostering Network analysed Ofsted's 2021-22 fostering data; approvals here are applications completed in approval within the year, so the rates understate eventual approvals.",
+    "quote": "local authorities only received 3,665 applications which led to just 675 approved applications (2.17% of the original enquiries made)",
+    "source": {
+      "title": "Foster carer retention and recruitment in England: A research report for The Fostering Network (Section 2.1, pp.10-11)",
+      "url": "https://www.ceiglobal.org/sites/default/files/uploads/files/CEI_Report_Foster_Carer_Retention_and_Recruitment_May2023.pdf",
+      "publisher": "Centre for Evidence and Implementation / The Fostering Network",
+      "date": "2023-05-01"
+    }
+  },
+  {
+    "topic": "Enquiry-to-approval conversion (council example, East Sussex)",
+    "figure": "Enquiry-to-approval conversion rate of 11% in 2023-24 (236 enquiries, 26 approvals); 7%-9% in the four prior years",
+    "context": "East Sussex County Council's fostering annual report table shows enquiry to initial visit at 19% and initial visit to approval at 58% in 2023-24.",
+    "quote": "Conversion rate: Enquiry to approval ... 8% | 9% | 7% | 9% | 11% (2019-20 to 2023-24)",
+    "source": {
+      "title": "East Sussex Fostering Services Annual Progress Report 2023/24 (Appendix 1)",
+      "url": "https://democracy.eastsussex.gov.uk/documents/s60414/Appendix+1+-+Annual+Report+23-24+Final+Version.pdf",
+      "publisher": "East Sussex County Council",
+      "date": null
+    }
+  },
+  {
+    "topic": "Enquiry-to-approval conversion (council example, Barnet)",
+    "figure": "279 enquiries in 2024/25 (138 from Facebook lead-generation ads); conversion rate rose from 2.1% (2023/24) to 5.73% (2024/25); 12 mainstream/respite/supported lodgings carers approved",
+    "context": "London Borough of Barnet's Fostering Service Annual Report 2024/25 gives a full enquiry-journey table for the year.",
+    "quote": "During 2024/25, 279 enquiries were received, in comparison to 241 in 2023/24 and 174 in 2022/23.",
+    "source": {
+      "title": "The Fostering Service Annual Report 2024/25 (Appendix B)",
+      "url": "https://barnet.moderngov.co.uk/documents/s89948/Appendix%20B%20Fostering%20Annual%20Report.pdf",
+      "publisher": "London Borough of Barnet",
+      "date": "2025-05-29"
+    }
+  },
+  {
+    "topic": "Enquiry-to-application conversion (regional hub vs national)",
+    "figure": "Foster with North East hub: 23.1% of enquiries progressed to successful application vs a national rate of 12%; more than 850 enquiries in first year",
+    "context": "Sunderland City Council news item marking the first birthday of the DfE-funded Foster with North East pathfinder hub.",
+    "quote": "is also much higher at 23.1 per cent than the national rate of 12 per cent",
+    "source": {
+      "title": "Trailblazing fostering hub celebrates its first birthday",
+      "url": "https://icm.sunderland.gov.uk/article/33059/Trailblazing-fostering-hub-celebrates-its-first-birthday",
+      "publisher": "Sunderland City Council",
+      "date": "2024-10-15"
+    }
+  },
+  {
+    "topic": "Marketing spend on carer recruitment (regional hub communications campaign)",
+    "figure": "£300,000 total investment in the hub's October 2023-March 2024 communications campaign, including £100,000 for media buying; a further £200,000 allocated for 2024/25",
+    "context": "The only published marketing-spend figure found; it relates to the DfE-funded Foster with North East pathfinder hub campaign, not to an individual agency. No credible published figure for typical Google Ads costs for fostering keywords was found.",
+    "quote": "with a total investment of £300,000, including £100,000 allocated directly to the Hub for media buying.",
+    "source": {
+      "title": "Evaluation of Foster with North East: Interim report (RR 1555), Chapter 4, Communications campaign",
+      "url": "https://assets.publishing.service.gov.uk/media/68d1272f275fc9339a248aed/Evaluation_of_Foster_with_North_East_interim_report.pdf",
+      "publisher": "Department for Education (Ipsos UK and Centre for Evidence and Implementation)",
+      "date": "2025-09-25"
+    }
+  },
+  {
+    "topic": "Share of enquiries from digital marketing (council example)",
+    "figure": "Digital marketing responsible for 80% of enquiries; enquiries rose from 509 (2024/25) to 677 (2025/26) with 17 approvals in 2025/26",
+    "context": "Shropshire Council's March 2026 fostering briefing; useful as evidence that councils depend heavily on digital channels for enquiries.",
+    "quote": "this digital marketing is responsible for 80% of our enquiries",
+    "source": {
+      "title": "Fostering Briefing Update, March 2026 (Item 7, Appendix 2)",
+      "url": "https://shropshire.gov.uk/committee-services/documents/s44244/Item%207%20-%20Appendix%202%20-%20Fostering%20Briefing%20Update.pdf",
+      "publisher": "Shropshire Council",
+      "date": "2026-03-01"
+    }
+  },
+  {
+    "topic": "Ofsted fostering statistics 2024-25: fostering households",
+    "figure": "42,190 fostering households at 31 March 2025 (down 1% on the year and 7% since 2021); 18,415 mainstream LA households and 15,020 mainstream IFA households; IFAs 45% of mainstream households",
+    "context": "Ofsted's annual fostering in England statistics for 1 April 2024 to 31 March 2025, published 26 November 2025.",
+    "quote": "At the end of March 2025, there were 42,190 fostering households in England.",
+    "source": {
+      "title": "Main findings: fostering in England 1 April 2024 to 31 March 2025",
+      "url": "https://www.gov.uk/government/statistics/fostering-in-england-1-april-2024-to-31-march-2025/main-findings-fostering-in-england-1-april-2024-to-31-march-2025",
+      "publisher": "Ofsted",
+      "date": "2025-11-26"
+    }
+  },
+  {
+    "topic": "Ofsted fostering statistics 2024-25: approved foster carers and places",
+    "figure": "56,345 approved mainstream foster carers (down 1% from 57,065; down 12% from 63,890 in 2021); 69,825 approved mainstream places (down from 70,465); around 60% of places filled",
+    "context": "Ofsted's annual fostering in England statistics for 1 April 2024 to 31 March 2025.",
+    "quote": "As at March 2025, there were 56,345 approved mainstream foster carers.",
+    "source": {
+      "title": "Main findings: fostering in England 1 April 2024 to 31 March 2025",
+      "url": "https://www.gov.uk/government/statistics/fostering-in-england-1-april-2024-to-31-march-2025/main-findings-fostering-in-england-1-april-2024-to-31-march-2025",
+      "publisher": "Ofsted",
+      "date": "2025-11-26"
+    }
+  },
+  {
+    "topic": "Ofsted fostering statistics 2024-25: applications",
+    "figure": "8,290 applications received in 2024-25 (down from 8,485 in 2023-24); 2,050 applications completed in approval during the year",
+    "context": "Ofsted's annual fostering in England statistics for 1 April 2024 to 31 March 2025; initial enquiries are not reported in this publication.",
+    "quote": "The number of applications received during the period 1 April 2024 to 31 March 2025 was 8,290.",
+    "source": {
+      "title": "Main findings: fostering in England 1 April 2024 to 31 March 2025",
+      "url": "https://www.gov.uk/government/statistics/fostering-in-england-1-april-2024-to-31-march-2025/main-findings-fostering-in-england-1-april-2024-to-31-march-2025",
+      "publisher": "Ofsted",
+      "date": "2025-11-26"
+    }
+  },
+  {
+    "topic": "Ofsted fostering statistics 2024-25: approvals and deregistrations",
+    "figure": "4,430 mainstream households joined the sector (3,050 new to fostering); 4,115 newly approved households at end March 2025; 4,690 deregistrations (12% of the 38,125 households at the start of the year)",
+    "context": "Ofsted's annual fostering in England statistics for 1 April 2024 to 31 March 2025 show deregistrations again exceeding new approvals.",
+    "quote": "During this period, 4,430 mainstream households joined the sector, of which 3,050 were new to fostering. ... The number of deregistrations over the same period was 4,690.",
+    "source": {
+      "title": "Main findings: fostering in England 1 April 2024 to 31 March 2025",
+      "url": "https://www.gov.uk/government/statistics/fostering-in-england-1-april-2024-to-31-march-2025/main-findings-fostering-in-england-1-april-2024-to-31-march-2025",
+      "publisher": "Ofsted",
+      "date": "2025-11-26"
+    }
+  },
+  {
+    "topic": "Ofsted fostering statistics 2023-24 (prior year, for trend)",
+    "figure": "42,615 fostering households (vs 45,370 in 2021); 4,055 households approved; 4,820 stopped fostering; net loss of 765 households",
+    "context": "The Fostering Network's summary of Ofsted's 2023-24 statistics, the third successive annual fall in foster carer numbers.",
+    "quote": "A total of 4,055 fostering households were approved during the year ... 4,820 stopped fostering",
+    "source": {
+      "title": "New Ofsted data shows number of foster carers in England declining for third year running",
+      "url": "https://www.thefosteringnetwork.org.uk/news/new-ofsted-data-shows-number-of-foster-carers-in-england-declining-for-third-year-running/",
+      "publisher": "The Fostering Network",
+      "date": "2024-11-08"
+    }
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "action-for-children-fostering-south-west",
+    "name": "Action for Children Fostering South West",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Horner Court, 637 Gloucester Road, Horfield",
+      "town": "Bristol",
+      "postcode": "BS7 0BJ"
+    },
+    "phone": "0117 958 0158",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC031085",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC031085",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50236642",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of the national charity Action for Children; Ofsted local authority area Bristol. Latest full inspection (Nov 2023) judged Good overall. Phone taken from the Ofsted inspection report. Website not confirmed from a fetched source."
+  },
+  {
+    "id": "action-for-children-family-breaks-devon-fostering-southwest-peninsula",
+    "name": "Action for Children Family Breaks Devon & Fostering Southwest Peninsula",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Exeter Business Park, 1 Emperor Way",
+      "town": "Exeter",
+      "postcode": "EX1 3QS"
+    },
+    "phone": "01392 360865",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC064273",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC064273",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50253188",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of the national charity Action for Children; Ofsted local authority area Devon. 'other' = short breaks (family breaks) for disabled children. Latest full inspection (May 2024) judged Good. The 2024 inspection report gives the office as 8 Powderham House, Park Five, Harrier Way, Exeter EX2 7HU; the address recorded is the current Ofsted registered address. Website not confirmed from a fetched source."
+  },
+  {
+    "id": "foster-care-associates-western",
+    "name": "Foster Care Associates Western",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Bristol",
+      "Gloucestershire",
+      "Swindon",
+      "Wiltshire",
+      "North Somerset"
+    ],
+    "address": {
+      "line1": "Office 19, 130 Aztec West, Park Avenue, Almondsbury",
+      "town": "Bristol",
+      "postcode": "BS32 4UB"
+    },
+    "phone": "01225 255900",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2696051",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2696051",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50230180",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "areasServed",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of Foster Care Associates Limited (registered provider based in Bromsgrove); Ofsted local authority area South Gloucestershire. Latest full inspection (Sept 2023) judged Good. Website not confirmed from a fetched source."
+  },
+  {
+    "id": "tact-fostering-south-west",
+    "name": "TACT Fostering South West",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Bristol",
+      "Gloucestershire",
+      "South Gloucestershire",
+      "Bath and North East Somerset",
+      "Wiltshire",
+      "North Somerset",
+      "Somerset",
+      "Swindon"
+    ],
+    "address": {
+      "line1": "Vassall Centre, Gill Avenue",
+      "town": "Bristol",
+      "postcode": "BS16 2QQ"
+    },
+    "phone": "0117 927 7725",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "sibling-groups",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC050500",
+    "sources": [
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50190416",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "areasServed",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC050500",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "UNCERTAIN SCOPE: the current Ofsted provider page lists the registered address as Innovation House, Coniston Court, PO Box 137, Blyth NE24 9FJ (TACT head office, Northumberland); the Bristol office address, phone, areas and types are taken from the June 2022 Ofsted inspection report (judged Outstanding). Registered provider: The Adolescent and Children's Trust (charity). May also be captured by a North East dataset under the same id."
+  },
+  {
+    "id": "the-fostering-foundation",
+    "name": "The Fostering Foundation",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South West England"
+    ],
+    "address": {
+      "line1": "74a Regent Street, Kingswood",
+      "town": "Bristol",
+      "postcode": "BS15 8JA"
+    },
+    "phone": "01822 618068",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child",
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1378486",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1378486",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50300771",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "areasServed",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Registered provider: The Fostering Foundation Limited; Ofsted local authority area South Gloucestershire. Offices in Bristol, Exeter and Tavistock per the Dec 2025 inspection report, which judged the agency Inadequate overall. 'respite' recorded from 'planned breaks'; also offers staying put. Phone and contact email domain (fosteringfoundation.co.uk) appear in the Ofsted report; website not confirmed from a fetched source."
+  },
+  {
+    "id": "fostering-matters-ltd",
+    "name": "Fostering Matters Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "10 College Green",
+      "town": "Gloucester",
+      "postcode": "GL1 2LX"
+    },
+    "phone": "01452 309210",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "sibling-groups",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC061740",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC061740",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50270531",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "fosteringTypes",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area Gloucestershire. Registered provider Fostering Matters Limited (provider address Unit 7, Malvern View Business Park, Stella Way, Bishops Cleeve, Cheltenham GL52 7DQ per the Jan 2025 inspection report, judged Good). 'other' = placements for unaccompanied asylum-seeking children. Website not confirmed from a fetched source."
+  },
+  {
+    "id": "community-foster-care",
+    "name": "Community Foster Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Gloucestershire",
+      "Wiltshire",
+      "South Gloucestershire",
+      "Swindon",
+      "Bristol",
+      "South Herefordshire",
+      "Worcestershire",
+      "West Oxfordshire"
+    ],
+    "address": {
+      "line1": "Unit A, 76 Kingsholm Road, Kingsholm",
+      "town": "Gloucester",
+      "postcode": "GL1 3BD"
+    },
+    "phone": "01452 849301",
+    "website": "https://www.communityfostercare.co.uk",
+    "recruitmentUrl": "https://www.communityfostercare.co.uk/how-to-start-fostering",
+    "publicEnquiryEmail": "info@communityfostercare.co.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "therapeutic"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC035415",
+    "sources": [
+      {
+        "url": "https://www.communityfostercare.co.uk/fostering-in-gloucestershire",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes",
+          "recruitmentUrl",
+          "publicEnquiryEmail"
+        ]
+      },
+      {
+        "url": "https://communityfostercare.co.uk/ofsted",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Registered charity (no. 1084124), not-for-profit agency; also has a Lancaster office. URN taken from the agency's own Ofsted page; Ofsted provider page could not be fetched to confirm the registered office."
+  }
+]

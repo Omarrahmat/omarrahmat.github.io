@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "croydon",
+    "council": "Croydon Council",
+    "nation": "England",
+    "year": "2026-27",
+    "retrievedOn": "2026-10-28",
+    "sourceUrl": "https://www.croydon.gov.uk/foster-croydon/fees-and-allowances",
+    "sourceTitle": "Fees and allowances (Foster Croydon, Croydon Council)",
+    "allowances": [
+      {
+        "label": "0 to 4",
+        "weekly": 208,
+        "note": null
+      },
+      {
+        "label": "5 to 10",
+        "weekly": 233,
+        "note": null
+      },
+      {
+        "label": "11 to 15",
+        "weekly": 266,
+        "note": null
+      },
+      {
+        "label": "16 to 17",
+        "weekly": 309,
+        "note": null
+      }
+    ],
+    "fees": [
+      {
+        "label": "Skilled: entry level",
+        "weekly": 325,
+        "note": null
+      },
+      {
+        "label": "Advanced: enhanced level",
+        "weekly": 450,
+        "note": null
+      },
+      {
+        "label": "Specialist fostering roles",
+        "weekly": 600,
+        "note": null
+      }
+    ],
+    "feesNote": "Croydon pays a weekly skills fee to the carer on top of the maintenance allowance for each child, set by the carer's level.",
+    "extras": [
+      "Council Tax reimbursement",
+      "Retention bonus of £1,500 a year after 3 years of fostering for Croydon",
+      "Welcome bonus of £1,500 for carers transferring from another service",
+      "Birthday and festival allowances of up to £309 a year each",
+      "Holiday allowance of up to £618 a year for the child and up to £700 a year for the carer",
+      "Start-up grant of £500 and a school uniform allowance of £300 a year"
+    ],
+    "summary": "Croydon publishes a maintenance allowance by the child's age and a separate skills fee for the carer, so a newly approved carer receives £533 to £634 a week for one child and an advanced carer £658 to £759. The council does not state on the page which year the rates apply from, so check the current figures with Foster Croydon before you apply.",
+    "areaNames": [
+      "Croydon"
+    ]
+  }
+]

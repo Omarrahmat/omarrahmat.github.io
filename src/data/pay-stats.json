@@ -1,0 +1,32 @@
+{
+  "checked": "2026-10-27",
+  "agency": {
+    "n": 22,
+    "from": 460,
+    "to": 652,
+    "min": 400,
+    "max": 1000
+  },
+  "council": {
+    "n": 9,
+    "from": 375,
+    "to": 697,
+    "min": 268,
+    "max": 1087
+  },
+  "agencyEngland": {
+    "n": 20,
+    "from": 487,
+    "to": 652,
+    "min": 400,
+    "max": 1000
+  },
+  "councilEngland": {
+    "n": 6,
+    "from": 321,
+    "to": 633,
+    "min": 268,
+    "max": 915.01
+  },
+  "note": "Medians of the \"from\" and \"to\" weekly figures each service publishes on its own website for one child, as checked on the date shown. Most services describe these as the carer fee and the child allowance combined; a few do not say."
+}

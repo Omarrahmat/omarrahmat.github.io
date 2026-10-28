@@ -1,0 +1,1221 @@
+[
+ {
+  "id": "sparks-fostering",
+  "name": "Sparks Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Flat B4107, 9 Owen Street",
+   "town": "Manchester",
+   "postcode": "M15 4UG"
+  },
+  "phone": "0161 262 0999",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "respite",
+   "long-term",
+   "short-term",
+   "parent-and-child"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2700371",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2700371",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50259691",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Registered provider company is Social Work Enterprise Ltd (Ofsted inspection report, September 2024). Phone and placement types taken from that report."
+ },
+ {
+  "id": "swiis-foster-care",
+  "name": "SWIIS Foster Care Limited",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "15 Warwick Road, Old Trafford",
+   "town": "Manchester",
+   "postcode": "M16 0QQ"
+  },
+  "phone": "0161 228 7442",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term",
+   "parent-and-child"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC043551",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC043551",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50292707",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Phone and placement types taken from the Ofsted inspection report (November 2025)."
+ },
+ {
+  "id": "therapeutic-fostering-ltd",
+  "name": "Therapeutic Fostering Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Astra Office Suites, Astra Business Centre (E), Roman Way",
+   "town": "Preston",
+   "postcode": "PR2 5AP"
+  },
+  "phone": "0161 470 2859",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1236901",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1236901",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50257057",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Address is the registered office shown on the Ofsted provider page. The August 2024 Ofsted inspection report gives the registered provider address as 5 Crescent East, Thornton-Cleveleys FY5 3LJ. Phone and placement types taken from that report."
+ },
+ {
+  "id": "fostering-ltd",
+  "name": "Fostering Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Unit B2, Pittman Court, Pittman Way, Fulwood",
+   "town": "Preston",
+   "postcode": "PR2 9ZG"
+  },
+  "phone": "01772 288372",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "respite",
+   "long-term"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC488290",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC488290",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50257620",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Phone and placement types taken from the Ofsted inspection report (August 2024)."
+ },
+ {
+  "id": "fusion-fostering-north-west",
+  "name": "Fusion Fostering North West",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "26 Hastings Road",
+   "town": "Leyland",
+   "postcode": "PR25 3SP"
+  },
+  "phone": "01282 222270",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "emergency",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1225624",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1225624",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50265558",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "North West branch of Fusion Fostering Limited (registered provider address Old Mill, Maltravers House, Petters Way, Yeovil BA20 1SH per Ofsted report, November 2024). 'other' covers a service for unaccompanied asylum-seeking children. Phone and placement types from that report."
+ },
+ {
+  "id": "parallel-parents",
+  "name": "Parallel Parents",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Greater Manchester",
+   "Staffordshire",
+   "West Midlands",
+   "East Midlands"
+  ],
+  "address": {
+   "line1": "Care Today Childrens Services, Lansdowne House, 85 Buxton Road",
+   "town": "Stockport",
+   "postcode": "SK2 6LR"
+  },
+  "phone": "0161 477 5830",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term",
+   "parent-and-child",
+   "respite"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC067795",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC067795",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50267697",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "areasServed",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Registered provider is Parallel Parents Limited. Phone, areas covered and placement types taken from the Ofsted inspection report (December 2024)."
+ },
+ {
+  "id": "by-the-bridge-north-west",
+  "name": "By the Bridge North West",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "The Barn, Beech Farm, 122 Hollin Lane",
+   "town": "Styal",
+   "postcode": "SK9 4LD"
+  },
+  "phone": "0161 490 7551",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "emergency",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC066501",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC066501",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50257243",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Registered provider is By the Bridge North West Limited (provider address 5th Floor, Metropolitan House, 3 Darkes Lane, Potters Bar EN6 1AG per Ofsted report, July 2024). 'other' covers staying put and shared care arrangements mentioned in that report. Phone and placement types from that report."
+ },
+ {
+  "id": "three-circles-fostering",
+  "name": "Three Circles Fostering Limited",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Dean Row Court, Sommerfields Village Centre, Dean Row Road",
+   "town": "Wilmslow",
+   "postcode": "SK9 2TB"
+  },
+  "phone": "01625 441020",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "parent-and-child",
+   "emergency",
+   "respite",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC443768",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC443768",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50232351",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "'other' covers bridging placements. Phone and placement types taken from the Ofsted inspection report (September 2023)."
+ },
+ {
+  "id": "foster-careline",
+  "name": "Foster Careline",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "North West"
+  ],
+  "address": {
+   "line1": "Suite G7, The Business Centre, Oaklands Office Park, Hooton Road",
+   "town": "Hooton",
+   "postcode": "CH66 7NZ"
+  },
+  "phone": "0151 378 6873",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "parent-and-child"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC408585",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC408585",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50273446",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Registered provider is Foster Careline Ltd. The February 2025 Ofsted inspection report gives the provider address as Suite F10 (same business centre), Ellesmere Port CH66 7NZ. Phone, areas and placement types from that report."
+ },
+ {
+  "id": "foster-care-matters",
+  "name": "Foster Care Matters",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Adoption Matters, 14 Liverpool Road",
+   "town": "Chester",
+   "postcode": "CH2 1AE"
+  },
+  "phone": "01244 390 938",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "respite",
+   "emergency"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2783211",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2783211",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50294972",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Registered with Ofsted on 1 May 2024; shares its registered address with the charity Adoption Matters. Phone and placement types taken from the Ofsted inspection report (January 2026)."
+ },
+ {
+  "id": "together-trust-fostering-service",
+  "name": "The Together Trust Fostering Service",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "North West",
+   "Liverpool"
+  ],
+  "address": {
+   "line1": "The Together Trust Centre, Schools Hill",
+   "town": "Cheadle",
+   "postcode": "SK8 1JE"
+  },
+  "phone": "0161 283 4800",
+  "website": "https://www.togethertrust.org.uk",
+  "recruitmentUrl": "https://www.togethertrust.org.uk/foster-together/contact/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC031288",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC031288",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://www.togethertrust.org.uk/foster-together/?p=397",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes",
+     "address"
+    ]
+   },
+   {
+    "url": "https://www.togethertrust.org.uk/sites/default/files/Together%20Trust%20Fostering%20Service%20Full%2010222069%20-%20Final%20PDF.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address",
+     "regulatorReference"
+    ]
+   }
+  ],
+  "notes": "Fostering service of the Together Trust charity, branded 'Foster Together'. 'other' covers permanent placements and short breaks for disabled children (Ofsted report, October 2022, hosted on the charity's website). Website page states the charity is based in the North West and is written for Liverpool."
+ },
+ {
+  "id": "olive-branch-fostering",
+  "name": "Olive Branch Fostering Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Hurstwood Court, New Hall Hey Road",
+   "town": "Rawtenstall",
+   "postcode": "BB4 6HH"
+  },
+  "phone": "01706 558910",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "emergency"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1230838",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1230838",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50170150",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Phone and placement types taken from the Ofsted inspection report (August 2021), which gives the provider address as Hardmans Business Centre, New Hall Hey Road, Rossendale BB4 6HH."
+ },
+ {
+  "id": "fostering-changes-life",
+  "name": "Fostering Changes Life",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Slackhead Farm, Roundhill Lane",
+   "town": "Haslingden",
+   "postcode": "BB4 5TY"
+  },
+  "phone": "0330 133 0706",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "2586729",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/2586729",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50253311",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Registered provider is Fostering Changes Life Limited; registered with Ofsted on 11 May 2020. 'other' covers specialist foster care for unaccompanied children. Phone and placement types taken from the Ofsted inspection report (June 2024)."
+ },
+ {
+  "id": "caritas-care",
+  "name": "Caritas Care",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "218 Tulketh Road, Ashton-on-Ribble",
+   "town": "Preston",
+   "postcode": "PR2 1ES"
+  },
+  "phone": "01772 732313",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "parent-and-child",
+   "respite"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC037797",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC037797",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50292351",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Registered provider is Caritas Care Limited (charity). Phone and placement types taken from the Ofsted inspection report (October 2025)."
+ },
+ {
+  "id": "family-care-fostering",
+  "name": "Family Care Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "First Floor Offices, The Unit, Berry Way, Euxton",
+   "town": "Chorley",
+   "postcode": "PR7 6RA"
+  },
+  "phone": "01772 647500",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "long-term",
+   "short-term",
+   "emergency",
+   "respite"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC450903",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/CARE/SC450903",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50293855",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Registered provider is Family Care Fostering Ltd; the Ofsted report (December 2025) says the agency has offices in the North West and the Midlands. Phone and placement types from that report."
+ },
+ {
+  "id": "national-fostering-agency-north-west",
+  "name": "National Fostering Agency",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "920 Birchwood Boulevard",
+   "town": "Warrington",
+   "postcode": "WA3 7QS"
+  },
+  "phone": "01925 286850",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "emergency",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1234377",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1234377",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50262045",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Ofsted registration 1234377 with registered office in Warrington; registered provider is The National Fostering Agency Limited (provider address Atria, Spa Road, Bolton BL1 4AG per Ofsted report, October 2024). The National Fostering Agency operates other separately registered branches elsewhere. 'other' covers permanent placements. Phone and placement types from that report."
+ },
+ {
+  "id": "acorn-house-fostering-services",
+  "name": "Acorn House (Fostering Services)",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Hollinwood Business Centre, Albert Street",
+   "town": "Oldham",
+   "postcode": "OL8 3QL"
+  },
+  "phone": "0161 688 9500",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "respite",
+   "long-term"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC377311",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC377311",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50264154",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Registered provider is Acorn House (Fostering Services) Limited. Phone and placement types taken from the Ofsted inspection report (September 2024)."
+ },
+ {
+  "id": "alpha-plus-fostering",
+  "name": "Alpha Plus Fostering Limited",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Ram Mill, Business Centre, Gordon Street",
+   "town": "Chadderton",
+   "postcode": "OL9 9RH"
+  },
+  "phone": "0161 684 2323",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC069335",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC069335",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50270867",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "The Ofsted inspection report (January 2025) gives the registered provider address as Atria, Spa Road, Bolton BL1 4AG. Phone and placement types from that report."
+ },
+ {
+  "id": "next-stage-for-fostering",
+  "name": "Next Stage For Fostering Ltd",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Comtech House, 28 Manchester Road, Westhoughton",
+   "town": "Bolton",
+   "postcode": "BL5 3QJ"
+  },
+  "phone": "01204 201203",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1241412",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1241412",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50255480",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "'other' covers placements for children with disabilities. Phone and placement types taken from the Ofsted inspection report (July 2024)."
+ },
+ {
+  "id": "safehouses-fostering",
+  "name": "Safehouses Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "The Fleece, 41 Oldham Road, Denshaw",
+   "town": "Oldham",
+   "postcode": "OL3 5SS"
+  },
+  "phone": "01457 829 111",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC066668",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/CARE/SC066668",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50298882",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Registered provider is Safehouses North Limited (provider address 47 Bedwin Street, Salisbury SP1 3UT per Ofsted report, February 2026). 'other' covers medium-term care. Phone and placement types from that report."
+ },
+ {
+  "id": "north-west-fostering-action-for-children",
+  "name": "North West Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Liverpool",
+   "Manchester",
+   "Birkenhead",
+   "Bolton",
+   "Bootle",
+   "Kirkby",
+   "Rochdale",
+   "Salford",
+   "Southport",
+   "St Helens",
+   "Stockport",
+   "Wirral",
+   "Warrington",
+   "Wigan"
+  ],
+  "address": {
+   "line1": "Unit 15, 6th Floor St James House, Pendleton Way",
+   "town": "Salford",
+   "postcode": "M6 5FW"
+  },
+  "phone": "0845 200 5162",
+  "website": "https://www.actionforchildren.org.uk/fostering/local-fostering-service/fostering-in-england/fostering-in-north-west-of-england",
+  "recruitmentUrl": "https://www.actionforchildren.org.uk/fostering/become-a-foster-carer/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "therapeutic",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1226858",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1226858",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://media.actionforchildren.org.uk/documents/NW_SOP_2025.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference",
+     "fosteringTypes",
+     "phone"
+    ]
+   },
+   {
+    "url": "https://www.actionforchildren.org.uk/fostering/local-fostering-service/fostering-in-england/fostering-in-north-west-of-england",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Operated by Action for Children (its 2025 Statement of Purpose names the service 'Northwest Fostering', Ofsted registration 1226858). Statement of Purpose gives an office line of 0161 707 8508; Action for Children's general fostering line is 0800 208 4379. 'other' covers solo placements and Staying Put arrangements."
+ },
+ {
+  "id": "capstone-excel",
+  "name": "Capstone Excel",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "North West England"
+  ],
+  "address": {
+   "line1": "Unit 4, Calder Court, Shorebury Point",
+   "town": "Blackpool",
+   "postcode": "FY4 2RH"
+  },
+  "phone": "01253 712734",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "parent-and-child",
+   "therapeutic",
+   "emergency"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC396525",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/care/sc396525",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50231162",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Ofsted search result title listed this registration as 'Excel Fostering Limited'; the provider page shows the name Capstone Excel. Registered provider is Excel Fostering Limited (provider address Wootton Chase, Wootton St Lawrence, Basingstoke RG23 8PE per Ofsted report, September 2023), which says the agency covers the north-west of England from a main office in Blackpool and a sub-office in Burnley. Phone, areas and placement types from that report."
+ },
+ {
+  "id": "foster-care-associates-north-west",
+  "name": "Foster Care Associates North West",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Stockport",
+   "Oldham",
+   "Preston",
+   "Bolton",
+   "Salford",
+   "Cumbria",
+   "Lancashire",
+   "Rochdale",
+   "Sefton",
+   "Tameside",
+   "Wigan",
+   "Chorley",
+   "Manchester",
+   "Liverpool"
+  ],
+  "address": {
+   "line1": "Suites 1 & 3 Windsor House, Ackhurst Business Park, Foxhole Road",
+   "town": "Chorley",
+   "postcode": "PR7 1NY"
+  },
+  "phone": "01257 275537",
+  "website": "https://www.thefca.co.uk",
+  "recruitmentUrl": "https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "teenagers",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC040408",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC040408",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://thefca.co.uk/regions/north-west/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes",
+     "address"
+    ]
+   }
+  ],
+  "notes": "North West registered branch of Foster Care Associates. National fostering enquiry line 0800 023 4561; online enquiry form at https://www.thefca.co.uk/enquiry/. 'other' covers disability fostering, fostering for sanctuary-seeking children, step-down and babies."
+ },
+ {
+  "id": "tact-fostering-north-west",
+  "name": "TACT Fostering - North West",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Innovation House, Coniston Court, PO Box 137",
+   "town": "Blyth",
+   "postcode": "NE24 9FJ"
+  },
+  "phone": "0151 228 7996",
+  "website": null,
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "emergency",
+   "sibling-groups",
+   "parent-and-child",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC047548",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC047548",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://files.ofsted.gov.uk/v1/file/50308591",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "phone",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Ofsted lists this registration under region North West (local authority Liverpool) but its registered address is TACT's office in Blyth, Northumberland; the telephone number in the June 2026 Ofsted inspection report is a Liverpool (0151) number. Included because Ofsted classifies it as a North West service; verify before publishing. Registered provider is The Adolescent and Children's Trust. 'other' covers children with disabilities and unaccompanied asylum-seeking children."
+ },
+ {
+  "id": "barnardos-north-west-fostering-service",
+  "name": "Barnardo's North West Fostering Service",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "Manchester",
+   "Liverpool",
+   "Lancashire",
+   "Cumbria",
+   "Merseyside"
+  ],
+  "address": {
+   "line1": "Business First, Block B, Room 110, 23 Goodlass Road",
+   "town": "Liverpool",
+   "postcode": "L24 9HJ"
+  },
+  "phone": "0151 294 2133",
+  "website": "https://www.barnardos.org.uk/what-we-do/services/north-west-fostering-service",
+  "recruitmentUrl": "https://www.barnardos.org.uk/foster",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "sibling-groups",
+   "other"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC040580",
+  "sources": [
+   {
+    "url": "https://www.barnardos.org.uk/what-we-do/services/north-west-fostering-service",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://www.barnardos.org.uk/sites/default/files/uploads/Statement%20of%20Purpose%20-%20North%20West%20fostering%20service%20Feb%202020.pdf",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "regulatorReference",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "URN SC040580 taken from Barnardo's February 2020 Statement of Purpose, which gave the registered provider address as 5 Lineside Close, Belle Vale, Liverpool L25 2UD; not verified against the Ofsted provider page. Current office address is from Barnardo's service web page. 'other' covers bridging, solo, specialist, unaccompanied children, disabled children and Staying Put."
+ }
+]

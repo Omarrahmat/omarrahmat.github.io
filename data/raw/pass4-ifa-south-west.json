@@ -1,0 +1,470 @@
+[
+  {
+    "id": "empower-fostering",
+    "name": "Empower Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Taunton",
+      "Somerset"
+    ],
+    "address": {
+      "line1": "Unit 2 Prockters Farm Offices, West Monkton",
+      "town": "Taunton",
+      "postcode": "TA2 8QN"
+    },
+    "phone": "01823 756100",
+    "website": "https://www.empowerfostering.co.uk",
+    "recruitmentUrl": "https://www.empowerfostering.co.uk/foster-with-us-1",
+    "publicEnquiryEmail": "info@empowerfostering.co.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2616251",
+    "sources": [
+      {
+        "url": "https://www.empowerfostering.co.uk/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2616251",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area Somerset; registered 11 February 2021. Latest full inspection 18 November 2024 (report published 9 January 2025; judgement not shown on the provider page). Website displays an Ofsted 'Good' logo. Fostering types not confirmed from fetched pages."
+  },
+  {
+    "id": "footprints-foster-care",
+    "name": "Footprints Foster Care Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Dorset"
+    ],
+    "address": {
+      "line1": "Unit 5 + 6 Longham Business Park, 168 Ringwood Road",
+      "town": "Ferndown",
+      "postcode": "BH22 9BU"
+    },
+    "phone": "01202 573408",
+    "website": "https://footprintsfostercare.co.uk",
+    "recruitmentUrl": "https://footprintsfostercare.co.uk/becoming-a-foster-carer/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "sibling-groups",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC442553",
+    "sources": [
+      {
+        "url": "https://footprintsfostercare.co.uk/about-us/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC442553",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area Dorset; registered 16 March 2012. Latest full inspection 24 June 2024 (published 7 September 2024; judgement not shown on provider page). Private limited company (no. 07879639); site states it has been part of the Sunbeam Group since October 2024 but it is a separately registered service from Sunbeam Fostering Agency (Slough). Website also describes a base in Bournemouth. Address line taken from the Ofsted registered address (website gives Longham Business Park, 168 Ringwood Road)."
+  },
+  {
+    "id": "five-rivers-fostering-service-salisbury",
+    "name": "Five Rivers Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 3, London Road Office Park, London Road",
+      "town": "Salisbury",
+      "postcode": "SP1 3HP"
+    },
+    "phone": "0333 060 3962",
+    "website": "https://five-rivers.org",
+    "recruitmentUrl": "https://five-rivers.org/fostering/becoming-a-foster-carer/",
+    "publicEnquiryEmail": "carer.enquiries@five-rivers.org",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036261",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036261",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://five-rivers.org/fostering/hub/south-west-cornwall/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Main Ofsted registration of Five Rivers Child Care's fostering service; Ofsted local authority area Wiltshire (South West region). Latest full inspection 16 December 2024 (report published 1 February 2025; judgement not shown on the provider page). The agency's website gives its Salisbury head office as 47 Bedwin Street, Salisbury SP1 3UT (01722 435750); the address recorded is the current Ofsted registered address. Phone is the national 'enquire to foster' line published on the website. Areas served and fostering types for this registration not confirmed from fetched pages. Sister registrations: Five Rivers Fostering Service - West Country (Truro), - Midlands (Chesterfield), London and East."
+  },
+  {
+    "id": "five-rivers-fostering-service-west-country",
+    "name": "Five Rivers Fostering Service - West Country",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Cornwall"
+    ],
+    "address": {
+      "line1": "Park House, Threemilestone Business Park",
+      "town": "Truro",
+      "postcode": "TR4 9LD"
+    },
+    "phone": "0333 060 3962",
+    "website": "https://five-rivers.org",
+    "recruitmentUrl": "https://five-rivers.org/fostering/becoming-a-foster-carer/",
+    "publicEnquiryEmail": "carer.enquiries@five-rivers.org",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC062487",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/sc062487",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://five-rivers.org/fostering/hub/south-west-cornwall/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of Five Rivers Child Care (registered 5 April 2005); Ofsted local authority area Cornwall. Latest full inspection 17 February 2025 (report published 2 April 2025; judgement not shown on the provider page). Website calls this office the Truro / West Country Fostering Hub and lists local teams across Cornwall (Bodmin, Newquay, St Austell, Falmouth, Liskeard, Truro, Bude, Penzance, Redruth, Camborne, Launceston). Phone is the national 'enquire to foster' line; the hub's existing-carer line is 01872 264608. Fostering types not confirmed from fetched pages."
+  },
+  {
+    "id": "capstone-foster-care-south-west",
+    "name": "Capstone Foster Care (South West)",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Devon",
+      "Somerset",
+      "Taunton"
+    ],
+    "address": {
+      "line1": "Tortworth House, Charfield Road, Tortworth",
+      "town": "Wotton-under-Edge",
+      "postcode": "GL12 8HQ"
+    },
+    "phone": "0800 012 4004",
+    "website": "https://www.capstonefostercare.co.uk",
+    "recruitmentUrl": "https://www.capstonefostercare.co.uk/become-a-foster-carer",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC032760",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC032760",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.capstonefostercare.co.uk/local-offices/fostering-in-the-south-west/devon-office",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.capstonefostercare.co.uk/location/fostering-taunton",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "OUT-OF-AREA FLAG: Ofsted registered address is in South Gloucestershire (Wotton-under-Edge), outside this pass's assigned area; recorded because the registration is absent from the dataset. Regional Ofsted registration of the Capstone Foster Care group (other registrations: Capstone Foster Care UK, London; Capstone Foster Care SC065333; Capstone Foster Care (South East) Limited 1237336; Capstone Excel, Blackpool). Latest full inspection 21 October 2024 (published 21 November 2024; judgement not shown on provider page). The group's website lists a Devon Office at 42 Genesis, 235 Union Street, Plymouth PL1 3HN (01752 741210) and names Somerset, Hampshire and Gloucestershire offices under 'Fostering in the South West' without addresses; it is not confirmed from fetched pages which Ofsted registration each local office falls under. Phone recorded is the group's national enquiry line. Fostering types not confirmed."
+  },
+  {
+    "id": "national-fostering-agency-south-west",
+    "name": "National Fostering Agency South West",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South West England",
+      "Cornwall",
+      "Gloucester",
+      "Southampton",
+      "Bristol",
+      "Somerset"
+    ],
+    "address": {
+      "line1": "The Design Studio, Roman Way, Crusader Park",
+      "town": "Warminster",
+      "postcode": "BA12 8SP"
+    },
+    "phone": null,
+    "website": "https://www.nationalfosteringgroup.co.uk",
+    "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2662429",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2662429",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.nationalfosteringgroup.co.uk/find-our-agencies/fostering-in-somerset/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of the National Fostering Agency (National Fostering Group), registered 26 April 2022; Ofsted local authority area Wiltshire. Latest full inspection 3 November 2025 (published 14 January 2026; judgement not shown on provider page). Group website describes it as 'NFA South West', supporting families 'from Cornwall to Gloucester, Southampton to Bristol'. The agency's own South West page (nationalfosteringgroup.co.uk/national-fostering-agency/south-west/) could not be fetched, so phone and fostering types are unconfirmed; group enquiry form at https://www.nationalfosteringgroup.co.uk/enquire-now/."
+  },
+  {
+    "id": "foster-care-associates-south-western",
+    "name": "Foster Care Associates South Western",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Devon",
+      "Plymouth",
+      "Cornwall",
+      "Somerset",
+      "Gloucester",
+      "Bodmin",
+      "Taunton",
+      "Wiltshire",
+      "Swindon",
+      "Yeovil"
+    ],
+    "address": {
+      "line1": "Unit 1, Delamore Park, Cornwood",
+      "town": "Ivybridge",
+      "postcode": "PL21 9QP"
+    },
+    "phone": "01752 697300",
+    "website": "https://www.thefca.co.uk",
+    "recruitmentUrl": "https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC038012",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC038012",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.thefca.co.uk/locations/devon/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.thefca.co.uk/regions/south-west/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of Foster Care Associates Limited (Bromsgrove); Ofsted local authority area Devon. Latest full inspection 9 February 2026 (published 28 March 2026; judgement not shown on provider page; FCA's website states an Outstanding rating); monitoring visits in 2020 and February 2025. Phone is the South West office main line published on FCA's South West region page; FCA's national freephone enquiry line is 0800 023 4561. Areas and fostering types are as listed on FCA's South West region page (which also lists disability, step-down, sanctuary-seeking and baby fostering). Sister registration FCA Western (Bristol) already in dataset."
+  },
+  {
+    "id": "pathways-care-south-west",
+    "name": "Pathways Care South West",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South West England",
+      "Gloucester",
+      "Bristol",
+      "Weston-super-Mare",
+      "Somerset",
+      "Plymouth",
+      "Devon",
+      "Cornwall"
+    ],
+    "address": {
+      "line1": "Glentor, Balland Lane",
+      "town": "Ashburton",
+      "postcode": "TQ13 7DA"
+    },
+    "phone": "01626 333787",
+    "website": "https://www.nationalfosteringgroup.co.uk/pathway-care/",
+    "recruitmentUrl": "https://www.nationalfosteringgroup.co.uk/thinking-about-fostering/becoming-a-foster-carer/",
+    "publicEnquiryEmail": "Admin.SouthWest@pathwaycare.org.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC367941",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC367941",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.nationalfosteringgroup.co.uk/pathway-care/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      },
+      {
+        "url": "https://www.nationalfosteringgroup.co.uk/find-our-agencies/fostering-in-somerset/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted-registered name 'Pathways Care South West'; trades as Pathway Care, part of National Fostering Group (distinct from Pathway Care Ltd / Calon Cymru Fostering in Wales, already in dataset). Ofsted local authority area Devon. Latest full inspection 7 July 2025 (published 20 August 2025; group website states a 'Good' rating). Group page describes coverage 'Gloucester to Cornwall, including Bristol, Weston, Somerset, Plymouth and the M5 corridor'. The email is the published South West office admin mailbox. Fostering types not confirmed."
+  },
+  {
+    "id": "fusion-fostering-south-west",
+    "name": "Fusion Fostering South West",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South Gloucestershire",
+      "Bristol",
+      "Somerset",
+      "Devon",
+      "Cornwall",
+      "Wiltshire"
+    ],
+    "address": {
+      "line1": "New Agriculture House, Blackbrook Business Park, Blackbrook Avenue",
+      "town": "Taunton",
+      "postcode": "TA1 2FU"
+    },
+    "phone": "0330 056 2109",
+    "website": "https://fusionfostering.com",
+    "recruitmentUrl": "https://fusionfostering.com/thinking-about-fostering/",
+    "publicEnquiryEmail": "swregion@fusionfostering.co.uk",
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1226630",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1226630",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://fusionfostering.com/areas-we-cover/fostering-in-the-south-west/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "phone",
+          "website",
+          "recruitmentUrl",
+          "publicEnquiryEmail",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Regional Ofsted registration of Fusion Fostering (registered 29 February 2016); Ofsted local authority area Somerset. Latest full inspection 17 April 2023 (published 6 June 2023; judgement not shown on provider page). Phone is the regional office line; Fusion's general enquiry line is 03301 239355. Website describes coverage from Wiltshire to the Devon/Dorset border, across to south Cornwall and up to Gloucestershire. Fostering types not confirmed. Sister registrations (Midlands, North East, North West, South Central, South East) already in dataset."
+  }
+]

@@ -1,0 +1,808 @@
+[
+  {
+    "id": "children-first-fostering-agency",
+    "name": "Children First Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "3 Lords Court, Cricketers Way",
+      "town": "Basildon",
+      "postcode": "SS13 1SS"
+    },
+    "phone": null,
+    "website": "https://www.nationalfosteringgroup.co.uk/children-first-fostering-agency/",
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC034253",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC034253",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://www.surreycc.gov.uk/children/support-and-advice/families/directory/c/children-first-fostering-agency",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "website",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Part of National Fostering Group; website URL taken from a council directory entry (the provider site itself could not be fetched)."
+  },
+  {
+    "id": "aspirations-fostering",
+    "name": "Aspirations Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Essex"
+    ],
+    "address": {
+      "line1": "Longacre Farm Business Park",
+      "town": "Hockley",
+      "postcode": "SS5 5LR"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1227778",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1227778",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50251950",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted report (June 2024) says the agency serves children predominantly in Essex; it does not list formal placement categories."
+  },
+  {
+    "id": "foster-care-associates-eastern",
+    "name": "Foster Care Associates Eastern",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Essex",
+      "Suffolk",
+      "Norfolk",
+      "East of England"
+    ],
+    "address": {
+      "line1": "Unit 4, Blue Barns Business Park, Old Ipswich Road",
+      "town": "Colchester",
+      "postcode": "CO7 7FX"
+    },
+    "phone": "0800 023 4561",
+    "website": "https://www.thefca.co.uk/",
+    "recruitmentUrl": "https://www.thefca.co.uk/about-fostering/how-to-become-a-foster-parent/",
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "respite",
+      "sibling-groups",
+      "teenagers"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC061317",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC061317",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50294335",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      },
+      {
+        "url": "https://www.thefca.co.uk/?p=942",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "website",
+          "areasServed",
+          "fosteringTypes",
+          "recruitmentUrl"
+        ]
+      }
+    ],
+    "notes": "Regional registered branch of Foster Care Associates (FCA); Ofsted-registered office in Colchester (Ardleigh). Registered provider address is in Bromsgrove. Phone is FCA's national enquiry line as published on its Essex page."
+  },
+  {
+    "id": "apex-fostering",
+    "name": "Apex Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Brickfield House, High Road, Thornwood",
+      "town": "Epping",
+      "postcode": "CM16 6TH"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2635545",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2635545",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50263908",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted report (Nov 2024) states a wide range of placements including parent and child; registered provider address is in Loughton."
+  },
+  {
+    "id": "futures-for-children",
+    "name": "Futures for Children",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "London",
+      "Kent",
+      "East of England"
+    ],
+    "address": {
+      "line1": "6 Feltimores Park, Chalk Lane",
+      "town": "Harlow",
+      "postcode": "CM17 0PF"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child",
+      "respite",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC057840",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC057840",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50234134",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted-registered service office in Harlow; registered provider address is in Maidstone, Kent. Report lists 'overnight short breaks' (recorded as respite)."
+  },
+  {
+    "id": "aim-high-fostering-services",
+    "name": "Aim High Fostering Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "North London",
+      "East London",
+      "neighbouring counties"
+    ],
+    "address": {
+      "line1": "M25 Business Centre, 121 Brooker Road",
+      "town": "Waltham Abbey",
+      "postcode": "EN9 1JH"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1241499",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1241499",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50254556",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted report (July 2024) gives no formal placement list; mentions emergency placements and staying put."
+  },
+  {
+    "id": "fostering-connections",
+    "name": "Fostering Connections",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Warlies Park House",
+      "town": "Upshire",
+      "postcode": "EN9 3SL"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2614070",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2614070",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50292159",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "affinity-fostering",
+    "name": "Affinity Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Essex",
+      "London",
+      "Kent",
+      "Lincolnshire"
+    ],
+    "address": {
+      "line1": "North Wing, Ingatestone Hall, Hall Lane",
+      "town": "Ingatestone",
+      "postcode": "CM4 9NR"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "emergency",
+      "parent-and-child",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC469688",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC469688",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50286872",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes",
+          "address"
+        ]
+      }
+    ],
+    "notes": "Areas listed are where the report says most of its foster carers live; agency is based in Essex."
+  },
+  {
+    "id": "harmony-fostering-services",
+    "name": "Harmony Fostering Services Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "M25 Business Centre, Room 315, 3rd Floor, 121 Brooker Road",
+      "town": "Waltham Abbey",
+      "postcode": "EN9 1JH"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2667750",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2667750",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50241968",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted provider page lists the town as 'Waltham' (Waltham Abbey postcode EN9 1JH), region East of England. The January 2024 inspection report gave an earlier registered address in Harrow."
+  },
+  {
+    "id": "family-works-fostering",
+    "name": "Family Works Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 2, Victoria Central, 27 Victoria Avenue",
+      "town": "Southend-on-Sea",
+      "postcode": "SS2 6AJ"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1242101",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1242101",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50261508",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Operates from one office in Southend; registered provider address is in Ilford."
+  },
+  {
+    "id": "young-people-at-heart",
+    "name": "Young People At Heart Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Essex",
+      "Suffolk",
+      "Kent"
+    ],
+    "address": {
+      "line1": "Thames Enterprise Centre, Princess Margaret Road",
+      "town": "East Tilbury",
+      "postcode": "RM18 8RH"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC486913",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC486913",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50299341",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Areas listed are where the Feb 2026 Ofsted report says its foster carers live; the report gives no formal placement-type list beyond family (sibling) groups. Registered provider address is in Northampton."
+  },
+  {
+    "id": "choice-fostering",
+    "name": "Choice Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "19a Studio House Business Centre, Delamare Road",
+      "town": "Waltham Cross",
+      "postcode": "EN8 9SH"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1258890",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1258890",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50296994",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Jan 2026 Ofsted report also lists bridging and permanent placements."
+  },
+  {
+    "id": "action-for-children-fostering-south-east",
+    "name": "Action for Children Fostering South East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "3 The Boulevard, Ascot Road",
+      "town": "Watford",
+      "postcode": "WD18 8AG"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "therapeutic"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC038534",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC038534",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50255771",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional registered fostering service of the charity Action for Children; Ofsted-registered office in Watford. July 2024 report mentions long-term placements and therapeutic care only."
+  },
+  {
+    "id": "anglia-fostering-agency",
+    "name": "Anglia Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "East Anglia",
+      "East of England",
+      "East Midlands"
+    ],
+    "address": {
+      "line1": "1st Floor, 12 Meridian Way, Meridian Business Park",
+      "town": "Norwich",
+      "postcode": "NR7 0TA"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "therapeutic",
+      "parent-and-child",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC406969",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC406969",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50263753",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Nov 2024 Ofsted report: office in Norfolk with a sub-office in the East Midlands; registered provider address is in Harrow."
+  },
+  {
+    "id": "beams-foster-care-and-family-service",
+    "name": "Beams Foster Care and Family Service Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Norfolk",
+      "Suffolk"
+    ],
+    "address": {
+      "line1": "Shrublands Cottages, Magdalen Way",
+      "town": "Gorleston",
+      "postcode": "NR31 7BP"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC477026",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC477026",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50309923",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted spells the street 'Magadalen Way'. July 2026 report gives no formal placement list; mentions long-term placements and staying put."
+  },
+  {
+    "id": "compass-fostering-east",
+    "name": "Compass Fostering East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "First Floor, Suite 2, Trident Business Village",
+      "town": "Kilverston",
+      "postcode": "IP24 2RL"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child",
+      "therapeutic"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2600784",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2600784",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50280295",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "address",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional registered branch of Compass Fostering; Ofsted-registered office in Norfolk (locality printed by Ofsted as 'Kilverston', IP24 2RL, Thetford area). Registered provider address is in Syston, Leicester. April 2025 report: wide range of arrangements including parent and child, with a therapeutic offer."
+  },
+  {
+    "id": "bespoke-fostering-agency",
+    "name": "Bespoke Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "NWES, Beacon Innovation Centre, Beacon Park",
+      "town": "Gorleston-on-Sea",
+      "postcode": "NR31 7RH"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2773062",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2773062",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50293738",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Registered with Ofsted 11 March 2024; first inspection Dec 2025."
+  },
+  {
+    "id": "soundly-fostering",
+    "name": "Soundly Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Camvac Business Hub, Burrell Way",
+      "town": "Thetford",
+      "postcode": "IP24 3QY"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2665004",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2665004",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50298039",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted-registered office in Thetford, Norfolk; registered provider address is in Bury St Edmunds, Suffolk."
+  }
+]

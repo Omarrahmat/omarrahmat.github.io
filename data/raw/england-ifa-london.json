@@ -1,0 +1,1970 @@
+[
+  {
+    "id": "greater-london-fostering",
+    "name": "Greater London Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Mirror Works Unit MI 1.01, 12 Marshgate Lane",
+      "town": "London",
+      "postcode": "E15 2NH"
+    },
+    "phone": "020 8347 8741",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC035327",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC035327",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50286390",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Newham. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (July 2025) also states support for unaccompanied asylum-seeking minors."
+  },
+  {
+    "id": "regional-fostering-services",
+    "name": "Regional Fostering Services Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "First Central 200 Spaces, 2 Lakeside Drive, Park Royal",
+      "town": "London",
+      "postcode": "NW10 7FQ"
+    },
+    "phone": "02036212101",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC478324",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC478324",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50287551",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Brent. Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "coram-fostering-service",
+    "name": "Coram Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "London"
+    ],
+    "address": {
+      "line1": "Coram Family, 49 Mecklenburgh Square",
+      "town": "London",
+      "postcode": "WC1N 2QA"
+    },
+    "phone": "0207 520 0383",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC034087",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC034087",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50176152",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Camden. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Nov 2021): registered to provide early permanence services (fostering for adoption / concurrent planning) only; operates across London and other local authorities."
+  },
+  {
+    "id": "fostering-support-group-london",
+    "name": "Fostering Support Group: London Office",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Kent",
+      "Greater London"
+    ],
+    "address": {
+      "line1": "Suite 5 First Floor, Carlton Chambers, 5-6 Station Road, Shortlands",
+      "town": null,
+      "postcode": "BR2 0EY"
+    },
+    "phone": "020 8778-5656",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC388487",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC388487",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50284447",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Bromley. Town not labelled separately on Ofsted page (Shortlands). Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (June 2025) gives registered provider address 4th Floor, Parkview, 82 Oxford Road, Uxbridge UB8 1UX."
+  },
+  {
+    "id": "fostering-london",
+    "name": "Fostering London Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "34 Shelbourne Road",
+      "town": "London",
+      "postcode": "N17 9YH"
+    },
+    "phone": "02088151995",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "parent-and-child",
+      "short-term",
+      "long-term",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC488788",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC488788",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50265192",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Haringey. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Nov 2024) also states placements for asylum-seeking children."
+  },
+  {
+    "id": "britannia-fostering-agency",
+    "name": "Britannia Fostering Agency Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Sir Robert Peel House, Suite 003, 344-348 High Road",
+      "town": "Ilford",
+      "postcode": "IG1 1QP"
+    },
+    "phone": "0208 553 2459",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2637131",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2637131",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50296194",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "shining-stars-fostering-agency",
+    "name": "Shining Stars Fostering Agency Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "The Lansdowne Building, 2 Lansdowne Road",
+      "town": "Croydon",
+      "postcode": "CR9 2ER"
+    },
+    "phone": "0788 612 7826",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1224685",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1224685",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50306929",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Croydon. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (May 2026) gives registered provider address 74 Kewferry Road, Northwood HA6 2PG; also states placements for asylum-seeking children."
+  },
+  {
+    "id": "children-of-colour",
+    "name": "Children Of Colour Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "102-116 Windmill Road",
+      "town": "Croydon",
+      "postcode": "CR0 2XQ"
+    },
+    "phone": "020 8665 4322",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC057262",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC057262",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50300863",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Croydon. Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "lotus-foster-care",
+    "name": "Lotus Foster Care Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Station Road",
+      "town": "Croydon",
+      "postcode": "CR0 2RD"
+    },
+    "phone": "020 8106 6800",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2563888",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2563888",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50273344",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Croydon. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Feb 2025) gives registered provider address 35 Bedser Drive, Greenford UB6 0SE; also mentions bridging placements."
+  },
+  {
+    "id": "ansacare-fostering-agency",
+    "name": "Ansacare Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "23 Weatherill House, Whitestone Way, New South Quarter",
+      "town": "Croydon",
+      "postcode": "CR0 4WF"
+    },
+    "phone": "0203 747 4757",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC406245",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC406245",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50246208",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Croydon. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Feb 2024) also states placements for asylum-seeking children."
+  },
+  {
+    "id": "lika-family-fostering",
+    "name": "Lika Family Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Battersea Business Centre, Unit 120, 99-109 Lavender Hill",
+      "town": "London",
+      "postcode": "SW11 5QL"
+    },
+    "phone": "020 8667 2111",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC489561",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC489561",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50309721",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Wandsworth. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (July 2026) also states 'staying put' and care for disabled children."
+  },
+  {
+    "id": "children-of-all-nations",
+    "name": "Children Of All Nations (COAN)",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 1&2, 62 Bensham Grove",
+      "town": "Thornton Heath",
+      "postcode": "CR7 8DB"
+    },
+    "phone": "02034752253",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "sibling-groups",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC418371",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/sc418371",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50247084",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Croydon. Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "wellcare-fostering-services",
+    "name": "Wellcare Fostering Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Suite 504, Olympic House, 28-42 Clements Road",
+      "town": "Ilford",
+      "postcode": "IG1 1BA"
+    },
+    "phone": "020 3417 9292",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "info@wellcarefostering.co.uk",
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC061984",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC061984",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50271052",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "publicEnquiryEmail"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Feb 2025) also mentions bridging, placements for children seeking asylum and targeted care placements."
+  },
+  {
+    "id": "rising-stars-fostering",
+    "name": "Rising Stars Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "58 De Vere Gardens",
+      "town": "Ilford",
+      "postcode": "IG1 3ED"
+    },
+    "phone": "0203 488 5464",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2714788",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2714788",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50274534",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Mar 2025) also mentions bridging and medium-term placements."
+  },
+  {
+    "id": "amber-fostering",
+    "name": "Amber Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "London",
+      "Luton and Bedfordshire",
+      "Birmingham",
+      "Lincolnshire"
+    ],
+    "address": {
+      "line1": "Suite 310, Olympic House, 28-42 Clements Road",
+      "town": "Ilford",
+      "postcode": "IG1 1BA"
+    },
+    "phone": "07982 686 196",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2559288",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2559288",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50291937",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Oct 2025) also states placements for unaccompanied asylum-seeking minors and disabled children."
+  },
+  {
+    "id": "stepping-stones-fostering",
+    "name": "Stepping Stones Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "38 Cambridge Road",
+      "town": "Ilford",
+      "postcode": "IG3 8LU"
+    },
+    "phone": "02084780840",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC484803",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC484803",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50241571",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Jan 2024) gives registered provider address Suite E, 1-3 Canfield Place, London NW6 3BT; also mentions bridging placements, children seeking asylum and children with disabilities."
+  },
+  {
+    "id": "infinity-foster-care",
+    "name": "Infinity Foster Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "1st Floor, Cranbrook House, 61 Cranbrook Road",
+      "town": "Ilford",
+      "postcode": "IG1 4PG"
+    },
+    "phone": "020 3488 1238",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "sibling-groups",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2537401",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2537401",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50260502",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Sept 2024) also mentions bridging placements and foster care for disabled children."
+  },
+  {
+    "id": "nurture-fostering",
+    "name": "Nurture Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "The Old Fire Station, 340 Lewisham High Street",
+      "town": "London",
+      "postcode": "SE13 6LE"
+    },
+    "phone": "0208 690 9012",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "short-term",
+      "long-term",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1265010",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1265010",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50262790",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Lewisham. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Oct 2024) also mentions bridging placements and asylum-seeking children."
+  },
+  {
+    "id": "foster-care-associates-south-east-london",
+    "name": "Foster Care Associates South East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Office 46, 100 Borough High Street",
+      "town": "London",
+      "postcode": "SE1 1LB"
+    },
+    "phone": "02380383800",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC039271",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC039271",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50308284",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional branch of Foster Care Associates; Ofsted local authority area: Southwark. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (June 2026) gives registered provider Foster Care Associates Limited, Malvern View, Saxon Business Park, Hanbury Road, Stoke Prior, Bromsgrove B60 4AD."
+  },
+  {
+    "id": "fostering-for-you",
+    "name": "Fostering for You",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 2.06, The Light Bulb, 1 Filament Walk",
+      "town": "London",
+      "postcode": "SW18 4GQ"
+    },
+    "phone": "02086734296",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC448784",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC448784",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50237715",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Wandsworth. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Nov 2023) also mentions bridging placements and care for children with additional needs."
+  },
+  {
+    "id": "diagrama-fostering",
+    "name": "Diagrama Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Airport House, Purley Way",
+      "town": null,
+      "postcode": "CR0 0XZ"
+    },
+    "phone": "0208 6682181",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC484575",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC484575",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50219232",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Croydon. Town not stated on Ofsted page. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Apr 2023): registered provider Diagrama Children's Services Limited; states 'the full range of fostering placements, including fostering to adopt'."
+  },
+  {
+    "id": "subari-foster-care",
+    "name": "Subari Foster Care Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Dexter House Ltd, Southbridge House, Southbridge Place",
+      "town": "Croydon",
+      "postcode": "CR0 4HA"
+    },
+    "phone": "07931 735361",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2667130",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2667130",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50225468",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Croydon. Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "rainbow-fostering-services",
+    "name": "Rainbow Fostering Services Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "London",
+      "Kent",
+      "Essex",
+      "Manchester",
+      "Liverpool",
+      "Birmingham",
+      "Oxfordshire",
+      "Hampshire"
+    ],
+    "address": {
+      "line1": "Unit 10, Churchill Court, 58 Station Road, North Harrow",
+      "town": "Harrow",
+      "postcode": "HA2 7SA"
+    },
+    "phone": "020 8427 3355",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC031621",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC031621",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50282148",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Harrow. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (May 2025) states 'permanent and temporary care' (recorded as long-term / short-term) and parent-and-child placements."
+  },
+  {
+    "id": "caring-hearts-fostering",
+    "name": "Caring Hearts Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Suite 105, Stanmore Business Centre, Howard Road",
+      "town": "Stanmore",
+      "postcode": "HA7 1FW"
+    },
+    "phone": "02088106380",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1268883",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1268883",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50236472",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Harrow. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Nov 2023) also mentions bridging placements and placements for children with disabilities."
+  },
+  {
+    "id": "integrated-fostering-services",
+    "name": "Integrated Fostering Services Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 3, Pavilion Business Centre, 1st Floor, 6 Kinetic Crescent",
+      "town": "Enfield",
+      "postcode": "EN3 7FJ"
+    },
+    "phone": "01992 710085",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC400955",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC400955",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50267025",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Enfield. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Nov 2024) also mentions bridging, placements for children seeking asylum and targeted care placements."
+  },
+  {
+    "id": "outset-fostering-agency",
+    "name": "Outset Fostering Agency Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "The Wenta Business Centre, Innova Park, 1 Electric Avenue",
+      "town": "Enfield",
+      "postcode": "EN3 7XU"
+    },
+    "phone": "02045265324",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2581761",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2581761",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50268449",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Enfield. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Dec 2024) states placements for unaccompanied asylum-seeking children; satellite office in Coventry."
+  },
+  {
+    "id": "family-first-fostering-agency",
+    "name": "Family First Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "London",
+      "Midlands"
+    ],
+    "address": {
+      "line1": "413 High Street",
+      "town": "Stratford",
+      "postcode": "E15 4QZ"
+    },
+    "phone": "02034574249",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC453181",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC453181",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50272849",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Newham. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Feb 2025) gives registered provider address as Unit 4, 17 Plumbers Row, London E1 1EQ; areas served stated as 'London and the Midlands area'."
+  },
+  {
+    "id": "capstone-foster-care-uk-london",
+    "name": "Capstone Foster Care UK",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 347, Stratford Workshops, Burford Road",
+      "town": "London",
+      "postcode": "E15 2SP"
+    },
+    "phone": "02033973332",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC038134",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC038134",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50262110",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted-registered office of Capstone Foster Care (national agency) in Newham. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Oct 2024) names registered provider Capstone Foster Care (South East) Limited (Stoke Prior, Worcestershire) and an inspected office at Boardman House, 64 Broadway, London E15 1NT; also mentions bridging placements and unaccompanied minors."
+  },
+  {
+    "id": "south-coast-fostering-london",
+    "name": "South Coast Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Mirror Works Unit Mi.113, 12 Marshgate Lane",
+      "town": "London",
+      "postcode": "E15 2NH"
+    },
+    "phone": "02394210919",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2580767",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2580767",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50295895",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Newham (Stratford). Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "national-fostering-agency-london-south",
+    "name": "National Fostering Agency London South",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Knolly's House, 6th Floor, 17 Addiscombe Road",
+      "town": "Croydon",
+      "postcode": "CR0 6SR"
+    },
+    "phone": "01895 200300",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2688691",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2688691",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50231198",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional branch of National Fostering Agency; Ofsted local authority area: Croydon. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Aug 2023) gives registered provider The National Fostering Agency Ltd, Outcomes First Group, Atria, Spa Road, Bolton BL1 4AG."
+  },
+  {
+    "id": "indigo-fostering",
+    "name": "Indigo Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "23 Weatherill House, Whitestone Way, New South Quarter",
+      "town": "Croydon",
+      "postcode": "CR0 4WF"
+    },
+    "phone": "07368359530",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2784231",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2784231",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50308276",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Croydon. Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "sure-start-fostering-agency",
+    "name": "Sure Start Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "13 Clements Court, Clements Lane",
+      "town": "Ilford",
+      "postcode": "IG1 2QY"
+    },
+    "phone": "07878054504",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2615940",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2615940",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50307433",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (May 2026) gives registered provider address 2 Dunmow Close, Romford RM6 5EA; also states placements for unaccompanied children."
+  },
+  {
+    "id": "shared-care-services",
+    "name": "Shared Care Services Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "119 Eastern Avenue",
+      "town": "Ilford",
+      "postcode": "IG4 5AN"
+    },
+    "phone": "02082525252",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC416392",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC416392",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50307244",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (May 2026) also mentions bridging placements."
+  },
+  {
+    "id": "nexus-fostering-home-counties-and-east-london",
+    "name": "Nexus Fostering Home Counties and East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "London",
+      "Home Counties",
+      "South East England",
+      "South West England",
+      "East Anglia"
+    ],
+    "address": {
+      "line1": "4 Jardine House, Harrovian Business Village, Bessborough Road",
+      "town": "Harrow",
+      "postcode": "HA1 3EX"
+    },
+    "phone": "020 8864 6040",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "sibling-groups",
+      "therapeutic",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC066400",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC066400",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50290297",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Regional branch of Nexus Fostering; Ofsted local authority area: Harrow. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Sept 2025) also states placements for children with disabilities and unaccompanied asylum-seeking minors."
+  },
+  {
+    "id": "thrive-fostering",
+    "name": "Thrive Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "1-9 St. Anns Road",
+      "town": "Harrow",
+      "postcode": "HA1 1LQ"
+    },
+    "phone": "07712236134",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2808457",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2808457",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50300418",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Harrow. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Mar 2026) gives registered provider address 111 Watlingate Unit 1, 297-303 Edgware Road, London NW9 6NB."
+  },
+  {
+    "id": "isp-enfield",
+    "name": "ISP Enfield",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "I S P, 64a Church Street",
+      "town": "Enfield",
+      "postcode": "EN2 6AX"
+    },
+    "phone": "020 83703670",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "respite",
+      "parent-and-child",
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC067431",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC067431",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50285665",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional branch of ISP (Integrated Services Programme); Ofsted local authority area: Enfield. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (June 2025): registered provider Integrated Services Programme, Bromsgrove; offices in Enfield and South London share this registration as ISP's London service."
+  },
+  {
+    "id": "mmr-fostering",
+    "name": "MMR Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "115 High Street",
+      "town": "London",
+      "postcode": "NW10 4TR"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2815266",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2815266",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Brent. Registered 21 July 2025; no inspection report yet."
+  },
+  {
+    "id": "apple-fostering-services",
+    "name": "Apple Fostering Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "6th Floor First Central 200, 2 Lakeside Drive, Park Royal, Harlesden",
+      "town": "London",
+      "postcode": "NW10 7FQ"
+    },
+    "phone": "02034320663",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC451751",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC451751",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50272381",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Brent. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Feb 2025) also mentions bridging placements."
+  },
+  {
+    "id": "parent-and-child-fostering-service",
+    "name": "Parent and Child Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Maker Works Unit, Studio 1, 261 Ealing Road",
+      "town": "Wembley",
+      "postcode": "HA0 1ET"
+    },
+    "phone": "02089590414",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child",
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC442125",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC442125",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50315785",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Brent. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Aug 2026) gives registered provider address Continental House, 497 Sunleigh Road, Wembley HA0 4LY."
+  },
+  {
+    "id": "acuba-fostering",
+    "name": "Acuba Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Suite 3, 47 Vallance Road",
+      "town": "London",
+      "postcode": "E1 5AB"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2819058",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2819058",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Tower Hamlets. Registered 8 October 2025; no inspection report yet."
+  },
+  {
+    "id": "synergy-fostering",
+    "name": "Synergy Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Synergy Fostering Limited, Unit C2, Tavern Quay",
+      "town": "London",
+      "postcode": "SE16 7EX"
+    },
+    "phone": "0203 713 7293",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "sibling-groups",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC043377",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC043377",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50293099",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Southwark. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Nov 2025) also states placements for unaccompanied asylum-seeking children."
+  },
+  {
+    "id": "avanti-fostering",
+    "name": "Avanti Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Avanti Fostering, Devonshire House, 582 Honeypot Lane",
+      "town": "Stanmore",
+      "postcode": "HA7 1JS"
+    },
+    "phone": "07951951086",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2587129",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2587129",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50293665",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Harrow. Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "daffodils-fostering",
+    "name": "Daffodils Fostering Limited",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Suite 15, Ground Floor Devonshire House, 582 Honeypot Lane",
+      "town": "Stanmore",
+      "postcode": "HA7 1JS"
+    },
+    "phone": "07951182979",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2631163",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2631163",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50285122",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Harrow. Ofsted page lists postcode as HA7 1JS / HA7 1JZ. Phone and fostering types as published in the latest Ofsted inspection report."
+  },
+  {
+    "id": "ryancare-fostering",
+    "name": "Ryancare Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "5a Wellington Road, Wanstead",
+      "town": "London",
+      "postcode": "E11 2AN"
+    },
+    "phone": "020 8989 4970",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC041354",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC041354",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50291781",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "phone",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Redbridge. Phone and fostering types as published in the latest Ofsted inspection report. Inspection report (Sept 2025) gives registered provider address Atria, Spa Road, Bolton BL1 4AG; agency based in Wanstead, East London."
+  }
+]

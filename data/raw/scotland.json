@@ -1,0 +1,1178 @@
+[
+ {
+  "id": "aberdeen-city-council-fostering",
+  "name": "Aberdeen City Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Aberdeen City"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "01224 067604",
+  "website": "https://aberdeencity.gov.uk/kinship-adoption-and-fostering-service/fostering",
+  "recruitmentUrl": "https://www.aberdeencity.gov.uk/node/11231",
+  "publicEnquiryEmail": "AdoptFostRecruitment@aberdeencity.gov.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.aberdeencity.gov.uk/node/11231",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed",
+     "recruitmentUrl"
+    ]
+   },
+   {
+    "url": "https://aberdeencity.gov.uk/kinship-adoption-and-fostering-service/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "name"
+    ]
+   }
+  ],
+  "notes": "Council pages refer to the 'Foster Care Team' within the council's Kinship, Adoption and Fostering Service; no formal service name is published. Email is the council's adoption and fostering recruitment mailbox. No postal address or fostering types published on the pages fetched."
+ },
+ {
+  "id": "aberdeenshire-council-fostering",
+  "name": "Aberdeenshire Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Aberdeenshire"
+  ],
+  "address": {
+   "line1": "Gordon House, Blackhall Road",
+   "town": "Inverurie",
+   "postcode": "AB51 3WA"
+  },
+  "phone": "01467 532700",
+  "website": "https://www.aberdeenshire.gov.uk/children-and-families/fostering/becoming-a-foster-carer",
+  "recruitmentUrl": "https://www.aberdeenshire.gov.uk/children-and-families/fostering/becoming-a-foster-carer",
+  "publicEnquiryEmail": "fostering@aberdeenshire.gov.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://aberdeenshire.gov.uk/children-and-families/fostering/contact-us",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.aberdeenshire.gov.uk/children-and-families/fostering/becoming-a-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Council page refers to the 'Fostering team'; no formal service name published. Address is the one the council gives for writing to the fostering team. Page states carers are needed throughout Aberdeenshire but does not name fostering types."
+ },
+ {
+  "id": "angus-council-fostering",
+  "name": "Angus Fostering & Adoption (Angus Council)",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Angus"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "01241 464646",
+  "website": "https://www.angus.gov.uk/fosteringandadoption/fostering",
+  "recruitmentUrl": "https://www.angus.gov.uk/fosteringandadoption/how-to-become-a-foster-carer",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.angus.gov.uk/fosteringandadoption/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.angus.gov.uk/fosteringandadoption/how-to-become-a-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Phone is the council number shown on the fostering website and its 'how to become a foster carer' page; enquiries are also directed to an online form (https://myangus.angus.gov.uk/service/fostering_and_adoption_enquiry). Pages say different types of fostering are offered but do not name them on the pages fetched."
+ },
+ {
+  "id": "argyll-and-bute-council-fostering",
+  "name": "Argyll and Bute Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Argyll and Bute"
+  ],
+  "address": {
+   "line1": "Kilmory",
+   "town": "Lochgilphead",
+   "postcode": "PA31 8RT"
+  },
+  "phone": "01546 605517",
+  "website": "https://www.argyll-bute.gov.uk/births-deaths-and-marriages/fostering-and-adoption/fostering",
+  "recruitmentUrl": "https://www.argyll-bute.gov.uk/births-deaths-and-marriages/fostering-and-adoption/are-you-interested-fostering",
+  "publicEnquiryEmail": "fpduty@argyll-bute.gov.uk",
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term",
+   "respite",
+   "teenagers",
+   "sibling-groups"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.argyll-bute.gov.uk/births-deaths-and-marriages/fostering-and-adoption/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Delivered by the council's family placement team; no formal service name published. Address is the council headquarters address shown on the fostering page, not a dedicated fostering office. Email is the family placement team duty mailbox given for fostering enquiries."
+ },
+ {
+  "id": "city-of-edinburgh-council-fostering",
+  "name": "City of Edinburgh Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "City of Edinburgh"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0800 174 833",
+  "website": "https://edinburgh.gov.uk/support-families/kinship-fostering-adoption/2",
+  "recruitmentUrl": "https://www.edinburghfostering.org.uk/foster-us/foster-us-1",
+  "publicEnquiryEmail": "fosterchildren@edinburgh.gov.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://edinburgh.gov.uk/support-families/kinship-fostering-adoption/2",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "The council runs a separate recruitment website, edinburghfostering.org.uk, which could not be fetched; details are from the council's main site. No formal service name, address or fostering types published on the page fetched."
+ },
+ {
+  "id": "clackmannanshire-council-fostering",
+  "name": "Clackmannanshire Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Clackmannanshire"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": null,
+  "website": "https://www.clacks.gov.uk/children/fostering/",
+  "recruitmentUrl": "https://www.clacks.gov.uk/children/fosteringinformationrequest/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.clacks.gov.uk/children/fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website"
+    ]
+   },
+   {
+    "url": "https://www.clacks.gov.uk/children/fosteringinformationrequest/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Fetches of the council's fostering pages returned only the Children & Families landing content with the council's general contact details (Kilncraigs, Alloa; 01259 450000), so no fostering-specific phone, email, address or fostering types could be confirmed. URLs taken from search results."
+ },
+ {
+  "id": "dumfries-and-galloway-council-fostering",
+  "name": "Dumfries and Galloway Council Fostering and Adoption Team",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Dumfries and Galloway"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": null,
+  "website": "https://www.dumfriesandgalloway.gov.uk/foster-adopt-us/fostering-child",
+  "recruitmentUrl": "https://www.dumfriesandgalloway.gov.uk/foster-adopt-us/fostering-child",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.dumfriesandgalloway.gov.uk/foster-adopt-us/fostering-child",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://fostering.dumgal.gov.uk/article/22678/What-s-it-like-to-be-a-Foster-Carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name"
+    ]
+   }
+  ],
+  "notes": "Council also runs a fostering microsite at fostering.dumgal.gov.uk. No phone, email, address or named fostering types were published on the pages fetched."
+ },
+ {
+  "id": "dundee-city-council-fostering",
+  "name": "Dundee Fostering and Adoption (Dundee City Council)",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Dundee City"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "01382 436060",
+  "website": "https://dundeecity.gov.uk/fostering-and-adoption",
+  "recruitmentUrl": "https://www.dundeecity.gov.uk/fostering-and-adoption/enquire-now",
+  "publicEnquiryEmail": "adoptionfostering@dundeecity.gov.uk",
+  "fosteringTypes": [
+   "emergency",
+   "respite",
+   "short-term",
+   "long-term",
+   "sibling-groups"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://dundeecity.gov.uk/fostering-and-adoption",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Page lists emergency, short breaks (recorded as respite), interim (recorded as short-term), long-term and permanent fostering, and especially welcomes carers for groups of brothers and sisters. Email is shared by fostering and adoption enquiries."
+ },
+ {
+  "id": "east-ayrshire-council-fostering",
+  "name": "East Ayrshire Council Fostering and Adoption",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "East Ayrshire"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "01563 554200",
+  "website": "https://www.east-ayrshire.gov.uk/SocialCareAndHealth/FosteringAdoptingAndLookedAfterChildren/Fostering/Find-out-about-becoming-a-foster-carer.aspx",
+  "recruitmentUrl": "https://www.east-ayrshire.gov.uk/SocialCareAndHealth/FosteringAdoptingAndLookedAfterChildren/Enquiry-form.aspx",
+  "publicEnquiryEmail": "fosteringandadoption@east-ayrshire.gov.uk",
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "therapeutic"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.east-ayrshire.gov.uk/SocialCareAndHealth/FosteringAdoptingAndLookedAfterChildren/Fostering/Find-out-about-becoming-a-foster-carer.aspx",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Phone is 01563 554200 (Option 2). Page describes short-term, permanent (recorded as long-term), short breaks/respite and intensive foster care providing 'intensive therapeutic care' (recorded as therapeutic)."
+ },
+ {
+  "id": "east-dunbartonshire-council-fostering",
+  "name": "East Dunbartonshire Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "East Dunbartonshire"
+  ],
+  "address": {
+   "line1": "Kirkintilloch Health & Care Centre, 10 Saramago Street",
+   "town": "Kirkintilloch",
+   "postcode": "G66 3BF"
+  },
+  "phone": "0141 777 3003",
+  "website": "https://health.eastdunbarton.gov.uk/services/a-z-of-services/children-families/adoption-fostering-kinship/fostering",
+  "recruitmentUrl": "https://eastdunbarton-portal.oncreate.app/w/webpage/request?service=adoption_and_fostering_enquiry",
+  "publicEnquiryEmail": "fostering@eastdunbarton.gov.uk",
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "long-term",
+   "respite",
+   "sibling-groups"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": "CS2005087079",
+  "sources": [
+   {
+    "url": "https://health.eastdunbarton.gov.uk/services/a-z-of-services/children-families/adoption-fostering-kinship/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes",
+     "regulatorReference"
+    ]
+   }
+  ],
+  "notes": "East Dunbartonshire Council's fostering service, run through East Dunbartonshire Health and Social Care Partnership (page hosted on the HSCP site; approvals go to East Dunbartonshire Council's Fostering Panel). Page lists emergency, temporary (recorded as short-term), permanent (recorded as long-term), respite and shared care. CS number taken from the Care Inspectorate inspection-results link on the page. Address is the HSCP address in the page footer."
+ },
+ {
+  "id": "east-lothian-council-fostering",
+  "name": "Foster East Lothian (East Lothian Council)",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "East Lothian"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": null,
+  "website": "https://www.eastlothian.gov.uk/foster-east-lothian/what-are-steps-becoming-foster-carer",
+  "recruitmentUrl": "https://www.eastlothian.gov.uk/foster-east-lothian/what-are-steps-becoming-foster-carer",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.eastlothian.gov.uk/foster-east-lothian/what-are-steps-becoming-foster-carer",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Contact details are stated to be on the page but were not returned by the fetch; a second council page failed to load. No phone, email, address or fostering types confirmed."
+ },
+ {
+  "id": "east-renfrewshire-council-fostering",
+  "name": "East Renfrewshire Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "East Renfrewshire"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": null,
+  "website": "https://eastrenfrewshire.gov.uk/fostering",
+  "recruitmentUrl": "https://www.eastrenfrewshire.gov.uk/fostering-enquiry-form",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://eastrenfrewshire.gov.uk/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.eastrenfrewshire.gov.uk/fostering-enquiry-form",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Council directs enquiries to an online Fostering and Adoption contact form. No phone, email, address or named fostering types published on the pages fetched."
+ },
+ {
+  "id": "falkirk-council-fostering",
+  "name": "Falkirk Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Falkirk"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": null,
+  "website": "https://www.falkirk.gov.uk/fostering-adoption-kinship/fostering",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.falkirk.gov.uk/fostering-adoption-kinship/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website"
+    ]
+   }
+  ],
+  "notes": "Name and URL from a search result only; the council's fostering page was not fetched within the call budget, so no contact details or fostering types are recorded."
+ },
+ {
+  "id": "fife-council-fostering",
+  "name": "Fife Council Family Based Care Service - Fostering Team",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Fife"
+  ],
+  "address": {
+   "line1": "Fife House, North Street",
+   "town": "Glenrothes",
+   "postcode": "KY7 5LT"
+  },
+  "phone": "01383 602 235",
+  "website": "https://www.fife.gov.uk/social-care/fostering,-adoption-and-kinship-care/fostering",
+  "recruitmentUrl": "https://foster.fife.scot/",
+  "publicEnquiryEmail": "sw.FP-FostDuty@fife.gov.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.fife.gov.uk/social-care/fostering,-adoption-and-kinship-care/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Address is Fife Council's main address shown on the page, not a dedicated fostering office. Email is the fostering duty mailbox given as the team contact. The dedicated recruitment site foster.fife.scot could not be fetched."
+ },
+ {
+  "id": "glasgow-city-council-families-for-children",
+  "name": "Families for Children (Glasgow City Council)",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Glasgow City"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0345 276 5555",
+  "website": "https://glasgow.gov.uk/article/17270/Foster-a-child",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://glasgow.gov.uk/article/17270/Foster-a-child",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Glasgow City Council's fostering page directs applicants to 'Families for Children' (the council's fostering and adoption service, delivered through Glasgow City Health and Social Care Partnership). Phone line hours: 8.45am-4.45pm Mon-Thu, 8.45am-3.55pm Fri. Another council fostering page failed to load; no address, email or fostering types confirmed."
+ },
+ {
+  "id": "highland-council-fostering",
+  "name": "The Highland Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Highland"
+  ],
+  "address": {
+   "line1": "Glenurquhart Road",
+   "town": "Inverness",
+   "postcode": "IV3 5NX"
+  },
+  "phone": null,
+  "website": "https://www.highland.gov.uk/fosteringandadoption",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": "fostering@highland.gov.uk",
+  "fosteringTypes": [
+   "emergency",
+   "short-term",
+   "respite",
+   "long-term",
+   "sibling-groups",
+   "teenagers"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.highland.gov.uk/news/article/16054/highland-needs-foster-carers-like-you",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "publicEnquiryEmail",
+     "website",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Details from a council news article; the fostering service page (which redirects to www1.highland.gov.uk) could not be fetched. Address is the council's general headquarters address from the page, not labelled as the fostering office. Article describes emergency and temporary care (recorded as short-term), respite for disabled children, permanent carers (recorded as long-term), and carers for teenagers and sibling groups."
+ },
+ {
+  "id": "inverclyde-council-fostering",
+  "name": "Inverclyde Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Inverclyde"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": null,
+  "website": "https://www.inverclyde.gov.uk/health-and-social-care/support-for-children-families/fostering-and-kinship/fostering",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.inverclyde.gov.uk/health-and-social-care/support-for-children-families/fostering-and-kinship/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website"
+    ]
+   }
+  ],
+  "notes": "Name and URL from a search result only; inverclyde.gov.uk blocks automated fetching (robots disallowed), so no contact details or fostering types could be confirmed."
+ },
+ {
+  "id": "midlothian-council-fostering",
+  "name": "Midlothian Council Family Centred Care Team - Fostering",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Midlothian"
+  ],
+  "address": {
+   "line1": "7 Eskdaill Court",
+   "town": "Dalkeith",
+   "postcode": "EH22 1AG"
+  },
+  "phone": "0131 271 3615",
+  "website": "https://www.midlothian.gov.uk/info/1401/fostering_adoption_and_looked-after_children/86/fostering",
+  "recruitmentUrl": "https://www.midlothian.gov.uk/info/1401/fostering_adoption_and_looked-after_children/86/fostering/2",
+  "publicEnquiryEmail": "FamilyCentredCareDuty@midlothian.gov.uk",
+  "fosteringTypes": [
+   "long-term",
+   "respite",
+   "other"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://midlothian.gov.uk/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Page lists permanent fostering (recorded as long-term), specialist foster care (recorded as other) and respite foster care. Email is the Family Centred Care duty mailbox listed for fostering, adoption and kinship enquiries."
+ },
+ {
+  "id": "moray-council-fostering",
+  "name": "Moray Council Placement Services - Fostering",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Moray"
+  ],
+  "address": {
+   "line1": "Rose Cottage, PO Box 6770",
+   "town": "Elgin",
+   "postcode": "IV30 9BX"
+  },
+  "phone": "01343 563568",
+  "website": "https://www.moray.gov.uk/child-protection-children-and-families/children-and-families/fostering/",
+  "recruitmentUrl": "https://www.moray.gov.uk/child-protection-children-and-families/children-and-families/fostering/who-can-become-a-foster-carer/",
+  "publicEnquiryEmail": "DutyPlacementServices@moray.gov.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.moray.gov.uk/child-protection-children-and-families/children-and-families/fostering/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.moray.gov.uk/child-protection-children-and-families/children-and-families/fostering/your-questions-answered/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone",
+     "publicEnquiryEmail"
+    ]
+   }
+  ],
+  "notes": "Council pages refer to 'Placement services'; no formal service name published. Fostering types are listed on a separate 'Different types of fostering' page that was not fetched."
+ },
+ {
+  "id": "comhairle-nan-eilean-siar-fostering",
+  "name": "Comhairle nan Eilean Siar Fostering and Adoption Team",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Na h-Eileanan Siar (Western Isles)"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "01851 822 749",
+  "website": "https://www.cne-siar.gov.uk/health-and-social-care/children-and-families/fostering-and-adoption/foster-carers",
+  "recruitmentUrl": "https://www.cne-siar.gov.uk/health-and-social-care/children-and-families/fostering-and-adoption/foster-carers",
+  "publicEnquiryEmail": "fosteringandadoption@cne-siar.gov.uk",
+  "fosteringTypes": [
+   "respite",
+   "long-term"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.cne-siar.gov.uk/health-and-social-care/children-and-families/fostering-and-adoption/foster-carers",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Page says carers are needed for everything from 'short weekend breaks' (recorded as respite) to a 'more permanent forever home' (recorded as long-term), for children from babies to teenagers. No postal address published on the page."
+ },
+ {
+  "id": "north-ayrshire-council-fostering",
+  "name": "North Ayrshire Council Families for Children Team - Fostering",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "North Ayrshire"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "01294 310300",
+  "website": "https://north-ayrshire.gov.uk/news/During-Foster-Care-Fortnight-carers-encourage-others-to-offer-life-changing-support-to-children.aspx",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": "adfos-enquiry@north-ayrshire.gov.uk",
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "respite",
+   "sibling-groups"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://north-ayrshire.gov.uk/news/During-Foster-Care-Fortnight-carers-encourage-others-to-offer-life-changing-support-to-children.aspx",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Details from a council news article (no service page URL was found in search results; the article gives the recruitment site only as a tinyurl). Phone is 01294 310300 (option 4 then option 1). Article lists Short Break Care (recorded as respite), Supported Care, Interim Fostering (recorded as short-term), longer-term support, and carers for small sibling groups."
+ },
+ {
+  "id": "north-lanarkshire-council-fostering",
+  "name": "North Lanarkshire Council Children's Carers' Centre - Fostering",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "North Lanarkshire"
+  ],
+  "address": {
+   "line1": "Children's Carers' Centre, 7 Mitchell Street",
+   "town": "Airdrie",
+   "postcode": "ML6 0AB"
+  },
+  "phone": "0800 073 1566",
+  "website": "https://www.northlanarkshire.gov.uk/social-care-and-health/children-and-families/fostering-adoption-and-looked-after-children/childrens-carers-centre",
+  "recruitmentUrl": "https://foster-adopt.scot/",
+  "publicEnquiryEmail": "fosterandadopt@northlan.gov.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.northlanarkshire.gov.uk/social-care-and-health/children-and-families/fostering-adoption-and-looked-after-children/childrens-carers-centre",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.northlanarkshire.gov.uk/social-care-and-health/children-and-families/fostering-adoption-and-looked-after-children",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "recruitmentUrl",
+     "name"
+    ]
+   }
+  ],
+  "notes": "The council's fostering, adoption, supported care and kinship teams are based at the Children's Carers' Centre in Airdrie. The council's section page links to foster-adopt.scot for 'Fostering, adoption and supported care' (types of care, carer recruitment); that site was not fetched. The page prints the postcode as 'ML6 OAB' (letter O), recorded here as ML6 0AB. Phone and email cover fostering and adoption. No fostering types named on the pages fetched."
+ },
+ {
+  "id": "orkney-islands-council-fostering",
+  "name": "Orkney Islands Council Fostering and Adoption Team",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Orkney Islands"
+  ],
+  "address": {
+   "line1": "School Place",
+   "town": "Kirkwall",
+   "postcode": "KW15 1NY"
+  },
+  "phone": "01856 873535",
+  "website": "https://www.orkney.gov.uk/children-and-families/support-for-young-people-and-families/fostering",
+  "recruitmentUrl": "https://www.orkney.gov.uk/our-services/orkney-health-and-social-care-partnership/children-and-families/fostering/fostering-faqs/",
+  "publicEnquiryEmail": "fostering.adoption@orkney.gov.uk",
+  "fosteringTypes": [
+   "respite",
+   "long-term"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.orkney.gov.uk/our-services/orkney-health-and-social-care-partnership/children-and-families/fostering/fostering-faqs/?id=36506",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "publicEnquiryEmail",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Service is managed by the council's Children, Families and Justice Services (pages sit under the Orkney Health and Social Care Partnership section). Address is the council's address from the page footer, not a dedicated fostering office. Page describes respite for a night, weekend or few weeks (recorded as respite) and long-term/permanent care."
+ },
+ {
+  "id": "perth-and-kinross-council-fostering",
+  "name": "Perth and Kinross Council Family Based Care Team - Fostering",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Perth and Kinross"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "01738 477806",
+  "website": "https://www.pkc.gov.uk/fosteringadoption",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": "ecsfpduty@pkc.gov.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.pkc.gov.uk/fosteringadoption",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://www.pkc.gov.uk/article/24634/Foster-Care-Fortnight-2025",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Contact details from the council's Foster Care Fortnight 2025 article naming the Family Based Care Team. Email is the team's duty mailbox given for fostering enquiries. No address or named fostering types published on the pages fetched."
+ },
+ {
+  "id": "renfrewshire-council-fostering",
+  "name": "Renfrewshire Council Fostering Service",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Renfrewshire"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": "0300 300 1199",
+  "website": "https://www.renfrewshire.gov.uk/children-young-people-and-families/fostering-adoption-supported-care-and-kinship-care/fostering-renfrewshire",
+  "recruitmentUrl": "https://www.renfrewshire.gov.uk/children-young-people-and-families/fostering-adoption-supported-care-and-kinship-care/fostering-renfrewshire/become-foster-carer-renfrewshire-council",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.renfrewshire.gov.uk/children-young-people-and-families/fostering-adoption-supported-care-and-kinship-care/fostering-renfrewshire/become-foster-carer-renfrewshire-council",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Council section is titled 'Fostering in Renfrewshire'; no formal service name published. Online enquiry form: https://myaccount.renfrewshire.gov.uk/service/Make_an_enquiry_about_fostering. No address, email or fostering types on the page fetched."
+ },
+ {
+  "id": "scottish-borders-council-fostering",
+  "name": "Scottish Borders Council Family Placement Team - Fostering",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Scottish Borders"
+  ],
+  "address": {
+   "line1": "Council Headquarters, Newtown St. Boswells",
+   "town": "Melrose",
+   "postcode": "TD6 0SA"
+  },
+  "phone": "01896 662799",
+  "website": "https://www.scotborders.gov.uk/adoption-fostering-looked-children/fostering",
+  "recruitmentUrl": "https://www.scotborders.gov.uk/FCF26",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "respite",
+   "sibling-groups"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.scotborders.gov.uk/FCF26",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://www.scotborders.gov.uk/adoption-fostering-looked-children/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Delivered by the council's Family placement team. Address is the council headquarters address shown on the fostering page, not a dedicated fostering office; email enquiries go via an online form (https://www.scotborders.gov.uk/xfp/form/982). Pages say carers are particularly needed for older children, sibling groups, disabled children and unaccompanied asylum-seeking children, that brothers and sisters are kept together wherever possible, and that short breaks including weekend breaks and short-term care are offered (recorded as respite and short-term)."
+ },
+ {
+  "id": "shetland-islands-council-fostering",
+  "name": "Shetland Islands Council Family Placement Team - Fostering",
+  "providerType": "local_authority",
+  "nation": "Scotland",
+  "areasServed": [
+   "Shetland Islands"
+  ],
+  "address": {
+   "line1": null,
+   "town": null,
+   "postcode": null
+  },
+  "phone": null,
+  "website": "https://www.shetland.gov.uk/homepage/1264/fostering",
+  "recruitmentUrl": "https://www.shetland.gov.uk/children-families/adoption-fostering-kinship-care",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "emergency",
+   "respite",
+   "short-term",
+   "long-term"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://www.shetland.gov.uk/fostering",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "website",
+     "recruitmentUrl",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Page lists emergency placements, short breaks (recorded as respite), long-term or interim care and permanent care, and states carers are needed in all areas of Shetland. Registration of interest is via an online form on my.shetland.gov.uk. No phone, email or address published on the page."
+ },
+ {
+  "id": "fosterplus-scotland",
+  "name": "Fosterplus Scotland",
+  "providerType": "independent_agency",
+  "nation": "Scotland",
+  "areasServed": [
+   "Edinburgh",
+   "Lothian",
+   "Stirling",
+   "Falkirk",
+   "Fife",
+   "Clackmannanshire",
+   "Dundee",
+   "Aberdeenshire",
+   "Perth and Kinross",
+   "East Ayrshire",
+   "North Ayrshire",
+   "South Ayrshire",
+   "Arran",
+   "Dumfries and Galloway",
+   "Glasgow",
+   "Renfrewshire",
+   "Lanarkshire",
+   "Dunbartonshire",
+   "Inverclyde",
+   "Argyll and Bute"
+  ],
+  "address": {
+   "line1": "The Arc, 25 Colquhoun Avenue, Hillington Park",
+   "town": "Glasgow",
+   "postcode": "G52 4BN"
+  },
+  "phone": "0800 369 8512",
+  "website": "https://scotland.fosterplus.co.uk/",
+  "recruitmentUrl": "https://scotland.fosterplus.co.uk/become-a-foster-carer-in-scotland/",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "short-term",
+   "long-term",
+   "emergency",
+   "respite",
+   "parent-and-child",
+   "other"
+  ],
+  "regulatorName": "Care Inspectorate",
+  "regulatorReference": null,
+  "sources": [
+   {
+    "url": "https://scotland.fosterplus.co.uk/?p=1281",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "phone",
+     "website",
+     "recruitmentUrl",
+     "fosteringTypes",
+     "areasServed"
+    ]
+   },
+   {
+    "url": "https://scotland.fosterplus.co.uk/regions/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "areasServed",
+     "phone"
+    ]
+   },
+   {
+    "url": "https://scotland.fosterplus.co.uk/regions/fostering-agency-prestwick/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "address",
+     "phone",
+     "areasServed"
+    ]
+   }
+  ],
+  "notes": "Independent fostering agency. Three Scottish offices: Central Scotland - Glasgow (recorded address); East Scotland - 'Edinburgh' office at Liberty House, 15 Cromarty Campus, Rosyth, KY11 2YB; West Scotland - Unit 6, Ladykirk Business Park, Skye Road, Prestwick, KA9 2TA. The site says its Edinburgh and Glasgow offices are each rated by the Care Inspectorate, so they may be separately registered services. 'Other' covers staying put (18-21) and specialist placements for disabled and asylum-seeking children. CS number not published on the pages fetched."
+ }
+]

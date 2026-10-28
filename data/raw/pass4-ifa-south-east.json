@@ -1,0 +1,171 @@
+[
+ {
+  "id": "five-fostering",
+  "name": "Five Fostering",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [
+   "East Sussex"
+  ],
+  "address": {
+   "line1": "Suite 14, Napier House, Elva Way",
+   "town": "Bexhill",
+   "postcode": "TN39 5BF"
+  },
+  "phone": "01424211122",
+  "website": "https://www.5fostering.co.uk/",
+  "recruitmentUrl": "https://www.5fostering.co.uk/14/we-are-looking-for/",
+  "publicEnquiryEmail": "office@5fostering.co.uk",
+  "fosteringTypes": [
+   "parent-and-child"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC462226",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC462226",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://www.5fostering.co.uk/the-awesomeness-of-fostering/1/12/fostering-in-east-sussex/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "areasServed",
+     "fosteringTypes"
+    ]
+   }
+  ],
+  "notes": "Website brands itself as 5Fostering; Ofsted registration name is Five Fostering. Website states training is held in Bexhill."
+ },
+ {
+  "id": "familyplacement-com",
+  "name": "Familyplacement.com",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Unit 2, The Old Power Station",
+   "town": null,
+   "postcode": "OX12 8QJ"
+  },
+  "phone": null,
+  "website": "https://familyplacement.com/",
+  "recruitmentUrl": null,
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC033478",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC033478",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://familyplacement.com/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website"
+    ]
+   }
+  ],
+  "notes": "Ofsted page lists local authority as Oxfordshire; town not given in Ofsted address. Website (seen as a search result, trading as Family Placement) could not be fetched (robots disallowed). Search results indicate it is part of National Fostering Group."
+ },
+ {
+  "id": "bridging-gaps-fostering-agency",
+  "name": "Bridging Gaps Fostering Agency",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Norwich Union House, 9 Mackenzie Street",
+   "town": "Slough",
+   "postcode": "SL1 1XQ"
+  },
+  "phone": "01753868686",
+  "website": "https://bgfa.co.uk/",
+  "recruitmentUrl": "https://bgfa.co.uk/become-a-foster-carer",
+  "publicEnquiryEmail": "info@bgfa.co.uk",
+  "fosteringTypes": [],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "SC390755",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/SC390755",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference"
+    ]
+   },
+   {
+    "url": "https://bgfa.co.uk/contact",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl",
+     "phone",
+     "publicEnquiryEmail",
+     "address"
+    ]
+   }
+  ],
+  "notes": "Also known as BGFA. Website has a therapeutic service page but fostering types were not confirmed from fetched content."
+ },
+ {
+  "id": "parent-and-child-fostering-assessments",
+  "name": "Parent And Child Fostering Assessments",
+  "providerType": "independent_agency",
+  "nation": "England",
+  "areasServed": [],
+  "address": {
+   "line1": "Alpha House, Molesey Road",
+   "town": "Walton-on-Thames",
+   "postcode": "KT12 3PD"
+  },
+  "phone": null,
+  "website": "https://parentandchildfosteringassessments.co.uk/",
+  "recruitmentUrl": "https://parentandchildfosteringassessments.co.uk/parental-assessing-carer",
+  "publicEnquiryEmail": null,
+  "fosteringTypes": [
+   "parent-and-child"
+  ],
+  "regulatorName": "Ofsted",
+  "regulatorReference": "1156149",
+  "sources": [
+   {
+    "url": "https://reports.ofsted.gov.uk/provider/4/1156149",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "name",
+     "address",
+     "regulatorReference",
+     "fosteringTypes"
+    ]
+   },
+   {
+    "url": "https://parentandchildfosteringassessments.co.uk/",
+    "retrievedOn": "2026-10-27",
+    "supports": [
+     "website",
+     "recruitmentUrl"
+    ]
+   }
+  ],
+  "notes": "Also known as PACFA. Specialist parent-and-child assessment fostering agency (type inferred from registered name only). Website and 'Parental Assessing Carer' page seen as search results; site could not be fetched (robots disallowed). Ofsted local authority: Surrey."
+ }
+]

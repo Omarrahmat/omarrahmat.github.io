@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "the-homefinding-and-fostering-agency",
+    "name": "The Homefinding & Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Maidstone Studios, Vinters Park",
+      "town": "Maidstone",
+      "postcode": "ME14 5NZ"
+    },
+    "phone": "01622 765646",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036653",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036653",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50311777",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Operated by Kent Homefinding and Fostering Ltd. Phone and placement types taken from the Ofsted inspection report (June-July 2026)."
+  },
+  {
+    "id": "evolve-therapeutic-fostering",
+    "name": "Evolve Therapeutic Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "1st Floor, Discovery Park, Ramsgate Road",
+      "town": "Sandwich",
+      "postcode": "CT13 9FF"
+    },
+    "phone": "01795 342425",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "therapeutic",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2606502",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2606502",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50288589",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Ofsted inspection report (July 2025) states therapeutic fostering, parent and child placements and placements for unaccompanied asylum-seeking children; the agency does not accept emergency placements. Phone from the Ofsted report."
+  },
+  {
+    "id": "next-step-fostering-services",
+    "name": "Next Step Fostering Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "Kent",
+      "East London",
+      "Surrey",
+      "Thames Valley",
+      "London boroughs"
+    ],
+    "address": {
+      "line1": "41 Stone Street",
+      "town": "Faversham",
+      "postcode": "ME13 8PH"
+    },
+    "phone": "01795 521739",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "respite",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036540",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036540",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50259853",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "areasServed",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Registered provider's office is in Bolton; the Faversham address is the agency office listed by Ofsted. Phone, areas and placement types from the Ofsted inspection report (September 2024)."
+  },
+  {
+    "id": "xcel-2000-fostercare-services",
+    "name": "Xcel 2000 Fostercare Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "8 London Road",
+      "town": "Sittingbourne",
+      "postcode": "ME10 1NA"
+    },
+    "phone": "01795 470222",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036488",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036488",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50293552",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Ofsted inspection report (November 2025) lists short-term, long-term, respite, permanent, remand and parent and child arrangements. Phone from the Ofsted report."
+  },
+  {
+    "id": "by-the-bridge",
+    "name": "By The Bridge",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Offices 10A-12A Main Farm Office, Brogdale Farm, Brogdale Road",
+      "town": "Faversham",
+      "postcode": "ME13 8XZ"
+    },
+    "phone": "08454509944",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "emergency",
+      "parent-and-child",
+      "sibling-groups",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC047407",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC047407",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50247296",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Registered office of By The Bridge Limited is in Potters Bar; Ofsted lists the Faversham address for the agency, with further offices in Rugby, Tamworth and the Thames Valley per the Ofsted inspection report (April 2024), which also lists placements for children with disabilities, asylum-seeking children, children on remand and staying put. Phone from the Ofsted report."
+  },
+  {
+    "id": "ethelbert-fostering-services",
+    "name": "Ethelbert Fostering Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "17 Leigh Road",
+      "town": "Ramsgate",
+      "postcode": "CT12 5EU"
+    },
+    "phone": "01843 823762",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "fostering@ethelbert.net",
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "therapeutic",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036583",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036583",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50264237",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "publicEnquiryEmail",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Ofsted inspection report (October 2024) lists emergency, short-term, medium-term, long-term and therapeutic placements. Phone and generic fostering email from the Ofsted report."
+  },
+  {
+    "id": "fusion-fostering-south-east",
+    "name": "Fusion Fostering South East",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South East of England"
+    ],
+    "address": {
+      "line1": "Office 29, The Cobalt Building, 1600 Eureka Park",
+      "town": "Ashford",
+      "postcode": "TN25 4BF"
+    },
+    "phone": "01823 491010",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "parent-and-child",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2593058",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2593058",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50296918",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "areasServed",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional registration of Fusion Fostering Limited (registered provider address in Yeovil). Ofsted local authority area: Kent. Phone (a Fusion central number), area and placement types from the Ofsted inspection report (January 2026)."
+  },
+  {
+    "id": "caldecott-fostering",
+    "name": "Caldecott Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Caldecott House, Hythe Road, Smeeth",
+      "town": "Ashford",
+      "postcode": "TN25 6SP"
+    },
+    "phone": "0300 3038794",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "enquiries@caldecottfostering.co.uk",
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC420507",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC420507",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50230652",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "publicEnquiryEmail",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Phone, generic enquiries email and placement types from the Ofsted inspection report (September 2023)."
+  },
+  {
+    "id": "anchor-foster-care-services",
+    "name": "Anchor Foster Care Services",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South East",
+      "Midlands"
+    ],
+    "address": {
+      "line1": "69A Maidstone Road",
+      "town": "Chatham",
+      "postcode": "ME4 6DP"
+    },
+    "phone": "01634 283 140",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC036598",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC036598",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50294528",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "areasServed",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Medway. Ofsted inspection report (January 2026) states head office in Kent with office hubs in Milton Keynes and Derby, and lists emergency, short-term, long-term, parent-and-child placements and placements for children with complex needs/disabilities and unaccompanied asylum-seeking children. Phone from the Ofsted report."
+  },
+  {
+    "id": "fostering-together-for-children-with-disabilities",
+    "name": "Fostering Together - for children with disabilities",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "The Old Granary, Penstock Hall Farm, Canterbury Road",
+      "town": "Ashford",
+      "postcode": "TN25 5LL"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2574877",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2574877",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50304192",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Registered provider: Fostering Together Ltd. Ofsted report (monitoring visit, May 2026) describes short- and long-term fostering for children with disabilities and complex medical needs."
+  },
+  {
+    "id": "pilgrims-corner-fostering",
+    "name": "Pilgrims Corner Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "The Gathering Space, Highland Court Farm, Bridge",
+      "town": "Canterbury",
+      "postcode": "CT4 5HW"
+    },
+    "phone": "01227 370808",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC376060",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC376060",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50292803",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Phone and placement types from the Ofsted inspection report (November 2025)."
+  },
+  {
+    "id": "channels-and-choices-therapeutic-fostering",
+    "name": "Channels and Choices Therapeutic Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Kearsney Manor, Alkham Road, Kearsney",
+      "town": "Dover",
+      "postcode": "CT16 3EQ"
+    },
+    "phone": "01304 361888",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "therapeutic"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC463937",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC463937",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50258446",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Company registered office is in Brighton; the Dover address is the agency address listed by Ofsted. Phone and placement types from the Ofsted inspection report (August 2024)."
+  },
+  {
+    "id": "time-out-fostering",
+    "name": "Time out Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit 17, Oaklands Business Park, 64-68 Elm Grove",
+      "town": "Worthing",
+      "postcode": "BN11 5LH"
+    },
+    "phone": "01903 259900",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC064113",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC064113",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50308871",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: West Sussex. Registered provider: Time Out Fostering Limited. Ofsted inspection report (June 2026) lists emergency, short-term, long-term and parent and child placements and care for unaccompanied children seeking asylum. Phone from the Ofsted report."
+  },
+  {
+    "id": "asphaleia",
+    "name": "Asphaleia Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "22 Liverpool Gardens",
+      "town": "Worthing",
+      "postcode": "BN11 1RY"
+    },
+    "phone": "01903 522966",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC060967",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC060967",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50280567",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: West Sussex. Ofsted inspection report (May 2025) states long- and short-term fostering. Phone from the Ofsted report."
+  },
+  {
+    "id": "regional-foster-families-south-central",
+    "name": "Regional Foster Families - South Central",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Unit W8A, Knoll Business Centre, Old Shoreham Road",
+      "town": "Hove",
+      "postcode": "BN3 7GS"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1183032",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1183032",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Regional registration of Regional Foster Families. Ofsted local authority area: Brighton and Hove. URN taken from the Ofsted page URL; the Ofsted page shows no registration status and no inspection reports, so current status is uncertain."
+  },
+  {
+    "id": "fairways-care-uk",
+    "name": "Fairways Care UK",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Building 1000, Lakeside North Harbour, Western Road",
+      "town": "Portsmouth",
+      "postcode": "PO6 3EN"
+    },
+    "phone": "02380 230400",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC038930",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC038930",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50274449",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Portsmouth. Also written Fair Ways Care UK. Ofsted inspection report (February 2025) lists short-term and long-term fostering plus staying put and provision for unaccompanied asylum-seeking children. Phone from the Ofsted report."
+  },
+  {
+    "id": "liberty-foster-care",
+    "name": "Liberty Foster Care",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Passfield Business Centre, Lynchborough Road, Passfield",
+      "town": "Liphook",
+      "postcode": "GU30 7SB"
+    },
+    "phone": "01428 624550",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC397846",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC397846",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50295221",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Hampshire. Ofsted inspection report (January 2026) states the agency does not provide short breaks or parent and child placements. Phone from the Ofsted report."
+  },
+  {
+    "id": "blue-sky-fostering",
+    "name": "Blue Sky Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South of England"
+    ],
+    "address": {
+      "line1": "Broadwater House, Broadwater Road",
+      "town": "Romsey",
+      "postcode": "SO51 8GT"
+    },
+    "phone": "01794 590003",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "parent-and-child",
+      "emergency",
+      "therapeutic",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC064220",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC064220",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50263679",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "areasServed",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Hampshire. Registered office of the provider is in Harrow; the Romsey address is the agency address listed by Ofsted. Ofsted inspection report (October-November 2024) lists short-term, long-term, parent and child, emergency and bridging placements and a therapeutically led care service. Phone from the Ofsted report."
+  },
+  {
+    "id": "fitzgerald-fostering-and-consultancy",
+    "name": "Fitzgerald Fostering & Consultancy",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Lily Hill House, Lily Hill Road",
+      "town": "Bracknell",
+      "postcode": "RG12 2SJ"
+    },
+    "phone": "01753 550 031",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "emergency",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC383749",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC383749",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50257053",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Bracknell Forest. Phone and placement types from the Ofsted inspection report (August 2024)."
+  },
+  {
+    "id": "sunbeam-fostering-agency",
+    "name": "Sunbeam Fostering Agency",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Sunbeam House, 12 Waterside Drive, Langley",
+      "town": "Slough",
+      "postcode": "SL3 6EZ"
+    },
+    "phone": "020 8799 0930",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "info@sunbeamfostering.com",
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "respite",
+      "long-term",
+      "parent-and-child",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC035026",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC035026",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50287154",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "publicEnquiryEmail",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Slough. Ofsted inspection report (August 2025) lists emergency, short-term, bridging, respite, long-term and parent and child placements and placements for unaccompanied children. Phone and generic email from the Ofsted report."
+  },
+  {
+    "id": "orange-grove-fostercare-three-shires",
+    "name": "Orange Grove Fostercare Three Shires",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Wavendon Tower, Ortensia Drive",
+      "town": "Milton Keynes",
+      "postcode": "MK17 8LX"
+    },
+    "phone": "01908 804497",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "respite",
+      "parent-and-child",
+      "emergency"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC485761",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC485761",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50293032",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional registration of Orange Grove Fostercare Ltd (registered office in Bromsgrove). Ofsted local authority area: Milton Keynes. Phone and placement types from the Ofsted inspection report (September-October 2025)."
+  },
+  {
+    "id": "illuminance-fostering-service",
+    "name": "Illuminance Fostering Service",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "100 Avebury Boulevard",
+      "town": "Milton Keynes",
+      "postcode": "MK9 1FH"
+    },
+    "phone": "07934018475",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "parent-and-child",
+      "emergency",
+      "other"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "2654713",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/2654713",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50256687",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Milton Keynes. Ofsted inspection report (July 2024) lists long-term, same-day, short-term, bridging, parent and child and emergency placements. Phone (as printed in the Ofsted report) is a mobile number."
+  },
+  {
+    "id": "foster-care-associates-thames-valley",
+    "name": "Foster Care Associates Thames Valley",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Wavendon Tower, Wavendon Business Park, Ortensia Drive",
+      "town": "Milton Keynes",
+      "postcode": "MK17 8LX"
+    },
+    "phone": "01296 628300",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC047677",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/SC047677",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50288097",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Regional registration of Foster Care Associates Limited. Ofsted local authority area: Milton Keynes. Ofsted inspection report (August 2025) states emergency, short-term, long-term and parent and child placements. Phone from the Ofsted report."
+  },
+  {
+    "id": "integrated-services-programme-isp-chesham",
+    "name": "Integrated Services Programme (ISP)",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "9 Church Street",
+      "town": "Chesham",
+      "postcode": "HP5 1HS"
+    },
+    "phone": "01494 792 999",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "long-term",
+      "short-term",
+      "respite"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC067361",
+    "sources": [
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50298349",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted inspection report (February 2026) gives the registered office as Chesham, Buckinghamshire, with further offices in Milton Keynes and Wisbech; registered provider address in Bromsgrove (Polaris Community group). Only the inspection report PDF was retrieved; the Ofsted provider page was not fetched. Phone from the Ofsted report."
+  },
+  {
+    "id": "fusion-fostering-south-central",
+    "name": "Fusion Fostering South Central",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [
+      "South of England"
+    ],
+    "address": {
+      "line1": "FF4, Cams Hall",
+      "town": "Fareham",
+      "postcode": "PO16 8AB"
+    },
+    "phone": "01329 227 686",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [
+      "short-term",
+      "long-term",
+      "sibling-groups"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1212899",
+    "sources": [
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50275098",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "regulatorReference",
+          "fosteringTypes",
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Regional registration of Fusion Fostering Limited (registered provider address in Yeovil, Somerset). Address is the office location inspected per the Ofsted inspection report (March 2025); only the report PDF was retrieved, not the Ofsted provider page. Phone from the Ofsted report."
+  },
+  {
+    "id": "family-tree-fostering",
+    "name": "Family Tree Fostering Ltd",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Milton Park Innovation Centre, 99 Park Drive, Milton Park, Milton",
+      "town": "Abingdon",
+      "postcode": "OX14 4RY"
+    },
+    "phone": null,
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": null,
+    "fosteringTypes": [],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "1272830",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/1272830",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Oxfordshire. URN taken from the Ofsted page URL; Ofsted page shows no inspection report yet and no registration status."
+  },
+  {
+    "id": "uk-fostering",
+    "name": "UK Fostering",
+    "providerType": "independent_agency",
+    "nation": "England",
+    "areasServed": [],
+    "address": {
+      "line1": "Bridge House, High Street",
+      "town": "Dartford",
+      "postcode": "DA1 1DJ"
+    },
+    "phone": "01322 473 243",
+    "website": null,
+    "recruitmentUrl": null,
+    "publicEnquiryEmail": "enquiries@ukfostering.org.uk",
+    "fosteringTypes": [
+      "emergency",
+      "short-term",
+      "long-term",
+      "parent-and-child"
+    ],
+    "regulatorName": "Ofsted",
+    "regulatorReference": "SC448220",
+    "sources": [
+      {
+        "url": "https://reports.ofsted.gov.uk/provider/4/sc448220",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "regulatorReference"
+        ]
+      },
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50264446",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "name",
+          "address",
+          "phone",
+          "publicEnquiryEmail",
+          "regulatorReference",
+          "fosteringTypes"
+        ]
+      }
+    ],
+    "notes": "Ofsted local authority area: Kent. Ofsted inspection report (November 2024) states head office in Kent with additional offices in the Midlands and the North West. Phone and generic enquiries email from the Ofsted report."
+  }
+]
