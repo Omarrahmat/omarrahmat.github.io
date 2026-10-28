@@ -1,0 +1,52 @@
+name: Build, test and publish
+on:
+  push:
+    branches: [source]
+  workflow_dispatch:
+concurrency:
+  group: publish
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      NEXT_PUBLIC_SUPABASE_URL: https://vbgustjtxjmjlgukzcfa.supabase.co
+      NEXT_PUBLIC_SUPABASE_ANON_KEY: sb_publishable_OLCpJFfc-ILt9acNMdfb_Q_wL4yjqSS
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: source
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install build tools
+        run: |
+          npm install --no-save --no-audit --no-fund react@19.2.0 react-dom@19.2.0 esbuild@0.25.0 playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - name: Merge data
+        run: |
+          node scripts/merge-data.mjs
+          node scripts/merge-news.mjs
+          node scripts/merge-guides.mjs
+          node scripts/merge-allowances.mjs
+      - name: Build
+        run: node scripts/build-static.mjs
+      - name: Browser tests
+        run: node scripts/e2e.mjs
+      - name: Portal tests
+        run: node scripts/e2e-portal.mjs
+      - name: Deploy to main
+        run: |
+          git config user.name "Fostering Today desk"
+          git config user.email "hello@fosteringtoday.com"
+          MSG="$(git log -1 --pretty=%s)"
+          git fetch --depth 1 origin main
+          rm -rf /tmp/pages && git worktree add /tmp/pages origin/main
+          cd /tmp/pages
+          find . -mindepth 1 -maxdepth 1 ! -name .git ! -name .nojekyll -exec rm -rf {} +
+          cp -a "$GITHUB_WORKSPACE/out/." .
+          git add -A
+          if git commit -q -m "$MSG"; then git push origin HEAD:main; echo "PUBLISHED $(git rev-parse --short HEAD)"; else echo "NO SITE CHANGES"; fi
