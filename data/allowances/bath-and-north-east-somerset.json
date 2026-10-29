@@ -1,0 +1,27 @@
+{
+  "slug": "bath-and-north-east-somerset",
+  "council": "Bath and North East Somerset Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-29",
+  "sourceUrl": "https://fostering.bathnes.gov.uk/allowance-benefits",
+  "sourceTitle": "Payments, benefits and rewards (Fostering in Bath & North East Somerset)",
+  "allowances": [
+    { "label": "0 to 4 years", "weekly": 198.17 },
+    { "label": "5 to 10 years", "weekly": 253.87 },
+    { "label": "11 to 15 years", "weekly": 276.37 },
+    { "label": "16 to 18 years", "weekly": 320.29 }
+  ],
+  "fees": [
+    { "label": "Tier 1", "weekly": 209.96, "note": "All new carers start here" },
+    { "label": "Tier 2", "weekly": 253.87 },
+    { "label": "Tier 3", "weekly": 287.08 }
+  ],
+  "feesNote": "Carers receive the age-related payment plus a weekly tier payment; tiers reflect training and development and are agreed with the fostering team.",
+  "extras": [
+    "Additional allowances for holidays, birthdays and festivals",
+    "Parent and child placements are paid at £964.08 a week"
+  ],
+  "summary": "Bath and North East Somerset pays an age-related weekly amount for each child plus a tier payment that rises as carers complete training. The council's page does not state which year the rates apply to, so we have listed them under the current financial year; check with the fostering team for the latest figures.",
+  "areaNames": ["Bath and North East Somerset"]
+}

@@ -19,3 +19,23 @@ ealing-fostering-connections, 2026-10-29, council page gives no figures
 kingston-upon-thames-council-fostering, 2026-10-29, Achieving for Children page shows only the national minimum example, not its own scale
 bedford-borough-council-fostering, 2026-10-29, allowances page states no year and its worked examples use different fee figures from its tables
 cambridgeshire-fostering-service, 2026-10-29, finances page states no year and does not say whether the skill-level figures include the allowance
+haringey-council-fostering, 2026-10-29, why-foster page gives no figures (recruitment moved to North London fostering hub Oct 2026)
+hillingdon-council-fostering, 2026-10-29, only figures found are in a financial policy whose fee table is labelled 2025-2026
+lewisham-council-fostering, 2026-10-29, why-foster page gives only a typical weekly range, no scale or year
+redbridge-council-fostering, 2026-10-29, fostering page gives weekly ranges with no age bands and no year
+tower-hamlets-council-fostering, 2026-10-29, fostering pages and May 2026 council tax news give no allowance figures
+waltham-forest-council-fostering, 2026-10-29, fostering page gives no figures
+wandsworth-council-fostering, 2026-10-29, only published scheme (fostering_allowances_scheme.pdf) dated April 2022
+bcp-council-fostering, 2026-10-29, benefits-and-payments page gives only examples and an "up to" figure, no full scale or year
+blackpool-council-fostering, 2026-10-29, pay page states no year and its worked example does not match its own tables
+bolton-council-fostering, 2026-10-29, fostering page gives no figures; allowances PDF could not be read
+brighton-and-hove-city-council-fostering, 2026-10-29, foster-carer-payments page returned no readable content
+birmingham-childrens-trust, 2026-10-29, payments procedure (2018) gives no figures
+east-sussex-county-council-fostering, 2026-10-29, weekly-pay page gives only total ranges with no year; allowance/fee split is in an image
+essex-fostering, 2026-10-29, finance pages say 2026/27 rises 3.4% but published figures are labelled 2024/25 or 1 April 2025
+darlington-borough-council-fostering, 2026-10-29, allowances reviewed Jan 2026 but fees undated and worked examples do not match the tables
+derby-city-council-fostering, 2026-10-29, only published booklet is 2024-25
+foster-with-gateshead, 2026-10-29, payments page allowances dated 1 April 2024, fees undated
+doncaster-council-fostering, 2026-10-29, how-we-look-after-you page states no year and allowances are below the 2026-27 national minimum
+foster-for-medway, 2026-10-29, fees page states no year and its tier totals and breakdowns do not add up
+suffolk-fostering-service, 2026-10-29, two 2026-27 council documents give different fee levels; unclear which applies

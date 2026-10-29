@@ -1,0 +1,32 @@
+{
+  "slug": "kent",
+  "council": "Kent County Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-29",
+  "sourceUrl": "https://democracy.kent.gov.uk/documents/s136861/26%2000004%20RoD.pdf",
+  "sourceTitle": "Record of Decision 26/00004: Proposed Revisions of Rates Payable and Charges Levied by Kent County Council for Children's Social Care Services in 2026-27",
+  "allowances": [
+    { "label": "Under 2 years", "weekly": 210.00 },
+    { "label": "2 to 4 years", "weekly": 218.62 },
+    { "label": "5 to 10 years", "weekly": 240.15 },
+    { "label": "11 to 15 years", "weekly": 274.62 },
+    { "label": "Over 16 years", "weekly": 320.92 }
+  ],
+  "fees": [
+    { "label": "Reward element, child aged 0 to 8", "weekly": 156.70, "note": "Non-related placements" },
+    { "label": "Reward element, child aged 9 to 18", "weekly": 297.64, "note": "Non-related placements" },
+    { "label": "Skills based payment: Skilled (Level 2)", "weekly": 28.09, "note": "Paid on top of the reward element" },
+    { "label": "Skills based payment: Advanced (Level 3)", "weekly": 70.15, "note": "Paid on top of the reward element" },
+    { "label": "Disability enhancement (standard)", "weekly": 89.30 },
+    { "label": "Disability enhancement (enhanced)", "weekly": 119.06 }
+  ],
+  "feesNote": "For children who are not related to the carer, Kent adds a weekly reward payment set by the child's age, with extra weekly skills payments for carers at Level 2 or Level 3 and a disability enhancement where it applies.",
+  "extras": [
+    "A one-off £100 payment towards clothing and toiletries for newly arrived unaccompanied asylum-seeking children",
+    "Mileage at 45p a mile",
+    "Hourly rate of £13.21 for sessional work and day care"
+  ],
+  "summary": "Kent's 2026-27 rates, set by a Cabinet Member decision made in April 2026, pay a weekly maintenance allowance for each child across five age bands. Carers looking after children who are not related to them also receive a weekly reward payment, which is higher for children aged 9 and over, plus skills and disability payments where these apply.",
+  "areaNames": ["Kent"]
+}

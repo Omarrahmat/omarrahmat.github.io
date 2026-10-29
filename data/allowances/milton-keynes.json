@@ -1,0 +1,30 @@
+{
+  "slug": "milton-keynes",
+  "council": "Milton Keynes City Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-29",
+  "sourceUrl": "https://www.milton-keynes.gov.uk/sites/default/files/2026-04/Mainstream%20Foster%20Carer%20Payment%20Scheme%202026.pdf",
+  "sourceTitle": "Milton Keynes Foster Carer Payments Scheme 2026/27 (Milton Keynes City Council)",
+  "allowances": [
+    { "label": "Age 0 to 4", "weekly": 203 },
+    { "label": "Age 5 to 10", "weekly": 223 },
+    { "label": "Age 11 to 15", "weekly": 255 },
+    { "label": "Age 16 to 17", "weekly": 298 }
+  ],
+  "fees": [
+    { "label": "Tier 1 (newly approved)", "weekly": 169.50, "note": "Per child" },
+    { "label": "Tier 2 (standard)", "weekly": 218.50, "note": "Per child" },
+    { "label": "Tier 3A (enhanced)", "weekly": 364.50, "note": "Per child" },
+    { "label": "Tier 3B (enhanced)", "weekly": 404.50, "note": "Per child" },
+    { "label": "Tier 4 (specialist)", "weekly": 550.00, "note": "Per child" }
+  ],
+  "feesNote": "Milton Keynes pays a weekly professional fee for each child in placement, by the carer's tier; new carers start at Tier 1.",
+  "extras": [
+    "A birthday allowance for a gift each year, with at least £83 to be spent",
+    "A yearly festival payment that rises with the child's age, from £83 for under-fives to £207 for 16 to 18 year olds",
+    "A holiday allowance of up to £517 per child a year towards a family holiday, on request"
+  ],
+  "summary": "Milton Keynes' 2026/27 scheme, which applies from 6 April 2026, pays a weekly maintenance allowance by the child's age that covers day-to-day costs, clothing, pocket money and savings. On top of this, carers receive a weekly professional fee for each child, set by their tier.",
+  "areaNames": ["Milton Keynes"]
+}
