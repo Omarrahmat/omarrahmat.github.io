@@ -296,5 +296,45 @@
    }
   ],
   "reviewNotes": "The Fostering Network's article names the Education Secretary as Lucy Powell MP; this could not be independently verified in this session, so the story refers to 'the Education Secretary' without a name. Editor should confirm the current office-holder. Consider linking the DfE's own free school meals guidance on GOV.UK for the September 2026 rule change. Survey methodology (sampling, dates) is not described on the charity's page."
+ },
+ {
+  "slug": "ceredigion-foster-carers-560-a-week-council-tax-relief-2026",
+  "title": "Ceredigion raises foster carer allowance to £560 a week and backs council tax relief",
+  "standfirst": "Ceredigion County Council has replaced its multi-part payment system with a flat £560 a week per child and agreed in principle to cover foster carers' council tax from April 2027.",
+  "publishedOn": "2026-10-29",
+  "eventDate": "2026-10-06",
+  "topics": [
+   "councils",
+   "pay-and-allowances",
+   "wales"
+  ],
+  "body": [
+   "Foster carers approved by Ceredigion County Council now receive £560 a week for each child they look after, whatever the child's age, under a new allowance structure approved by the council's Cabinet in October. According to the Cabinet report, the new rates apply from 4 October 2026, and local coverage published this week describes the change as almost doubling what carers were previously paid.",
+   "The £560 is made up of the Welsh Government's basic fostering allowance plus a larger Ceredigion discretionary payment. The report sets the council's top-up at £331 a week for children under five, £352 for children aged five to under 16, and £300 for young people aged 16 to under 18, on top of basic allowances of £229, £208 and £260 respectively. Under the old system, carers received a basic allowance plus separate age-related, training, NVQ and length-of-service elements, which the council says averaged about £290 a week per placement. One-off payments for Christmas, holidays and birthdays are unchanged.",
+   "Cabinet also supported, in principle, giving foster carers registered with Ceredigion the equivalent of 100 per cent council tax relief from 1 April 2027. This is not yet in place: it still has to be agreed through the council's 2027/28 budget. The report says carers living in Ceredigion would have the amount credited to their council tax account, while those living elsewhere would have it paid to their own council on presentation of a bill.",
+   "The council's reasons are set out plainly in the report. The number of children it looks after has risen from 85 in March 2021 to 149, and it has 47 registered foster carers of its own. It wants to recruit and keep more local carers, so that more children can stay close to home, and to rely less on independent fostering agency and residential placements, which cost considerably more. It estimates the allowance rise at about £806,000 a year and the council tax relief at about £114,000, and says the cost would be covered if around 19 agency placements and one residential placement moved to its own carers. Councillor Alun Williams, the Cabinet Member responsible, called the change a bold move that the council expects to pay off over time.",
+   "What this means for you: if you live in or near Ceredigion and are thinking about fostering, the council's own fostering service now offers a single, age-independent weekly rate that is simpler to compare with other services. Existing Ceredigion carers should see the new rate already applied. If you are weighing up the council tax relief, remember it depends on next year's budget decision.",
+   "The change comes as Wales moves children's social care towards a not-for-profit model, which the council report cites as part of its thinking. The council tax proposal is expected to return to councillors during the 2027/28 budget process before its planned start in April 2027."
+  ],
+  "sources": [
+   {
+    "title": "Foster Care Allowances and Council Tax Relief (report to Cabinet)",
+    "url": "https://council.ceredigion.gov.uk/documents/s11763/Report-%20Foster%20Care%20Allowances%20and%20Council%20Tax%20Relief.pdf?LLL=0",
+    "publisher": "Ceredigion County Council",
+    "date": "2026-09-21"
+   },
+   {
+    "title": "Ceredigion Council boosts foster-carer support in bid to keep more children close to home",
+    "url": "https://www.cambrian-news.co.uk/news/politics/ceredigion-council-boosts-foster-carer-support-in-bid-to-keep-more-children-close-to-home-967781",
+    "publisher": "Cambrian News",
+    "date": "2026-10-28"
+   },
+   {
+    "title": "Ceredigion foster carers to receive £560 a week under new council deal",
+    "url": "https://herald.wales/mid-wales/ceredigion-mid-wales/ceredigion-foster-carers-560-week-council-tax-relief/",
+    "publisher": "Herald.Wales",
+    "date": "2026-10-28"
+   }
+  ]
  }
 ]
