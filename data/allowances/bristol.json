@@ -1,0 +1,31 @@
+{
+  "slug": "bristol",
+  "council": "Bristol City Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-29",
+  "sourceUrl": "https://www.bristol.gov.uk/foster-with-bristol-city-council/payments-foster-carers/fees",
+  "sourceTitle": "Fees (Foster with Bristol City Council)",
+  "allowances": [
+    { "label": "0 to 2", "weekly": 181.95 },
+    { "label": "3 to 4", "weekly": 188.37 },
+    { "label": "5 to 10", "weekly": 207.64 },
+    { "label": "11 to 15", "weekly": 243.32 },
+    { "label": "16 to 17", "weekly": 296.16 },
+    { "label": "18 and over (Staying Put)", "weekly": 296.16 }
+  ],
+  "fees": [
+    { "label": "Level 2", "weekly": 160, "note": "Per child, on top of the Level 1 allowance" },
+    { "label": "Level 3", "weekly": 250, "note": "Per child, on top of the Level 1 allowance" }
+  ],
+  "feesNote": "All Bristol carers receive the Level 1 weekly allowance for each child; carers at Level 2 or 3 also receive a fixed weekly fee per child.",
+  "extras": [
+    "Birthday and Christmas or religious festival payments for each child, from £170 to £276.71 each depending on age",
+    "Several school holiday payments through the year, set by the child's age",
+    "Start-up grant of up to £500 for new mainstream carers",
+    "Parent and child placements paid at £800 a week per family",
+    "Reimbursement if a carer loses the single person council tax discount because a young person aged 18 or over stays on"
+  ],
+  "summary": "Bristol pays every foster carer a Level 1 weekly allowance by the child's age, and adds a fixed weekly fee per child for carers at Level 2 or Level 3. The council's page does not state which year the rates apply to, so check the current figures with Bristol's fostering team before you apply.",
+  "areaNames": ["Bristol"]
+}

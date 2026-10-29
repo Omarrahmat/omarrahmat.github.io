@@ -1,0 +1,25 @@
+{
+  "slug": "bracknell-forest",
+  "council": "Bracknell Forest Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-29",
+  "sourceUrl": "https://www.bracknell-forest.gov.uk/children-and-family-services/fostering-adoption-and-looked-after-children/bracknell-forest-fostering/financial-support",
+  "sourceTitle": "Fostering financial support (Bracknell Forest Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 304.83, "note": "Tier 1: allowance and professional fee combined" },
+    { "label": "5 to 10", "weekly": 334.33, "note": "Tier 1: allowance and professional fee combined" },
+    { "label": "11 to 15", "weekly": 459.00, "note": "Tier 1: allowance and professional fee combined" },
+    { "label": "16 and over", "weekly": 480.34, "note": "Tier 1: allowance and professional fee combined" }
+  ],
+  "extras": [
+    "Celebration payment of £100 a year for occasions such as birthdays and religious festivals",
+    "Annual bonus of up to £1,000 a year, subject to criteria",
+    "Skills payment of £50 a week and disability payment of £75 a week where they apply",
+    "Up to two weeks of paid respite a year",
+    "Step-down payment of £150 a week and £50 per child for emergency placements",
+    "Referral reward of up to £2,500 through the Care Friends app"
+  ],
+  "summary": "Bracknell Forest publishes a single weekly figure per child that combines the child's allowance and the carer's professional fee, set for April 2026 to March 2027. Every carer starts on Tier 1, shown here; carers who complete further learning and development can move to Tier 2, which pays more, so check the Tier 2 rates with the council.",
+  "areaNames": ["Bracknell Forest"]
+}

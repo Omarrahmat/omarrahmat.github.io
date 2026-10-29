@@ -1,0 +1,29 @@
+{
+  "slug": "central-bedfordshire",
+  "council": "Central Bedfordshire Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-29",
+  "sourceUrl": "https://www.centralbedfordshire.gov.uk/fostering-bedfordshire/fostering-payments-allowances-and-benefits",
+  "sourceTitle": "Fostering payments, allowances and benefits (Central Bedfordshire Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 189 },
+    { "label": "5 to 10", "weekly": 208 },
+    { "label": "11 to 15", "weekly": 238 },
+    { "label": "16 and over", "weekly": 278 }
+  ],
+  "fees": [
+    { "label": "Tier one (first two years of fostering)", "weekly": 100 },
+    { "label": "Tier two (fostering for over two years)", "weekly": 175 }
+  ],
+  "feesNote": "Central Bedfordshire pays a weekly foster care fee for each child on top of the child allowance, rising after two years of fostering.",
+  "extras": [
+    "Annual birthday allowance equal to one week's child allowance",
+    "Annual holiday allowance equal to two weeks' child allowance",
+    "Welcome fee of £1,000 for newly approved mainstream carers",
+    "Long service payment of £500 after five years, rising by £500 for each further five years",
+    "£1,000 for referring someone who becomes an approved foster carer"
+  ],
+  "summary": "Central Bedfordshire pays a weekly child allowance by age plus a flat weekly fee for the carer, which rises from £100 to £175 after two years. The council's page does not state which year the rates apply to, so check the current figures with the fostering team before you apply.",
+  "areaNames": ["Central Bedfordshire"]
+}

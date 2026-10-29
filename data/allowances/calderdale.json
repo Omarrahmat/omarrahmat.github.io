@@ -1,0 +1,27 @@
+{
+  "slug": "calderdale",
+  "council": "Calderdale Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-29",
+  "sourceUrl": "https://new.calderdale.gov.uk/health-and-social-care/children-and-family-care/fostering/fees-allowances",
+  "sourceTitle": "Fees and allowances (Calderdale Council fostering)",
+  "allowances": [
+    { "label": "0 to 2", "weekly": 176 },
+    { "label": "3 to 4", "weekly": 182 },
+    { "label": "5 to 10", "weekly": 201 },
+    { "label": "11 to 15", "weekly": 227 },
+    { "label": "16 and over", "weekly": 267 }
+  ],
+  "fees": [
+    { "label": "Skill-based payment: lowest rate", "weekly": 138.74 },
+    { "label": "Skill-based payment: highest rate", "weekly": 386.54 }
+  ],
+  "feesNote": "On top of the maintenance allowance, Calderdale pays a weekly skill-based payment to the carer; the council publishes the range rather than the individual levels.",
+  "extras": [
+    "Additional allowances for birthdays, festivals, holidays, clothing and school uniform (amounts not published)",
+    "Full council tax exemption"
+  ],
+  "summary": "Calderdale's maintenance allowance follows the government's minimum allowances for April 2026 to March 2027, set by the child's age. Carers also receive a weekly skill-based payment, which ranges from the lowest to the highest rate shown depending on their skills and experience.",
+  "areaNames": ["Calderdale"]
+}

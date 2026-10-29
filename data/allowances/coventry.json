@@ -1,0 +1,28 @@
+{
+  "slug": "coventry",
+  "council": "Coventry City Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-29",
+  "sourceUrl": "https://www.coventry.gov.uk/downloads/file/42028/fostering-fees-leaflet",
+  "sourceTitle": "Payments and Finances for Fostering with Coventry City Council 2026/2027",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 195.67 },
+    { "label": "5 to 10", "weekly": 222.99 },
+    { "label": "11 to 15", "weekly": 277.37 },
+    { "label": "16 and over", "weekly": 337.40 }
+  ],
+  "fees": [
+    { "label": "Standard fostering fee (Level 2)", "weekly": 175.40, "note": "Per child" },
+    { "label": "Enhanced fostering fee (Level 3)", "weekly": 269.78, "note": "Per child" },
+    { "label": "Parent and child placement fee", "weekly": 538.95 }
+  ],
+  "feesNote": "Coventry pays mainstream foster carers a weekly fee for each child on top of the allowance, at a standard or enhanced level.",
+  "extras": [
+    "Five extra weeks of fostering allowance a year, paid at key times for birthdays, festivals, holidays and clothing",
+    "Mileage at 45p a mile for some additional journeys",
+    "£5 a week of the allowance is saved for the child and passed to them at 18"
+  ],
+  "summary": "Coventry's 2026/2027 scheme pays a weekly fostering allowance by the child's age, plus a standard or enhanced weekly fee per child for mainstream carers. Carers also receive five extra weeks of allowance across the year for birthdays, festivals, holidays and clothing.",
+  "areaNames": ["Coventry"]
+}

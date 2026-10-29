@@ -1,0 +1,21 @@
+barking-and-dagenham-fostering-service, 2026-10-29, lbbd.gov.uk/fostering has no figures; committee PDF (modgov.lbbd.gov.uk Foster Carer Uplift App 1-6) could not be read
+barnet-fostering, 2026-10-29, council page blocked by bot check; only published policy (fost-finance.pdf) is dated April 2024
+bexley-fostering, 2026-10-29, payments page states no year and its 0-4 rate is below the 2026-27 London minimum for ages 3-4, so may not be current
+brent-fostering, 2026-10-29, fostering-with-brent page gives April 2025 rates and its "up to" figure does not match its own table
+bromley-fostering, 2026-10-29, fostering-allowance-rates page totals do not equal allowance plus fee; unclear which figures are current
+camden-fostering, 2026-10-29, fees page states no year and specialist 16-18 total does not equal allowance plus fee
+royal-greenwich-fostering, 2026-10-29, benefits page gives no figures
+hackney-fostering, 2026-10-29, fostering page gives no figures (joined North London Fostering Hub Oct 2026)
+havering-fostering, 2026-10-29, only published scale is 2023-24
+islington-council-fostering, 2026-10-29, fees page states no year, allowances below 2026-27 London minimum and totals do not add up
+lambeth-fostering, 2026-10-29, fees page states no year and allowances are below the 2026-27 London minimum, so likely last year's
+merton-council-fostering, 2026-10-29, payments page gives no allowance figures
+newham-council-fostering, 2026-10-29, only an "up to" weekly figure, no scale
+southwark-council-fostering, 2026-10-29, page publishes 2023 to 2024 rates only
+sutton-council-fostering, 2026-10-29, allowances page states no year and allowances are below the 2026-27 London minimum
+hounslow-council-fostering, 2026-10-29, only an "up to" fortnightly figure, no scale
+harrow-council-fostering, 2026-10-29, single weekly figure with no age bands or year
+ealing-fostering-connections, 2026-10-29, council page gives no figures
+kingston-upon-thames-council-fostering, 2026-10-29, Achieving for Children page shows only the national minimum example, not its own scale
+bedford-borough-council-fostering, 2026-10-29, allowances page states no year and its worked examples use different fee figures from its tables
+cambridgeshire-fostering-service, 2026-10-29, finances page states no year and does not say whether the skill-level figures include the allowance
