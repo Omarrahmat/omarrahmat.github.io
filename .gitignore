@@ -9,3 +9,4 @@ dashboard/
 docs/
 tsconfig.tsbuildinfo
 /tmp/
+.tmp-*
