@@ -134,3 +134,44 @@ export async function unsubscribeEmail(email: string, provider?: string): Promis
     return r.ok;
   } catch { return false; }
 }
+
+const SEARCH = /(^|\.)(google\.[a-z.]+|bing\.com|duckduckgo\.com|search\.yahoo\.com|yahoo\.com|ecosia\.org|yandex\.[a-z]+|baidu\.com|search\.brave\.com|startpage\.com|qwant\.com|ask\.com|aol\.com)$/;
+const SOCIAL = /(^|\.)(facebook\.com|fb\.com|instagram\.com|linkedin\.com|lnkd\.in|t\.co|twitter\.com|x\.com|tiktok\.com|reddit\.com|pinterest\.[a-z.]+|youtube\.com|threads\.net|nextdoor\.[a-z.]+|whatsapp\.com)$/;
+const MAIL = /(^|\.)(mail\.google\.com|outlook\.live\.com|outlook\.office\.com|outlook\.office365\.com|mail\.yahoo\.com|mail\.aol\.com|webmail\.[a-z.]+|mail\.proton\.me|icloud\.com)$/;
+const AI = /(^|\.)(chatgpt\.com|chat\.openai\.com|perplexity\.ai|claude\.ai|gemini\.google\.com|copilot\.microsoft\.com)$/;
+
+/** Where this page load came from, as {source, medium}. No cookies, nothing personal. */
+export function visitSource(referrer: string, search: string, host: string): { source: string; medium: string; entry: boolean } {
+  const q = new URLSearchParams(search);
+  const clean = (s: string) => s.toLowerCase().replace(/[^a-z0-9._-]/g, '').slice(0, 40);
+  let ref = '';
+  try { ref = referrer ? new URL(referrer).hostname.replace(/^www\./, '') : ''; } catch { ref = ''; }
+  const internal = !!ref && (ref === host.replace(/^www\./, '') || ref.endsWith('fosteringtoday.com'));
+  const utm = clean(q.get('utm_source') || '');
+  if (utm && !internal) return { source: utm, medium: clean(q.get('utm_medium') || 'campaign') || 'campaign', entry: true };
+  if (internal) return { source: 'internal', medium: 'internal', entry: false };
+  if (!ref) return { source: 'direct', medium: 'none', entry: true };
+  if (AI.test(ref)) return { source: clean(ref.split('.').slice(-2, -1)[0] || ref), medium: 'ai', entry: true };
+  if (MAIL.test(ref)) return { source: 'webmail', medium: 'email', entry: true };
+  if (SEARCH.test(ref)) {
+    const name = /google/.test(ref) ? 'google' : /bing/.test(ref) ? 'bing' : /duckduckgo/.test(ref) ? 'duckduckgo' : /yahoo/.test(ref) ? 'yahoo' : /ecosia/.test(ref) ? 'ecosia' : clean(ref.split('.')[0]);
+    return { source: name, medium: 'search', entry: true };
+  }
+  if (SOCIAL.test(ref)) {
+    const name = /facebook|fb\.com/.test(ref) ? 'facebook' : /linkedin|lnkd/.test(ref) ? 'linkedin' : /^t\.co$|twitter|^x\.com/.test(ref) ? 'x' : clean(ref.split('.').slice(-2, -1)[0] || ref);
+    return { source: name, medium: 'social', entry: true };
+  }
+  return { source: clean(ref), medium: 'referral', entry: true };
+}
+
+/** Counts this page load by traffic source (every load; search-engine robots and test tools are not counted). */
+export function trackVisit() {
+  if (!configured) return;
+  try {
+    const ua = navigator.userAgent;
+    if ((navigator as any).webdriver || /bot|crawl|spider|headless|preview|lighthouse/i.test(ua)) return;
+    const v = visitSource(document.referrer, location.search, location.hostname);
+    const landing = location.pathname.replace(/[^A-Za-z0-9/_.-]/g, '').slice(0, 160) || '/';
+    fetch(`${URL_}/rest/v1/rpc/track_visit`, { method: 'POST', keepalive: true, headers: { ...baseHeaders(), 'Content-Type': 'application/json' }, body: JSON.stringify({ p_source: v.source, p_medium: v.medium, p_landing: landing, p_entry: v.entry }) }).catch(() => {});
+  } catch { /* ignore */ }
+}

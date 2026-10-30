@@ -35,7 +35,7 @@ export default function Portal({ providers }: { providers: Prov[] }) {
   return <Shell session={session} members={members.map((m) => m.provider_id)} providers={providers} onOut={() => { signOut(); setSession(null); setMembers(null); }} />;
 }
 
-function Login({ onDone }: { onDone: () => void }) {
+export function Login({ onDone }: { onDone: () => void }) {
   const [email, setEmail] = useState('');
   const [code, setCode] = useState('');
   const [step, setStep] = useState<'email' | 'code'>('email');

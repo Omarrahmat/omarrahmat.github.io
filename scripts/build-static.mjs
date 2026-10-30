@@ -30,6 +30,7 @@ const ISLANDS = {
   PayCalculator: ['default'],
   Portal: ['default'],
   Unsubscribe: ['default'],
+  HQ: ['default'],
   ProfileLive: ['default', 'LogoTile'],
 };
 

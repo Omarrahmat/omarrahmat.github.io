@@ -24,6 +24,8 @@ const json = (route, body, status = 200) => route.fulfill({ status, contentType:
 const PID = 'abacus-fostering';
 const calls = [];
 const settingsPosts = [];
+const visits = [];
+let ownerOk = false;
 
 const b = await chromium.launch();
 const ctx = await b.newContext({ viewport: { width: 1100, height: 900 }, userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Safari/605.1.15' });
@@ -43,6 +45,17 @@ await pg.route(/supabase\.co/, async (route) => {
   if (u.pathname === '/auth/v1/verify') { const b = JSON.parse(route.request().postData()); return b.token === '123456' ? json(route, { access_token: 'tok', refresh_token: 'r', expires_in: 3600, user: { id: 'u1', email: b.email } }) : json(route, { msg: 'bad' }, 403); }
   if (u.pathname.endsWith('/rpc/link_my_claims')) return json(route, [{ provider_id: PID }]);
   if (u.pathname.endsWith('/rpc/track_event')) return json(route, null, 204);
+  if (u.pathname.endsWith('/rpc/track_visit')) { visits.push(JSON.parse(route.request().postData())); return json(route, null, 204); }
+  if (u.pathname.endsWith('/rpc/owner_dashboard')) {
+    if (!ownerOk) return json(route, { message: 'not allowed' }, 400);
+    return json(route, { generated_at: new Date().toISOString(), days: 30, money: { mrr: 998, featured: 1, premium: 1 }, payments: { total: 2, unmatched: 0, failed: 0 },
+      outreach: { queued: 150, sent: 30, replied: 2, bounced: 1, unsubscribed: 0, completed: 0, emailed: 33, sent_today: 12 },
+      pipeline: { claims: 3, claims_approved: 2, members: 2, enquiries: 4, contact_requests: 1, newsletter_active: 5, sales_touches: 1 },
+      traffic: { entries: 120, pageviews: 400, by_source: [{ source: 'google', medium: 'search', n: 50 }, { source: 'outreach', medium: 'email', n: 30 }, { source: 'direct', medium: 'none', n: 40 }],
+        by_day: Array.from({ length: 30 }, (_, i) => ({ day: new Date(Date.now() - (29 - i) * 86400000).toISOString().slice(0, 10), entries: i, search: Math.floor(i / 2), pageviews: i * 3 })),
+        top_landing: [{ landing: '/fostering-allowance/kent/', n: 20 }], top_search_landing: [{ landing: '/fostering-allowance/kent/', n: 15 }] },
+      profiles: { by_kind: { view: 90, impression: 200, crawler: 30, website_click: 4 }, top_viewed: [{ provider_id: 'abacus-fostering', n: 9 }] }, areas: [{ area: 'croydon', n: 7 }] });
+  }
   if (u.pathname.endsWith('/profile_events')) return json(route, events);
   if (u.pathname.endsWith('/subscriptions')) return json(route, [{ tier, active_until: null }]);
   if (u.pathname.endsWith('/enquiries')) { if (m === 'PATCH') { enq[0].status = 'contacted'; return json(route, null, 204); } return json(route, enq); }
@@ -124,10 +137,24 @@ await pg.waitForSelector('text=From Abacus');
 check('public profile shows agency text', (await pg.locator('text=friendly agency in Croydon').count()) === 1);
 check('public profile shows agency logo', (await pg.locator('img.logo-img').count()) === 1);
 check('view event recorded', calls.some((c) => c.includes('rpc/track_event')));
+check('page visits are counted with their source', visits.length > 0 && visits.every((v) => v.p_source && v.p_landing && v.p_landing.startsWith('/')));
+// owner dashboard
+await pg.goto(B + '/hq/?utm_source=outreach&utm_medium=email');
+await pg.waitForSelector('[role=alert]');
+check('non-owner is refused the owner dashboard', (await pg.locator('text=does not have access').count()) === 1);
+check('utm-tagged arrival recorded as email', visits.some((v) => v.p_source === 'outreach' && v.p_medium === 'email' && v.p_entry === true));
+ownerOk = true;
+await pg.reload(); await pg.waitForSelector('text=Monthly recurring revenue');
+check('owner dashboard shows revenue and sources', (await pg.locator('text=£998').count()) === 1 && (await pg.locator('text=google (Search engine)').count()) === 1 && (await pg.locator('td', { hasText: 'Abacus Fostering' }).count()) >= 1);
+check('owner dashboard is noindex', (await pg.locator('meta[name=robots]').getAttribute('content')) === 'noindex');
+if (shots) await pg.screenshot({ path: shots + '/hq.png', fullPage: true });
 check('no page errors', errs.length === 0, errs.join(' | '));
 await pg.setViewportSize({ width: 390, height: 800 });
 await pg.goto(B + '/portal/'); await pg.waitForSelector('text=Profile views, last 30 days');
 check('no horizontal scroll on mobile', await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+await pg.goto(B + '/hq/'); await pg.waitForSelector('text=Monthly recurring revenue');
+check('owner dashboard fits a phone', await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+if (shots) await pg.screenshot({ path: shots + '/hq-mobile.png', fullPage: true });
 if (shots) await pg.screenshot({ path: shots + '/portal-mobile.png', fullPage: true });
 await b.close(); server.close();
 console.log(failed ? `\n${failed} failed` : '\nAll portal checks passed'); process.exit(failed ? 1 : 0);

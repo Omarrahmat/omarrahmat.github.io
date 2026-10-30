@@ -27,13 +27,14 @@ const LEGAL = 'Fostering Today is operated by Urban Carers Ltd, 3rd Floor, 45 Al
 
 function email(p) {
   const isCouncil = p.providerType === 'local_authority';
-  const profile = `${SITE}/agency/${p.id}/`;
+  const UTM = 'utm_source=outreach&utm_medium=email&utm_campaign=launch';
+  const profile = `${SITE}/agency/${p.id}/?${UTM}`;
   const shot = `${SITE}/previews/${p.id}.jpg`;
-  const claim = `${SITE}/claim/?provider=${p.id}`;
+  const claim = `${SITE}/claim/?provider=${p.id}&${UTM}`;
   const first = p.name.split(' (')[0];
   const hello = /fostering/i.test(first) ? `${first} team` : `${first} fostering team`;
   const subject = `${first}: your profile is live on Fostering Today. Claim it free`;
-  const askUrl = `${SITE}/contact/?plan=${isCouncil ? 'council' : 'featured'}`;
+  const askUrl = `${SITE}/contact/?plan=${isCouncil ? 'council' : 'featured'}&${UTM}`;
   const pre = 'Your profile is already live. Claim it free to add your logo and see who is looking at it.';
 
   const stat = `Last year there were almost 150,000 fostering enquiries in England but only 7,365 newly approved carers (${src(enq)}). People are searching; the agencies and councils they find first are the ones they call.`;

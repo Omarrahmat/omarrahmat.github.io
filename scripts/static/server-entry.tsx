@@ -10,6 +10,7 @@ import * as AllowPage from '@/app/fostering-allowance/[council]/page';
 import * as AreaPage from '@/app/fostering-agencies/[area]/page';
 import * as Portal from '@/app/portal/page';
 import * as UnsubPage from '@/app/unsubscribe/page';
+import * as HQPage from '@/app/hq/page';
 import * as Contact from '@/app/contact/page';
 import * as Guides from '@/app/guides/page';
 import * as Payments from '@/app/payments/page';
@@ -67,7 +68,7 @@ const file = (path: string) => (path === '/' ? 'index.html' : path.replace(/^\//
 export async function buildAll(): Promise<{ file: string; content: string }[]> {
   const out: { file: string; content: string }[] = [];
   const statics: [string, any][] = [
-    ['/', Home], ['/find-an-agency/', Find], ['/packages/', Packages], ['/claim/', Claim], ['/portal/', Portal], ['/fostering-agencies/', AreasHub], ['/fostering-allowance/', AllowHub], ['/unsubscribe/', UnsubPage], ['/contact/', Contact],
+    ['/', Home], ['/find-an-agency/', Find], ['/packages/', Packages], ['/claim/', Claim], ['/portal/', Portal], ['/fostering-agencies/', AreasHub], ['/fostering-allowance/', AllowHub], ['/unsubscribe/', UnsubPage], ['/hq/', HQPage], ['/contact/', Contact],
     ['/guides/', Guides], ['/payments/', Payments], ['/news/', News], ['/calculator/', Calculator],
   ];
   for (const [path, mod] of statics) out.push({ file: file(path), content: await page(path, mod, {}) });
