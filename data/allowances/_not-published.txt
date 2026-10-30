@@ -39,3 +39,24 @@ foster-with-gateshead, 2026-10-29, payments page allowances dated 1 April 2024, 
 doncaster-council-fostering, 2026-10-29, how-we-look-after-you page states no year and allowances are below the 2026-27 national minimum
 foster-for-medway, 2026-10-29, fees page states no year and its tier totals and breakdowns do not add up
 suffolk-fostering-service, 2026-10-29, two 2026-27 council documents give different fee levels; unclear which applies
+enfield-fostering, 2026-10-30, only published allowances document is dated April 2024
+hammersmith-and-fulham-council-fostering, 2026-10-30, Fostering Shared Services fees page gives only a monthly maximum; age-band figures not readable and no year
+kensington-and-chelsea-council-fostering, 2026-10-30, Fostering Shared Services fees page gives only a monthly maximum; age-band figures not readable and no year
+westminster-council-fostering, 2026-10-30, Fostering Shared Services fees page gives only a monthly maximum; age-band figures not readable and no year
+richmond-upon-thames-council-fostering, 2026-10-30, Achieving for Children page shows only a London minimum example, no year and no fee figures
+bradford-children-and-families-trust-fostering, 2026-10-30, procedures chapter refers to a separate payments document that could not be found
+foster-for-lancashire, 2026-10-30, money page gives only a weekly range from April 2026, no age bands or fee levels
+durham-county-council-fostering, 2026-10-30, payments page gives only annual examples, no scale or year
+east-riding-of-yorkshire-council-fostering, 2026-10-30, allowances page gives combined totals with no year and its worked examples do not match the table
+dorset-council-fostering, 2026-10-30, payments page gives no figures
+hartlepool-borough-council-fostering, 2026-10-30, allowances labelled 2024 and fees undated
+herefordshire-council-fostering, 2026-10-30, fees page gives only "up to" figures and examples, no scale
+hertfordshire-county-council-fostering-service, 2026-10-30, payment policy page shows 2020/21 rates
+hull-city-council-fostering, 2026-10-30, rates page states no year and its worked examples do not match its tables
+kirklees-council-fostering, 2026-10-30, allowances page returns page not found
+leeds-city-council-fostering, 2026-10-30, pay page states no year and its examples do not match its tables
+leicestershire-county-council-fostering, 2026-10-30, page gives 2026/27 case studies only, no scale
+oldham-council-fostering, 2026-10-30, only figures are in an August 2026 cabinet report whose tables are misaligned
+trafford-council-fostering, 2026-10-30, pay page shows 2025 to 2026 rates
+worcestershire-fostering, 2026-10-30, financial support page rates dated 1 April 2025
+fostering-north-somerset, 2026-10-30, allowances page states no year and tells readers to request current rates

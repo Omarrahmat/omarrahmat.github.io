@@ -1,0 +1,31 @@
+{
+  "slug": "luton",
+  "council": "Luton Borough Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-30",
+  "sourceUrl": "https://www.luton.gov.uk/health-social-care/children-young-people-families/adoption-fostering/fostering/fostering-allowances-fees",
+  "sourceTitle": "Fostering allowances and fees (Luton Borough Council)",
+  "allowances": [
+    { "label": "0 to 2 years", "weekly": 189 },
+    { "label": "3 to 4 years", "weekly": 196 },
+    { "label": "5 to 10 years", "weekly": 216 },
+    { "label": "11 to 15 years", "weekly": 257.74 },
+    { "label": "16 to 17 years", "weekly": 288 }
+  ],
+  "fees": [
+    { "label": "First year of fostering with Luton", "weekly": 145.90, "note": "Per child" },
+    { "label": "Second to fourth year of fostering with Luton", "weekly": 202.77, "note": "Per child" },
+    { "label": "After five years of fostering with Luton", "weekly": 259.13, "note": "Per child" }
+  ],
+  "feesNote": "Luton pays a weekly skills fee for each child on top of the allowance, and it rises with the number of years the carer has fostered with the council.",
+  "extras": [
+    "Birthday allowance of £100 for children up to 10 and £150 for those aged 11 to 18",
+    "Festive allowance of £100 for children up to 10 and £150 for those aged 11 to 18",
+    "Holiday allowance of £400 for each child",
+    "A £1,000 contribution to the Council Tax bill for carers looking after a child at the start of the Council Tax year on 1 April",
+    "Part of the weekly allowance is put aside as savings for the child"
+  ],
+  "summary": "Luton pays a weekly allowance for each child across five age bands, plus a weekly skills fee per child that increases with the carer's years of fostering with the council. The council's page does not state which year the rates apply to, so we have listed them under the current financial year; check the latest figures with Luton's fostering team.",
+  "areaNames": ["Luton"]
+}

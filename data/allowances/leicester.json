@@ -1,0 +1,29 @@
+{
+  "slug": "leicester",
+  "council": "Leicester City Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-30",
+  "sourceUrl": "https://www.leicester.gov.uk/about-council/policies-plans-and-strategies/leicester-city-council-fostering/fostering-payments-benefits",
+  "sourceTitle": "Fostering payments & benefits (Leicester City Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 182 },
+    { "label": "5 to 10", "weekly": 201 },
+    { "label": "11 to 15", "weekly": 227 },
+    { "label": "16 and over", "weekly": 267 }
+  ],
+  "fees": [
+    { "label": "Level 1 (newly approved foster carers)", "weekly": 50, "note": "Per child" },
+    { "label": "Level 2 (established foster carers, over 1 year)", "weekly": 90, "note": "Per child" },
+    { "label": "Enhanced fostering", "weekly": 250, "note": "Per child" },
+    { "label": "Specialist fostering", "weekly": 440, "note": "Per child, for children aged 5 and over" }
+  ],
+  "feesNote": "Leicester adds a weekly accreditation payment for each child on top of the age-related payment, and the amount rises with the carer's level or scheme.",
+  "extras": [
+    "One extra week's allowance just before the child's birthday",
+    "One extra week's allowance at the start of December for Christmas, or at another major religious festival if that suits the child better",
+    "Two extra weeks' allowance a year for holidays, for each child"
+  ],
+  "summary": "Leicester pays a weekly amount for each child by age, plus a weekly accreditation payment per child that starts at £50 for newly approved carers and is higher for established, enhanced and specialist carers. The council's page does not state which year the rates apply to, so we have listed them under the current financial year; check the latest figures with the fostering team.",
+  "areaNames": ["Leicester"]
+}

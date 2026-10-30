@@ -1,0 +1,32 @@
+{
+  "slug": "newcastle",
+  "council": "Newcastle City Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-30",
+  "sourceUrl": "https://new.newcastle.gov.uk/fostering/about-fostering/fees-and-allowances",
+  "sourceTitle": "Fees and allowances (Newcastle City Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 182 },
+    { "label": "5 to 10", "weekly": 201 },
+    { "label": "11 to 15", "weekly": 227 },
+    { "label": "16 and over", "weekly": 267 }
+  ],
+  "fees": [
+    { "label": "Tier 1 (mainstream), child aged 0 to 4", "weekly": 106.65, "note": "Per child" },
+    { "label": "Tier 1 (mainstream), child aged 5 and over", "weekly": 159.98, "note": "Per child" },
+    { "label": "Tier 2 (complex needs), child aged 0 to 4", "weekly": 159.98, "note": "Per child" },
+    { "label": "Tier 2 (complex needs), child aged 5 and over", "weekly": 213.30, "note": "Per child" },
+    { "label": "Tier 3, child aged 0 to 4", "weekly": 203.98, "note": "Per child" },
+    { "label": "Tier 3, child aged 5 to 10", "weekly": 267.47, "note": "Per child" },
+    { "label": "Tier 3, child aged 11 and over", "weekly": 275.88, "note": "Per child" }
+  ],
+  "feesNote": "Newcastle adds a weekly fee for each child on top of the allowance; the fee depends on the tier of care (Tier 3 is for children with disabilities or severe emotional and behavioural needs) and the child's age.",
+  "extras": [
+    "Tier 4 (Build a Future, and parent and child placements) pays a combined allowance and fee of £760 a week per child",
+    "Tier 5 (Change a Future) pays a combined allowance and fee of £1,015 a week per child, and emergency foster carers can receive a £350 retainer",
+    "Daily and half-day rates are published for respite care at each tier"
+  ],
+  "summary": "Newcastle pays the same weekly allowance by the child's age at every tier, plus a weekly fee per child that rises with the complexity of the child's needs, so a Tier 1 carer receives £288.65 to £426.98 a week for one child. The council's page does not state which year the rates apply to, so we have listed them under the current financial year; check the latest figures with the fostering team.",
+  "areaNames": ["Newcastle upon Tyne"]
+}

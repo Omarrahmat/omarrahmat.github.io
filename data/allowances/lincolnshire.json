@@ -1,0 +1,22 @@
+{
+  "slug": "lincolnshire",
+  "council": "Lincolnshire County Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-30",
+  "sourceUrl": "https://www.lincolnshirefosteringservice.org.uk/thinking-fostering/foster-care-pay-allowances",
+  "sourceTitle": "Foster care pay and allowances (Lincolnshire Fostering Service, Lincolnshire County Council)",
+  "allowances": [
+    { "label": "Ages 0 to 4", "weekly": 192.98 },
+    { "label": "Ages 5 to 10", "weekly": 219.38 },
+    { "label": "Ages 11 to 15", "weekly": 272.78 },
+    { "label": "Ages 16 and over", "weekly": 331.66 }
+  ],
+  "extras": [
+    "Extra allowances for the child's birthday, religious festivals and holidays (the page does not give the amounts)",
+    "Retention bonuses for carers who stay with the service: £500 after one year, £1,000 after five years and £2,000 after ten years",
+    "Higher weekly payments for carers approved for the council's FOCUS fostering schemes"
+  ],
+  "summary": "Lincolnshire publishes a weekly fostering allowance for each child, set by the child's age and effective from 1 April 2026. The page does not list a separate fee or skills payment for mainstream carers, so ask the fostering team how any additional payments work before you apply.",
+  "areaNames": ["Lincolnshire"]
+}
