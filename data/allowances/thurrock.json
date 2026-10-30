@@ -1,0 +1,27 @@
+{
+  "slug": "thurrock",
+  "council": "Thurrock Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-30",
+  "sourceUrl": "https://www.thurrock.gov.uk/foster-carer-pay",
+  "sourceTitle": "Foster carer payments and support (Thurrock Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 415, "note": "Care Skills: maintenance and £207 reward payment combined" },
+    { "label": "5 to 10", "weekly": 440, "note": "Care Skills: maintenance and £207 reward payment combined" },
+    { "label": "11 to 15", "weekly": 473, "note": "Care Skills: maintenance and £207 reward payment combined" },
+    { "label": "16 or over", "weekly": 516, "note": "Care Skills: maintenance and £207 reward payment combined" },
+    { "label": "0 to 4 (Care Skills+)", "weekly": 467, "note": "Maintenance and £259 reward payment combined" },
+    { "label": "5 to 10 (Care Skills+)", "weekly": 492, "note": "Maintenance and £259 reward payment combined" },
+    { "label": "11 to 15 (Care Skills+)", "weekly": 525, "note": "Maintenance and £259 reward payment combined" },
+    { "label": "16 or over (Care Skills+)", "weekly": 568, "note": "Maintenance and £259 reward payment combined" }
+  ],
+  "extras": [
+    "A separate payment each year for birthday presents",
+    "A further payment for festival presents, such as at Christmas or Eid",
+    "A paid break of up to four weeks a year, separate from the family holiday",
+    "Exemption from council tax for carers who live in Thurrock and foster with Thurrock Council"
+  ],
+  "summary": "Thurrock publishes one weekly total per child that combines the maintenance payment for the child's costs with the carer's reward payment, for amounts applying from 1 April 2026. Care Skills is the standard rate and Care Skills+ is for children with more complex needs; a higher High Need Rate, with a £310 weekly reward payment, is paid in exceptional circumstances.",
+  "areaNames": ["Thurrock"]
+}

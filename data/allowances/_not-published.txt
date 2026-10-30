@@ -60,3 +60,15 @@ oldham-council-fostering, 2026-10-30, only figures are in an August 2026 cabinet
 trafford-council-fostering, 2026-10-30, pay page shows 2025 to 2026 rates
 worcestershire-fostering, 2026-10-30, financial support page rates dated 1 April 2025
 fostering-north-somerset, 2026-10-30, allowances page states no year and tells readers to request current rates
+barnsley-council-fostering, 2026-10-30, financial support page gives only level examples with no age-band scale; full figures are in a 2025 finance guide
+cheshire-east-council-fostering, 2026-10-30, why-foster page gives no figures and links to no payments page
+bury-council-fostering, 2026-10-30, only figures found are in a March 2023 cabinet report
+wigan-council-fostering, 2026-10-30, April 2026 booklet does not say whether tier 2 and 3 figures include the allowance, and tier 4 bands are unclear
+stockport-council-fostering, 2026-10-30, payments page does not state the year or whether the weekly rate includes a fee
+salford-city-council-fostering, 2026-10-30, rewards page states no year and its allowances are below the 2026-27 national minimum
+swindon-borough-council-fostering, 2026-10-30, payments page dated 2017 with a single allowance figure and no age bands
+fostering-southampton, 2026-10-30, allowances page shows 2025-26 rates
+torbay-council-fostering, 2026-10-30, allowances page states no year
+north-yorkshire-council-fostering, 2026-10-30, March 2026 report gives only the basic rate and a 3.4% uplift, not the full 2026-27 scale
+fostering-in-warwickshire, 2026-10-30, financial information page gives no figures and refers to a 2025/26 guide
+city-of-york-council-fostering, 2026-10-30, pay page gives only an annual example, no scale or year

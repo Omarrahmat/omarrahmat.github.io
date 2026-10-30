@@ -1,0 +1,38 @@
+{
+  "slug": "staffordshire",
+  "council": "Staffordshire County Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-30",
+  "sourceUrl": "https://www.staffordshire.gov.uk/sites/default/files/2026-04/Fostering%20Payment%20for%20Skills%202026-27.pdf",
+  "sourceTitle": "Fostering Payment for Skills Scheme 2026-2027 (Staffordshire County Council)",
+  "allowances": [
+    { "label": "0 to 1", "weekly": 178.18 },
+    { "label": "2 to 4", "weekly": 182.24 },
+    { "label": "5 to 10", "weekly": 201.00 },
+    { "label": "11 to 15", "weekly": 239.57 },
+    { "label": "16 to 17", "weekly": 267.50 }
+  ],
+  "fees": [
+    { "label": "Level 2, child aged 0 to 1", "weekly": 56.14 },
+    { "label": "Level 2, child aged 2 to 4", "weekly": 57.26 },
+    { "label": "Level 2, child aged 5 to 10", "weekly": 66.36 },
+    { "label": "Level 2, child aged 11 to 15", "weekly": 91.28 },
+    { "label": "Level 2, child aged 16 to 17", "weekly": 104.30 },
+    { "label": "Level 3, child aged 0 to 1", "weekly": 136.85 },
+    { "label": "Level 3, child aged 2 to 4", "weekly": 138.11 },
+    { "label": "Level 3, child aged 5 to 10", "weekly": 162.89 },
+    { "label": "Level 3, child aged 11 to 15", "weekly": 210.91 },
+    { "label": "Level 3, child aged 16 to 17", "weekly": 234.57 },
+    { "label": "Intensive fostering availability fee", "weekly": 613.17, "note": "Paid on top of the allowance" }
+  ],
+  "feesNote": "Level 1 carers receive the allowance only, Levels 2 to 4 add a skills fee on top that varies with the child's age, and Level 4 fees range from £305.62 to £412.23 a week.",
+  "extras": [
+    "Birthday grant worth one week's allowance for the child's age, paid automatically",
+    "Christmas or festival grant worth one week's allowance for the child's age",
+    "Summer holiday grant worth two weeks' allowance per child, paid in July",
+    "Mileage at 45p a mile with prior agreement"
+  ],
+  "summary": "Staffordshire's 2026-27 Payment for Skills scheme pays a weekly allowance for each child in five age bands, with a skills fee on top at Levels 2 to 4 that rises with the child's age and the carer's level. Carers with relevant childcare experience can be considered to start at Level 3, and intensive foster carers receive a weekly availability fee.",
+  "areaNames": ["Staffordshire"]
+}

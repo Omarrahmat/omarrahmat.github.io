@@ -1,0 +1,35 @@
+{
+  "slug": "walsall",
+  "council": "Walsall Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-30",
+  "sourceUrl": "https://go.walsall.gov.uk/fostering/why-foster-walsall/payments-allowances-and-benefits",
+  "sourceTitle": "Payments, allowances and benefits (Walsall Council)",
+  "allowances": [
+    { "label": "0 to 4 years", "weekly": 182 },
+    { "label": "5 to 10 years", "weekly": 201 },
+    { "label": "11 to 15 years", "weekly": 227 },
+    { "label": "16 years and over", "weekly": 267 }
+  ],
+  "fees": [
+    { "label": "Generic foster carer, 1 child", "weekly": 246, "note": "Household fee" },
+    { "label": "Generic foster carer, 2 children", "weekly": 402, "note": "Household fee" },
+    { "label": "Generic foster carer, 3 children", "weekly": 514, "note": "Household fee" },
+    { "label": "Generic foster carer, 4 children", "weekly": 642, "note": "Household fee" },
+    { "label": "Advanced foster carer, 1 child", "weekly": 307, "note": "Household fee" },
+    { "label": "Advanced foster carer, 2 children", "weekly": 536, "note": "Household fee" },
+    { "label": "Advanced foster carer, 3 children", "weekly": 770, "note": "Household fee" },
+    { "label": "Advanced foster carer, 4 children", "weekly": 963, "note": "Household fee" },
+    { "label": "New Horizon Mockingbird, 1 child", "weekly": 900, "note": "Household fee" }
+  ],
+  "feesNote": "Walsall pays two weekly amounts, a fee for the carer and an allowance for each child; the fee is set for the household and depends on the type of carer and how many children are placed.",
+  "extras": [
+    "Birthday and festival payments each worth one week's allowance for the child's age",
+    "Summer holiday payment worth two weeks' allowance",
+    "No council tax for carers who live in the Walsall borough; carers living elsewhere get a regular payment equal to their annual council tax bill",
+    "Current carers receive £1,000 if someone they refer is approved as a foster carer"
+  ],
+  "summary": "Walsall's rates apply from April 2026: a weekly allowance for each child in four age bands, plus a weekly household fee that rises with the number of children and is higher for advanced carers. Council tax help and birthday, festival and holiday payments come on top.",
+  "areaNames": ["Walsall", "Darlaston"]
+}

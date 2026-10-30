@@ -1,0 +1,27 @@
+{
+  "slug": "rochdale",
+  "council": "Rochdale Borough Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-10-30",
+  "sourceUrl": "https://www.rochdale.gov.uk/fostering/foster-carer-payments-allowances",
+  "sourceTitle": "Foster carer payments and allowances (Rochdale Borough Council)",
+  "allowances": [
+    { "label": "0 to 4 years", "weekly": 182 },
+    { "label": "5 to 10 years", "weekly": 201 },
+    { "label": "11 to 15 years", "weekly": 227 },
+    { "label": "16 and over", "weekly": 267 }
+  ],
+  "fees": [
+    { "label": "Level 2 (approved foster carers)", "weekly": 176.16 },
+    { "label": "Level 3 (enhanced foster carers)", "weekly": 330.31 }
+  ],
+  "feesNote": "Rochdale pays a weekly fee to the carer on top of the child's basic maintenance allowance; the level, from 2 to 3, is discussed during assessment and confirmed after approval at fostering panel.",
+  "extras": [
+    "Birthday allowance worth one week's basic maintenance allowance",
+    "Festival allowance worth one week's basic maintenance allowance",
+    "Holiday allowance once a year, worth two weeks' basic maintenance allowance"
+  ],
+  "summary": "Rochdale pays a basic maintenance allowance for each child across four age bands, plus a weekly fee for the carer at Level 2 or the higher Level 3. The council's page does not state which year the rates apply to, so we have listed them under the current financial year; check the latest figures with Rochdale's fostering team.",
+  "areaNames": ["Rochdale"]
+}
