@@ -63,15 +63,99 @@ function Chart({ days }: { days: Row[] }) {
   );
 }
 
+
+const ROSTER: { group: string; desks: { name: string; when: string; job: string }[] }[] = [
+  { group: 'Leadership', desks: [
+    { name: 'Chief of Staff', when: 'Weekdays 08:15, 12:45, 17:45; weekends 08:15', job: 'Runs the team, sets priorities, acts on your instructions, sends your daily brief' },
+  ] },
+  { group: 'Sales', desks: [
+    { name: 'Lead research desk', when: 'Weekdays 09:47, 14:17', job: 'Finds published addresses for the agencies we cannot email yet' },
+    { name: 'Outreach desk', when: 'Weekdays hourly 09:12 to 15:12', job: 'The one sender: launch emails and follow-ups at the safe daily limit' },
+    { name: 'Closer desk', when: 'Weekdays hourly 09:50 to 17:50', job: 'Answers warm leads fast and takes them to a subscription' },
+    { name: 'Sales desk', when: 'Weekdays 11:17', job: 'Nudges agencies that claimed a profile but have not upgraded' },
+    { name: 'Inbox desk', when: 'Daily hourly 07:36 to 18:36', job: 'Answers hello@ and the website forms, approves claims, copies you in' },
+  ] },
+  { group: 'Money', desks: [
+    { name: 'Payments desk', when: 'Daily hourly 08:03 to 21:03', job: 'Switches plans on and off from Stripe, updates pinned listings' },
+  ] },
+  { group: 'SEO and content', desks: [
+    { name: 'Allowances desk', when: 'Weekdays 09:47, 11:47, 13:47, 15:47', job: 'Council foster pay pages, council figures only' },
+    { name: 'Area pages desk', when: 'Weekdays 10:52, 15:22', job: 'Local write-ups for the "Fostering agencies in" pages' },
+    { name: 'News desk', when: 'Weekdays 10:23', job: 'One sourced fostering news story when there is genuine news' },
+    { name: 'Guides desk', when: 'Mondays and Thursdays 14:41', job: 'In-depth guides answering carers\' questions' },
+    { name: 'PR and links desk', when: 'Wednesdays 11:33', job: 'Data stories pitched to press and charities for links' },
+  ] },
+  { group: 'Reporting', desks: [
+    { name: 'Weekly report', when: 'Mondays 08:07', job: 'Your weekly numbers email' },
+    { name: 'Partner reports', when: '1st of the month 09:37', job: 'Each paying agency gets its own figures' },
+  ] },
+];
+interface Team { board: Record<string, { body: string; updated_at: string; updated_by: string }>; last: Record<string, { at: string; summary: string }>; recent: Row[]; open_handoffs: number }
+const ago = (iso?: string) => {
+  if (!iso) return 'No run logged yet';
+  const m = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+  return m < 60 ? `${m} min ago` : m < 1440 ? `${Math.round(m / 60)} h ago` : `${Math.round(m / 1440)} days ago`;
+};
+
+function TeamPanel({ t }: { t: Team | null }) {
+  if (!t) return <p className="muted">Loading the team…</p>;
+  const pr = t.board.priorities;
+  return (
+    <section aria-labelledby="h-team">
+      <h2 id="h-team" style={{ fontSize: 26, marginBottom: 6 }}>The team</h2>
+      <p className="muted" style={{ fontSize: 14, marginBottom: 14 }}>14 AI staff on scheduled shifts, run by the Chief of Staff. {t.open_handoffs} open hand-offs between desks.</p>
+      {pr && (
+        <div className="form-card" style={{ ...card, marginBottom: 18, background: 'var(--yellow, #ffd54a)' }}>
+          <p className="label">This week&rsquo;s priorities, set by {pr.updated_by}</p>
+          <p style={{ whiteSpace: 'pre-line', fontSize: 15 }}>{pr.body}</p>
+          <p className="muted" style={{ fontSize: 12, marginTop: 6 }}>Updated {ago(pr.updated_at)}</p>
+        </div>
+      )}
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
+        {ROSTER.map((g) => (
+          <div key={g.group}>
+            <h3 style={{ fontSize: 18, marginBottom: 8 }}>{g.group}</h3>
+            <div className="grid-3">
+              {g.desks.map((d) => {
+                const l = t.last[d.name];
+                return (
+                  <div key={d.name} className="form-card" style={{ padding: 14, boxShadow: '3px 3px 0 var(--ink)' }}>
+                    <p style={{ fontWeight: 800, fontSize: 16 }}>{d.name}</p>
+                    <p className="muted" style={{ fontSize: 13 }}>{d.when}</p>
+                    <p style={{ fontSize: 14, margin: '6px 0' }}>{d.job}</p>
+                    <p style={{ fontSize: 13, borderTop: '1px solid #e2dccd', paddingTop: 6 }}><strong>Last:</strong> {l ? `${ago(l.at)}: ${l.summary}` : 'No run logged yet'}</p>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        ))}
+      </div>
+      <h3 style={{ fontSize: 18, margin: '20px 0 8px' }}>Latest team activity</h3>
+      {t.recent.length === 0 ? <p className="muted">The desks start logging from their next run.</p> : (
+        <ul style={{ listStyle: 'none', padding: 0, margin: 0, fontSize: 14 }}>
+          {t.recent.map((r, i) => (
+            <li key={i} style={{ padding: '8px 0', borderBottom: '1px solid #e2dccd' }}>
+              <strong>{r.desk}</strong> <span className="muted">· {ago(r.at)}</span><br />{r.summary}
+              {r.handoff_to && <><br /><span className="muted">Hand-off to {r.handoff_to}: {r.handoff} {r.done_at ? '(done)' : '(open)'}</span></>}
+            </li>
+          ))}
+        </ul>
+      )}
+    </section>
+  );
+}
+
 export default function HQ({ names }: { names: Record<string, string> }) {
   const [session, setSession] = useState<Session | null>(null);
   const [ready, setReady] = useState(false);
   const [days, setDays] = useState(30);
   const [d, setD] = useState<Dash | null>(null);
   const [err, setErr] = useState('');
+  const [team, setTeam] = useState<Team | null>(null);
 
   const load = useCallback(async (n: number) => {
-    try { setD(await rpc<Dash>('owner_dashboard', { p_days: n })); setErr(''); }
+    try { setD(await rpc<Dash>('owner_dashboard', { p_days: n })); setErr(''); rpc<Team>('owner_team').then(setTeam).catch(() => {}); }
     catch (e: any) {
       if (e.message === 'signed-out') { setSession(null); return; }
       setErr(String(e.message).includes('400') || String(e.message).includes('403') ? 'This account does not have access to the owner dashboard.' : 'Could not load the figures. They refresh automatically.');
@@ -100,6 +184,17 @@ export default function HQ({ names }: { names: Record<string, string> }) {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 32 }}>
+      <div style={{ background: 'var(--ink, #14130f)', color: '#fff', borderRadius: 18, padding: '20px 22px', display: 'flex', gap: 16, alignItems: 'center', flexWrap: 'wrap', border: '2px solid var(--ink, #14130f)' }}>
+        <span style={{ background: '#FBF4E6', borderRadius: 12, padding: 4, display: 'inline-flex' }}><svg width={40} height={40} viewBox="0 0 40 40" aria-hidden="true"><circle cx="27" cy="12" r="7" fill="#FFC933" /><path d="M6 38V22a10 10 0 0 1 20 0v16z" fill="#0F3D33" /><path d="M26 38V27a6 6 0 0 1 12 0v11z" fill="#FF6A4D" /></svg></span>
+        <div style={{ flex: '1 1 220px' }}>
+          <p style={{ fontFamily: 'var(--display)', fontWeight: 800, fontSize: 22, lineHeight: 1.1 }}>Fostering Today HQ</p>
+          <p style={{ fontSize: 14, opacity: 0.8 }}>Owner dashboard · Urban Carers Ltd</p>
+        </div>
+        <div style={{ textAlign: 'right' }}>
+          <p style={{ fontFamily: 'var(--display)', fontWeight: 800, fontSize: 26, color: 'var(--yellow, #ffd54a)' }}>{gbp(d.money.mrr)}</p>
+          <p style={{ fontSize: 13, opacity: 0.8 }}>a month of £50,000</p>
+        </div>
+      </div>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 12, flexWrap: 'wrap' }}>
         <p className="muted" style={{ fontSize: 14 }}>Live from the database. Updated {updated}, refreshes every minute. Signed in as {session.user.email}.</p>
         <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
@@ -146,6 +241,8 @@ export default function HQ({ names }: { names: Record<string, string> }) {
           <Tile label="Sales nudges sent" value={d.pipeline.sales_touches} note={`Newsletter: ${d.pipeline.newsletter_active} active`} />
         </div>
       </section>
+
+      <TeamPanel t={team} />
 
       <section aria-labelledby="h-prof">
         <h2 id="h-prof" style={{ fontSize: 26, marginBottom: 12 }}>Agency profiles, last {d.days} days</h2>

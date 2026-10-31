@@ -46,6 +46,7 @@ await pg.route(/supabase\.co/, async (route) => {
   if (u.pathname.endsWith('/rpc/link_my_claims')) return json(route, [{ provider_id: PID }]);
   if (u.pathname.endsWith('/rpc/track_event')) return json(route, null, 204);
   if (u.pathname.endsWith('/rpc/track_visit')) { visits.push(JSON.parse(route.request().postData())); return json(route, null, 204); }
+  if (u.pathname.endsWith('/rpc/owner_team')) return ownerOk ? json(route, { board: { priorities: { body: '1. First paying partner.', updated_at: new Date().toISOString(), updated_by: 'Chief of Staff' } }, last: { 'Outreach desk': { at: new Date().toISOString(), summary: 'Sent 3 launch emails' } }, recent: [{ at: new Date().toISOString(), desk: 'Outreach desk', summary: 'Sent 3 launch emails', handoff_to: null, handoff: null, done_at: null }], open_handoffs: 0 }) : json(route, { message: 'not allowed' }, 400);
   if (u.pathname.endsWith('/rpc/owner_dashboard')) {
     if (!ownerOk) return json(route, { message: 'not allowed' }, 400);
     return json(route, { generated_at: new Date().toISOString(), days: 30, money: { mrr: 998, featured: 1, premium: 1 }, payments: { total: 2, unmatched: 0, failed: 0 },
@@ -145,7 +146,9 @@ check('non-owner is refused the owner dashboard', (await pg.locator('text=does n
 check('utm-tagged arrival recorded as email', visits.some((v) => v.p_source === 'outreach' && v.p_medium === 'email' && v.p_entry === true));
 ownerOk = true;
 await pg.reload(); await pg.waitForSelector('text=Monthly recurring revenue');
-check('owner dashboard shows revenue and sources', (await pg.locator('text=£998').count()) === 1 && (await pg.locator('text=google (Search engine)').count()) === 1 && (await pg.locator('td', { hasText: 'Abacus Fostering' }).count()) >= 1);
+check('owner dashboard shows revenue and sources', (await pg.locator('text=£998').count()) >= 1 && (await pg.locator('text=google (Search engine)').count()) === 1 && (await pg.locator('td', { hasText: 'Abacus Fostering' }).count()) >= 1);
+await pg.waitForSelector('text=This week');
+check('owner dashboard shows the team and priorities', (await pg.locator('text=Chief of Staff').count()) >= 1 && (await pg.locator('text=Sent 3 launch emails').count()) >= 1);
 check('owner dashboard is noindex', (await pg.locator('meta[name=robots]').getAttribute('content')) === 'noindex');
 if (shots) await pg.screenshot({ path: shots + '/hq.png', fullPage: true });
 check('no page errors', errs.length === 0, errs.join(' | '));
