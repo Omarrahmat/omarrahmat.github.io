@@ -50,9 +50,9 @@ for (const file of files) {
     });
   }
 }
-// Newest development first; previews of future events sort after dated news.
-const sortKey = (a) => (a.eventDate && a.eventDate <= a.publishedOn ? a.eventDate : (a.eventDate ? '0000-00-00' : a.publishedOn)) + '|' + a.publishedOn;
-accepted.sort((a, b) => sortKey(b).localeCompare(sortKey(a)) || a.slug.localeCompare(b.slug));
+// Newest published first; within a publishing day, the most recent development first; previews of future events last that day.
+const ev = (a) => (a.eventDate && a.eventDate <= a.publishedOn ? a.eventDate : '0000-00-00');
+accepted.sort((a, b) => b.publishedOn.localeCompare(a.publishedOn) || ev(b).localeCompare(ev(a)) || a.slug.localeCompare(b.slug));
 writeFileSync(join(root, 'src/data/articles.json'), JSON.stringify(accepted, null, 2) + '\n');
 writeFileSync(join(root, 'data/news-report.json'), JSON.stringify({ accepted: accepted.length, rejected }, null, 2) + '\n');
 console.log(`Accepted ${accepted.length} stories, rejected ${rejected.length}.`);
