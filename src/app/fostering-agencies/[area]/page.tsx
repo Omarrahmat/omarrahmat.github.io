@@ -5,6 +5,7 @@ import { ProviderCard } from '@/components/ProviderParts';
 import { pinnedFor } from '@/lib/providers';
 import { areas, areaEntries, slugify } from '@/lib/areas';
 import { allowancesForArea } from '@/lib/allowances';
+import areaGuides from '@/data/area-guides.json';
 
 export const dynamicParams = false;
 export function generateStaticParams() { return areas.map((a) => ({ area: a.slug })); }
@@ -33,6 +34,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
   const councils = entries.filter((p) => p.providerType === 'local_authority').length;
   const agencies = entries.filter((p) => p.providerType === 'independent_agency').length;
   const allowances = allowancesForArea(a.name);
+  const guide = (areaGuides as { slug: string; updatedOn: string; paragraphs: string[]; sources: { title: string; url: string }[] }[]).find((g) => g.slug === a.slug);
   const near = areas.filter((x) => x.slug !== a.slug && entries.some((p) => p.areasServed.some((n) => slugify(n) === x.slug))).sort((x, y) => y.count - x.count).slice(0, 8);
   return (
     <div className="section-tight">
@@ -54,6 +56,13 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
         <div className="grid-3">
           {rest.map((p) => <ProviderCard key={p.id} provider={p} />)}
         </div>
+        {guide && (
+          <section aria-labelledby="about-h" style={{ marginTop: 40, maxWidth: 820 }}>
+            <h2 id="about-h" style={{ fontSize: 26, marginBottom: 10 }}>Fostering in {a.name}</h2>
+            {guide.paragraphs.map((p, i) => <p key={i} style={{ marginBottom: 12 }}>{p}</p>)}
+            <p className="muted" style={{ fontSize: 14 }}>Sources: {guide.sources.map((s, i) => <span key={s.url}>{i > 0 ? '; ' : ''}<a href={s.url} rel="noopener" target="_blank">{s.title}</a></span>)}.</p>
+          </section>
+        )}
         {allowances.length > 0 && (
           <p style={{ marginTop: 32 }}>What the council pays its own carers: {allowances.map((c, i) => <span key={c.slug}>{i > 0 ? ', ' : ''}<Link href={`/fostering-allowance/${c.slug}/`} style={{ fontWeight: 700 }}>{c.council} allowances {c.year}</Link></span>)}.</p>
         )}

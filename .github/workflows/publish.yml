@@ -32,6 +32,7 @@ jobs:
           node scripts/merge-news.mjs
           node scripts/merge-guides.mjs
           node scripts/merge-allowances.mjs
+          node scripts/merge-areas.mjs
       - name: Build
         run: node scripts/build-static.mjs
       - name: Browser tests

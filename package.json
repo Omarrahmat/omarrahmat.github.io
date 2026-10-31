@@ -11,7 +11,8 @@
     "e2e": "node scripts/e2e.mjs",
     "merge:news": "node scripts/merge-news.mjs",
     "build:preview": "node scripts/build-preview.mjs",
-    "merge:allowances": "node scripts/merge-allowances.mjs"
+    "merge:allowances": "node scripts/merge-allowances.mjs",
+    "merge:areas": "node scripts/merge-areas.mjs"
   },
   "dependencies": {
     "next": "^15.0.0",
