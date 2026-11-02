@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import { configured, loadSession, signOut, rpc, type Session } from '@/lib/supa';
 import { Login } from '@/components/Portal';
+import HQInbox from '@/components/HQInbox';
 
 type Row = Record<string, any>;
 interface Dash {
@@ -153,6 +154,7 @@ export default function HQ({ names }: { names: Record<string, string> }) {
   const [d, setD] = useState<Dash | null>(null);
   const [err, setErr] = useState('');
   const [team, setTeam] = useState<Team | null>(null);
+  const [view, setView] = useState<'overview' | 'inbox'>('overview');
 
   const load = useCallback(async (n: number) => {
     try { setD(await rpc<Dash>('owner_dashboard', { p_days: n })); setErr(''); rpc<Team>('owner_team').then(setTeam).catch(() => {}); }
@@ -203,6 +205,10 @@ export default function HQ({ names }: { names: Record<string, string> }) {
         </div>
       </div>
 
+      <div role="tablist" style={{ display: 'flex', gap: 8 }}>
+        {([['overview', 'Overview'], ['inbox', 'Inbox']] as const).map(([k, l]) => <button key={k} role="tab" aria-selected={view === k} className={`btn${view === k ? ' btn-dark' : ''}`} onClick={() => setView(k)}>{l}</button>)}
+      </div>
+      {view === 'inbox' ? <HQInbox /> : (<>
       <section aria-labelledby="h-money">
         <h2 id="h-money" style={{ fontSize: 26, marginBottom: 12 }}>Money</h2>
         <div className="grid-3">
@@ -257,9 +263,12 @@ export default function HQ({ names }: { names: Record<string, string> }) {
         </div>
       </section>
 
+      </>)}
+      {view === 'overview' && (
       <p className="muted" style={{ fontSize: 13, maxWidth: 760 }}>
         Counts are page loads, not unique people, and include repeat visits. No cookies are used and nothing personal is stored: only the day, where the visit came from and the page. Search-engine robots, test tools and other automated traffic are not counted as visitors. Visits from email apps on a computer or phone often show as &ldquo;Typed or bookmarked&rdquo;, because those apps do not say where the click came from; our own emails are tagged so they show as Email.
       </p>
+      )}
     </div>
   );
 }

@@ -46,6 +46,10 @@ await pg.route(/supabase\.co/, async (route) => {
   if (u.pathname.endsWith('/rpc/link_my_claims')) return json(route, [{ provider_id: PID }]);
   if (u.pathname.endsWith('/rpc/track_event')) return json(route, null, 204);
   if (u.pathname.endsWith('/rpc/track_visit')) { visits.push(JSON.parse(route.request().postData())); return json(route, null, 204); }
+  if (u.pathname.endsWith('/rpc/owner_mail')) return json(route, { mirrored_at: new Date().toISOString(), counts: { all: 2, in: 1, out: 1, outreach: 1 }, messages: [
+    { message_id: 'm1', thread_id: 't1', at: new Date().toISOString(), direction: 'in', from_addr: 'Jo <jo@agency.example>', to_addrs: 'hello@fosteringtoday.com', subject: 'Featured for Kent?', preview: 'How much is Featured for Kent?', labels: ['received'] },
+    { message_id: 'm2', thread_id: 't2', at: new Date().toISOString(), direction: 'out', from_addr: 'hello@fosteringtoday.com', to_addrs: 'info@abacus.example', subject: 'Abacus Fostering: your profile is live', preview: 'Hello Abacus', labels: ['sent', 'outreach'] }] });
+  if (u.pathname.endsWith('/rpc/owner_mail_message')) return json(route, { message_id: 'm1', at: new Date().toISOString(), direction: 'in', from_addr: 'Jo <jo@agency.example>', to_addrs: 'hello@fosteringtoday.com', subject: 'Featured for Kent?', body_text: 'How much is Featured for Kent? We recruit in Medway too.', labels: ['received'] });
   if (u.pathname.endsWith('/rpc/owner_team')) return ownerOk ? json(route, { board: { priorities: { body: '1. First paying partner.', updated_at: new Date().toISOString(), updated_by: 'Chief of Staff' } }, last: { 'Outreach desk': { at: new Date().toISOString(), summary: 'Sent 3 launch emails' } }, recent: [{ at: new Date().toISOString(), desk: 'Outreach desk', summary: 'Sent 3 launch emails', handoff_to: null, handoff: null, done_at: null }], open_handoffs: 0 }) : json(route, { message: 'not allowed' }, 400);
   if (u.pathname.endsWith('/rpc/owner_dashboard')) {
     if (!ownerOk) return json(route, { message: 'not allowed' }, 400);
@@ -149,6 +153,13 @@ await pg.reload(); await pg.waitForSelector('text=Monthly recurring revenue');
 check('owner dashboard shows revenue and sources', (await pg.locator('text=£998').count()) >= 1 && (await pg.locator('text=google (Search engine)').count()) === 1 && (await pg.locator('td', { hasText: 'Abacus Fostering' }).count()) >= 1);
 await pg.waitForSelector('text=This week');
 check('owner dashboard shows the team and priorities', (await pg.locator('text=Chief of Staff').count()) >= 1 && (await pg.locator('text=Sent 3 launch emails').count()) >= 1);
+await pg.click('role=tab[name="Inbox"]');
+await pg.waitForSelector('text=Featured for Kent?');
+await pg.click('text=Featured for Kent?');
+await pg.waitForSelector('text=We recruit in Medway too.');
+check('owner inbox lists and opens emails', (await pg.locator('a:has-text("Reply from my email app")').getAttribute('href')).startsWith('mailto:jo@agency.example'));
+if (shots) await pg.screenshot({ path: shots + '/hq-inbox.png', fullPage: true });
+await pg.click('text=Back to inbox'); await pg.click('role=tab[name="Overview"]');
 check('owner dashboard is noindex', (await pg.locator('meta[name=robots]').getAttribute('content')) === 'noindex');
 if (shots) await pg.screenshot({ path: shots + '/hq.png', fullPage: true });
 check('no page errors', errs.length === 0, errs.join(' | '));
