@@ -118,3 +118,22 @@ aberdeen-city-council-fostering, 2026-11-02, financial matters page gives rates 
 moray-council-fostering, 2026-11-02, scheme page states no year and its allowances are below the 2026-27 Scottish Recommended Allowance
 west-dunbartonshire-council-fostering, 2026-11-02, fees page gives allowance rates effective April 2024
 orkney-islands-council-fostering, 2026-11-02, FAQ page gives no figures; only figures found are in a February 2025 committee report
+blackburn-with-darwen-council-fostering-service, 2026-11-02, holiday allowance page gives no figures; March 2026 uplift report could not be opened
+cornwall-council-fostering, 2026-11-02, fostering support page gives no figures
+fostering-in-dudley, 2026-11-02, why-choose-us page gives no figures
+knowsley-council-fostering, 2026-11-02, fostering page gives no figures and refers to Foster4
+fostering-in-somerset, 2026-11-02, fees page states no year and its tables are images; fee figures inconsistent within the page
+foster-for-solihull, 2026-11-02, council fostering page gives no figures
+sandwell-childrens-trust-fostering, 2026-11-02, fees and allowances page could not be read
+shropshire-fostering, 2026-11-02, pay and allowances pages could not be read
+liverpool-city-council-fostering, 2026-11-02, support and rewards page gives no allowance or fee figures
+wirral-council-fostering, 2026-11-02, foster carer careers page gives no figures and refers to Foster4
+sefton-council-fostering, 2026-11-02, financial benefits page gives only ranges and averages with no year; 2026-27 decision PDF could not be read
+west-sussex-county-council-fostering, 2026-11-02, pay page gives only combined totals with no year
+portsmouth-city-council-fostering, 2026-11-02, allowance pages state no year and the 3 to 4 rate is below the 2026-27 South East minimum
+fostering-wiltshire, 2026-11-02, payments page gives levels with no age bands and no year
+windsor-and-maidenhead-council-fostering, 2026-11-02, Achieving for Children payment page shows only a London minimum example, no year
+warrington-borough-council-fostering, 2026-11-02, fostering page gives only ranges with no year; lowest allowance is below the 2026-27 national minimum
+perth-and-kinross-council-fostering, 2026-11-02, fostering page gives 2025-2026 rates
+glasgow-city-council-families-for-children, 2026-11-02, only committee figures found are backdated to April 2023
+north-lanarkshire-council-fostering, 2026-11-02, financial matters page blocked to automated reading

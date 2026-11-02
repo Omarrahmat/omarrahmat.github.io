@@ -1,0 +1,31 @@
+{
+  "slug": "slough",
+  "council": "Slough Borough Council (Slough Children First)",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-02",
+  "sourceUrl": "https://www.fosterwithslough.co.uk/fostering/allowances/",
+  "sourceTitle": "Allowances (Foster with Slough, Slough Children First)",
+  "allowances": [
+    { "label": "0 to 2 years", "weekly": 195 },
+    { "label": "3 to 4 years", "weekly": 203 },
+    { "label": "5 to 10 years", "weekly": 223 },
+    { "label": "11 to 15 years", "weekly": 255 },
+    { "label": "16 to 17 years", "weekly": 298 }
+  ],
+  "fees": [
+    { "label": "Tier 1", "weekly": 200 },
+    { "label": "Tier 2", "weekly": 230 },
+    { "label": "Tier 3 (three or more years as a carer)", "weekly": 300 },
+    { "label": "Supplementary fee: moderately complex needs", "weekly": 50 },
+    { "label": "Supplementary fee: highly complex needs", "weekly": 100 }
+  ],
+  "feesNote": "On top of the child's allowance, Slough pays a weekly level-of-care payment in three tiers that rise with the carer's skills, experience and training, plus a supplementary fee when a child has more complex needs; the page does not say whether the tier payment is per child or per household.",
+  "extras": [
+    "A birthday allowance and a festival allowance each year for each child (the page gives no amounts)",
+    "Two weeks of holiday payment a year, taken when no child is placed",
+    "A £200 thank-you payment after each successful annual review"
+  ],
+  "summary": "Slough Children First, which runs fostering for Slough, says these rates apply from 1 April 2026. Carers receive a weekly allowance for each child in five age bands, plus a weekly payment by tier and a supplementary fee for children with more complex needs. Tier progression is discussed during assessment.",
+  "areaNames": ["Slough"]
+}
