@@ -106,3 +106,15 @@ foster-wales-merthyr-tydfil, 2026-11-02, page gives only an allowance range with
 foster-wales-pembrokeshire, 2026-11-02, page gives only an allowance range and a starting fee, no age bands and no year
 foster-wales-rhondda-cynon-taf, 2026-11-02, page gives only an allowance range with no age bands and no year
 foster-wales-torfaen, 2026-11-02, page gives only an allowance range with no age bands and no year
+foster-with-bucks, 2026-11-02, financial support page states no year and its new-carer ranges do not match its own tables
+rutland-county-council-fostering, 2026-11-02, support-payments page states no year and its allowances are below the 2026-27 national minimum
+middlesbrough-council-fostering, 2026-11-02, Foster with North East page gives only annual examples, no scale or year
+south-tyneside-council-fostering, 2026-11-02, how-much-you-will-get-paid page states no year and its allowances are below the 2026-27 national minimum
+st-helens-borough-council-fostering, 2026-11-02, only payments guide found is dated February 2021
+wokingham-borough-council-fostering, 2026-11-02, foster-carer page gives fee levels dated 2023 and no allowance figures
+city-of-edinburgh-council-fostering, 2026-11-02, May 2026 news gives 2026-27 fees but not the council's own allowance figures
+east-renfrewshire-council-fostering, 2026-11-02, fostering-finance page gives 2024/25 rates
+aberdeen-city-council-fostering, 2026-11-02, financial matters page gives rates effective April 2023
+moray-council-fostering, 2026-11-02, scheme page states no year and its allowances are below the 2026-27 Scottish Recommended Allowance
+west-dunbartonshire-council-fostering, 2026-11-02, fees page gives allowance rates effective April 2024
+orkney-islands-council-fostering, 2026-11-02, FAQ page gives no figures; only figures found are in a February 2025 committee report

@@ -1,0 +1,50 @@
+{
+  "slug": "highland",
+  "council": "The Highland Council",
+  "nation": "Scotland",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-02",
+  "sourceUrl": "https://www1.highland.gov.uk/fosteringandadoption/download/downloads/id/1/fostering_-_allowances_and_fees.xlsx",
+  "sourceTitle": "Highland Council Fostering & Adoption Allowances 2026/2027 (The Highland Council)",
+  "allowances": [
+    {
+      "label": "0 to 4",
+      "weekly": 177.68
+    },
+    {
+      "label": "5 to 10",
+      "weekly": 206.71
+    },
+    {
+      "label": "11 to 15",
+      "weekly": 206.71
+    },
+    {
+      "label": "16 to 18",
+      "weekly": 283.35,
+      "note": "The allowance stops on the young person's 18th birthday unless the carer is told otherwise"
+    }
+  ],
+  "fees": [
+    {
+      "label": "Specialist carers",
+      "weekly": 514.68,
+      "note": "Paid for the eldest child in placement"
+    },
+    {
+      "label": "Intensive foster carers",
+      "weekly": 794.15
+    }
+  ],
+  "feesNote": "The council's schedule shows weekly fees for specialist and intensive carers, plus lower half-week fees for stays of three nights or less; it does not show a full-week fee for mainstream carers, so ask the fostering team which fee would apply to you.",
+  "extras": [
+    "A birthday payment of one week's allowance for each child",
+    "A summer payment of £215 for each child",
+    "A Christmas payment of £107 for each child"
+  ],
+  "summary": "The Highland Council pays a weekly allowance for each child by age, and its 2026-27 rates match the Scottish Government's recommended allowance for this year. Specialist and intensive carers receive a weekly fee on top, and every child in placement attracts birthday, summer and Christmas payments.",
+  "areaNames": [
+    "Highland",
+    "Inverness"
+  ]
+}
