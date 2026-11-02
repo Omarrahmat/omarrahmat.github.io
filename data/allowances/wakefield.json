@@ -1,0 +1,31 @@
+{
+  "slug": "wakefield",
+  "council": "Wakefield Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-02",
+  "sourceUrl": "https://www.wakefield.gov.uk/children-and-families/fostering/why-foster-with-us",
+  "sourceTitle": "Why Foster with us? (Wakefield Council fostering)",
+  "allowances": [
+    { "label": "0 to 2", "weekly": 177 },
+    { "label": "3", "weekly": 182 },
+    { "label": "4 to 10", "weekly": 201 },
+    { "label": "11 to 15", "weekly": 229 },
+    { "label": "16 and over", "weekly": 267 }
+  ],
+  "fees": [
+    { "label": "Skill Level 1", "weekly": 53 },
+    { "label": "Skill Level 2", "weekly": 133 },
+    { "label": "Skill Level 3", "weekly": 239 },
+    { "label": "Skill Level 4", "weekly": 477 }
+  ],
+  "feesNote": "Wakefield pays a weekly skill-based payment for each child on top of the age-based allowance, at one of four levels.",
+  "extras": [
+    "A £500 welcome bonus after three months with a child in placement",
+    "A £500 reward after the first 12 months with a short or long-term placement",
+    "From April 2026, a £500 loyalty payment each year for carers who have offered placements for 48 weeks or more",
+    "Holiday and birthday allowances (amounts not published)"
+  ],
+  "summary": "Wakefield pays a weekly allowance for each child, set by age, plus a weekly skill-based payment at one of four levels. New carers can receive up to £1,500 in bonuses and loyalty payments in their first year. The council's page does not state which year the rates are for; they are shown here as 2026-27, and are at or above the government's minimum allowances for April 2026 to March 2027.",
+  "areaNames": ["Wakefield"]
+}

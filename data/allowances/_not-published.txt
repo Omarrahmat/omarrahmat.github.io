@@ -92,3 +92,17 @@ midlothian-council-fostering, 2026-11-02, support page states no year; allowance
 fostering-and-adoption-west-lothian, 2026-11-02, fees and allowances page gives rates from 1 April 2025
 inverclyde-council-fostering, 2026-11-02, fostering finance PDF states no year and allowances are below the 2026-27 Scottish Recommended Allowance
 east-lothian-council-fostering, 2026-11-02, fees page states no year and allowances are below the 2026-27 Scottish Recommended Allowance
+gloucestershire-county-council-fostering, 2026-11-02, payments page gives only worked examples and an annual "around" figure, no scale or year
+isle-of-wight-council-fostering, 2026-11-02, fostering service information document gives no figures
+oxfordshire-county-council-fostering, 2026-11-02, only allowances booklet found is April 2023 to March 2024
+peterborough-city-council-fostering-service, 2026-11-02, allowances page table has headings but no figures
+fostering-stoke, 2026-11-02, support-pay-benefits page gives only an "up to" annual figure, no scale or year
+north-east-lincolnshire-council-fostering, 2026-11-02, fostering page gives no figures
+north-lincolnshire-council-fostering, 2026-11-02, allowances page blocked by bot check
+foster-wales-cardiff, 2026-11-02, page gives only an allowance range with no age bands and no year
+foster-wales-anglesey, 2026-11-02, page gives only allowance and fee ranges with no age bands and no year
+foster-wales-vale-of-glamorgan, 2026-11-02, page gives only allowance and fee ranges with no age bands and no year
+foster-wales-merthyr-tydfil, 2026-11-02, page gives only an allowance range with no age bands and no year
+foster-wales-pembrokeshire, 2026-11-02, page gives only an allowance range and a starting fee, no age bands and no year
+foster-wales-rhondda-cynon-taf, 2026-11-02, page gives only an allowance range with no age bands and no year
+foster-wales-torfaen, 2026-11-02, page gives only an allowance range with no age bands and no year
