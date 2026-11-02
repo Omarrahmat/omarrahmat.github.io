@@ -72,3 +72,23 @@ torbay-council-fostering, 2026-10-30, allowances page states no year
 north-yorkshire-council-fostering, 2026-10-30, March 2026 report gives only the basic rate and a 3.4% uplift, not the full 2026-27 scale
 fostering-in-warwickshire, 2026-10-30, financial information page gives no figures and refers to a 2025/26 guide
 city-of-york-council-fostering, 2026-10-30, pay page gives only an annual example, no scale or year
+surrey-county-council-fostering, 2026-11-02, allowances page states no year and its "up to" totals do not match its own tables
+sheffield-city-council-fostering, 2026-11-02, earnings page states no year and one level 3 total does not equal allowance plus fee
+norfolk-fostering-service, 2026-11-02, earn page gives only ranges and combined totals with no year, no age-band scale
+manchester-city-council-fostering, 2026-11-02, pay page gives only average weekly examples, no scale or year
+derbyshire-county-council-fostering, 2026-11-02, only published handbook found is effective April 2022
+cumberland-council-fostering, 2026-11-02, fostering page gives no figures
+westmorland-and-furness-council-fostering, 2026-11-02, fostering page gives no figures
+devon-county-council-fostering, 2026-11-02, only figures found are a May 2025 news item, no full scale
+foster-for-plymouth, 2026-11-02, only figures found are a 2025-26 news item giving a weekly range
+northamptonshire-childrens-trust, 2026-11-02, only finance guidance found is dated April 2020
+stockton-on-tees-borough-council-fostering, 2026-11-02, only finance document found is effective April 2023
+fostering-redcar-and-cleveland, 2026-11-02, support page gives no allowance or fee figures
+fostering-hampshire-children, 2026-11-02, only figures found are a 2011-12 decision and a 2022 booklet
+renfrewshire-council-fostering, 2026-11-02, payments page states no year and its allowances differ from the 2026-27 Scottish Recommended Allowance
+stirling-council-fostering, 2026-11-02, financial support page shows earlier Scottish Recommended Allowance rates
+dundee-city-council-fostering, 2026-11-02, page labels its rates as from April 2024 although they match 2026-27 figures; unclear which year applies
+midlothian-council-fostering, 2026-11-02, support page states no year; allowances match 2026-27 SRA but fees undated and table labels unclear
+fostering-and-adoption-west-lothian, 2026-11-02, fees and allowances page gives rates from 1 April 2025
+inverclyde-council-fostering, 2026-11-02, fostering finance PDF states no year and allowances are below the 2026-27 Scottish Recommended Allowance
+east-lothian-council-fostering, 2026-11-02, fees page states no year and allowances are below the 2026-27 Scottish Recommended Allowance

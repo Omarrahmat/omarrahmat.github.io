@@ -1,0 +1,26 @@
+{
+  "slug": "east-ayrshire",
+  "council": "East Ayrshire Council",
+  "nation": "Scotland",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-02",
+  "sourceUrl": "https://www.east-ayrshire.gov.uk/SocialCareAndHealth/FosteringAdoptingAndLookedAfterChildren/Fostering/Support-and-fees.aspx",
+  "sourceTitle": "Financial assistance for foster carers (East Ayrshire Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 177.68 },
+    { "label": "5 to 15", "weekly": 206.71 },
+    { "label": "16 and over", "weekly": 283.35 }
+  ],
+  "fees": [
+    { "label": "Household fee: one child", "weekly": 280 },
+    { "label": "Household fee: two children", "weekly": 420 },
+    { "label": "Household fee: three or more children", "weekly": 560 }
+  ],
+  "feesNote": "East Ayrshire pays one weekly fee per fostering household, set by how many children are living there, on top of the allowance paid for each child.",
+  "extras": [
+    "Start-up payments towards household items (no amount published)",
+    "Travel expenses towards fuel costs (no amount published)"
+  ],
+  "summary": "East Ayrshire pays each child's allowance at the Scottish Recommended Allowance rates for 2026 to 2027, and adds a weekly household fee that rises with the number of children placed. A carer looking after one child aged 5 to 15 would receive the £206.71 allowance plus the £280 household fee.",
+  "areaNames": ["East Ayrshire"]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "aberdeenshire",
+  "council": "Aberdeenshire Council",
+  "nation": "Scotland",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-02",
+  "sourceUrl": "https://www.aberdeenshire.gov.uk/children-and-families/fostering/allowances-and-payments",
+  "sourceTitle": "Allowances and payments for foster carers (Aberdeenshire Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 191.13 },
+    { "label": "5 to 10", "weekly": 222.36 },
+    { "label": "11 to 15", "weekly": 252.92 },
+    { "label": "16 to 18", "weekly": 307.79 }
+  ],
+  "extras": [
+    "A skills payment per household, paid every four weeks: £10,431.21 a year at level 1 (all new foster carers), £15,740.73 at level 2 (at least two years' experience) and £20,953.98 at level 3 (at least three years' experience)",
+    "The council says it has four skills levels; the page publishes figures for the first three"
+  ],
+  "summary": "Aberdeenshire's weekly allowances, effective from April 2026, vary with the child's age and cover the child's food, clothing, pocket money, activities and travel. On top, each fostering household receives an annual skills payment, paid four-weekly, which starts at £10,431.21 for newly approved carers.",
+  "areaNames": ["Aberdeenshire", "Inverurie"]
+}

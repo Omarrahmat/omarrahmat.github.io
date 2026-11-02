@@ -1,0 +1,26 @@
+{
+  "slug": "scottish-borders",
+  "council": "Scottish Borders Council",
+  "nation": "Scotland",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-02",
+  "sourceUrl": "https://www.scotborders.gov.uk/adoption-fostering-looked-children/fostering/3",
+  "sourceTitle": "Foster carer fees and allowances (Scottish Borders Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 177.68 },
+    { "label": "5 to 15", "weekly": 206.71 },
+    { "label": "16 and over", "weekly": 283.35 }
+  ],
+  "fees": [
+    { "label": "Level one (per child)", "weekly": 194.29 },
+    { "label": "Level two (per child)", "weekly": 259.10 },
+    { "label": "Retainer (no child placed, up to eight weeks)", "weekly": 128.23 }
+  ],
+  "feesNote": "The Scottish Borders pays a fee for each child placed, at level one or level two, on top of the child's allowance; the retainer replaces fees and allowances while a carer has no child living with them.",
+  "extras": [
+    "Allowances and fees are paid over 56 weeks a year rather than 52",
+    "The extra four weeks cover a birthday payment of one week's allowance, a summer payment of two weeks' allowance and a Christmas payment of one week's allowance"
+  ],
+  "summary": "Scottish Borders Council publishes its fees and allowances as of April 2026, with child allowances at the Scottish Recommended Allowance rates and a per-child fee for the carer on top. A level one carer looking after a child aged 5 to 15 would receive £206.71 in allowance and £194.29 in fee each week.",
+  "areaNames": ["Scottish Borders", "Melrose"]
+}
