@@ -171,3 +171,12 @@ foster-wales-carmarthenshire, 2026-11-03, council and Foster Wales pages give no
 foster-wales-conwy, 2026-11-03, page gives only an allowance range and a single enhanced fee, no age bands and no year
 foster-wales-denbighshire, 2026-11-03, page gives only allowance and skills payment ranges with no age bands and no year
 foster-wales-gwynedd, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
+east-dunbartonshire-council-fostering, 2026-11-03, HSCP fostering page (2017) gives no figures; no council page with rates found
+falkirk-council-fostering, 2026-11-03, no council page with allowance or fee figures found; only press reports
+north-ayrshire-council-fostering, 2026-11-03, no council page with allowance or fee figures found
+south-ayrshire-council-fostering, 2026-11-03, HSCP fostering page states no year and its allowances are below the 2026-27 Scottish Recommended Allowance
+belfast-hsc-trust-fostering, 2026-11-03, trust publishes no current scale; only older payment FOI responses (rates set regionally by DoH NI)
+northern-hsc-trust-fostering, 2026-11-03, trust publishes no current allowance scale
+south-eastern-hsc-trust-fostering, 2026-11-03, trust publishes no current scale; only a 2025 FOI response
+southern-hsc-trust-fostering, 2026-11-03, trust publishes no current scale; only a July 2024 FOI response
+western-hsc-trust-fostering, 2026-11-03, trust publishes no current allowance scale
