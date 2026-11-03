@@ -31,6 +31,9 @@ const b = await chromium.launch();
 const ctx = await b.newContext({ viewport: { width: 1100, height: 900 }, userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Safari/605.1.15' });
 await ctx.addInitScript(() => Object.defineProperty(navigator, 'webdriver', { get: () => false }));
 const pg = await ctx.newPage();
+// Block every request that is not to the built site under test (fonts, analytics), so an outside host
+// cannot stall page.goto and fail the build. The Supabase mock below is registered after this, so it wins.
+await pg.route((u) => u.origin !== B, (route) => route.abort('blockedbyclient'));
 const errs = [];
 pg.on('pageerror', (e) => errs.push(e.message));
 let events = []; const today = new Date().toISOString().slice(0, 10);

@@ -30,9 +30,17 @@ const check = (name, ok, detail = '') => { console.log(`${ok ? 'ok' : 'FAIL'} - 
 const b = await chromium.launch();
 for (const viewport of [{ width: 1360, height: 900 }, { width: 390, height: 800 }]) {
   const pg = await b.newPage({ viewport });
+  // Only the built site (served from B) is under test. Block everything else (Google Fonts, Plausible)
+  // so a slow or unreachable outside host cannot stall page.goto and fail the build (3 Nov 2026).
+  // Routes registered later (the Supabase mock below) take precedence over this one.
+  await pg.route((u) => u.origin !== B, (route) => route.abort('blockedbyclient'));
   const errs = [];
   pg.on('pageerror', (e) => errs.push(e.message));
-  pg.on('console', (m) => { if (m.type() === 'error' && !/ERR_TUNNEL|fonts\.g/.test(m.text())) errs.push(m.text()); });
+  pg.on('console', (m) => {
+    const where = m.location()?.url || '';
+    const outside = where && !where.startsWith(B);
+    if (m.type() === 'error' && !outside && !/ERR_TUNNEL|ERR_BLOCKED_BY_CLIENT|fonts\.g/.test(m.text())) errs.push(m.text());
+  });
   const tag = `${viewport.width}px`;
 
   await pg.goto(B + '/');
