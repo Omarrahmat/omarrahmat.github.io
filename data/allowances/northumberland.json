@@ -1,0 +1,32 @@
+{
+  "slug": "northumberland",
+  "council": "Northumberland County Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-03",
+  "sourceUrl": "https://www.northumberland.gov.uk/foster/financial-support-fees-and-allowances",
+  "sourceTitle": "Financial support, fees and allowances (Foster with Northumberland, Northumberland County Council)",
+  "allowances": [
+    { "label": "0 to 2 years", "weekly": 176 },
+    { "label": "3 to 4 years", "weekly": 182 },
+    { "label": "5 to 10 years", "weekly": 201 },
+    { "label": "11 to 15 years", "weekly": 227 },
+    { "label": "16 to 17 years", "weekly": 267 }
+  ],
+  "fees": [
+    { "label": "Band 1", "weekly": 117 },
+    { "label": "Band 2", "weekly": 233 },
+    { "label": "Band 3", "weekly": 289 },
+    { "label": "Mockingbird Hub Carer", "weekly": 820 },
+    { "label": "Short break carer", "weekly": 58, "note": "For carers available at least one weekend a month and two weeks of the school holidays" }
+  ],
+  "feesNote": "Carers move up the fee bands as they build skills, experience and training, and an extra fee is paid for each additional child; the page dates the allowance table April 2026 to March 2027 but gives no separate date for the fee table.",
+  "extras": [
+    "Holiday, birthday and festival allowances (amounts not published on the page)",
+    "Up to 14 days' paid leave a year covering the fee, plus up to 14 more days for holidays with the children",
+    "Fee kept for up to three months off sick",
+    "Mileage at 45p a mile for travel beyond everyday care"
+  ],
+  "summary": "Northumberland pays a weekly allowance for each child in five age bands for April 2026 to March 2027, plus a weekly fee for the carer that rises through three bands, with a higher fee for Mockingbird hub carers. Full-time carers get a guaranteed fee, and payments are made every two weeks.",
+  "areaNames": ["Northumberland"]
+}

@@ -157,3 +157,17 @@ foster-wales-wrexham, 2026-11-03, pages give only ranges and worked examples, no
 foster-wales-bridgend, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
 foster-wales-neath-port-talbot, 2026-11-03, page gives only an allowance range with no age bands and no year
 foster-wales-ceredigion, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
+cheshire-west-and-chester-council-fostering, 2026-11-03, no council page with allowance or fee figures found; only third-party copies
+halton-borough-council-fostering, 2026-11-03, March 2026 decision gives only a 2.5% uplift for 2026/27, no rates; uplift report blocked to automated reading
+north-tyneside-council-fostering, 2026-11-03, pay-and-support page redirects with no figures; only figures found are 2025 decision reports
+southend-fostering, 2026-11-03, no council page with allowance or fee figures found
+telford-fostering, 2026-11-03, procedures chapter refers to a local payments guide that could not be found
+together-for-children-sunderland-fostering, 2026-11-03, Foster with North East page gives no figures
+fostering-for-wolverhampton, 2026-11-03, only figures found are a 2015 scheme report and FOI responses
+foster-wales-newport, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
+foster-wales-monmouthshire, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
+foster-wales-caerphilly, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
+foster-wales-carmarthenshire, 2026-11-03, council and Foster Wales pages give no age-band figures
+foster-wales-conwy, 2026-11-03, page gives only an allowance range and a single enhanced fee, no age bands and no year
+foster-wales-denbighshire, 2026-11-03, page gives only allowance and skills payment ranges with no age bands and no year
+foster-wales-gwynedd, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
