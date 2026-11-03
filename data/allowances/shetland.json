@@ -1,0 +1,17 @@
+{
+  "slug": "shetland",
+  "council": "Shetland Islands Council",
+  "nation": "Scotland",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-03",
+  "sourceUrl": "https://www.shetland.gov.uk/children-families/adoption-fostering-kinship-care/2",
+  "sourceTitle": "Adoption, fostering and kinship care: Foster Allowances 2026/27 (Shetland Islands Council)",
+  "allowances": [
+    { "label": "0 to 4 years", "weekly": 177.68 },
+    { "label": "5 to 15 years", "weekly": 206.71 },
+    { "label": "16 years and over", "weekly": 283.35 }
+  ],
+  "extras": [],
+  "summary": "Shetland Islands Council publishes its foster allowances for 2026/27 as a weekly amount for each child in three age bands, which match the Scottish Recommended Allowance for the year. The council's page does not publish a fee or reward paid to carers on top of the allowance, or any birthday or holiday payments, so ask the Family Placement Team what else applies.",
+  "areaNames": ["Shetland Islands"]
+}

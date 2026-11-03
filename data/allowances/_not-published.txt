@@ -137,3 +137,23 @@ warrington-borough-council-fostering, 2026-11-02, fostering page gives only rang
 perth-and-kinross-council-fostering, 2026-11-02, fostering page gives 2025-2026 rates
 glasgow-city-council-families-for-children, 2026-11-02, only committee figures found are backdated to April 2023
 north-lanarkshire-council-fostering, 2026-11-02, financial matters page blocked to automated reading
+brighter-futures-for-children-reading, 2026-11-03, pay page gives reward levels from April 2026 but only the lowest and highest allowance, no age-band scale, and one total does not equal its parts
+rotherham-council-fostering, 2026-11-03, Fostering Rotherham financial support page gives only a weekly range and worked examples, no scale or year
+tameside-council-fostering, 2026-11-03, council and Foster for Greater Manchester pages give no Tameside figures; July 2026 decision gives only a 3.4% uplift
+south-gloucestershire-council-fostering, 2026-11-03, only council item found is a 2019 news story with no rates
+south-lanarkshire-council-fostering, 2026-11-03, fostering page gives allowances below the 2026-27 Scottish Recommended Allowance (SRA backdated to April 2023)
+comhairle-nan-eilean-siar-fostering, 2026-11-03, fees and allowances page gives the 2023 national rate only
+fife-council-fostering, 2026-11-03, Foster Fife allowances page states no year and its allowances are below the 2026-27 Scottish Recommended Allowance
+dumfries-and-galloway-council-fostering, 2026-11-03, support page states no year; allowances match 2026-27 SRA but 18-21 rate and fee frequencies unclear
+angus-council-fostering, 2026-11-03, why-foster page gives only an annual "up to" figure, no scale
+argyll-and-bute-council-fostering, 2026-11-03, 2026-27 fees and charges page gives no allowance figures
+clackmannanshire-council-fostering, 2026-11-03, fostering page gives no figures
+west-berkshire-fostering, 2026-11-03, foster carer support page gives no figures
+foster-wales-flintshire, 2026-11-03, fostering allowance page shows 2021-22 rates
+foster-wales-swansea, 2026-11-03, page gives only an allowance range with no age bands and no year
+foster-wales-powys, 2026-11-03, page gives a single allowance figure and a fee range, no age bands and no year
+foster-wales-blaenau-gwent, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
+foster-wales-wrexham, 2026-11-03, pages give only ranges and worked examples, no age bands and no year
+foster-wales-bridgend, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
+foster-wales-neath-port-talbot, 2026-11-03, page gives only an allowance range with no age bands and no year
+foster-wales-ceredigion, 2026-11-03, page gives only allowance and fee ranges with no age bands and no year
