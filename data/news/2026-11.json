@@ -1,32 +1,216 @@
 [
-  {
-    "slug": "ofsted-survey-2026-children-in-foster-care-feel-safe-and-listened-to",
-    "title": "Children in foster care give the most positive answers in Ofsted's 2026 survey",
-    "standfirst": "Ofsted's annual questionnaire of children in care and residential settings found those living with foster carers were the most likely to say they feel safe, are listened to and had done something fun in the past week.",
-    "publishedOn": "2026-11-03",
-    "eventDate": "2026-10-29",
-    "topics": ["research", "regulation", "england"],
-    "body": [
-      "Ofsted has published the results of its 2026 children's social care questionnaires, the yearly online survey it sends to children and adults connected with children's homes, fostering and adoption services, supported accommodation, residential family centres, boarding schools, residential special schools and further education colleges with residential provision in England. The survey ran for seven weeks, from 2 February to 22 March 2026, and the report was published on 29 October.",
-      "Ofsted received 46,900 responses across all the groups it surveyed, of which 8,360 came from children, down from 8,880 in 2025. Across every setting, 96% of children said they feel safe where they live or stay, 91% said they feel listened to always or most of the time, and 77% said they spend time with people who are important to them.",
-      "Children living with foster carers stood out. Ofsted says they reported overwhelmingly positive experiences across all of its questions, and they were the group most likely to say they feel safe always, at 92%. Some 98% said the people looking after them listen to them always or most of the time, and 95% gave positive answers when asked whether they are asked about things that matter to them, the highest of any setting alongside supported accommodation.",
-      "Children in foster care were also the most likely to say they get on with the other children in the household, at 92%, up from 88% in 2025 and close to the 91% recorded in 2024. And 96% said they had done something fun in the previous week, the highest rate of any setting and unchanged for three years. The one area with more room to improve was time with important people: in Ofsted's tables, 53% of children in foster care said they always spend time with people who matter to them and 28% said most of the time.",
-      "Ofsted uses the answers, together with earlier inspection findings and other information, to decide when to inspect a service and what to focus on. Trained staff read responses as they arrive and pass any safeguarding concern straight to inspectors. The report notes that not every child in a fostering setting is looked after, as some are receiving short breaks. Answers from adults, including foster carers and kinship carers, are published separately as data rather than in the report.",
-      "For anyone thinking about fostering, the survey is a reminder of what carers are already giving children day to day: a safe home, someone who listens, and ordinary family life. Around two in three looked-after children in England live with foster carers, according to the report, and the government has set a goal of creating 10,000 more foster places over this Parliament. Ofsted runs the survey every year, so current carers whose fostering service is asked to take part can encourage the children they look after to have their say."
-    ],
-    "sources": [
-      {
-        "title": "Children's social care questionnaires 2026: what children and young people told Ofsted",
-        "url": "https://www.gov.uk/government/publications/childrens-social-care-questionnaires-2026-what-children-and-young-people-told-ofsted/childrens-social-care-questionnaires-2026-what-children-and-young-people-told-ofsted",
-        "publisher": "Ofsted",
-        "date": "2026-10-29"
-      },
-      {
-        "title": "Government backs family reunions for children in care",
-        "url": "https://www.gov.uk/government/news/government-backs-family-reunions-for-children-in-care",
-        "publisher": "Department for Education",
-        "date": "2026-06-04"
-      }
-    ]
-  }
+ {
+  "slug": "ofsted-survey-2026-children-in-foster-care-feel-safe-and-listened-to",
+  "title": "Children in foster care give the most positive answers in Ofsted's 2026 survey",
+  "standfirst": "Ofsted's annual questionnaire of children in care and residential settings found those living with foster carers were the most likely to say they feel safe, are listened to and had done something fun in the past week.",
+  "publishedOn": "2026-11-03",
+  "eventDate": "2026-10-29",
+  "topics": [
+   "research",
+   "regulation",
+   "england"
+  ],
+  "body": [
+   "Ofsted has published the results of its 2026 children's social care questionnaires, the yearly online survey it sends to children and adults connected with children's homes, fostering and adoption services, supported accommodation, residential family centres, boarding schools, residential special schools and further education colleges with residential provision in England. The survey ran for seven weeks, from 2 February to 22 March 2026, and the report was published on 29 October.",
+   "Ofsted received 46,900 responses across all the groups it surveyed, of which 8,360 came from children, down from 8,880 in 2025. Across every setting, 96% of children said they feel safe where they live or stay, 91% said they feel listened to always or most of the time, and 77% said they spend time with people who are important to them.",
+   "Children living with foster carers stood out. Ofsted says they reported overwhelmingly positive experiences across all of its questions, and they were the group most likely to say they feel safe always, at 92%. Some 98% said the people looking after them listen to them always or most of the time, and 95% gave positive answers when asked whether they are asked about things that matter to them, the highest of any setting alongside supported accommodation.",
+   "Children in foster care were also the most likely to say they get on with the other children in the household, at 92%, up from 88% in 2025 and close to the 91% recorded in 2024. And 96% said they had done something fun in the previous week, the highest rate of any setting and unchanged for three years. The one area with more room to improve was time with important people: in Ofsted's tables, 53% of children in foster care said they always spend time with people who matter to them and 28% said most of the time.",
+   "Ofsted uses the answers, together with earlier inspection findings and other information, to decide when to inspect a service and what to focus on. Trained staff read responses as they arrive and pass any safeguarding concern straight to inspectors. The report notes that not every child in a fostering setting is looked after, as some are receiving short breaks. Answers from adults, including foster carers and kinship carers, are published separately as data rather than in the report.",
+   "For anyone thinking about fostering, the survey is a reminder of what carers are already giving children day to day: a safe home, someone who listens, and ordinary family life. Around two in three looked-after children in England live with foster carers, according to the report, and the government has set a goal of creating 10,000 more foster places over this Parliament. Ofsted runs the survey every year, so current carers whose fostering service is asked to take part can encourage the children they look after to have their say."
+  ],
+  "sources": [
+   {
+    "title": "Children's social care questionnaires 2026: what children and young people told Ofsted",
+    "url": "https://www.gov.uk/government/publications/childrens-social-care-questionnaires-2026-what-children-and-young-people-told-ofsted/childrens-social-care-questionnaires-2026-what-children-and-young-people-told-ofsted",
+    "publisher": "Ofsted",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Government backs family reunions for children in care",
+    "url": "https://www.gov.uk/government/news/government-backs-family-reunions-for-children-in-care",
+    "publisher": "Department for Education",
+    "date": "2026-06-04"
+   }
+  ]
+ },
+ {
+  "slug": "uk-foster-carer-pay-by-council-2026-27",
+  "title": "UK foster carer pay by council 2026-27: what 25 councils publish",
+  "standfirst": "Weekly allowances in the 25 councils we have checked run from £176 for a baby to £337.40 for a teenager, and the fees paid to carers on top vary even more.",
+  "publishedOn": "2026-11-04",
+  "eventDate": "2026-11-04",
+  "topics": [
+   "pay-and-allowances",
+   "councils",
+   "research",
+   "england",
+   "scotland"
+  ],
+  "body": [
+   "Fostering Today has now published the 2026-27 foster carer allowances for 25 UK councils, each taken from the council's own website, committee papers or rate schedules and linked to that source on our council pages. Twenty of the councils are in England and five in Scotland. This summary brings those pages together so prospective carers, current carers and anyone writing about fostering can compare what councils say they pay. We will update it as more councils are added.",
+   "The weekly allowance is the money paid for each child's day-to-day costs, and it rises with age. Across the 23 councils that publish it as a separate figure, the lowest rate for the youngest age band is £176 a week, paid by Calderdale and Northumberland for children up to two, and the highest is £210 a week, paid by Kent for children under two. For the oldest children, seven councils (Calderdale, Leicester, Newcastle, Northumberland, Rochdale, Wakefield and Walsall) pay £267 a week and Staffordshire pays £267.50, while Coventry pays £337.40 and Lincolnshire £331.66 for young people aged 16 and over. The gap between £267 and £337.40 is £70.40 a week for a teenager in the same age band, or £3,660.80 over a year.",
+   "Two councils publish a single weekly total that combines the child's allowance with the carer's reward or professional fee instead of listing them separately. Bracknell Forest's Tier 1 totals run from £304.83 to £480.34 a week depending on the child's age, and Thurrock's from £415 to £516 at its standard Care Skills rate and up to £568 at Care Skills+.",
+   "In Scotland, East Ayrshire, Highland, Scottish Borders and Shetland all publish the same three allowance rates, £177.68, £206.71 and £283.35 a week, which Shetland's page notes match the Scottish Recommended Allowance for the year. Aberdeenshire pays more in every age band, from £191.13 to £307.79 a week.",
+   "Fees are where councils differ most. Nineteen of the 25 publish a weekly fee, skills or reward payment for mainstream carers on top of the allowance; two publish combined totals; Aberdeenshire pays an annual skills payment starting at £10,431.21 for newly approved carers; Highland's schedule shows fees only for specialist and intensive carers; and the pages for Lincolnshire and Shetland list no fee. Starting levels vary widely: Leicester's Level 1 payment for newly approved carers is £50 a week per child, Wakefield's Skill Level 1 is £53 and Central Bedfordshire's first tier is £100, while Croydon's entry-level skills fee is £325 a week. Several councils, including Bristol and Staffordshire, pay no fee at their first level.",
+   "Each council's page on Fostering Today shows its full age bands, fee levels and extras such as birthday, holiday and festival payments, with the date we checked it. Age bands and fee structures are not the same from one council to the next, so the fairest comparison is the full table for the area you live in, and the fostering team can confirm what would apply to you. Our pay calculator puts council and agency figures side by side."
+  ],
+  "sources": [
+   {
+    "title": "Foster carer allowances by council, 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-04"
+   },
+   {
+    "title": "Aberdeenshire Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/aberdeenshire/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "Bath and North East Somerset Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/bath-and-north-east-somerset/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Bracknell Forest Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/bracknell-forest/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Bristol City Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/bristol/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Calderdale Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/calderdale/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Central Bedfordshire Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/central-bedfordshire/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Coventry City Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/coventry/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Croydon Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/croydon/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-28"
+   },
+   {
+    "title": "East Ayrshire Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/east-ayrshire/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "The Highland Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/highland/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "Kent County Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/kent/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Leicester City Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/leicester/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Lincolnshire County Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/lincolnshire/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Luton Borough Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/luton/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Milton Keynes City Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/milton-keynes/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-29"
+   },
+   {
+    "title": "Newcastle City Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/newcastle/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Northumberland County Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/northumberland/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-03"
+   },
+   {
+    "title": "Rochdale Borough Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/rochdale/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Scottish Borders Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/scottish-borders/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "Shetland Islands Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/shetland/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-03"
+   },
+   {
+    "title": "Slough Borough Council (Slough Children First) foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/slough/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "Staffordshire County Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/staffordshire/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Thurrock Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/thurrock/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Wakefield Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/wakefield/",
+    "publisher": "Fostering Today",
+    "date": "2026-11-02"
+   },
+   {
+    "title": "Walsall Council foster carer allowance 2026-27",
+    "url": "https://fosteringtoday.com/fostering-allowance/walsall/",
+    "publisher": "Fostering Today",
+    "date": "2026-10-30"
+   }
+  ]
+ }
 ]
