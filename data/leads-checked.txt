@@ -67,3 +67,17 @@ foster-care-associates-western, 2026-11-04, none published (thefca.co.uk regiona
 foster-care-associates-yorks-and-lincs, 2026-11-04, none published (thefca.co.uk regional page: enquiry form and phone only)
 fosterplus, 2026-11-04, found askus@fosterplus.co.uk (fosterplus.co.uk contact details page, Head Office England; added)
 fosterplus-scotland, 2026-11-04, found askus.edinburgh@fosterplus.co.uk (fosterplus.co.uk contact details page, Head Office Scotland; added)
+foster-care-matters, 2026-11-04, none published (home and contact pages: empty mailto links, form and phone only)
+foster-cares-ltd, 2026-11-04, found fostering@cares.co.uk (contact page) but domain differs from site fostercares.co.uk and could not be confirmed as theirs; not added
+fostering-connections, 2026-11-04, found enquiries@fostering-connections.com (home page; added)
+fostering-dimensions, 2026-11-04, none published (home page: contact form only)
+fostering-london, 2026-11-04, found info@fosteringlondon.org.uk (home page; added)
+fostering-ltd, 2026-11-04, found duty@fosteringltd.co.uk (contact page; added)
+fostering-people, 2026-11-04, none published (home and enquiry pages: form, phone and live chat only)
+fostering-solutions-oundle, 2026-11-04, found admineast@fosteringsolutions.com (branch page) but Fostering Solutions already queued as hello@fosteringsolutions.com; not added
+fostering-support-group-london, 2026-11-04, found fsginfo@fosteringsupportgroup.com (contact page; added)
+fostering-to-inspire, 2026-11-04, found enquiries@fostering2inspire.co.uk (contact page; site's canonical domain; added)
+greater-london-fostering, 2026-11-04, found info@greaterlondonfostering.org (home page; added)
+harmony-fostering-services, 2026-11-04, none published (no website in directory)
+icanfoster, 2026-11-04, found enquiries@icanfoster.co.uk (home page; added)
+ideal-fostering, 2026-11-04, found enquiries@idealfostering.com (contact page, recruitment enquiries; added)
