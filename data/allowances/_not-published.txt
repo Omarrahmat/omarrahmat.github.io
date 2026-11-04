@@ -180,3 +180,11 @@ northern-hsc-trust-fostering, 2026-11-03, trust publishes no current allowance s
 south-eastern-hsc-trust-fostering, 2026-11-03, trust publishes no current scale; only a 2025 FOI response
 southern-hsc-trust-fostering, 2026-11-03, trust publishes no current scale; only a July 2024 FOI response
 western-hsc-trust-fostering, 2026-11-03, trust publishes no current allowance scale
+bolton-council-fostering, 2026-11-04, re-check: mainstream-fostering-allowances PDF still has no readable text
+sandwell-childrens-trust-fostering, 2026-11-04, re-check: fees, benefits and allowances page gives no figures or year, only links
+shropshire-fostering, 2026-11-04, re-check: only figures found are a September 2026 cabinet proposal (skills levels, no allowance scale), not confirmed rates
+brighton-and-hove-city-council-fostering, 2026-11-04, re-check: foster-carer-payments page still returns no readable content
+kirklees-council-fostering, 2026-11-04, re-check: allowances page not found; why-foster page gives no figures; finance policy is 2022-2024
+sefton-council-fostering, 2026-11-04, re-check: no 2026-27 fostering allowance decision found on the council site
+barking-and-dagenham-fostering-service, 2026-11-04, re-check: committee uplift report blocked to automated reading
+blackburn-with-darwen-council-fostering-service, 2026-11-04, re-check: annual uplift report still could not be opened
