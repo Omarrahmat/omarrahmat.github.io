@@ -81,3 +81,6 @@ greater-london-fostering, 2026-11-04, found info@greaterlondonfostering.org (hom
 harmony-fostering-services, 2026-11-04, none published (no website in directory)
 icanfoster, 2026-11-04, found enquiries@icanfoster.co.uk (home page; added)
 ideal-fostering, 2026-11-04, found enquiries@idealfostering.com (contact page, recruitment enquiries; added)
+indigo-fostering, 2026-11-05, none published (no website in directory)
+integrated-fostering-services, 2026-11-05, none published (no website in directory)
+mmr-fostering, 2026-11-05, none published (no website in directory)
