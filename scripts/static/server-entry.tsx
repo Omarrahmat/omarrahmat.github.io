@@ -16,6 +16,7 @@ import * as Guides from '@/app/guides/page';
 import * as Payments from '@/app/payments/page';
 import * as News from '@/app/news/page';
 import * as Calculator from '@/app/calculator/page';
+import * as AboutPage from '@/app/about/page';
 import * as Agency from '@/app/agency/[id]/page';
 import * as Legal from '@/app/legal/[slug]/page';
 import * as ArticlePage from '@/app/news/[slug]/page';
@@ -69,7 +70,7 @@ export async function buildAll(): Promise<{ file: string; content: string }[]> {
   const out: { file: string; content: string }[] = [];
   const statics: [string, any][] = [
     ['/', Home], ['/find-an-agency/', Find], ['/packages/', Packages], ['/claim/', Claim], ['/portal/', Portal], ['/fostering-agencies/', AreasHub], ['/fostering-allowance/', AllowHub], ['/unsubscribe/', UnsubPage], ['/hq/', HQPage], ['/contact/', Contact],
-    ['/guides/', Guides], ['/payments/', Payments], ['/news/', News], ['/calculator/', Calculator],
+    ['/guides/', Guides], ['/payments/', Payments], ['/news/', News], ['/calculator/', Calculator], ['/about/', AboutPage],
   ];
   for (const [path, mod] of statics) out.push({ file: file(path), content: await page(path, mod, {}) });
 

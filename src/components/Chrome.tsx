@@ -106,6 +106,7 @@ export function Footer() {
           <div>
             <h2>About</h2>
             <ul>
+              <li><Link href="/about/">About us</Link></li>
               <li><Link href="/legal/editorial-policy/">Editorial policy</Link></li>
               <li><Link href="/legal/corrections/">Corrections</Link></li>
               <li><Link href="/contact/">Contact</Link></li>
