@@ -17,8 +17,8 @@ export async function generateMetadata({ params }: { params: Promise<{ area: str
   const a = find(area);
   if (!a) return {};
   return {
-    title: `Fostering agencies in ${a.name}`,
-    description: `Compare ${a.count} fostering agencies and local authority services covering ${a.name}. Each detail shows its source and the date it was checked.`,
+    title: `Fostering agencies and foster care in ${a.name}`,
+    description: `Thinking about foster care in ${a.name}? Compare ${a.count} fostering agencies and council fostering services covering ${a.name}, with what each offers. Every detail shows its source and the date it was checked.`,
     alternates: { canonical: `/fostering-agencies/${a.slug}/` },
   };
 }
