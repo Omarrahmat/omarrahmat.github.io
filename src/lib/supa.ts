@@ -4,7 +4,9 @@ const KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || '';
 const SESSION_KEY = 'ft-portal-session';
 
 export const configured = Boolean(URL_ && KEY);
-export const publicLogoUrl = (path: string) => `${URL_}/storage/v1/object/public/provider-logos/${path}`;
+// A path starting with '/' is a logo the agency emailed us, saved with the site (public/logos/<provider id>.<ext>);
+// anything else is a logo the agency uploaded in its portal (Supabase storage).
+export const publicLogoUrl = (path: string) => (path.startsWith('/') ? path : `${URL_}/storage/v1/object/public/provider-logos/${path}`);
 
 export interface Session { access_token: string; refresh_token: string; expires_at: number; user: { id: string; email: string } }
 
