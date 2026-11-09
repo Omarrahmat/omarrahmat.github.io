@@ -86,7 +86,7 @@ export default function Packages() {
               </ul>
               {t.pay ? (
                 <>
-                  <a className="btn btn-dark" href={t.pay} rel="noopener">Subscribe: card or Direct Debit</a>
+                  <a className="btn btn-dark" href={t.pay} rel="noopener">Subscribe</a>
                   <Link className="btn btn-small" href={t.href} style={{ marginTop: 10 }}>Or ask a question first</Link>
                 </>
               ) : (
