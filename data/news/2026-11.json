@@ -281,5 +281,58 @@
         "publisher": "Camden Council fostering service"
       }
     ]
+  },
+  {
+    "slug": "private-fostering-awareness-day-2026-councils-urge-families-to-notify",
+    "title": "Private Fostering Awareness Day 2026: councils remind families caring for someone else's child to tell them",
+    "standfirst": "Councils marked Private Fostering Awareness Day on 4 November by reminding parents and carers that arrangements lasting 28 days or more must be reported, as CoramBAAF published new findings from 48 local authorities.",
+    "publishedOn": "2026-11-09",
+    "eventDate": "2026-11-04",
+    "topics": [
+      "england",
+      "councils",
+      "regulation",
+      "research"
+    ],
+    "body": [
+      "CoramBAAF held its annual Private Fostering Awareness Day on Wednesday 4 November 2026, the first Wednesday in November. The day aims to raise awareness of children who live with someone other than a parent or close relative by private agreement, a group CoramBAAF describes as often overlooked. Alongside the day it published a new report, Private Fostering Report 2026: findings and analysis, which brings together information from 48 local authorities.",
+      "Private fostering is different from the fostering most people know. It is an arrangement made privately between a parent and another adult, without the council placing the child, for a child under 16 (under 18 if disabled) who is looked after by someone who is not a parent or close relative, and where the arrangement is meant to last at least 28 days. Close relatives are grandparents, aunts and uncles, brothers and sisters, and step-parents; a cousin, great-aunt or family friend caring for a child would usually count as a private foster carer. Councils give examples such as a parent going into hospital, a teenager moving in with a friend's family after a family breakdown, or a young person from overseas staying with a host family to study.",
+      "CoramBAAF points out that national data collection on private fostering stopped in 2015, so there has been limited insight into how many children live in these arrangements and what they look like. Its survey of councils is one of the few ways of filling that gap.",
+      "Councils used the day to remind residents of the law. Somerset Council said parents and private foster carers have a legal responsibility to tell the council, and Knowsley said notification is a legal requirement and asked anyone about to start an arrangement to contact its safeguarding hub before it begins. In England, the Children (Private Arrangements for Fostering) Regulations 2005 say a proposed private foster carer should notify the council at least six weeks before the arrangement starts, or immediately if it is due to start sooner. The council must then arrange a visit within seven working days to see the carer, the household and the child, and keep visiting regularly while the arrangement lasts.",
+      "What this means for you: if you are looking after a friend's or a more distant relative's child for four weeks or more, or are about to, contact the children's services team at your local council. Notifying is about making sure the child is safe and that you can get advice and support; Somerset and Gloucestershire both describe the help on offer to private foster carers. Private fostering is not the same as becoming an approved foster carer through a council or agency, which involves a full assessment and fostering allowances. If caring for a child has made you think about fostering more widely, our guides explain how that process works.",
+      "What happens next: CoramBAAF's 2026 report and awareness materials are available on its website for councils and professionals. The 2005 regulations apply in England, so families in Wales, Scotland and Northern Ireland should check the rules with their local council or health and social care trust."
+    ],
+    "sources": [
+      {
+        "title": "Private Fostering Awareness Day 2026",
+        "url": "https://corambaaf.org.uk/practice-areas/kinship-care/private-fostering/private-fostering-awareness-day-2026",
+        "publisher": "CoramBAAF",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "The Children (Private Arrangements for Fostering) Regulations 2005",
+        "url": "https://www.legislation.gov.uk/uksi/2005/1533/body/made/data.pdf",
+        "publisher": "legislation.gov.uk",
+        "date": "2005-06-09"
+      },
+      {
+        "title": "Private Fostering Awareness Day highlights support available to families in Somerset",
+        "url": "https://www.somerset.gov.uk/news/private-fostering-awareness-day-highlights-support-available-to-families-in-somerset/",
+        "publisher": "Somerset Council",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Do you have a private fostering arrangement?",
+        "url": "https://www.knowsleynews.co.uk/do-you-have-a-private-fostering-arrangement/",
+        "publisher": "Knowsley Council (Knowsley News)",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "Private fostering",
+        "url": "https://www.gloucestershire.gov.uk/fostering/private-fostering/",
+        "publisher": "Gloucestershire County Council",
+        "date": "2026-11-09"
+      }
+    ]
   }
 ]
