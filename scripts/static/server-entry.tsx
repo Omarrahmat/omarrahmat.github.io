@@ -56,11 +56,15 @@ async function page(path: string, mod: any, params: any, is404 = false) {
   const p = Promise.resolve(params);
   const meta = mod.generateMetadata ? await mod.generateMetadata({ params: p }) : mod.metadata;
   const el = await (mod.default ?? mod)({ params: p });
+  // Asset versions are set by scripts/build-static.mjs once the files exist. A page module may export `headExtra`
+  // (extra tags for its head; "__V__" becomes the version of the dashboard's own files) and `bodyClass` (a class for its body).
+  const v = (globalThis as any).__ASSET_VER || { js: '0', css: '0', hq: '0' };
   let html = '<!DOCTYPE html>' + renderToString((Layout as any).default({ children: el }));
   html = html.replace(
     '<head>',
-    `<head><meta charSet="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.svg" type="image/svg+xml">${headTags(meta, path, is404)}<link rel="stylesheet" href="/assets/site.css">`,
-  ).replace('</body>', '<script src="/assets/client.js" defer></script></body>');
+    `<head><meta charSet="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.svg" type="image/svg+xml">${headTags(meta, path, is404)}<link rel="stylesheet" href="/assets/site.css?v=${v.css}">${String(mod.headExtra || '').replace(/__V__/g, v.hq)}`,
+  ).replace('</body>', `<script src="/assets/client.js?v=${v.js}" defer></script></body>`);
+  if (mod.bodyClass) html = html.replace('<body>', `<body class="${esc(String(mod.bodyClass))}">`);
   return html;
 }
 

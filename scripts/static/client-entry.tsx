@@ -6,11 +6,11 @@ import EnquiryForm from '@/components/EnquiryForm';
 import PayCalculator from '@/components/PayCalculator';
 import Portal from '@/components/Portal';
 import Unsubscribe from '@/components/Unsubscribe';
-import HQ from '@/components/HQ';
 import ProfileLive, { LogoTile } from '@/components/ProfileLive';
 import { trackVisit } from '@/lib/supa';
 
-const registry: Record<string, any> = { SimpleForm, DirectoryClient, ClaimForm, ContactForm, EnquiryForm, PayCalculator, Portal, Unsubscribe, HQ, ProfileLive, LogoTile };
+// The owner dashboard (HQ) is not in this list: it hydrates from its own script, scripts/static/hq-entry.tsx.
+const registry: Record<string, any> = { SimpleForm, DirectoryClient, ClaimForm, ContactForm, EnquiryForm, PayCalculator, Portal, Unsubscribe, ProfileLive, LogoTile };
 
 /** Hydrate every island under `root` that has not been hydrated yet. */
 function hydrateIslands(root: ParentNode = document) {

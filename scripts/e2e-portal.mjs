@@ -26,6 +26,42 @@ const calls = [];
 const settingsPosts = [];
 const visits = [];
 let ownerOk = false;
+let hqDown = false; // the full data feed (owner_hq) fails, so the dashboard must fall back to the basic one
+let noGoogle = false; // no Search Console export loaded yet
+const ukDay = (offset = 0) => new Date(Date.now() + offset * 86400000).toLocaleDateString('en-CA', { timeZone: 'Europe/London' });
+const utcDay = (offset = 0) => new Date(Date.now() + offset * 86400000).toISOString().slice(0, 10);
+const kw = (query, position, impressions, clicks = 0) => ({ query, position, impressions, clicks, prev_position: null });
+const hqFeed = () => ({
+  generated_at: new Date().toISOString(), days: 30,
+  money: { mrr: 998, featured: 1, premium: 1, subs: [
+    { provider_id: 'abacus-fostering', tier: 'featured', started_on: utcDay(-3), active_until: null, source: 'stripe' },
+    { provider_id: 'zz-premium-agency', tier: 'premium', started_on: utcDay(-1), active_until: null, source: 'stripe' }] },
+  payments: { total: 2, unmatched: 0, failed: 0, recent: [] },
+  claims: { total: 3, approved: 2, waiting: 1, profiles: 2, members: 1, signed_in: 1, logos: 1, edited: 1, list: [
+    { provider_id: 'abacus-fostering', provider_name: 'Abacus Fostering', requester_name: 'Jo Smith', requester_role: 'Registered Manager', status: 'approved', created_at: new Date().toISOString(), signed_in: true, has_logo: true, tier: 'featured' },
+    { provider_id: 'second-agency', provider_name: 'Second Agency', requester_name: 'Sam Lee', requester_role: 'Director', status: 'approved', created_at: new Date().toISOString(), signed_in: false, has_logo: false, tier: null },
+    { provider_id: 'third-agency', provider_name: 'Third Agency', requester_name: 'Pat Doe', requester_role: 'Owner', status: 'pending', created_at: new Date().toISOString(), signed_in: false, has_logo: false, tier: null }] },
+  outreach: { total: 240, queued: 150, in_sequence: 85, completed: 0, replied: 2, bounced: 1, unsubscribed: 0, skipped: 2, emailed: 88, emailed_agencies: 60, emailed_councils: 28,
+    step1: 50, step2: 35, step3: 0, sent_today: 12, scheduled: 84, next_send: new Date(Date.now() + 3600000).toISOString() },
+  outreach_days: Array.from({ length: 20 }, (_, i) => ({ day: ukDay(i - 13), sent: i < 13 ? 10 : i === 13 ? 17 : 0, scheduled: i >= 13 ? 14 : 0 })),
+  mail: { outreach_sent: 147, received: 9, sent: 160, mirrored_at: new Date().toISOString(), latest_in: [] },
+  forms: { enquiries: 4, enquiries_total: 4, contact_requests: 1, corrections: 0, newsletter_active: 5, sales_touches: 1 },
+  traffic: { entries: 120, prev_entries: 60, today: 9, pageviews: 400, search: 50, email: 30,
+    by_source: [{ source: 'google', medium: 'search', n: 50 }, { source: 'outreach', medium: 'email', n: 30 }, { source: 'direct', medium: 'none', n: 40 }],
+    by_day: Array.from({ length: 30 }, (_, i) => ({ day: utcDay(i - 29), entries: i, search: Math.floor(i / 2), email: Math.floor(i / 4), pageviews: i * 3 })),
+    top_landing: [{ landing: '/fostering-allowance/kent/', n: 20 }], top_search_landing: [{ landing: '/fostering-allowance/kent/', n: 15 }] },
+  profiles: { by_kind: { view: 90, impression: 200, crawler: 30, website_click: 4 }, top_viewed: [{ provider_id: 'abacus-fostering', n: 9 }] },
+  areas: [{ area: 'croydon', n: 7 }],
+  google: noGoogle ? null : { snapshot: utcDay(-2), prev_snapshot: null, range_start: utcDay(-10), range_end: utcDay(-4), loaded_at: new Date().toISOString(),
+    totals: { clicks: 3, impressions: 1628, ctr: 0.18, position: 55.3 },
+    daily: Array.from({ length: 7 }, (_, i) => ({ day: utcDay(i - 10), clicks: i === 6 ? 3 : 0, impressions: 100 + i * 40, position: 60 - i })),
+    keywords: 584, pages: 480, ladder: { page1: 8, page2: 25, page3: 16, deeper: 535 }, prev_ladder: null,
+    top_queries: [kw('foster care wales', 76.9, 22), kw('fostering agencies kent', 12.4, 7)],
+    best_queries: [kw('abacus fostering reviews', 6, 3, 1), kw('fostering agencies kent', 12.4, 7), kw('fostering in bexhill', 15.5, 4)],
+    top_pages: [{ page: '/fostering-agencies/kent/', clicks: 1, impressions: 40, position: 56.3, prev_position: null }],
+    page_types: [{ kind: 'Area pages', pages: 148, clicks: 1, impressions: 970, position: 58.4 }],
+    countries: [{ name: 'United Kingdom', clicks: 3, impressions: 1465, position: 54 }], devices: [{ name: 'Mobile', clicks: 1, impressions: 565, position: 50 }] },
+});
 
 const b = await chromium.launch();
 const ctx = await b.newContext({ viewport: { width: 1100, height: 900 }, userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Safari/605.1.15' });
@@ -54,6 +90,10 @@ await pg.route(/supabase\.co/, async (route) => {
     { message_id: 'm2', thread_id: 't2', at: new Date().toISOString(), direction: 'out', from_addr: 'hello@fosteringtoday.com', to_addrs: 'info@abacus.example', subject: 'Abacus Fostering: your profile is live', preview: 'Hello Abacus', labels: ['sent', 'outreach'] }] });
   if (u.pathname.endsWith('/rpc/owner_mail_message')) return json(route, { message_id: 'm1', at: new Date().toISOString(), direction: 'in', from_addr: 'Jo <jo@agency.example>', to_addrs: 'hello@fosteringtoday.com', subject: 'Featured for Kent?', body_text: 'How much is Featured for Kent? We recruit in Medway too.', labels: ['received'] });
   if (u.pathname.endsWith('/rpc/owner_team')) return ownerOk ? json(route, { board: { priorities: { body: '1. First paying partner.', updated_at: new Date().toISOString(), updated_by: 'Chief of Staff' } }, last: { 'Outreach desk': { at: new Date().toISOString(), summary: 'Sent 3 launch emails' } }, recent: [{ at: new Date().toISOString(), desk: 'Outreach desk', summary: 'Sent 3 launch emails', handoff_to: null, handoff: null, done_at: null }], open_handoffs: 0 }) : json(route, { message: 'not allowed' }, 400);
+  if (u.pathname.endsWith('/rpc/owner_hq')) {
+    if (!ownerOk) return json(route, { message: 'not allowed' }, 400);
+    return hqDown ? json(route, { message: 'function failed' }, 500) : json(route, hqFeed());
+  }
   if (u.pathname.endsWith('/rpc/owner_dashboard')) {
     if (!ownerOk) return json(route, { message: 'not allowed' }, 400);
     return json(route, { generated_at: new Date().toISOString(), days: 30, money: { mrr: 998, featured: 1, premium: 1 }, payments: { total: 2, unmatched: 0, failed: 0 },
@@ -152,10 +192,29 @@ await pg.waitForSelector('[role=alert]');
 check('non-owner is refused the owner dashboard', (await pg.locator('text=does not have access').count()) === 1);
 check('utm-tagged arrival recorded as email', visits.some((v) => v.p_source === 'outreach' && v.p_medium === 'email' && v.p_entry === true));
 ownerOk = true;
-await pg.reload(); await pg.waitForSelector('text=Monthly recurring revenue');
-check('owner dashboard shows revenue and sources', (await pg.locator('text=£998').count()) >= 1 && (await pg.locator('text=google (Search engine)').count()) === 1 && (await pg.locator('td', { hasText: 'Abacus Fostering' }).count()) >= 1);
-await pg.waitForSelector('text=This week');
-check('owner dashboard shows the team and priorities', (await pg.locator('text=Chief of Staff').count()) >= 1 && (await pg.locator('text=Sent 3 launch emails').count()) >= 1);
+await pg.reload(); await pg.waitForSelector('.hq-readouts');
+const hqText = () => pg.locator('.hq').innerText();
+const cell = async (label) => ((await pg.locator('.hq-cell', { hasText: label }).first().innerText()) || '').replace(/\s+/g, ' ');
+check('owner dashboard hides the public header and footer', !(await pg.locator('.site-header').isVisible()) && !(await pg.locator('.site-footer').isVisible()));
+check('owner dashboard shows revenue against the target', (await pg.locator('.hq-gauge', { hasText: 'Monthly revenue' }).innerText()).includes('£998') && (await hqText()).includes('£10,000'));
+check('owner dashboard shows the pipeline from listed to subscribed', (await pg.locator('.hq-steps li').count()) === 5 && /Claimed/i.test(await pg.locator('.hq-steps').innerText()));
+check('owner dashboard counts subscriptions and claimed profiles', /Subscriptions 2 1 Featured, 1 Premium/i.test(await cell('Subscriptions')) && /Profiles claimed 2 1 more waiting/i.test(await cell('Profiles claimed')));
+check('emails sent today uses the newer of the two records', /Emails sent today 17 ?of/i.test(await cell('Emails sent today')));
+check('owner dashboard shows Google position and page-one keywords', /55\.3/.test(await cell('Google position')) && /Keywords on page 1 8 25 more on page 2, of 584/i.test(await cell('Keywords on page 1')));
+check('overview lists the newest claims', (await pg.locator('td', { hasText: 'Abacus Fostering' }).count()) >= 1);
+await pg.waitForSelector('text=Sent 3 launch emails');
+await pg.click('role=tab[name="Sales"]'); await pg.waitForSelector('text=Where each service is');
+const sales = await hqText();
+check('sales tab lists subscriptions, claims and outreach stages', /Abacus Fostering\s+Featured/.test(sales) && sales.includes('£799') && /Jo Smith, Registered Manager/.test(sales) && /Signed in/i.test(sales) && /Waiting for the first email\s+150/.test(sales) && /Services emailed/i.test(sales));
+await pg.click('role=tab[name="Google"]'); await pg.waitForSelector('text=Where our keywords sit');
+const goog = await hqText();
+check('google tab shows keyword rankings by page', /fostering agencies kent\s+12\.4\s*page 2/i.test(goog) && /abacus fostering reviews\s+6\.0\s*page 1/i.test(goog) && /Page 4 and beyond\s+535/i.test(goog) && goog.includes('1,628'));
+await pg.click('role=tab[name="Visitors"]'); await pg.waitForSelector('text=Where visitors come from');
+const vis = await hqText();
+check('visitors tab shows sources and landing pages', /google\s+search engine\s+50/i.test(vis) && vis.includes('/fostering-allowance/kent/') && /Croydon\s+7/.test(vis));
+await pg.click('role=tab[name="Team"]'); await pg.waitForSelector('text=The desks');
+const teamText = await hqText();
+check('team tab shows the desks, priorities and latest work', /Chief of Staff/i.test(teamText) && teamText.includes('First paying partner') && teamText.includes('Sent 3 launch emails') && (await pg.locator('.hq-desk').count()) >= 15 && (await pg.locator('.hq-desk[data-fresh=true]', { hasText: 'Outreach desk' }).count()) === 1);
 await pg.click('role=tab[name="Inbox"]');
 await pg.waitForSelector('text=Featured for Kent?');
 await pg.click('text=Featured for Kent?');
@@ -165,12 +224,27 @@ if (shots) await pg.screenshot({ path: shots + '/hq-inbox.png', fullPage: true }
 await pg.click('text=Back to inbox'); await pg.click('role=tab[name="Overview"]');
 check('owner dashboard is noindex', (await pg.locator('meta[name=robots]').getAttribute('content')) === 'noindex');
 if (shots) await pg.screenshot({ path: shots + '/hq.png', fullPage: true });
+// no Search Console export loaded: the Google tab says so instead of showing empty tables
+noGoogle = true; await pg.reload(); await pg.waitForSelector('.hq-readouts');
+await pg.click('role=tab[name="Google"]');
+check('google tab explains when no export is loaded', (await pg.locator('text=No Search Console data loaded yet').count()) === 1);
+noGoogle = false;
+// the full data feed is down: the dashboard falls back to the basic figures and says so
+hqDown = true; await pg.reload(); await pg.waitForSelector('.hq-readouts');
+check('dashboard falls back to the basic figures when the full feed fails', (await pg.locator('text=Showing the basic figures only').count()) === 1 && (await pg.locator('.hq-gauge', { hasText: 'Monthly revenue' }).innerText()).includes('£998'));
+hqDown = false;
 check('no page errors', errs.length === 0, errs.join(' | '));
 await pg.setViewportSize({ width: 390, height: 800 });
 await pg.goto(B + '/portal/'); await pg.waitForSelector('text=Profile views, last 30 days');
 check('no horizontal scroll on mobile', await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
-await pg.goto(B + '/hq/'); await pg.waitForSelector('text=Monthly recurring revenue');
-check('owner dashboard fits a phone', await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+await pg.goto(B + '/hq/'); await pg.waitForSelector('.hq-readouts');
+const wide = [];
+for (const t of ['Overview', 'Sales', 'Google', 'Visitors', 'Team', 'Inbox']) {
+  await pg.click(`role=tab[name="${t}"]`); await pg.waitForTimeout(150);
+  if (!(await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1))) wide.push(t);
+}
+check('owner dashboard fits a phone on every tab', wide.length === 0, wide.join(', '));
+await pg.click('role=tab[name="Overview"]');
 if (shots) await pg.screenshot({ path: shots + '/hq-mobile.png', fullPage: true });
 if (shots) await pg.screenshot({ path: shots + '/portal-mobile.png', fullPage: true });
 await b.close(); server.close();

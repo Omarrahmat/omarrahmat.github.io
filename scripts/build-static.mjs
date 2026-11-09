@@ -3,6 +3,7 @@
 import { createRequire } from 'node:module';
 import { execSync } from 'node:child_process';
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 import path from 'node:path';
 
 const root = path.resolve(import.meta.dirname, '..');
@@ -92,11 +93,27 @@ await esbuild.build({
   platform: 'browser', format: 'iife', minify: true, target: 'es2020', outfile: path.join(out, 'assets/client.js'),
   plugins: [plugin(false)],
 });
+// The owner dashboard has its own script, loaded by /hq/ only, so the public pages do not carry its code.
+await esbuild.build({
+  ...common,
+  entryPoints: [path.join(root, 'scripts/static/hq-entry.tsx')],
+  platform: 'browser', format: 'iife', minify: true, target: 'es2020', outfile: path.join(out, 'assets/hq.js'),
+  plugins: [plugin(false)],
+});
 
 const css = fs.readFileSync(path.join(src, 'app/globals.css'), 'utf8');
 fs.writeFileSync(path.join(out, 'assets/site.css'), (await esbuild.transform(css, { loader: 'css', minify: true })).code);
 fs.writeFileSync(path.join(out, 'favicon.svg'), '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><rect width="40" height="40" rx="9" fill="#FBF4E6"/><circle cx="27" cy="12" r="6" fill="#FFC933"/><path d="M6 38V22a10 10 0 0 1 20 0v16z" fill="#0F3D33"/><path d="M26 38V27a6 6 0 0 1 12 0v11z" fill="#FF6A4D"/></svg>');
 if (fs.existsSync(path.join(root, 'public'))) fs.cpSync(path.join(root, 'public'), out, { recursive: true });
+
+// Short content hashes, added to asset URLs as ?v=..., so browsers fetch a file again only when it has changed
+// and never run an old script against a new page after a deploy.
+const ver = (...files) => {
+  const h = crypto.createHash('md5');
+  for (const f of files) if (fs.existsSync(path.join(out, f))) h.update(fs.readFileSync(path.join(out, f)));
+  return h.digest('hex').slice(0, 8);
+};
+globalThis.__ASSET_VER = { js: ver('assets/client.js'), css: ver('assets/site.css'), hq: ver('hq.css', 'assets/hq.js') };
 
 const { buildAll } = require(path.join(tmp, 'server.cjs'));
 const files = await buildAll();
