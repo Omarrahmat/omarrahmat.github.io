@@ -36,39 +36,77 @@ export async function verifyCode(email: string, token: string): Promise<Session>
   // New users receive a "signup" code and returning users an "email" (magic link) code; try both.
   for (const type of ['email', 'signup']) {
     const r = await fetch(`${URL_}/auth/v1/verify`, { method: 'POST', headers: { ...baseHeaders(), 'Content-Type': 'application/json' }, body: JSON.stringify({ type, email, token }) });
-    if (r.ok) { const s = toSession(await r.json()); saveSession(s); return s; }
+    if (r.ok) {
+      const s = toSession(await r.json());
+      saveSession(s);
+      // Ask the browser to keep this site's saved data, so the sign-in is not cleared to free up space.
+      try { (navigator as any).storage?.persist?.()?.catch?.(() => {}); } catch { /* not supported */ }
+      return s;
+    }
   }
   throw new Error('That code did not work. It may have expired: request a new one.');
 }
 
 export function signOut() { saveSession(null); }
 
+/** Message of the error thrown when a session could not be renewed for a passing reason. The person stays signed in. */
+export const TEMPORARY = 'temporary';
+
 let refreshing: Promise<Session | null> | null = null;
-export async function freshSession(): Promise<Session | null> {
+/**
+ * The current session, renewed when its hour-long pass has run out (or when `force` is set).
+ * People stay signed in until they sign out: the session is dropped only when the server says the sign-in is no
+ * longer valid, never because a renewal failed for a passing reason (no connection, a busy server). In that case
+ * this throws an error with the message TEMPORARY and the saved sign-in is left alone.
+ */
+export async function freshSession(force = false): Promise<Session | null> {
   const s = loadSession();
   if (!s) return null;
-  if (s.expires_at - 60 > Date.now() / 1000) return s;
+  if (!force && s.expires_at - 60 > Date.now() / 1000) return s;
+  if (!s.refresh_token) { saveSession(null); return null; }
   if (!refreshing) {
     refreshing = (async () => {
       try {
-        const r = await fetch(`${URL_}/auth/v1/token?grant_type=refresh_token`, { method: 'POST', headers: { ...baseHeaders(), 'Content-Type': 'application/json' }, body: JSON.stringify({ refresh_token: s.refresh_token }) });
-        if (!r.ok) { saveSession(null); return null; }
-        const n = toSession(await r.json());
-        saveSession(n);
-        return n;
-      } catch { return null; } finally { refreshing = null; }
+        let r: Response;
+        try {
+          r = await fetch(`${URL_}/auth/v1/token?grant_type=refresh_token`, { method: 'POST', headers: { ...baseHeaders(), 'Content-Type': 'application/json' }, body: JSON.stringify({ refresh_token: s.refresh_token }) });
+        } catch { throw new Error(TEMPORARY); }
+        if (r.ok) {
+          const n = toSession(await r.json());
+          if (!n.access_token || !n.refresh_token) throw new Error(TEMPORARY);
+          saveSession(n);
+          return n;
+        }
+        if (r.status === 400 || r.status === 401 || r.status === 403) {
+          // Another tab may have renewed the sign-in a moment ago, which retires the pass this tab was holding.
+          const latest = loadSession();
+          if (latest && latest.refresh_token !== s.refresh_token && latest.expires_at - 60 > Date.now() / 1000) return latest;
+          saveSession(null);
+          return null;
+        }
+        throw new Error(TEMPORARY);
+      } finally { refreshing = null; }
     })();
   }
   return refreshing;
 }
 
 export async function api<T = any>(path: string, init: { method?: string; body?: unknown; prefer?: string } = {}): Promise<T> {
-  const s = await freshSession();
+  let s = await freshSession();
   if (!s) throw new Error('signed-out');
-  const headers: Record<string, string> = { ...baseHeaders(s.access_token), 'Content-Type': 'application/json' };
-  if (init.prefer) headers.Prefer = init.prefer;
-  const r = await fetch(`${URL_}/rest/v1/${path}`, { method: init.method || 'GET', headers, body: init.body === undefined ? undefined : JSON.stringify(init.body) });
-  if (r.status === 401) { signOut(); throw new Error('signed-out'); }
+  const send = (token: string) => {
+    const headers: Record<string, string> = { ...baseHeaders(token), 'Content-Type': 'application/json' };
+    if (init.prefer) headers.Prefer = init.prefer;
+    return fetch(`${URL_}/rest/v1/${path}`, { method: init.method || 'GET', headers, body: init.body === undefined ? undefined : JSON.stringify(init.body) });
+  };
+  let r = await send(s.access_token);
+  if (r.status === 401) {
+    // The pass was refused although it looked current (a wrong clock on the device, for example): renew it once.
+    s = await freshSession(true);
+    if (!s) throw new Error('signed-out');
+    r = await send(s.access_token);
+    if (r.status === 401) { signOut(); throw new Error('signed-out'); }
+  }
   if (!r.ok) throw new Error(`Request failed (${r.status})`);
   const text = await r.text();
   return (text ? JSON.parse(text) : null) as T;

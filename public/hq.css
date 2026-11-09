@@ -254,6 +254,8 @@ dl.hq-ladder { margin: 0; }
 .hq-gate label { font: 500 12.5px/1 var(--cond); letter-spacing: 0.2em; text-transform: uppercase; color: var(--blue); }
 .hq-gate .hq-input { max-width: none; min-height: 50px; margin-top: 8px; }
 .hq-gate [role='alert'] { color: var(--alert); font-size: 15px; }
+.hq-gate .hq-tip { margin-top: 28px; padding: 14px 16px; border: 1px solid var(--line); border-left: 2px solid var(--blue); font-size: 14.5px; }
+.hq-gate .hq-tip b { color: var(--white); font-weight: 500; }
 .hq-wait { padding: 16vh 0; text-align: center; font: 500 15px/1 var(--cond); letter-spacing: 0.26em; text-transform: uppercase; color: var(--dim); }
 
 @keyframes hq-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }

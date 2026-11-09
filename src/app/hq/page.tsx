@@ -16,8 +16,16 @@ export const metadata: Metadata = {
 
 // Read by the static builder (scripts/static/server-entry.tsx). The dashboard has its own black stylesheet,
 // typeface and script, loaded by this page only, and hides the public site's header and footer through the body class.
+// The manifest, icon and "web app" tags let the owner add the dashboard to a phone's Home Screen, where it opens
+// full screen like an app and keeps its sign-in.
 export const headExtra =
   '<meta name="theme-color" content="#000000">' +
+  '<link rel="manifest" href="/hq.webmanifest">' +
+  '<link rel="apple-touch-icon" href="/hq-icon-180.png">' +
+  '<meta name="apple-mobile-web-app-capable" content="yes">' +
+  '<meta name="mobile-web-app-capable" content="yes">' +
+  '<meta name="apple-mobile-web-app-status-bar-style" content="black">' +
+  '<meta name="apple-mobile-web-app-title" content="Mission control">' +
   '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&amp;family=Barlow+Condensed:wght@500;600&amp;display=swap">' +
   '<link rel="stylesheet" href="/hq.css?v=__V__">' +
   '<script src="/assets/hq.js?v=__V__" defer></script>';

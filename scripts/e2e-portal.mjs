@@ -8,7 +8,7 @@ const require = createRequire(import.meta.url);
 let chromium;
 try { ({ chromium } = require('playwright')); } catch { ({ chromium } = require(path.join(execSync('npm root -g').toString().trim(), 'playwright'))); }
 const out = path.resolve(import.meta.dirname, '../out');
-const types = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.svg': 'image/svg+xml' };
+const types = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.svg': 'image/svg+xml', '.png': 'image/png', '.webmanifest': 'application/manifest+json' };
 const server = http.createServer((req, res) => {
   let p = decodeURIComponent(new URL(req.url, 'http://x').pathname); if (p.endsWith('/')) p += 'index.html';
   const f = path.join(out, p);
@@ -28,6 +28,8 @@ const visits = [];
 let ownerOk = false;
 let hqDown = false; // the full data feed (owner_hq) fails, so the dashboard must fall back to the basic one
 let noGoogle = false; // no Search Console export loaded yet
+let renewal = 'ok'; // how the sign-in renewal answers: 'ok', 'down' (a passing fault) or 'refused' (the sign-in is no longer valid)
+let renewals = 0;
 const ukDay = (offset = 0) => new Date(Date.now() + offset * 86400000).toLocaleDateString('en-CA', { timeZone: 'Europe/London' });
 const utcDay = (offset = 0) => new Date(Date.now() + offset * 86400000).toISOString().slice(0, 10);
 const kw = (query, position, impressions, clicks = 0) => ({ query, position, impressions, clicks, prev_position: null });
@@ -82,6 +84,12 @@ await pg.route(/supabase\.co/, async (route) => {
   if (m === 'OPTIONS') return route.fulfill({ status: 204, headers: { 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': '*' } });
   if (u.pathname === '/auth/v1/otp') return json(route, {});
   if (u.pathname === '/auth/v1/verify') { const b = JSON.parse(route.request().postData()); return b.token === '123456' ? json(route, { access_token: 'tok', refresh_token: 'r', expires_in: 3600, user: { id: 'u1', email: b.email } }) : json(route, { msg: 'bad' }, 403); }
+  if (u.pathname === '/auth/v1/token') {
+    renewals++;
+    if (renewal === 'down') return json(route, { message: 'upstream error' }, 503);
+    if (renewal === 'refused') return json(route, { error: 'invalid_grant', error_description: 'Invalid Refresh Token' }, 400);
+    return json(route, { access_token: 'tok2', refresh_token: 'r2', expires_in: 3600, user: { id: 'u1', email: 'team@abacus.example' } });
+  }
   if (u.pathname.endsWith('/rpc/link_my_claims')) return json(route, [{ provider_id: PID }]);
   if (u.pathname.endsWith('/rpc/track_event')) return json(route, null, 204);
   if (u.pathname.endsWith('/rpc/track_visit')) { visits.push(JSON.parse(route.request().postData())); return json(route, null, 204); }
@@ -233,6 +241,28 @@ noGoogle = false;
 hqDown = true; await pg.reload(); await pg.waitForSelector('.hq-readouts');
 check('dashboard falls back to the basic figures when the full feed fails', (await pg.locator('text=Showing the basic figures only').count()) === 1 && (await pg.locator('.hq-gauge', { hasText: 'Monthly revenue' }).innerText()).includes('£998'));
 hqDown = false;
+// staying signed in: the hour-long pass is renewed quietly, and a passing fault never signs the owner out
+const stored = () => pg.evaluate(() => JSON.parse(localStorage.getItem('ft-portal-session') || 'null'));
+const expire = () => pg.evaluate(() => { const v = JSON.parse(localStorage.getItem('ft-portal-session')); v.expires_at = 1; localStorage.setItem('ft-portal-session', JSON.stringify(v)); });
+await expire(); renewals = 0; await pg.reload(); await pg.waitForSelector('.hq-readouts');
+check('an expired pass is renewed without signing in again', renewals >= 1 && (await stored())?.access_token === 'tok2');
+await expire(); renewal = 'down'; await pg.reload(); await pg.waitForSelector('[role=alert]');
+check('a passing fault keeps the owner signed in', (await stored())?.refresh_token === 'r2' && (await pg.locator('text=Owner sign-in').count()) === 0 && (await pg.locator('text=Trying again each minute').count()) === 1);
+renewal = 'ok'; await pg.reload(); await pg.waitForSelector('.hq-readouts');
+check('the dashboard comes back once the fault clears', (await pg.locator('.hq-gauge', { hasText: 'Monthly revenue' }).count()) === 1);
+await expire(); renewal = 'refused'; await pg.reload(); await pg.waitForSelector('text=Owner sign-in');
+check('a sign-in the server no longer accepts asks for a new code', (await stored()) === null);
+renewal = 'ok';
+// the sign-in form remembers that a code was sent, so leaving to read the email does not start it again
+await pg.fill('#hq-email', 'Owner@Example.org'); await pg.click('text=Email me a code'); await pg.waitForSelector('#hq-code');
+await pg.reload(); await pg.waitForSelector('#hq-code');
+check('sign-in form remembers a code was sent', (await pg.locator('text=We sent a code to owner@example.org').count()) === 1);
+await pg.fill('#hq-code', '123456'); await pg.click('button:has-text("Sign in")'); await pg.waitForSelector('.hq-readouts');
+check('owner signs in with the emailed code', (await stored())?.access_token === 'tok' && (await pg.evaluate(() => localStorage.getItem('ft-hq-code-sent'))) === null);
+// the dashboard can be added to a phone's Home Screen as an app
+const manifest = await pg.evaluate(async () => { const l = document.querySelector('link[rel=manifest]'); if (!l) return null; const r = await fetch(l.getAttribute('href')); return r.ok ? r.json() : null; });
+const touchIcon = await pg.evaluate(async () => { const l = document.querySelector('link[rel="apple-touch-icon"]'); if (!l) return 0; const r = await fetch(l.getAttribute('href')); return r.ok ? (await r.blob()).size : 0; });
+check('dashboard can be added to a Home Screen', manifest?.display === 'standalone' && manifest?.start_url === '/hq/' && touchIcon > 1000 && (await pg.locator('meta[name="apple-mobile-web-app-capable"]').getAttribute('content')) === 'yes');
 check('no page errors', errs.length === 0, errs.join(' | '));
 await pg.setViewportSize({ width: 390, height: 800 });
 await pg.goto(B + '/portal/'); await pg.waitForSelector('text=Profile views, last 30 days');

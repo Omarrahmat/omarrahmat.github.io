@@ -11,6 +11,13 @@ import { type Tab, Overview, Sales, GoogleView, Visitors, TeamView } from '@/com
 const TABS: [Tab, string][] = [['overview', 'Overview'], ['sales', 'Sales'], ['google', 'Google'], ['visitors', 'Visitors'], ['team', 'Team'], ['inbox', 'Inbox']];
 const NO_ACCESS = 'This account does not have access to the owner dashboard.';
 const refused = (e: any) => /\((400|401|403|404)\)/.test(String(e?.message));
+// Where the sign-in form remembers that a code was just sent, so leaving the page to read the email does not start it again.
+const PENDING = 'ft-hq-code-sent';
+const pending = {
+  read(): string { try { const p = JSON.parse(localStorage.getItem(PENDING) || 'null'); return p && Date.now() - p.at < 15 * 60000 ? String(p.email) : ''; } catch { return ''; } },
+  set(email: string) { try { localStorage.setItem(PENDING, JSON.stringify({ email, at: Date.now() })); } catch { /* storage unavailable */ } },
+  clear() { try { localStorage.removeItem(PENDING); } catch { /* storage unavailable */ } },
+};
 
 function Gate({ onDone }: { onDone: () => void }) {
   const [email, setEmail] = useState('');
@@ -18,14 +25,23 @@ function Gate({ onDone }: { onDone: () => void }) {
   const [step, setStep] = useState<'email' | 'code'>('email');
   const [busy, setBusy] = useState(false);
   const [msg, setMsg] = useState('');
+  const [homeTip, setHomeTip] = useState(false);
+  useEffect(() => {
+    const sentTo = pending.read();
+    if (sentTo) { setEmail(sentTo); setStep('code'); }
+    // On an iPhone or iPad in Safari, a page opened from the Home Screen keeps its sign-in for good.
+    const n = navigator as any;
+    setHomeTip(/iPhone|iPad|iPod/.test(n.userAgent || '') && n.standalone === false);
+  }, []);
   async function send(e: React.FormEvent) {
     e.preventDefault(); setBusy(true); setMsg('');
-    try { await sendCode(email.trim().toLowerCase()); setStep('code'); } catch (x: any) { setMsg(x.message); }
+    const to = email.trim().toLowerCase();
+    try { await sendCode(to); pending.set(to); setStep('code'); } catch (x: any) { setMsg(x.message); }
     setBusy(false);
   }
   async function check(e: React.FormEvent) {
     e.preventDefault(); setBusy(true); setMsg('');
-    try { await verifyCode(email.trim().toLowerCase(), code.trim()); onDone(); } catch (x: any) { setMsg(x.message); }
+    try { await verifyCode(email.trim().toLowerCase(), code.trim()); pending.clear(); onDone(); } catch (x: any) { setMsg(x.message); }
     setBusy(false);
   }
   return (
@@ -33,7 +49,7 @@ function Gate({ onDone }: { onDone: () => void }) {
       <h1>Owner sign-in</h1>
       {step === 'email' ? (
         <form onSubmit={send}>
-          <p>Enter the owner’s email address and we will send a sign-in code. There is no password.</p>
+          <p>Enter the owner’s email address and we will send a sign-in code. There is no password, and this device stays signed in afterwards.</p>
           <div><label htmlFor="hq-email">Email</label><input id="hq-email" className="hq-input" type="email" required autoComplete="email" value={email} onChange={(e) => setEmail(e.target.value)} /></div>
           {msg && <p role="alert">{msg}</p>}
           <button className="hq-btn hq-btn-solid hq-btn-big" disabled={busy}>{busy ? 'Sending' : 'Email me a code'}</button>
@@ -44,9 +60,10 @@ function Gate({ onDone }: { onDone: () => void }) {
           <div><label htmlFor="hq-code">Code from the email</label><input id="hq-code" className="hq-input" inputMode="numeric" autoComplete="one-time-code" required minLength={6} maxLength={10} value={code} onChange={(e) => setCode(e.target.value)} /></div>
           {msg && <p role="alert">{msg}</p>}
           <button className="hq-btn hq-btn-solid hq-btn-big" disabled={busy}>{busy ? 'Checking' : 'Sign in'}</button>
-          <button type="button" className="hq-btn hq-btn-big" onClick={() => { setStep('email'); setCode(''); setMsg(''); }}>Use a different email</button>
+          <button type="button" className="hq-btn hq-btn-big" onClick={() => { pending.clear(); setStep('email'); setCode(''); setMsg(''); }}>Use a different email</button>
         </form>
       )}
+      {homeTip && step === 'email' && <p className="hq-tip"><b>Before you sign in on this iPhone:</b> tap the Share button, choose “Add to Home Screen”, then open Mission control from the new icon and sign in there. It opens like an app and keeps you signed in.</p>}
     </div>
   );
 }
