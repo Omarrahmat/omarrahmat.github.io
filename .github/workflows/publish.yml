@@ -12,7 +12,10 @@ permissions:
   contents: write
 jobs:
   publish:
-    runs-on: ubuntu-latest
+    # A named Ubuntu release, not "ubuntu-latest": that label is being moved to Ubuntu 26, which the test browser
+    # here (Playwright 1.48) does not know, and on 11 Nov 2026 GitHub could not supply any machine for it at all
+    # ("The job was not acquired by Runner of type hosted").
+    runs-on: ubuntu-24.04
     timeout-minutes: 30
     env:
       NEXT_PUBLIC_SUPABASE_URL: https://vbgustjtxjmjlgukzcfa.supabase.co
