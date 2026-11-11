@@ -273,7 +273,7 @@ function Plan({ pid, email, areas }: { pid: string; email: string; areas: string
       <h2 style={{ fontSize: 24 }}>Your plan: <span style={{ textTransform: 'capitalize' }}>{tier}</span></h2>
       {tier === 'free' && (
         <>
-          <p>Be found first. Featured pins your profile at the top of the local page and search results in up to five areas you choose, with an enquiry form and full statistics. Premium pins you in every area you cover and adds the Area demand report.</p>
+          <p>Be found first. Featured pins your profile at the top of the local page and search results in up to five areas you choose, and adds an enquiry form to your profile. Premium pins you in every area you cover and adds the Area demand report.</p>
           <p style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
             {pay.featured && <a className="btn btn-yellow" href={payLink(pay.featured, pid, email)}>Upgrade to Featured, £199 a month</a>}
             {pay.premium && <a className="btn" href={payLink(pay.premium, pid, email)}>Upgrade to Premium, £799 a month</a>}

@@ -18,6 +18,9 @@ const tiers = [
       'Contact details, areas served and types of fostering, each with its source shown',
       'Listed in the directory search and the A–Z of every service',
       'Claim it, correct it and keep it up to date, free of charge',
+      'Your own description, phone, website and a link to your recruitment page, added by you in the agency portal',
+      'Portal statistics: how often you appear in results, profile views, and clicks to your website, recruitment page and phone',
+      'A green "Live profile, claimed" sign on your profile once you have claimed it',
       'A "Listed on Fostering Today" badge for your own website',
     ],
   },
@@ -26,9 +29,9 @@ const tiers = [
     items: [
       'Everything in Free',
       'Pinned first on the local page for up to five areas you choose (for example "Fostering agencies in Croydon") and in search results, with a "Featured" label',
-      'Richer profile: your logo, a longer description and a prominent button to your recruitment page, all edited by you in the agency portal',
       'Enquiry form on your profile, sent straight to your recruitment team',
-      'Agency portal statistics: appearances in results, profile views, clicks to your website, recruitment page and phone, and enquiries',
+      'An "Enquire" button on your card in search results, and every enquiry shown in your portal and emailed to the address you choose',
+      'A report by email each month',
       'Monthly rolling; change your areas whenever you like',
     ],
   },
@@ -51,11 +54,12 @@ const rows: [string, string, string, string][] = [
   ['Claim, correct, keep up to date', 'Yes', 'Yes', 'Yes'],
   ['Badge for your website', 'Yes', 'Yes', 'Yes'],
   ['Pinned first on area pages and in results', 'No', 'Up to 5 areas', 'All your areas and your nation'],
-  ['Logo, longer description, recruitment button', 'No', 'Yes', 'Yes'],
+  ['Your own description, phone, website and recruitment link', 'Yes', 'Yes', 'Yes'],
   ['Enquiry form on your profile', 'No', 'Yes', 'Yes'],
   ['Sponsored slot in a guide or newsletter', 'No', 'No', 'Monthly'],
   ['Recruitment-drive feature', 'No', 'No', 'Yes'],
-  ['Portal statistics (views, clicks, enquiries)', 'No', 'Yes', 'Yes'],
+  ['Portal statistics (appearances, views, clicks)', 'Yes', 'Yes', 'Yes'],
+  ['Monthly report by email', 'No', 'Yes', 'Yes'],
   ['Area demand report', 'No', 'No', 'Yes'],
   ['Named contact, same-day changes', 'No', 'No', 'Yes'],
 ];
@@ -124,7 +128,7 @@ export default function Packages() {
           </div>
           <div className="notice">
             <h3 style={{ fontSize: 22, marginBottom: 8 }}>Your profile keeps working for you</h3>
-            <p>Each profile is a page of its own in search engines, so searches like &ldquo;fostering agencies in Cardiff&rdquo; land on your listing, and the badge on your site links back to it. Featured partners get the richer profile that turns that traffic into enquiries.</p>
+            <p>Each profile is a page of its own in search engines, so searches like &ldquo;fostering agencies in Cardiff&rdquo; land on your listing, and the badge on your site links back to it. Featured partners get the enquiry form that turns that traffic into enquiries.</p>
           </div>
           <div className="notice">
             <h3 style={{ fontSize: 22, marginBottom: 8 }}>You see exactly what you get</h3>
@@ -160,7 +164,7 @@ export default function Packages() {
         <details className="faq"><summary>Does paying change what you publish about us?</summary><p>No. Paid and free providers are checked and corrected the same way. Paid placements and sponsored content are always labelled, and links from paid placements are marked as sponsored for search engines.</p></details>
         <details className="faq"><summary>How quickly can we go live?</summary><p>Tell us your areas and your placement is live within one working day. You can add your logo, description and recruitment link yourself in the agency portal as soon as your profile is claimed.</p></details>
         <details className="faq"><summary>Can we change our areas or stop?</summary><p>Yes. Change your areas whenever you like, and the subscription is monthly rolling with no long contract.</p></details>
-        <details className="faq"><summary>What is included from day one?</summary><p>Your free profile, claims and corrections, pinned placement in your areas and the badge for your website are live now. The richer profile, the enquiry form and your portal statistics are live too. Sponsored slots and recruitment-drive features are arranged with you directly, and we never charge for a feature before it exists.</p></details>
+        <details className="faq"><summary>What is included from day one?</summary><p>Your free profile, with your logo, your own description and your portal statistics once you claim it, plus corrections and the badge for your website, are live now. Pinned placement in your areas and the enquiry form are live for Featured and Premium partners. Sponsored slots and recruitment-drive features are arranged with you directly, and we never charge for a feature before it exists.</p></details>
         <details className="faq" style={{ borderBottom: '2px solid var(--ink)' }}><summary>Are these prices final?</summary><p>No. They are starting points. Contact us for current pricing and a written quote.</p></details>
       </div>
     </div>
