@@ -3,6 +3,11 @@ on:
   push:
     branches: [source]
   workflow_dispatch:
+    inputs:
+      browser_only:
+        description: "Install only the test browser, without system packages (checks the fallback used when the package server is down)"
+        type: boolean
+        default: false
 concurrency:
   group: publish
   cancel-in-progress: false
@@ -23,9 +28,25 @@ jobs:
         with:
           node-version: 22
       - name: Install build tools
+        env:
+          BROWSER_ONLY: ${{ inputs.browser_only }}
         run: |
-          npm install --no-save --no-audit --no-fund react@19.2.0 react-dom@19.2.0 esbuild@0.25.0 playwright@1.48.2
-          npx playwright install --with-deps chromium
+          # Downloads are tried more than once, because the package servers are sometimes unreachable from
+          # GitHub's machines. On 11 Nov 2026 Ubuntu's package server could not be reached for two and a half
+          # hours and six publishes failed at this step.
+          retry() { local n=$1; shift; for i in $(seq 1 "$n"); do "$@" && return 0; echo "Attempt $i of $n failed: $*"; sleep $((i * 15)); done; return 1; }
+          retry 4 npm install --no-save --no-audit --no-fund react@19.2.0 react-dom@19.2.0 esbuild@0.25.0 playwright@1.48.2
+          # The test browser, with the system packages it likes to have (one attempt: when the package server is
+          # down it takes ten minutes to give up). If that fails, fetch the browser on its own and carry on as
+          # long as it starts: GitHub's machines already hold the libraries it needs, so a package-server outage
+          # no longer stops the site being published.
+          if [ "$BROWSER_ONLY" != "true" ] && npx playwright install --with-deps chromium; then
+            echo "Browser and system packages installed."
+          else
+            echo "Installing the browser without system packages."
+            retry 4 npx playwright install chromium
+            node -e "require('playwright').chromium.launch().then((b) => b.close()).then(() => console.log('The browser starts.'))"
+          fi
       - name: Merge data
         run: |
           node scripts/merge-data.mjs
