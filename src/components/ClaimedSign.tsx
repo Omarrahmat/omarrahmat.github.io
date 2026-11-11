@@ -12,15 +12,12 @@ export function Lit({ size = 24 }: { size?: number }) {
   );
 }
 
-/** Shown on the public profile in place of the "not claimed yet" notice. */
+/** Shown on the public profile in place of the "not claimed yet" notice. One line only, by Omar's choice (11 Nov 2026). */
 export function ClaimedSign({ name }: { name: string }) {
   return (
     <div className="claimed-sign" data-claimed>
       <Lit size={28} />
-      <div className="claimed-sign-text">
-        <strong>Live profile, claimed by {name}</strong>
-        <span>Their team can add a logo and a section in their own words, which we mark as theirs. Every other detail comes from public sources and is labelled with where it came from.</span>
-      </div>
+      <strong>Live profile, claimed by {name}</strong>
     </div>
   );
 }

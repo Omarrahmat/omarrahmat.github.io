@@ -115,31 +115,44 @@ const ver = (...files) => {
 };
 globalThis.__ASSET_VER = { js: ver('assets/client.js'), css: ver('assets/site.css'), hq: ver('hq.css', 'assets/hq.js') };
 
-// Profiles their agency has claimed. The publishing build (GitHub Actions) asks the database, so a claimed profile
-// says "claimed" in the page itself. Any other build does not ask, and each profile finds out as it loads instead.
-// FT_CLAIMED (provider ids, comma separated) stands in for the answer when testing. A failed question never fails the build.
-async function claimedIds() {
-  if (process.env.FT_CLAIMED !== undefined) return process.env.FT_CLAIMED.split(',').map((s) => s.trim()).filter(Boolean);
+// Two things the pages need from the database: which profiles their agency has claimed, and which agencies have
+// added a logo. The publishing build (GitHub Actions) asks, so a claimed profile says "claimed" and shows its logo
+// in the page itself, in search results and on the area pages. Any other build does not ask, and each page finds
+// out as it loads instead. For testing, FT_CLAIMED (provider ids, comma separated) and FT_LOGOS (id=path pairs,
+// comma separated) stand in for the answers. A failed question never fails the build.
+async function ask(what, pathAndQuery, body) {
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
   if (process.env.GITHUB_ACTIONS !== 'true' || !url || !key) return [];
   try {
     const headers = { apikey: key, 'Content-Type': 'application/json' };
     if (key.startsWith('eyJ')) headers.Authorization = `Bearer ${key}`;
-    const r = await fetch(`${url}/rest/v1/rpc/claimed_providers`, { method: 'POST', headers, body: '{}', signal: AbortSignal.timeout(10000) });
+    const r = await fetch(`${url}/rest/v1/${pathAndQuery}`, { method: body === undefined ? 'GET' : 'POST', headers, body, signal: AbortSignal.timeout(10000) });
     if (!r.ok) throw new Error(`the database answered ${r.status}`);
     const rows = await r.json();
     if (!Array.isArray(rows)) throw new Error('the answer was not a list');
-    // A list of ids; if the database ever wraps each one in an object, take the value inside.
-    return rows.map((x) => (x && typeof x === 'object' ? Object.values(x)[0] : x)).filter((x) => typeof x === 'string' && x);
+    return rows;
   } catch (e) {
-    console.warn(`Could not read which profiles are claimed (${e.message}). Each profile will check as it loads.`);
+    console.warn(`Could not read ${what} (${e.message}). Each page will check as it loads.`);
     return [];
   }
 }
+async function claimedIds() {
+  if (process.env.FT_CLAIMED !== undefined) return process.env.FT_CLAIMED.split(',').map((x) => x.trim()).filter(Boolean);
+  // A list of ids; if the database ever wraps each one in an object, take the value inside.
+  return (await ask('which profiles are claimed', 'rpc/claimed_providers', '{}')).map((x) => (x && typeof x === 'object' ? Object.values(x)[0] : x)).filter((x) => typeof x === 'string' && x);
+}
+async function logoPaths() {
+  const pairs = process.env.FT_LOGOS !== undefined
+    ? process.env.FT_LOGOS.split(',').map((x) => x.trim().split('=')).filter((x) => x.length === 2)
+    : (await ask('the agencies\' logos', 'provider_profiles?select=provider_id,logo_path&logo_path=not.is.null')).map((x) => [x?.provider_id, x?.logo_path]);
+  return Object.fromEntries(pairs.filter(([id, logo]) => typeof id === 'string' && id && typeof logo === 'string' && logo));
+}
 const claimed = await claimedIds();
+const logos = await logoPaths();
 globalThis.__CLAIMED = new Set(claimed);
-console.log(`Claimed profiles known to this build: ${claimed.length}`);
+globalThis.__LOGOS = logos;
+console.log(`Known to this build: ${claimed.length} claimed profiles, ${Object.keys(logos).length} logos`);
 
 const { buildAll } = require(path.join(tmp, 'server.cjs'));
 const files = await buildAll();

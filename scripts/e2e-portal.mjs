@@ -208,15 +208,28 @@ await pg.goto(B + `/agency/${PID}/`);
 await pg.waitForSelector('text=From Abacus');
 check('public profile shows agency text', (await pg.locator('text=friendly agency in Croydon').count()) === 1);
 check('public profile shows agency logo', (await pg.locator('img.logo-img').count()) === 1);
+check('the agency section no longer says it is unchecked', (await pg.locator('main').innerText()).includes('Written and supplied by Abacus Fostering.') && !(await pg.locator('main').innerText()).includes('has not checked'));
 // a claimed profile says so, and no longer says "not claimed yet"
 await pg.waitForSelector('.claimed-sign');
-check('a claimed profile carries the claimed sign', (await pg.locator('.claimed-sign').innerText()).includes('Live profile, claimed by Abacus Fostering') && (await pg.locator('.claimed-sign .lit svg').count()) === 1);
+check('a claimed profile carries the claimed sign, one line only', (await pg.locator('.claimed-sign').innerText()).trim() === 'Live profile, claimed by Abacus Fostering' && (await pg.locator('.claimed-sign .lit svg').count()) === 1);
 check('a claimed profile no longer says it is not claimed', (await pg.locator('[data-unclaimed]:visible').count()) === 0 && !(await pg.locator('main').innerText()).includes('has not been claimed'));
 await pg.setViewportSize({ width: 390, height: 800 });
 check('the claimed sign fits a phone', await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
 if (shots) await pg.screenshot({ path: shots + '/claimed-phone.png' });
 await pg.setViewportSize({ width: 1100, height: 900 });
 if (shots) await pg.screenshot({ path: shots + '/claimed.png' });
+// the agency's logo also shows in search results and on the area pages, not only on its profile
+await pg.goto(B + '/find-an-agency/?q=abacus+fostering');
+await pg.waitForSelector('article img.logo-sm');
+const cardLogo = pg.locator('article', { hasText: 'Abacus Fostering' }).first().locator('img.logo-sm');
+check('search results show the agency logo', (await cardLogo.count()) === 1 && ((await cardLogo.getAttribute('src')) || '').includes('/provider-logos/abacus-fostering/logo-'));
+await pg.goto(B + '/find-an-agency/'); await pg.waitForTimeout(600);
+check('agencies without a logo keep their initials in search results', (await pg.locator('article span.tile').count()) >= 20);
+const areaDirs = fs.readdirSync(path.join(out, 'fostering-agencies')).filter((d) => fs.existsSync(path.join(out, 'fostering-agencies', d, 'index.html')));
+const areaWithAbacus = areaDirs.find((d) => fs.readFileSync(path.join(out, 'fostering-agencies', d, 'index.html'), 'utf8').includes(`/agency/${PID}/`));
+await pg.goto(B + `/fostering-agencies/${areaWithAbacus}/`);
+await pg.waitForSelector('article img.logo-sm');
+check('area pages show the agency logo', (await pg.locator('article', { hasText: 'Abacus Fostering' }).first().locator('img.logo-sm').count()) === 1 && (await pg.locator('article span.tile').count()) >= 1, String(areaWithAbacus));
 // a profile nobody has claimed keeps the notice and gets no sign
 const agencyPage = (id) => fs.readFileSync(path.join(out, 'agency', id, 'index.html'), 'utf8');
 const agencyIds = fs.readdirSync(path.join(out, 'agency'));
@@ -231,6 +244,17 @@ if (builtClaimedId) {
   await pp.route((u) => u.origin !== B, (route) => route.abort('blockedbyclient'));
   await pp.goto(B + `/agency/${builtClaimedId}/`);
   check('a profile claimed before the build shows the sign without scripts', (await pp.locator('.claimed-sign').count()) === 1 && (await pp.locator('[data-unclaimed]').count()) === 0, builtClaimedId);
+  // and a logo the build knew of is in the pages themselves: the profile, and a card on an area page
+  const builtLogoId = agencyIds.find((id) => agencyPage(id).includes('class="logo-img"'));
+  if (builtLogoId) {
+    await pp.goto(B + `/agency/${builtLogoId}/`);
+    check('a logo known to the build is in the profile page without scripts', (await pp.locator('img.logo-img').count()) === 1 && (await pp.locator('[data-logo-hide]').count()) === 0, builtLogoId);
+    const areaWithLogo = areaDirs.find((d) => fs.readFileSync(path.join(out, 'fostering-agencies', d, 'index.html'), 'utf8').includes('logo-img logo-sm'));
+    if (areaWithLogo) {
+      await pp.goto(B + `/fostering-agencies/${areaWithLogo}/`);
+      check('and on an area page without scripts', (await pp.locator('article img.logo-sm').count()) >= 1, areaWithLogo);
+    }
+  }
   await plain.close();
 }
 check('view event recorded', calls.some((c) => c.includes('rpc/track_event')));

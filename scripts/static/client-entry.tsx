@@ -7,7 +7,7 @@ import PayCalculator from '@/components/PayCalculator';
 import Portal from '@/components/Portal';
 import Unsubscribe from '@/components/Unsubscribe';
 import ProfileLive, { LogoTile } from '@/components/ProfileLive';
-import { trackVisit } from '@/lib/supa';
+import { trackVisit, publicLogos, publicLogoUrl } from '@/lib/supa';
 
 // The owner dashboard (HQ) is not in this list: it hydrates from its own script, scripts/static/hq-entry.tsx.
 const registry: Record<string, any> = { SimpleForm, DirectoryClient, ClaimForm, ContactForm, EnquiryForm, PayCalculator, Portal, Unsubscribe, ProfileLive, LogoTile };
@@ -25,6 +25,27 @@ function hydrateIslands(root: ParentNode = document) {
   });
 }
 
+/**
+ * Agency cards on the area pages are plain HTML written when the site was built. If an agency has added a logo
+ * since then, swap it in for the initials, so a new logo shows everywhere at once. (Search results and the profile
+ * page look after themselves.)
+ */
+function freshenLogos() {
+  const tiles = [...document.querySelectorAll<HTMLElement>('span.tile[data-tile]:not(.tile-lg)')].filter((t) => !t.closest('[data-island]'));
+  if (!tiles.length) return;
+  publicLogos().then((logos) => {
+    if (!logos) return;
+    for (const t of tiles) {
+      const path = logos[t.dataset.tile || ''];
+      if (!path) continue;
+      const img = document.createElement('img');
+      img.src = publicLogoUrl(path); img.alt = ''; img.className = 'logo-img logo-sm'; img.width = 60; img.height = 60; img.dataset.tile = t.dataset.tile;
+      t.replaceWith(img);
+    }
+  });
+}
+
 (window as any).__hydrateIslands = hydrateIslands;
 hydrateIslands();
+freshenLogos();
 trackVisit();

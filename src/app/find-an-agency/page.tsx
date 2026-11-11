@@ -3,6 +3,7 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import DirectoryClient from '@/components/DirectoryClient';
 import { directoryEntries, NATIONS, TYPE_LABEL } from '@/lib/providers';
+import { builtLogos } from '@/lib/built';
 
 export const metadata: Metadata = {
   title: 'Find a fostering agency or local authority service',
@@ -22,7 +23,7 @@ export default function FindAnAgency() {
           unless the provider has claimed the profile. Spotted a mistake? Report it from any profile, free of charge.
         </p>
         <Suspense fallback={<p>Loading the directory…</p>}>
-          <DirectoryClient providers={directoryEntries} />
+          <DirectoryClient providers={directoryEntries} logos={builtLogos()} />
         </Suspense>
 
         <section style={{ marginTop: 72 }} aria-labelledby="all-h">

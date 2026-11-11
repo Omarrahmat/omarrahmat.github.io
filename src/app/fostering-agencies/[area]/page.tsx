@@ -5,6 +5,7 @@ import { ProviderCard } from '@/components/ProviderParts';
 import { pinnedFor } from '@/lib/providers';
 import { areas, areaEntries, slugify } from '@/lib/areas';
 import { allowancesForArea } from '@/lib/allowances';
+import { builtLogos } from '@/lib/built';
 import areaGuides from '@/data/area-guides.json';
 
 export const dynamicParams = false;
@@ -34,6 +35,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
   const councils = entries.filter((p) => p.providerType === 'local_authority').length;
   const agencies = entries.filter((p) => p.providerType === 'independent_agency').length;
   const allowances = allowancesForArea(a.name);
+  const logos = builtLogos(); // a logo added since the build is put in when the page loads (scripts/static/client-entry.tsx)
   const guide = (areaGuides as { slug: string; updatedOn: string; paragraphs: string[]; sources: { title: string; url: string }[] }[]).find((g) => g.slug === a.slug);
   const near = areas.filter((x) => x.slug !== a.slug && entries.some((p) => p.areasServed.some((n) => slugify(n) === x.slug))).sort((x, y) => y.count - x.count).slice(0, 8);
   return (
@@ -50,11 +52,11 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
         </p>
         {pinned.length > 0 && (
           <div className="grid-3" style={{ marginBottom: 24 }}>
-            {pinned.map((p) => <ProviderCard key={p.id} provider={p} featured />)}
+            {pinned.map((p) => <ProviderCard key={p.id} provider={p} featured logo={logos[p.id]} />)}
           </div>
         )}
         <div className="grid-3">
-          {rest.map((p) => <ProviderCard key={p.id} provider={p} />)}
+          {rest.map((p) => <ProviderCard key={p.id} provider={p} logo={logos[p.id]} />)}
         </div>
         {guide && (
           <section aria-labelledby="about-h" style={{ marginTop: 40, maxWidth: 820 }}>

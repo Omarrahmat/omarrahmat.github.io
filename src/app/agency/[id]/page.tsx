@@ -7,6 +7,7 @@ import { BadgeBlock } from '@/components/Badge';
 import EnquiryForm from '@/components/EnquiryForm';
 import ProfileLive, { LogoTile } from '@/components/ProfileLive';
 import { providers, getProvider, TYPE_LABEL, FOSTERING_LABEL, formatDate, formatPhone, SOURCE_LABEL } from '@/lib/providers';
+import { builtClaimed, builtLogos } from '@/lib/built';
 
 export const dynamicParams = false;
 
@@ -31,8 +32,10 @@ export default async function AgencyPage({ params }: { params: Promise<{ id: str
   if (!p) notFound();
 
   const addressLine = [p.address.line1, p.address.town, p.address.postcode].filter(Boolean).join(', ');
-  // Profiles their agency has claimed, as the build read them (scripts/build-static.mjs).
-  const claimed = Boolean((globalThis as any).__CLAIMED?.has(p.id));
+  // What the build read from the database (scripts/build-static.mjs): whether the agency has claimed this profile,
+  // and its logo. Both are checked again when the page loads, for anything newer than the build.
+  const claimed = builtClaimed(p.id);
+  const logo = builtLogos()[p.id];
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -56,8 +59,8 @@ export default async function AgencyPage({ params }: { params: Promise<{ id: str
         </nav>
 
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: 28, alignItems: 'center', margin: '28px 0 12px' }}>
-          <span data-logo-hide style={{ display: 'contents' }}><ProviderTile provider={p} large /></span>
-          <LogoTile providerId={p.id} name={p.name} />
+          {!logo && <span data-logo-hide style={{ display: 'contents' }}><ProviderTile provider={p} large /></span>}
+          <LogoTile providerId={p.id} name={p.name} logo={logo} />
           <div style={{ flex: '1 1 400px' }}>
             <p style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
               <span className="tag">{TYPE_LABEL[p.providerType]}</span>

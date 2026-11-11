@@ -1,14 +1,19 @@
 import Link from 'next/link';
 import type { Provider, DirectoryEntry, ProviderSource } from '@/types';
 import { initials, tileStyle, TYPE_LABEL, SOURCE_LABEL, fieldSource, FOSTERING_LABEL } from '@/lib/providers';
+import { publicLogoUrl } from '@/lib/supa';
 
-export function ProviderTile({ provider, large = false }: { provider: Pick<Provider, 'id' | 'name'>; large?: boolean }) {
+/** The square beside an agency's name: its own logo once it has added one, otherwise its initials on a colour. */
+export function ProviderTile({ provider, large = false, logo }: { provider: Pick<Provider, 'id' | 'name'>; large?: boolean; logo?: string }) {
+  const side = large ? 96 : 60;
+  if (logo) return <img src={publicLogoUrl(logo)} alt="" className={large ? 'logo-img' : 'logo-img logo-sm'} width={side} height={side} data-tile={provider.id} />;
   const s = tileStyle(provider.id);
   return (
     <span
       className={`tile${large ? ' tile-lg' : ''}`}
       style={{ background: s.bg, color: s.fg }}
       aria-hidden="true"
+      data-tile={provider.id}
     >
       {initials(provider.name)}
     </span>
@@ -31,7 +36,7 @@ const BAND: Record<Provider['providerType'], string> = {
   other: '#efe6d2',
 };
 
-export function ProviderCard({ provider, featured = false }: { provider: DirectoryEntry; featured?: boolean }) {
+export function ProviderCard({ provider, featured = false, logo }: { provider: DirectoryEntry; featured?: boolean; logo?: string }) {
   const where = [provider.town, provider.nation].filter(Boolean).join(', ');
   return (
     <article className={`provider-card${featured ? ' provider-card-featured' : ''}`}>
@@ -41,7 +46,7 @@ export function ProviderCard({ provider, featured = false }: { provider: Directo
       </div>
       <div className="body">
         <div style={{ display: 'flex', gap: 14, alignItems: 'center' }}>
-          <ProviderTile provider={provider} />
+          <ProviderTile provider={provider} logo={logo} />
           <div>
             <h3><Link href={`/agency/${provider.id}/`}>{provider.name}</Link></h3>
             <p className="muted" style={{ fontSize: 14 }}>{where}</p>

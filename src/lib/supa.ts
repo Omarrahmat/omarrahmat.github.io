@@ -140,6 +140,20 @@ export async function publicProfile(id: string): Promise<{ about: string | null;
   } catch { return null; }
 }
 
+/** Every logo agencies have added, as provider id to logo path. Null when it cannot be read: keep what you have. */
+export async function publicLogos(): Promise<Record<string, string> | null> {
+  if (!configured) return null;
+  try {
+    const r = await fetch(`${URL_}/rest/v1/provider_profiles?select=provider_id,logo_path&logo_path=not.is.null`, { headers: baseHeaders() });
+    if (!r.ok) return null;
+    const rows = await r.json();
+    if (!Array.isArray(rows)) return null;
+    const out: Record<string, string> = {};
+    for (const x of rows) if (x && typeof x.provider_id === 'string' && typeof x.logo_path === 'string' && x.logo_path) out[x.provider_id] = x.logo_path;
+    return out;
+  } catch { return null; }
+}
+
 /** Whether this profile has been claimed, meaning we have approved a claim for it. False when it cannot be checked. */
 export async function publicClaimed(id: string): Promise<boolean> {
   if (!configured) return false;

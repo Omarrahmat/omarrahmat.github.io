@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
 import type { DirectoryEntry } from '@/types';
 import { ProviderCard } from '@/components/ProviderParts';
-import { trackImpressions, trackSearch } from '@/lib/supa';
+import { trackImpressions, trackSearch, publicLogos } from '@/lib/supa';
 import { NATIONS, FOSTERING_LABEL, TYPE_LABEL, pinnedFor } from '@/lib/providers';
 
 function norm(s: string) {
@@ -13,8 +13,12 @@ function norm(s: string) {
 
 const PAGE = 24;
 
-export default function DirectoryClient({ providers }: { providers: DirectoryEntry[] }) {
+export default function DirectoryClient({ providers, logos: built = {} }: { providers: DirectoryEntry[]; logos?: Record<string, string> }) {
   const params = useSearchParams();
+  // Agencies' own logos: the ones the site build knew of to begin with, then the current list, so a logo added
+  // since the last build shows in the results too.
+  const [logos, setLogos] = useState(built);
+  useEffect(() => { publicLogos().then((now) => { if (now) setLogos(now); }); }, []);
   const [q, setQ] = useState(params.get('q') ?? '');
   const [nation, setNation] = useState(params.get('nation') ?? '');
   const [type, setType] = useState(params.get('type') ?? '');
@@ -128,7 +132,7 @@ export default function DirectoryClient({ providers }: { providers: DirectoryEnt
         </div>
       )}
       <div className="grid-3">
-        {visible.map((p) => <ProviderCard key={p.id} provider={p} featured={pinnedIds.has(p.id)} />)}
+        {visible.map((p) => <ProviderCard key={p.id} provider={p} featured={pinnedIds.has(p.id)} logo={logos[p.id]} />)}
       </div>
       {results.length > visible.length && (
         <p style={{ textAlign: 'center', marginTop: 32 }}>

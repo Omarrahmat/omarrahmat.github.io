@@ -8,9 +8,9 @@ type Prof = Awaited<ReturnType<typeof publicProfile>>;
 const cache = new Map<string, Promise<Prof>>();
 const load = (id: string) => { if (!cache.has(id)) cache.set(id, publicProfile(id)); return cache.get(id)!; };
 
-/** Logo from the agency, shown instead of the initials tile once loaded. */
-export function LogoTile({ providerId, name, fallback }: { providerId: string; name: string; fallback?: string }) {
-  const [logo, setLogo] = useState<string | null>(null);
+/** Logo from the agency, shown instead of the initials tile. `logo` is the one the site build knew of, if any. */
+export function LogoTile({ providerId, name, logo: known }: { providerId: string; name: string; logo?: string }) {
+  const [logo, setLogo] = useState<string | null>(known ? publicLogoUrl(known) : null);
   useEffect(() => { load(providerId).then((p) => p?.logo_path && setLogo(publicLogoUrl(p.logo_path))); }, [providerId]);
   if (!logo) return null;
   return <img src={logo} alt={`${name} logo`} className="logo-img" width={96} height={96} />;
@@ -57,14 +57,14 @@ export default function ProfileLive({ providerId, name, claimed: known = false }
       {claimed && <ClaimedSign name={name} />}
       {own && (
         <section style={{ margin: '0 0 28px', maxWidth: 820 }} aria-labelledby="about-h">
-          <h2 id="about-h" style={{ fontSize: 28, marginBottom: 8 }}>From {name}</h2>
+          <h2 id="about-h" style={{ fontSize: 28, lineHeight: 1.15, marginBottom: 10 }}>From {name}</h2>
           {about && <p style={{ whiteSpace: 'pre-line' }}>{about}</p>}
           {extra.length > 0 && (
             <ul style={{ margin: '12px 0 0', paddingLeft: 20 }}>
               {extra.map(([l, href, text, kind]) => <li key={l}>{l}: <a href={href} data-track={kind} rel="noopener" target={href.startsWith('http') ? '_blank' : undefined}>{text}</a></li>)}
             </ul>
           )}
-          <p className="muted" style={{ fontSize: 14, marginTop: 8 }}>Written and supplied by {name}. Fostering Today has not checked this section.</p>
+          <p className="muted" style={{ fontSize: 14, marginTop: 8 }}>Written and supplied by {name}.</p>
         </section>
       )}
     </>
