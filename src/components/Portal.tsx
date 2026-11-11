@@ -2,7 +2,7 @@
 
 import payments from '@/data/payments.json';
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { configured, loadSession, sendCode, verifyCode, signOut, api, rpc, uploadLogo, publicLogoUrl, type Session } from '@/lib/supa';
+import { configured, loadSession, sendCode, verifyCode, signOut, api, rpc, uploadLogo, publicLogoUrl, reportProblem, type Session } from '@/lib/supa';
 import { LivePill } from '@/components/ClaimedSign';
 
 interface Prov { areasServed?: string[]; id: string; name: string; phone: string | null; website: string | null; recruitmentUrl: string | null }
@@ -11,6 +11,12 @@ interface Enquiry { id: string; name: string; email: string; phone: string; post
 interface EventRow { day: string; kind: string; n: number }
 
 const day = (d: Date) => d.toISOString().slice(0, 10);
+// A save the database refused or could not do is far more likely our fault than the agency's, so the team is told
+// (public.portal_problems). `quiet400` is for the one field where a refusal usually means a mistyped address.
+const tellTeam = (pid: string, what: string, x: unknown, quiet400 = false) => {
+  const m = (x as Error)?.message || '';
+  if (/^Request failed/.test(m) && !(quiet400 && m.includes('(400)'))) reportProblem(pid, what, m);
+};
 const fmt = (s: string) => new Date(s).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
 
 export default function Portal({ providers }: { providers: Prov[] }) {
@@ -180,7 +186,7 @@ function EditProfile({ pid, prov }: { pid: string; prov?: Prov }) {
       set('logo_path', path);
       await api('provider_profiles?on_conflict=provider_id', { method: 'POST', prefer: 'resolution=merge-duplicates,return=minimal', body: { provider_id: pid, logo_path: path } });
       setState('saved'); setMsg('Logo saved. It appears on your public profile straight away.');
-    } catch (x: any) { setState('error'); setMsg(x.message); }
+    } catch (x: any) { tellTeam(pid, 'logo_save', x); setState('error'); setMsg(x.message); }
   }
   async function save(e: React.FormEvent) {
     e.preventDefault();
@@ -189,7 +195,7 @@ function EditProfile({ pid, prov }: { pid: string; prov?: Prov }) {
     try {
       await api('provider_profiles?on_conflict=provider_id', { method: 'POST', prefer: 'resolution=merge-duplicates,return=minimal', body: { provider_id: pid, about: p!.about?.trim() || null, phone: p!.phone?.trim() || null, website: p!.website?.trim() || null, recruitment_url: p!.recruitment_url?.trim() || null } });
       setState('saved'); setMsg('Saved. Changes show on your public profile straight away; search engines pick them up over the following days.');
-    } catch (x: any) { setState('error'); setMsg(x.message); }
+    } catch (x: any) { tellTeam(pid, 'profile_save', x); setState('error'); setMsg(x.message); }
   }
   return (
     <form onSubmit={save} className="form-card form-stack" style={{ maxWidth: 720 }}>
@@ -260,7 +266,7 @@ function Plan({ pid, email, areas }: { pid: string; email: string; areas: string
   async function saveAreas() {
     setMsg('');
     try { await api('agency_settings?on_conflict=provider_id', { method: 'POST', prefer: 'resolution=merge-duplicates,return=minimal', body: { provider_id: pid, placement_areas: chosen, updated_at: new Date().toISOString() } }); setMsg('Saved. Your pinned areas update on the site within a day.'); }
-    catch { setMsg('That did not save. Please try again.'); }
+    catch (x) { tellTeam(pid, 'areas_save', x); setMsg('That did not save. Please try again.'); }
   }
   return (
     <div className="form-card form-stack">
@@ -302,7 +308,7 @@ function Settings({ pid, email: me, areas }: { pid: string; email: string; areas
   async function save(e: React.FormEvent) {
     e.preventDefault(); setMsg('');
     try { await api('agency_settings?on_conflict=provider_id', { method: 'POST', prefer: 'resolution=merge-duplicates,return=minimal', body: { provider_id: pid, enquiry_email: email!.trim() || null, updated_at: new Date().toISOString() } }); setMsg('Saved.'); }
-    catch { setMsg('That address was not accepted. Please check it.'); }
+    catch (x) { tellTeam(pid, 'alert_email_save', x, true); setMsg('That address was not accepted. Please check it.'); }
   }
   return (
     <div style={{ maxWidth: 640, display: 'flex', flexDirection: 'column', gap: 24 }}>

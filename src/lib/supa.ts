@@ -116,6 +116,15 @@ export async function rpc<T = any>(fn: string, body: unknown = {}): Promise<T> {
   return api<T>(`rpc/${fn}`, { method: 'POST', body });
 }
 
+/**
+ * Tells the team that something in the portal failed on our side, so we hear at once and the agency does not have
+ * to email (the desks read public.portal_problems). Never waits, never throws, and is ignored unless the person
+ * is a member of that profile.
+ */
+export function reportProblem(provider: string, kind: string, detail: string): void {
+  try { rpc('report_portal_problem', { p_provider: provider, p_kind: kind, p_detail: String(detail || '').slice(0, 500) }).catch(() => {}); } catch { /* never in the way */ }
+}
+
 export async function uploadLogo(path: string, file: File): Promise<void> {
   const s = await freshSession();
   if (!s) throw new Error('signed-out');
@@ -126,6 +135,7 @@ export async function uploadLogo(path: string, file: File): Promise<void> {
   let detail = '';
   try { const j = await r.json(); detail = `${j.statusCode || ''} ${j.error || ''} ${j.message || ''}`.toLowerCase(); } catch { /* no details sent */ }
   if (r.status === 413 || /\b41[35]\b|too large|maximum allowed size|mime/.test(detail)) throw new Error('That file was not accepted. Use a PNG, JPG or WebP image under 1 MB.');
+  reportProblem(path.split('/')[0], 'logo_upload', `${r.status} ${detail}`.trim());
   throw new Error('We could not save your logo. This is a fault on our side, not a problem with your file. Please try again in a few minutes, or email hello@fosteringtoday.com and we will put it right.');
 }
 

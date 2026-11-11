@@ -164,6 +164,7 @@ const png = { name: 'logo.png', mimeType: 'image/png', buffer: Buffer.from('8950
 logoFault = 'ours'; await pg.setInputFiles('#lg', png);
 await pg.waitForSelector('[role=alert]:has-text("fault on our side")');
 check('a failed logo upload that is our fault says so', !(profile?.logo_path) && (await pg.locator('[role=alert]').innerText()).includes('hello@fosteringtoday.com'));
+check('and the team is told about it', calls.some((c) => c.includes('rpc/report_portal_problem')));
 logoFault = 'file'; await pg.setInputFiles('#lg', []); await pg.setInputFiles('#lg', png);
 await pg.waitForSelector('[role=alert]:has-text("under 1 MB")');
 check('a refused file is explained as the file', !(profile?.logo_path));
