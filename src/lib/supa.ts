@@ -140,6 +140,17 @@ export async function publicProfile(id: string): Promise<{ about: string | null;
   } catch { return null; }
 }
 
+/** Whether this profile has been claimed, meaning we have approved a claim for it. False when it cannot be checked. */
+export async function publicClaimed(id: string): Promise<boolean> {
+  if (!configured) return false;
+  try {
+    const r = await fetch(`${URL_}/rest/v1/rpc/claimed_providers`, { method: 'POST', headers: { ...baseHeaders(), 'Content-Type': 'application/json' }, body: JSON.stringify({ p_provider: id }) });
+    if (!r.ok) return false;
+    const rows = await r.json();
+    return Array.isArray(rows) && rows.length > 0;
+  } catch { return false; }
+}
+
 const CRAWLER = /googlebot|bingbot|duckduckbot|applebot|yandexbot|baiduspider|slurp/i;
 
 export function trackEvent(provider: string, kind: string) {

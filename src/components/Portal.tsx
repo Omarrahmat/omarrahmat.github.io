@@ -3,6 +3,7 @@
 import payments from '@/data/payments.json';
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { configured, loadSession, sendCode, verifyCode, signOut, api, rpc, uploadLogo, publicLogoUrl, type Session } from '@/lib/supa';
+import { LivePill } from '@/components/ClaimedSign';
 
 interface Prov { areasServed?: string[]; id: string; name: string; phone: string | null; website: string | null; recruitmentUrl: string | null }
 interface Profile { about: string | null; logo_path: string | null; phone: string | null; website: string | null; recruitment_url: string | null }
@@ -99,6 +100,7 @@ function Shell({ session, members, providers, onOut }: { session: Session; membe
             <select className="select" aria-label="Profile" value={pid} onChange={(e) => setPid(e.target.value)}>{members.map((m) => <option key={m} value={m}>{providers.find((p) => p.id === m)?.name || m}</option>)}</select>
           ) : <h2 style={{ fontSize: 30 }}>{prov?.name || pid}</h2>}
           <p className="muted" style={{ fontSize: 14 }}>Signed in as {session.user.email}</p>
+          <LivePill />
         </div>
         <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
           <a className="btn btn-small" href={`/agency/${pid}/`}>View public profile</a>

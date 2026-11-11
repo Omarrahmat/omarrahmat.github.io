@@ -31,6 +31,8 @@ export default async function AgencyPage({ params }: { params: Promise<{ id: str
   if (!p) notFound();
 
   const addressLine = [p.address.line1, p.address.town, p.address.postcode].filter(Boolean).join(', ');
+  // Profiles their agency has claimed, as the build read them (scripts/build-static.mjs).
+  const claimed = Boolean((globalThis as any).__CLAIMED?.has(p.id));
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -65,14 +67,18 @@ export default async function AgencyPage({ params }: { params: Promise<{ id: str
           </div>
         </div>
 
-        <div className="notice" style={{ margin: '20px 0 32px', maxWidth: 820 }}>
-          <strong>This profile was built from public sources.</strong> It has not been claimed by the provider yet.
-          Each detail below is labelled with where it came from. If you work here, you can{' '}
-          <Link href={`/claim/?provider=${p.id}`} style={{ fontWeight: 700 }}>claim this profile for free</Link>{' '}
-          to add your logo and keep it up to date.
-        </div>
+        {/* A claimed profile carries the "claimed" sign instead, put up by ProfileLive: straight into the page when the
+            build knew of the claim, or as the page loads for a claim approved since (which also takes this notice down). */}
+        {!claimed && (
+          <div className="notice" data-unclaimed style={{ margin: '20px 0 32px', maxWidth: 820 }}>
+            <strong>This profile was built from public sources.</strong> It has not been claimed by the provider yet.
+            Each detail below is labelled with where it came from. If you work here, you can{' '}
+            <Link href={`/claim/?provider=${p.id}`} style={{ fontWeight: 700 }}>claim this profile for free</Link>{' '}
+            to add your logo and keep it up to date.
+          </div>
+        )}
 
-        <ProfileLive providerId={p.id} name={p.name} />
+        <ProfileLive providerId={p.id} name={p.name} claimed={claimed} />
 
         <dl className="facts">
           <dt>Areas served</dt>

@@ -115,6 +115,32 @@ const ver = (...files) => {
 };
 globalThis.__ASSET_VER = { js: ver('assets/client.js'), css: ver('assets/site.css'), hq: ver('hq.css', 'assets/hq.js') };
 
+// Profiles their agency has claimed. The publishing build (GitHub Actions) asks the database, so a claimed profile
+// says "claimed" in the page itself. Any other build does not ask, and each profile finds out as it loads instead.
+// FT_CLAIMED (provider ids, comma separated) stands in for the answer when testing. A failed question never fails the build.
+async function claimedIds() {
+  if (process.env.FT_CLAIMED !== undefined) return process.env.FT_CLAIMED.split(',').map((s) => s.trim()).filter(Boolean);
+  const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+  if (process.env.GITHUB_ACTIONS !== 'true' || !url || !key) return [];
+  try {
+    const headers = { apikey: key, 'Content-Type': 'application/json' };
+    if (key.startsWith('eyJ')) headers.Authorization = `Bearer ${key}`;
+    const r = await fetch(`${url}/rest/v1/rpc/claimed_providers`, { method: 'POST', headers, body: '{}', signal: AbortSignal.timeout(10000) });
+    if (!r.ok) throw new Error(`the database answered ${r.status}`);
+    const rows = await r.json();
+    if (!Array.isArray(rows)) throw new Error('the answer was not a list');
+    // A list of ids; if the database ever wraps each one in an object, take the value inside.
+    return rows.map((x) => (x && typeof x === 'object' ? Object.values(x)[0] : x)).filter((x) => typeof x === 'string' && x);
+  } catch (e) {
+    console.warn(`Could not read which profiles are claimed (${e.message}). Each profile will check as it loads.`);
+    return [];
+  }
+}
+const claimed = await claimedIds();
+globalThis.__CLAIMED = new Set(claimed);
+console.log(`Claimed profiles known to this build: ${claimed.length}`);
+
 const { buildAll } = require(path.join(tmp, 'server.cjs'));
 const files = await buildAll();
 for (const f of files) {

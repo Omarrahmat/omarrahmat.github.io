@@ -93,6 +93,7 @@ await pg.route(/supabase\.co/, async (route) => {
   }
   if (u.pathname.endsWith('/rpc/link_my_claims')) return json(route, [{ provider_id: PID }]);
   if (u.pathname.endsWith('/rpc/track_event')) return json(route, null, 204);
+  if (u.pathname.endsWith('/rpc/claimed_providers')) { const one = JSON.parse(route.request().postData() || '{}').p_provider; return json(route, !one || one === PID ? [PID] : []); }
   if (u.pathname.endsWith('/rpc/track_visit')) { visits.push(JSON.parse(route.request().postData())); return json(route, null, 204); }
   if (u.pathname.endsWith('/rpc/owner_mail')) return json(route, { mirrored_at: new Date().toISOString(), counts: { all: 2, in: 1, out: 1, outreach: 1 }, messages: [
     { message_id: 'm1', thread_id: 't1', at: new Date().toISOString(), direction: 'in', from_addr: 'Jo <jo@agency.example>', to_addrs: 'hello@fosteringtoday.com', subject: 'Featured for Kent?', preview: 'How much is Featured for Kent?', labels: ['received'] },
@@ -139,6 +140,7 @@ check('wrong code shows error', (await pg.locator('[role=alert]').innerText()).i
 await pg.fill('#pc', '123456'); await pg.click('button:has-text("Sign in")');
 await pg.waitForSelector('text=Profile views, last 30 days');
 check('dashboard loads', (await pg.locator('h2', { hasText: 'Abacus' }).count()) >= 1);
+check('portal shows the live, claimed light', (await pg.locator('.live-pill').innerText()).includes('Live profile, claimed'));
 check('stats total views', (await pg.locator('text=Profile views').first().count()) === 1);
 if (shots) await pg.screenshot({ path: shots + '/portal-overview.png', fullPage: true });
 await pg.click('role=tab[name="Enquiries"]');
@@ -206,6 +208,31 @@ await pg.goto(B + `/agency/${PID}/`);
 await pg.waitForSelector('text=From Abacus');
 check('public profile shows agency text', (await pg.locator('text=friendly agency in Croydon').count()) === 1);
 check('public profile shows agency logo', (await pg.locator('img.logo-img').count()) === 1);
+// a claimed profile says so, and no longer says "not claimed yet"
+await pg.waitForSelector('.claimed-sign');
+check('a claimed profile carries the claimed sign', (await pg.locator('.claimed-sign').innerText()).includes('Live profile, claimed by Abacus Fostering') && (await pg.locator('.claimed-sign .lit svg').count()) === 1);
+check('a claimed profile no longer says it is not claimed', (await pg.locator('[data-unclaimed]:visible').count()) === 0 && !(await pg.locator('main').innerText()).includes('has not been claimed'));
+await pg.setViewportSize({ width: 390, height: 800 });
+check('the claimed sign fits a phone', await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+if (shots) await pg.screenshot({ path: shots + '/claimed-phone.png' });
+await pg.setViewportSize({ width: 1100, height: 900 });
+if (shots) await pg.screenshot({ path: shots + '/claimed.png' });
+// a profile nobody has claimed keeps the notice and gets no sign
+const agencyPage = (id) => fs.readFileSync(path.join(out, 'agency', id, 'index.html'), 'utf8');
+const agencyIds = fs.readdirSync(path.join(out, 'agency'));
+const unclaimedId = agencyIds.find((id) => id !== PID && agencyPage(id).includes('data-unclaimed'));
+await pg.goto(B + `/agency/${unclaimedId}/`); await pg.waitForTimeout(500);
+check('an unclaimed profile keeps its notice and has no sign', (await pg.locator('[data-unclaimed]:visible').count()) === 1 && (await pg.locator('.claimed-sign').count()) === 0, String(unclaimedId));
+// a profile the build already knew was claimed has the sign in the page itself (checked with scripts off)
+const builtClaimedId = agencyIds.find((id) => agencyPage(id).includes('data-claimed'));
+if (builtClaimedId) {
+  const plain = await b.newContext({ javaScriptEnabled: false });
+  const pp = await plain.newPage();
+  await pp.route((u) => u.origin !== B, (route) => route.abort('blockedbyclient'));
+  await pp.goto(B + `/agency/${builtClaimedId}/`);
+  check('a profile claimed before the build shows the sign without scripts', (await pp.locator('.claimed-sign').count()) === 1 && (await pp.locator('[data-unclaimed]').count()) === 0, builtClaimedId);
+  await plain.close();
+}
 check('view event recorded', calls.some((c) => c.includes('rpc/track_event')));
 check('page visits are counted with their source', visits.length > 0 && visits.every((v) => v.p_source && v.p_landing && v.p_landing.startsWith('/')));
 // owner dashboard
