@@ -334,5 +334,45 @@
         "date": "2026-11-09"
       }
     ]
+  },
+  {
+    "slug": "wales-fostering-panels-regulations-carer-approvals-transfer-not-for-profit-2026",
+    "title": "Wales sets out rules to carry foster carer approvals over when agencies go not-for-profit",
+    "standfirst": "Welsh Government impact assessments published on 10 November describe new regulations letting carers keep their approval when a for-profit fostering service re-forms as a not-for-profit body, instead of being assessed again.",
+    "publishedOn": "2026-11-11",
+    "eventDate": "2026-11-10",
+    "topics": [
+      "wales",
+      "regulation",
+      "policy",
+      "agencies"
+    ],
+    "body": [
+      "The Welsh Government has published four impact assessments for the Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026, all dated 10 November 2026. They cover the integrated, children's rights, equality and Welsh language impacts of a change designed to keep foster carer approvals in place while fostering services move to a not-for-profit model.",
+      "The background is the Health and Social Care (Wales) Act 2025, which removes profit from children's residential care, secure accommodation and fostering. The integrated assessment says the aim is for this care to be largely delivered by not-for-profit providers registered with Care Inspectorate Wales (CIW) by 2030. The difficulty it identifies is that when a for-profit fostering service re-establishes itself as a not-for-profit organisation, it becomes a new legal entity. Approvals cannot simply move across, and a carer cannot be approved by two agencies at the same time, so without a change every carer would face full re-approval: a fresh suitability assessment, updated checks and references, a fostering panel and a new agency decision.",
+      "The regulations amend the Fostering Panels (Establishment and Functions) (Wales) Regulations 2018 so that, in strictly defined and time-limited circumstances, existing approvals transfer automatically to the new not-for-profit body where there is clear organisational and operational continuity. Safeguards listed include checks that the transfer is valid, continued supervision of carers, a mandatory review of each transferred approval within 12 months, CIW oversight and national guidance. The children's rights assessment refers to a proposed sunset provision, meaning the arrangement is meant to be temporary.",
+      "According to the integrated assessment, a 12-week public consultation showed broad support, with respondents stressing placement stability, safeguarding oversight and clear, consistent guidance. Those taking part included foster carers, for-profit and not-for-profit providers, councils, CIW, sector bodies and the Children's Commissioner for Wales. The assessment gives a start date of December 2026 and says the regulations follow the negative procedure in the Senedd. It does not give an exact date, and the regulations themselves had not appeared on legislation.gov.uk when we checked.",
+      "What this means for you: if you foster in Wales with a for-profit agency that plans to become a charity or other not-for-profit body, the aim is that you keep your approval and your placements without starting the assessment again, though your approval would be reviewed within a year of the transfer. If you are thinking about fostering in Wales, councils working together as Foster Wales and not-for-profit agencies are the routes the system is moving towards. We will report the final regulations and their in-force date when they are published."
+    ],
+    "sources": [
+      {
+        "title": "The Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026: impact assessments",
+        "url": "https://www.gov.wales/fostering-panels-establishment-and-functions-wales-amendment-and-transitional-provision-regulations",
+        "publisher": "Welsh Government",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Integrated impact assessment",
+        "url": "https://www.gov.wales/fostering-panels-establishment-and-functions-wales-amendment-and-transitional-provision-0",
+        "publisher": "Welsh Government",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "Children's rights impact assessment",
+        "url": "https://www.gov.wales/fostering-panels-establishment-and-functions-wales-amendment-and-transitional-provision-1",
+        "publisher": "Welsh Government",
+        "date": "2026-11-10"
+      }
+    ]
   }
 ]
