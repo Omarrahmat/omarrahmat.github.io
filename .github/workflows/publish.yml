@@ -3,8 +3,10 @@ on:
   push:
     branches: [source]
   workflow_dispatch:
+# One publish at a time. The group was called "publish" until 11 Nov 2026, when GitHub left five runs in that
+# group queued without ever starting them (they could not be cancelled either). A new name lets later runs start.
 concurrency:
-  group: publish
+  group: publish-site
   cancel-in-progress: false
 permissions:
   contents: write
