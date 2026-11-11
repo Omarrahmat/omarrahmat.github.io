@@ -30,6 +30,7 @@ let hqDown = false; // the full data feed (owner_hq) fails, so the dashboard mus
 let noGoogle = false; // no Search Console export loaded yet
 let renewal = 'ok'; // how the sign-in renewal answers: 'ok', 'down' (a passing fault) or 'refused' (the sign-in is no longer valid)
 let renewals = 0;
+let logoFault = ''; // how the logo store answers: '' (accepts), 'ours' (a permission fault on our side) or 'file' (the file is refused)
 const ukDay = (offset = 0) => new Date(Date.now() + offset * 86400000).toLocaleDateString('en-CA', { timeZone: 'Europe/London' });
 const utcDay = (offset = 0) => new Date(Date.now() + offset * 86400000).toISOString().slice(0, 10);
 const kw = (query, position, impressions, clicks = 0) => ({ query, position, impressions, clicks, prev_position: null });
@@ -118,7 +119,11 @@ await pg.route(/supabase\.co/, async (route) => {
   if (u.pathname.endsWith('/provider_profiles')) { if (m === 'POST') { profile = { ...(profile || {}), ...JSON.parse(route.request().postData()) }; return json(route, null, 201); } return json(route, profile ? [profile] : []); }
   if (u.pathname.endsWith('/area_searches')) return json(route, [{ day: today, area: 'croydon', n: 7 }, { day: today, area: 'leeds', n: 3 }]);
   if (u.pathname.endsWith('/agency_settings')) { if (m === 'POST') { settingsPosts.push(JSON.parse(route.request().postData())); return json(route, null, 201); } return json(route, []); }
-  if (u.pathname.includes('/storage/v1/object/provider-logos')) return json(route, { Key: 'x' });
+  if (u.pathname.includes('/storage/v1/object/provider-logos')) {
+    if (logoFault === 'ours') return json(route, { statusCode: '403', error: 'Unauthorized', message: 'new row violates row-level security policy' }, 400);
+    if (logoFault === 'file') return json(route, { statusCode: '413', error: 'Payload too large', message: 'The object exceeded the maximum allowed size' }, 400);
+    return json(route, { Key: 'x' });
+  }
   return json(route, []);
 });
 await pg.goto(B + '/portal/');
@@ -152,7 +157,16 @@ await pg.click('text=Save changes');
 await pg.waitForSelector('[role=status]');
 check('profile saved', profile?.about?.startsWith('We are') && profile.website === 'https://abacus.example');
 if (shots) await pg.screenshot({ path: shots + '/portal-edit.png', fullPage: true });
-await pg.setInputFiles('#lg', { name: 'logo.png', mimeType: 'image/png', buffer: Buffer.from('89504e470d0a1a0a', 'hex') });
+const png = { name: 'logo.png', mimeType: 'image/png', buffer: Buffer.from('89504e470d0a1a0a', 'hex') };
+// a fault on our side must not be blamed on the agency's file
+logoFault = 'ours'; await pg.setInputFiles('#lg', png);
+await pg.waitForSelector('[role=alert]:has-text("fault on our side")');
+check('a failed logo upload that is our fault says so', !(profile?.logo_path) && (await pg.locator('[role=alert]').innerText()).includes('hello@fosteringtoday.com'));
+logoFault = 'file'; await pg.setInputFiles('#lg', []); await pg.setInputFiles('#lg', png);
+await pg.waitForSelector('[role=alert]:has-text("under 1 MB")');
+check('a refused file is explained as the file', !(profile?.logo_path));
+logoFault = ''; await pg.setInputFiles('#lg', []);
+await pg.setInputFiles('#lg', png);
 await pg.waitForFunction(() => document.querySelector('img.logo-img'));
 check('logo upload stores path', /^abacus-fostering\/logo-\d+\.png$/.test(profile?.logo_path || ''));
 // plan tab: featured partner picks pinned areas

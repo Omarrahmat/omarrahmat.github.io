@@ -120,7 +120,13 @@ export async function uploadLogo(path: string, file: File): Promise<void> {
   const s = await freshSession();
   if (!s) throw new Error('signed-out');
   const r = await fetch(`${URL_}/storage/v1/object/provider-logos/${path}`, { method: 'POST', headers: { ...baseHeaders(s.access_token), 'Content-Type': file.type, 'x-upsert': 'true' }, body: file });
-  if (!r.ok) throw new Error('The logo could not be uploaded. Use a PNG, JPG or WebP under 1 MB.');
+  if (r.ok) return;
+  // Say whose fault it is. The file's type and size are checked before it is sent, so a refusal here is nearly
+  // always ours (on 11 Nov 2026 a missing storage permission refused every upload while the message blamed the file).
+  let detail = '';
+  try { const j = await r.json(); detail = `${j.statusCode || ''} ${j.error || ''} ${j.message || ''}`.toLowerCase(); } catch { /* no details sent */ }
+  if (r.status === 413 || /\b41[35]\b|too large|maximum allowed size|mime/.test(detail)) throw new Error('That file was not accepted. Use a PNG, JPG or WebP image under 1 MB.');
+  throw new Error('We could not save your logo. This is a fault on our side, not a problem with your file. Please try again in a few minutes, or email hello@fosteringtoday.com and we will put it right.');
 }
 
 // Anonymous helpers for the public profile page.
