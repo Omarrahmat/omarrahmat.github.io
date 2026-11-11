@@ -169,6 +169,22 @@ export default function PayCalculator() {
           </p>
         </div>
       </div>
+
+      {/* The step after the result: on to the services near the visitor. A plain form, so it works before the
+          page's script has loaded. The directory reads `q`, and lists Featured agencies for that place first. */}
+      <section className="calc-next" aria-labelledby="calc-next-h">
+        <div className="calc-next-text">
+          <h2 id="calc-next-h">Now find the services near you</h2>
+          <p>Each service sets its own fee, so the next step is to ask the ones near you what they pay.</p>
+        </div>
+        <form className="search-card" action="/find-an-agency/" method="get" role="search">
+          <div className="field field-wide">
+            <label htmlFor="calc-q">Town or postcode</label>
+            <input id="calc-q" name="q" className="input" type="search" placeholder="e.g. Cardiff or CF10" required />
+          </div>
+          <button type="submit" className="btn btn-dark">Find an agency</button>
+        </form>
+      </section>
     </div>
   );
 }

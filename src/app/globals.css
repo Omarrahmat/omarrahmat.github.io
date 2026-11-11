@@ -246,7 +246,14 @@ details.faq p { margin-top: 12px; max-width: 760px; color: var(--muted); }
 .calc-totals .calc-big { border-top: 2px solid var(--ink); padding-top: 10px; }
 .calc-totals .calc-big dd { font-size: 34px; }
 input[type=range] { width: 100%; accent-color: var(--forest); }
+/* The step after the result: a yellow plate with the same search box as the home page. */
+.calc-next { margin-top: 40px; padding: 28px; border: 2px solid var(--ink); border-radius: 28px; background: var(--yellow); display: flex; flex-wrap: wrap; gap: 20px 40px; align-items: center; }
+.calc-next-text { flex: 1 1 340px; min-width: 0; }
+.calc-next h2 { font-size: clamp(26px, 3.4vw, 36px); line-height: 1.05; }
+.calc-next p { margin-top: 8px; max-width: 520px; }
+.calc-next .search-card { flex: 1 1 400px; max-width: 560px; }
 @media (max-width: 900px) { .calc-grid { grid-template-columns: 1fr; } .calc-out { position: static; } }
+@media (max-width: 560px) { .calc-next { padding: 20px; margin-top: 32px; } .calc-next .btn { flex: 1 1 100%; } }
 .legal-body h2 { font-size: 26px; margin: 22px 0 4px; }
 .legal-body ul { padding-left: 22px; display: flex; flex-direction: column; gap: 10px; }
 .legal-body a { text-decoration: underline; }

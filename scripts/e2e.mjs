@@ -67,6 +67,19 @@ for (const viewport of [{ width: 1360, height: 900 }, { width: 390, height: 800 
   await pg.waitForTimeout(200);
   check(`empty search state (${tag})`, (await pg.locator('article').count()) === 0);
 
+  // The calculator hands the visitor on to the services near them, where paid placements are listed first.
+  await pg.goto(B + '/calculator/');
+  check(`calculator works out a weekly total (${tag})`, /£\d/.test(await pg.locator('.calc-totals').innerText()));
+  check(`calculator fits the screen (${tag})`, await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+  await pg.click('.calc-next button[type=submit]');
+  await pg.waitForTimeout(200);
+  check(`calculator asks for a place before searching (${tag})`, new URL(pg.url()).pathname === '/calculator/');
+  await pg.fill('#calc-q', town);
+  await Promise.all([pg.waitForURL(/\/find-an-agency\/\?q=/), pg.click('.calc-next button[type=submit]')]);
+  await pg.waitForTimeout(300);
+  const fromCalc = await pg.locator('article').count();
+  check(`calculator leads to the services in "${town}" (${tag})`, (await pg.inputValue('#d-q')) === town && fromCalc === n, `${fromCalc} of ${n}`);
+
   await pg.goto(B + `/agency/${sample.id}/`);
   check(`profile renders (${tag})`, (await pg.locator('h1').innerText()).includes(sample.name.slice(0, 10)));
   const ld = await pg.locator('script[type="application/ld+json"]').allTextContents();
