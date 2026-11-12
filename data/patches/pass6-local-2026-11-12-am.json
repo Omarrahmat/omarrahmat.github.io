@@ -1,0 +1,20 @@
+[
+ {
+  "id": "apple-fostering-services",
+  "areasServed": ["Brent", "Camden", "Ealing", "Haringey", "Harrow", "Islington", "Luton", "Barnet", "Enfield", "Hackney", "Hertfordshire"],
+  "sources": [{"url": "https://applefostering.co.uk/islington-fostering/", "retrievedOn": "2026-11-12", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 12 Nov 2026: the page's Locations menu lists Brent, Camden, Ealing, Haringey, Harrow, Islington and Luton, each with its own location page; its 'Where We Cover' text says the agency is looking for carers in Camden, Hackney, Haringey, Barnet, Enfield and Hertfordshire."
+ },
+ {
+  "id": "ealing-fostering-connections",
+  "areasServed": ["Ealing"],
+  "sources": [{"url": "https://www.ealing.gov.uk/fosteradopt", "retrievedOn": "2026-11-12", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 12 Nov 2026: Ealing Council's own page says Ealing Fostering Connections find foster carers for local children; plain place name added alongside the formal council area so it counts towards the Ealing page."
+ },
+ {
+  "id": "hackney-fostering",
+  "areasServed": ["Hackney"],
+  "sources": [{"url": "https://www.hackney.gov.uk/fostering", "retrievedOn": "2026-11-12", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 12 Nov 2026: Hackney Council's 'Fostering with Hackney' page; it says people interested in fostering a child in Hackney should contact the North London Fostering Hub, which Hackney joined in October 2026 (a partnership of Barnet, Camden, Enfield, Hackney, Haringey and Islington). Plain place name added alongside the formal council area."
+ }
+]
