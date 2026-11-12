@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
@@ -8,6 +9,10 @@ import EnquiryForm from '@/components/EnquiryForm';
 import ProfileLive, { LogoTile } from '@/components/ProfileLive';
 import { providers, getProvider, TYPE_LABEL, FOSTERING_LABEL, formatDate, formatPhone, SOURCE_LABEL } from '@/lib/providers';
 import { builtClaimed, builtLogos } from '@/lib/built';
+import { areas, slugify } from '@/lib/areas';
+
+// The areas that have a page of their own ("Fostering agencies in <area>"): a profile links each of its areas to it.
+const areaPages = new Set(areas.map((a) => a.slug));
 
 export const dynamicParams = false;
 
@@ -19,9 +24,15 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const { id } = await params;
   const p = getProvider(id);
   if (!p) return {};
+  // The town and the areas are what people type with "fostering", so the title and description name them.
+  const where = [p.address.town, p.nation].filter(Boolean).join(', ');
+  const all = p.areasServed;
+  const covering = all.length === 0 ? ''
+    : all.length > 3 ? `, covering ${all.slice(0, 3).join(', ')} and ${all.length - 3} more ${all.length - 3 === 1 ? 'area' : 'areas'}`
+    : `, covering ${all.length > 1 ? `${all.slice(0, -1).join(', ')} and ${all[all.length - 1]}` : all[0]}`;
   return {
-    title: `${p.name}: fostering in ${p.nation}`,
-    description: `${TYPE_LABEL[p.providerType]} in ${p.nation}. See contact details, areas served and where each detail came from.`,
+    title: `${p.name}: fostering in ${where}`,
+    description: `${TYPE_LABEL[p.providerType]} in ${where}${covering}. See contact details, types of fostering and where each detail came from.`,
     alternates: { canonical: `/agency/${p.id}/` },
   };
 }
@@ -43,6 +54,7 @@ export default async function AgencyPage({ params }: { params: Promise<{ id: str
     name: p.name,
     ...(p.website ? { url: p.website } : {}),
     ...(p.phone ? { telephone: p.phone } : {}),
+    ...(p.areasServed.length ? { areaServed: p.areasServed } : {}),
     ...(addressLine
       ? { address: { '@type': 'PostalAddress', streetAddress: p.address.line1 ?? undefined, addressLocality: p.address.town ?? undefined, postalCode: p.address.postcode ?? undefined, addressCountry: 'GB' } }
       : {}),
@@ -86,7 +98,16 @@ export default async function AgencyPage({ params }: { params: Promise<{ id: str
         <dl className="facts">
           <dt>Areas served</dt>
           <dd>
-            <span>{p.areasServed.length ? p.areasServed.join(', ') : 'Not stated in our sources'}</span>
+            <span>
+              {p.areasServed.length
+                ? p.areasServed.map((a, i) => (
+                  <Fragment key={a}>
+                    {i > 0 && ', '}
+                    {areaPages.has(slugify(a)) ? <Link href={`/fostering-agencies/${slugify(a)}/`} aria-label={`Fostering agencies in ${a}`}>{a}</Link> : a}
+                  </Fragment>
+                ))
+                : 'Not stated in our sources'}
+            </span>
             <SourceChip provider={p} field="areasServed" />
           </dd>
           <dt>Types of fostering</dt>

@@ -84,6 +84,7 @@ for (const viewport of [{ width: 1360, height: 900 }, { width: 390, height: 800 
   check(`profile renders (${tag})`, (await pg.locator('h1').innerText()).includes(sample.name.slice(0, 10)));
   const ld = await pg.locator('script[type="application/ld+json"]').allTextContents();
   check(`profile has site and provider JSON-LD (${tag})`, ld.length === 2 && ld.some((x) => x.includes('"WebSite"')) && ld.some((x) => x.includes(sample.name.slice(0, 8))), `${ld.length} blocks`);
+
   // When Supabase is configured the form posts there; answer the request here so the test needs no network,
   // and check the exact payload (consent and the default status the insert policy requires).
   const live = /supabase\.co\/rest\/v1\//;
@@ -105,6 +106,22 @@ for (const viewport of [{ width: 1360, height: 900 }, { width: 390, height: 800 
     check(`correction form submits in demo mode (${tag})`, bodyText.includes('Demo mode'));
   }
   await pg.unroute(live);
+
+  // A profile names its town in the page title and links each area it covers to that area's own page
+  // (areas with two or more services have one), so people and search engines can go from one to the other.
+  const slug = (x) => x.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const perArea = new Map();
+  for (const x of providers) for (const a of x.areasServed) perArea.set(slug(a), (perArea.get(slug(a)) || 0) + 1);
+  const local = providers.find((x) => x.address.town && x.areasServed.some((a) => perArea.get(slug(a)) >= 2));
+  if (local) {
+    const area = local.areasServed.find((a) => perArea.get(slug(a)) >= 2);
+    await pg.goto(B + `/agency/${local.id}/`);
+    check(`profile title names the town (${tag})`, (await pg.title()).includes(`fostering in ${local.address.town}, ${local.nation}`), await pg.title());
+    const link = pg.locator(`dl.facts a[href="/fostering-agencies/${slug(area)}/"]`);
+    check(`profile links its area to the area page (${tag})`, (await link.count()) === 1 && (await link.innerText()) === area);
+    await Promise.all([pg.waitForURL(new RegExp(`/fostering-agencies/${slug(area)}/$`)), link.click()]);
+    check(`area page opens from the profile and lists it (${tag})`, (await pg.locator('h1').innerText()).includes(area) && (await pg.locator(`a[href="/agency/${local.id}/"]`).count()) >= 1);
+  }
 
   await pg.goto(B + `/claim/?provider=${sample.id}`);
   await pg.waitForTimeout(300);
