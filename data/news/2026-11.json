@@ -374,5 +374,45 @@
         "date": "2026-11-10"
       }
     ]
+  },
+  {
+    "slug": "care-leaver-homelessness-reduction-action-plan-november-2026",
+    "title": "Government plan aims to halve homelessness among young people leaving care in England",
+    "standfirst": "A Care Leaver Homelessness Reduction Action Plan published on 5 November sets two national targets, new duties on councils and fresh guidance, including on young people who stay with their foster carers after 18.",
+    "publishedOn": "2026-11-12",
+    "eventDate": "2026-11-05",
+    "topics": [
+      "policy",
+      "england",
+      "councils"
+    ],
+    "body": [
+      "The Department for Education and the Ministry of Housing, Communities and Local Government published the Care Leaver Homelessness Reduction Action Plan on 5 November 2026, at the start of Care Leavers Month. It applies to England and sets two targets to be met by the end of this Parliament: that no young person becomes homeless when leaving care, and that the proportion of care leavers under 25 experiencing homelessness is halved.",
+      "According to the government's announcement, the number of care leavers aged 18 to 24 in England has risen to 86,890, up almost 10% in two years. Under the plan, councils will have to publish plans for how they will meet care leavers' accommodation needs, work with housing partners, and set out in their local offer the support available to young people at risk of homelessness. Councils are also encouraged to publish local targets, and areas at higher risk will get targeted support overseen by MHCLG youth homelessness advisers.",
+      "The plan builds on changes made by the Children's Wellbeing and Schools Act this year. The government says certain care leavers under 25 can no longer be found intentionally homeless, and that care leavers no longer have to meet local connection tests to get social housing. Alongside the plan come a guide called Planning Housing Pathways for Care Leavers, updated joint guidance for housing and children's services, a youth homelessness prevention toolkit, a new youth chapter in the Homelessness Code of Guidance and a £3m Test, Learn, Grow programme focused on preventing youth homelessness. Updated social housing allocations guidance is due in 2027.",
+      "For foster carers, the most direct item is new guidance on young people who stay with their foster carers after 18. The announcement also says Staying Close, which supports young people leaving residential care, is already running in 50 areas and will become a national duty on councils for care leavers up to 25 from 2029, and that from autumn 2027 government departments and public bodies will also become corporate parents.",
+      "The charity Become welcomed the national targets and the new duties on councils, but called for care leavers to be given greater priority for social housing and for consistent training for the personal advisers who support them. Its chief executive said care leavers are nine times more likely to face homelessness than other young people.",
+      "For anyone thinking about fostering, the plan is a reminder that a fostering relationship does not have to end at 18. Many young people can stay on with their foster family into early adulthood, and the quality of support around that move matters. If you are considering fostering older children or teenagers, ask the services you speak to how they support young people and carers when a placement reaches 18, and what the council's local offer for care leavers includes."
+    ],
+    "sources": [
+      {
+        "title": "Plan to drive down homelessness for young people leaving care",
+        "url": "https://www.gov.uk/government/news/plan-to-drive-down-homelessness-for-young-people-leaving-care",
+        "publisher": "Department for Education",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Care leaver homelessness reduction action plan",
+        "url": "https://www.gov.uk/government/publications/care-leaver-homelessness-reduction-action-plan",
+        "publisher": "Department for Education and Ministry of Housing, Communities and Local Government",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Tackling care leaver homelessness",
+        "url": "https://becomecharity.org.uk/about-us/news/news/homeless-action-plan/",
+        "publisher": "Become",
+        "date": "2026-11-05"
+      }
+    ]
   }
 ]
