@@ -1,0 +1,175 @@
+{
+  "slug": "foster-carer-tax-qualifying-care-relief",
+  "title": "Do foster carers pay tax? Qualifying care relief explained",
+  "standfirst": "Most foster carers pay little or no income tax on their fostering income because of a special scheme called qualifying care relief. Here is how the limit is worked out, what the current figures are, worked examples using HMRC's figures, and what you still have to do even if you owe nothing.",
+  "updatedOn": "2026-11-12",
+  "sections": [
+    {
+      "heading": "The short answer",
+      "paragraphs": [
+        "Foster carers are treated as self-employed for tax purposes, but the fostering allowances and fees they receive are usually covered by a generous tax relief called qualifying care relief, often shortened to QCR. HMRC describes it as an optional, simpler way for carers to work out their taxable profit: instead of adding up every receipt and cost, you compare what your fostering service paid you in the year with a limit set by law. If your fostering payments are at or below that limit, your fostering profit is treated as nil and there is no income tax to pay on it.",
+        "The relief comes from Part 2, Chapter 2 of the Income Tax (Trading and Other Income) Act 2005, and HMRC explains how it works in its Business Income Manual and in its Self Assessment helpsheet HS236. It covers foster carers, carers in staying put arrangements and some kinship carers placed by a local authority, as well as shared lives (adult placement) carers.",
+        "Two things catch new carers out. First, the relief is not the same as being outside the tax system: you are still expected to register as self-employed and send a tax return each year, even when you owe nothing. Second, the limit is per household, not per person, so two carers in the same home share part of it. Both points are covered below."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "How the limit is worked out",
+      "paragraphs": [
+        "Your limit, which HMRC calls the qualifying amount, has two parts. The first is a fixed amount per household for the tax year. The second is a weekly amount for each child in your care, for every week or part of a week they are with you. The weekly amount is higher for children aged 11 and over.",
+        "GOV.UK's page on tax for foster carers in England, updated on 27 October 2026, gives the current figures, and the Low Incomes Tax Reform Group (LITRG) labels them as the 2026/27 amounts:"
+      ],
+      "bullets": [
+        "Fixed amount per household: £20,440 for the tax year.",
+        "Each child under 11: £435 for every week or part week in your care.",
+        "Each child aged 11 or over: £515 for every week or part week in your care.",
+        "For comparison, the 2025/26 amounts were £19,690, £415 and £495 (HMRC Business Income Manual)."
+      ]
+    },
+    {
+      "heading": "The rules that change the numbers",
+      "paragraphs": [
+        "A few details make a real difference to the total, and they are the ones carers most often get wrong.",
+        "HMRC defines a week as seven days starting on a Monday, and a stay of less than a full week still counts as a whole week. That matters for short breaks and emergency care: a child who arrives on a Friday and leaves on the following Monday spans two weeks, so two weekly amounts count. LITRG notes that the higher rate for children aged 11 and over applies from the week in which the child turns 11.",
+        "If you were approved part of the way through a tax year, the fixed amount is reduced in proportion to the part of the year you were fostering. If more than one person in the home provides care and receives fostering income, HMRC's manual says each carer gets an equal share of the fixed amount; LITRG gives the same rule. The weekly amounts are still counted for each child.",
+        "There are two further points from HMRC's manual. In parent and child placements, HMRC treats both the parent and each baby as being in foster care, so a weekly amount can be counted for each. And specialist carers who have exceptional costs that ordinary maintenance does not cover, such as special equipment, can add the actual cost of that exceptional spending to their limit, provided they keep the evidence."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Worked examples using the current figures",
+      "paragraphs": [
+        "These examples use the GOV.UK figures above and assume a full tax year, a single carer in the home and no exceptional costs. They show the arithmetic only. Your own position depends on your payments, your other income and your household, so check it against HS236 or with one of the free advice services listed further down.",
+        "Example 1: one child aged 8 for the whole year. The limit is £20,440 plus 52 weeks at £435 (£22,620), which comes to £43,060. If the fostering service paid £30,000 in the year, that is below the limit, so the fostering profit is nil.",
+        "Example 2: two children, aged 9 and 13, for the whole year. The limit is £20,440 plus £22,620 for the younger child plus 52 weeks at £515 (£26,780) for the older one, a total of £69,840.",
+        "Example 3: GOV.UK's own example. One child aged 11 or over for the whole year and one child under 11 for 10 weeks: £20,440 plus £26,780 plus £4,350, which makes £51,570.",
+        "Example 4: payments above the limit. One child aged 12 for the whole year gives a limit of £47,220. If the service paid £50,000, the receipts are £2,780 over the limit. Under the simplified method, £2,780 is the taxable profit. Under the normal method you would instead take your actual allowable expenses away from the £50,000; if those came to £44,000, the profit would be £6,000. HMRC lets you choose, so in this case the simplified method gives the lower figure. Whether any tax is then due depends on your total income for the year, including your personal allowance."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "If your payments are above the limit",
+      "paragraphs": [
+        "Carers whose payments go over the limit, which can happen with several placements, higher fees for specialist or therapeutic care, or two placements of older children, have a choice between two methods.",
+        "The simplified method treats only the amount above the limit as profit, and you cannot claim expenses or capital allowances on top. The normal method works like any other self-employment: total receipts minus allowable expenses and capital allowances. HMRC's examples in its Business Income Manual show carers comparing the two and picking the lower profit.",
+        "According to LITRG, you choose the simplified method by electing for it, and the deadline is 12 months after the 31 January filing date for that tax year; using the method on a return sent in on time counts as making the election. If you expect to be close to or above the limit, it is worth keeping a record of your real costs through the year so you can compare both methods properly."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "What you still have to do if you owe nothing",
+      "paragraphs": [
+        "The most common mistake is assuming that because no tax is due, nothing needs to be done. LITRG and The Fostering Network both say foster carers should register as self-employed with HMRC and send a Self Assessment tax return each year, claiming qualifying care relief in the self-employment pages, even when the relief means no tax is payable. GOV.UK's England page says the same: you should register as self-employed when you start fostering and file tax returns, and it suggests checking with your fostering service.",
+        "The Fostering Network says HMRC can charge a penalty if you do not register within six months of the end of the tax year in which you were approved. Online tax returns are due by 31 January after the end of the tax year.",
+        "Good records make the return quick. The Fostering Network and LITRG suggest keeping:"
+      ],
+      "bullets": [
+        "the annual statement or remittance slips from your fostering service showing everything paid, including fees, allowances, retainers, holiday and birthday payments and mileage;",
+        "the dates each child was with you, including respite and single nights;",
+        "each child's age or date of birth, so you use the right weekly rate;",
+        "receipts for any exceptional costs you want to add to your limit, and your actual expenses if you might use the normal method."
+      ]
+    },
+    {
+      "heading": "National Insurance, pensions and benefits",
+      "paragraphs": [
+        "Qualifying care relief is about income tax, but registering as self-employed also affects National Insurance. LITRG notes that any taxable profit from qualifying care counts as self-employed earnings for National Insurance. Where your fostering profit is nil or low, you may not pay National Insurance at all, which can leave gaps in your record for the State Pension.",
+        "GOV.UK says foster carers may be entitled to National Insurance credits, which count towards the State Pension. The Fostering Network explains that carers can apply for these credits each year with a supporting letter from their fostering service, or choose to pay voluntary contributions instead, and that the credits count only towards the State Pension. Which route suits you is an individual decision, so check your National Insurance record on GOV.UK and ask HMRC or a free advice service before paying anything voluntarily.",
+        "Fostering payments are also treated differently from earnings by many benefits. Foster Wales says fostering payments are ignored for Universal Credit. Rules for each benefit vary, so if you claim any benefit, ask your fostering service and a benefits adviser how fostering will affect it before you are approved."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Where to get help",
+      "paragraphs": [
+        "This guide explains how the scheme works; it is not tax advice for your circumstances. HMRC's helpsheet HS236 is the official explanation, and HMRC's Self Assessment helpline can answer questions about registering and returns.",
+        "LITRG publishes detailed free guidance for foster carers, and TaxAid gives free tax help to people on lower incomes, as The Fostering Network notes. Your fostering service can also give you the annual statement of payments you need for the return. If your payments are well above the limit or your affairs are complicated, a qualified accountant who knows foster care can compare both methods for you."
+      ],
+      "bullets": []
+    }
+  ],
+  "nations": {
+    "England": "GOV.UK's foster carer support pages for England give the current figures (£20,440 per household, £435 a week for each child under 11 and £515 for each child aged 11 or over) and say you should register as self-employed when you start fostering.",
+    "Scotland": "Qualifying care relief is part of UK income tax law (the Income Tax (Trading and Other Income) Act 2005), and HMRC's guidance on it is not limited to one nation. Ask your council or agency and HMRC how it applies to you, and check HS236 for the current year.",
+    "Wales": "Foster Wales says foster carers are classed as self-employed for tax and explains qualifying care relief with worked examples; at the time of checking, its page still showed the 2025/26 figures, so use the current amounts from GOV.UK or HMRC.",
+    "Northern Ireland": "The relief is set by UK tax law and administered by HMRC across the UK. Check the current year's amounts in HS236 and ask your Health and Social Care Trust or agency for your annual payment statement."
+  },
+  "faq": [
+    {
+      "question": "Do foster carers have to pay tax?",
+      "answer": "Usually little or none on fostering income. Qualifying care relief sets a limit (for 2026/27, £20,440 per household plus £435 a week for each child under 11 and £515 a week for each child aged 11 or over), and if your fostering payments are below it your fostering profit is nil."
+    },
+    {
+      "question": "Do I need to fill in a tax return if I owe nothing?",
+      "answer": "Yes. LITRG and The Fostering Network say foster carers should register as self-employed and send a Self Assessment return each year, claiming qualifying care relief, even when no tax is due."
+    },
+    {
+      "question": "Does a respite weekend count as a full week?",
+      "answer": "HMRC counts a week as Monday to Sunday and treats any part week as a whole week, so a weekend counts as one week, and a stay from Friday to Monday counts as two."
+    },
+    {
+      "question": "What if two of us foster in the same home?",
+      "answer": "HMRC's manual says each carer receiving fostering income gets an equal share of the household fixed amount. Check HS236 or ask HMRC how this applies to your own household."
+    },
+    {
+      "question": "Does fostering income count towards my State Pension?",
+      "answer": "Not automatically if your fostering profit is nil. GOV.UK says foster carers may be entitled to National Insurance credits, which count towards the State Pension; The Fostering Network explains how to apply with a letter from your fostering service."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Help and support for foster carers in England: tax arrangements",
+      "url": "https://www.gov.uk/support-for-foster-carers/tax-arrangements",
+      "publisher": "GOV.UK",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "BIM52753 - Care providers: qualifying care relief: introduction",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52753",
+      "publisher": "HM Revenue and Customs",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "BIM52765 - Care providers: qualifying care relief: calculation of qualifying amount",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52765",
+      "publisher": "HM Revenue and Customs",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "BIM52790 - Care providers: qualifying care relief: foster carers: examples",
+      "url": "https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim52790",
+      "publisher": "HM Revenue and Customs",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Qualifying care relief increase (policy paper)",
+      "url": "https://www.gov.uk/government/publications/increase-in-qualifying-care-relief/qualifying-care-relief-increase",
+      "publisher": "HM Revenue and Customs",
+      "date": "2023-03-15"
+    },
+    {
+      "title": "Qualifying care relief",
+      "url": "https://www.litrg.org.uk/working/self-employment/foster-carers-and-shared-lives-carers/qualifying-care-relief",
+      "publisher": "Low Incomes Tax Reform Group",
+      "date": "2026-04-06"
+    },
+    {
+      "title": "Tax and National Insurance contributions",
+      "url": "https://www.thefosteringnetwork.org.uk/for-carers/foster-carer-finances/tax-and-national-insurance-contributions/",
+      "publisher": "The Fostering Network",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Tax FAQs",
+      "url": "https://www.thefosteringnetwork.org.uk/for-carers/foster-carer-finances/tax-faqs/",
+      "publisher": "The Fostering Network",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Foster carer tax",
+      "url": "https://fosterwales.gov.wales/foster-carer-tax/",
+      "publisher": "Foster Wales",
+      "date": "2026-04-13"
+    }
+  ]
+}
