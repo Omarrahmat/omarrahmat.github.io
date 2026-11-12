@@ -1,0 +1,2483 @@
+[
+  {
+    "slug": "aberdeen-city",
+    "place": "Aberdeen City",
+    "formal": "Aberdeen City",
+    "providerId": "aberdeen-city-council-fostering",
+    "providerName": "Aberdeen City Council Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.aberdeencity.gov.uk/node/11231",
+    "phone": "01224067604",
+    "areaNames": [
+      "Aberdeen City"
+    ]
+  },
+  {
+    "slug": "angus",
+    "place": "Angus",
+    "formal": "Angus",
+    "providerId": "angus-council-fostering",
+    "providerName": "Angus Fostering & Adoption (Angus Council)",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://www.angus.gov.uk/fosteringandadoption/how-to-become-a-foster-carer",
+    "phone": "01241464646",
+    "areaNames": [
+      "Angus"
+    ]
+  },
+  {
+    "slug": "argyll-and-bute",
+    "place": "Argyll and Bute",
+    "formal": "Argyll and Bute",
+    "providerId": "argyll-and-bute-council-fostering",
+    "providerName": "Argyll and Bute Council Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://www.argyll-bute.gov.uk/births-deaths-and-marriages/fostering-and-adoption/are-you-interested-fostering",
+    "phone": "01546605517",
+    "areaNames": [
+      "Argyll and Bute"
+    ]
+  },
+  {
+    "slug": "barking-and-dagenham",
+    "place": "Barking and Dagenham",
+    "formal": "London Borough of Barking and Dagenham",
+    "providerId": "barking-and-dagenham-fostering-service",
+    "providerName": "Barking and Dagenham Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-04",
+    "website": "https://fostering.lbbd.gov.uk/",
+    "phone": "02082275988",
+    "areaNames": [
+      "Barking and Dagenham"
+    ]
+  },
+  {
+    "slug": "barnet",
+    "place": "Barnet",
+    "formal": "London Borough of Barnet",
+    "providerId": "barnet-fostering",
+    "providerName": "Barnet Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.barnet.gov.uk/children-and-families/fostering-barnet/how-become-foster-carer",
+    "phone": null,
+    "areaNames": [
+      "Barnet"
+    ]
+  },
+  {
+    "slug": "barnsley",
+    "place": "Barnsley",
+    "formal": "Barnsley",
+    "providerId": "barnsley-council-fostering",
+    "providerName": "Fostering Barnsley",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.barnsley.gov.uk/fostering-barnsley/fostering-barnsley-enquiry/",
+    "phone": null,
+    "areaNames": [
+      "Barnsley"
+    ]
+  },
+  {
+    "slug": "bedford",
+    "place": "Bedford",
+    "formal": "Bedford Borough",
+    "providerId": "bedford-borough-council-fostering",
+    "providerName": "Bedford Borough Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.fostereast.org.uk/bedford",
+    "phone": "01234718718",
+    "areaNames": [
+      "Bedford"
+    ]
+  },
+  {
+    "slug": "bexley",
+    "place": "Bexley",
+    "formal": "London Borough of Bexley",
+    "providerId": "bexley-fostering",
+    "providerName": "Bexley Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.bexley.gov.uk/foster-bexley/new-fostering/how-apply-become-foster-carer",
+    "phone": "02030454400",
+    "areaNames": [
+      "Bexley"
+    ]
+  },
+  {
+    "slug": "birmingham",
+    "place": "Birmingham",
+    "formal": "Birmingham",
+    "providerId": "birmingham-childrens-trust",
+    "providerName": "Birmingham Children's Trust",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.birmingham.gov.uk/info/50080/fostering/1111/what_is_foster_care",
+    "phone": "01213037575",
+    "areaNames": [
+      "Birmingham"
+    ]
+  },
+  {
+    "slug": "blackburn-with-darwen",
+    "place": "Blackburn with Darwen",
+    "formal": "Blackburn with Darwen",
+    "providerId": "blackburn-with-darwen-council-fostering-service",
+    "providerName": "Blackburn with Darwen Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-04",
+    "website": "https://fosterwithus.org.uk",
+    "phone": "03000190200",
+    "areaNames": [
+      "Blackburn with Darwen"
+    ]
+  },
+  {
+    "slug": "blackpool",
+    "place": "Blackpool",
+    "formal": "Blackpool",
+    "providerId": "blackpool-council-fostering",
+    "providerName": "Blackpool Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.blackpool.gov.uk/Fostering",
+    "phone": "01253420222",
+    "areaNames": [
+      "Blackpool"
+    ]
+  },
+  {
+    "slug": "blaenau-gwent",
+    "place": "Blaenau Gwent",
+    "formal": "Blaenau Gwent",
+    "providerId": "foster-wales-blaenau-gwent",
+    "providerName": "Foster Wales Blaenau Gwent",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://blaenau-gwent.fosterwales.gov.wales/en/the-process/",
+    "phone": "01495369620",
+    "areaNames": [
+      "Blaenau Gwent"
+    ]
+  },
+  {
+    "slug": "bolton",
+    "place": "Bolton",
+    "formal": "Bolton",
+    "providerId": "bolton-council-fostering",
+    "providerName": "Bolton Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-04",
+    "website": "https://www.bolton.gov.uk/fostering/enquire-fostering",
+    "phone": "03003030321",
+    "areaNames": [
+      "Bolton"
+    ]
+  },
+  {
+    "slug": "bournemouth-christchurch-and-poole",
+    "place": "Bournemouth, Christchurch and Poole",
+    "formal": "Bournemouth, Christchurch and Poole",
+    "providerId": "bcp-council-fostering",
+    "providerName": "BCP Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://contact.fosterwithyourlocalcouncil.org.uk/lareferral/bournemouth-christchurch-poole",
+    "phone": "01202123345",
+    "areaNames": [
+      "Bournemouth, Christchurch and Poole"
+    ]
+  },
+  {
+    "slug": "bradford",
+    "place": "Bradford",
+    "formal": "Bradford",
+    "providerId": "bradford-children-and-families-trust-fostering",
+    "providerName": "Foster for Bradford",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.bradfordcft.org.uk",
+    "phone": null,
+    "areaNames": [
+      "Bradford"
+    ]
+  },
+  {
+    "slug": "brent",
+    "place": "Brent",
+    "formal": "London Borough of Brent",
+    "providerId": "brent-fostering",
+    "providerName": "Brent Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.fosterwithwestlondon.org.uk/contact/brent",
+    "phone": "02087531075",
+    "areaNames": [
+      "Brent"
+    ]
+  },
+  {
+    "slug": "bridgend",
+    "place": "Bridgend",
+    "formal": "Bridgend",
+    "providerId": "foster-wales-bridgend",
+    "providerName": "Foster Wales Bridgend",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://bridgend.fosterwales.gov.wales/contact-us/",
+    "phone": "01443425007",
+    "areaNames": [
+      "Bridgend"
+    ]
+  },
+  {
+    "slug": "brighton-and-hove",
+    "place": "Brighton and Hove",
+    "formal": "Brighton and Hove",
+    "providerId": "brighton-and-hove-city-council-fostering",
+    "providerName": "Brighton & Hove City Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-04",
+    "website": "https://www.brighton-hove.gov.uk/fostering-brighton-hove/your-journey-becoming-foster-carer",
+    "phone": null,
+    "areaNames": [
+      "Brighton and Hove"
+    ]
+  },
+  {
+    "slug": "bromley",
+    "place": "Bromley",
+    "formal": "London Borough of Bromley",
+    "providerId": "bromley-fostering",
+    "providerName": "Bromley Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.bromley.gov.uk/fostering/becoming-foster-carer-process",
+    "phone": "02084617701",
+    "areaNames": [
+      "Bromley"
+    ]
+  },
+  {
+    "slug": "buckinghamshire",
+    "place": "Buckinghamshire",
+    "formal": "Buckinghamshire",
+    "providerId": "foster-with-bucks",
+    "providerName": "Foster with Bucks",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fostering.buckinghamshire.gov.uk/how-to-apply/",
+    "phone": "01296674973",
+    "areaNames": [
+      "Buckinghamshire"
+    ]
+  },
+  {
+    "slug": "bury",
+    "place": "Bury",
+    "formal": "Bury",
+    "providerId": "bury-council-fostering",
+    "providerName": "Foster with Bury",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://bury.gov.uk",
+    "phone": null,
+    "areaNames": [
+      "Bury"
+    ]
+  },
+  {
+    "slug": "caerphilly",
+    "place": "Caerphilly",
+    "formal": "Caerphilly",
+    "providerId": "foster-wales-caerphilly",
+    "providerName": "Foster Wales Caerphilly",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://caerphilly.fosterwales.gov.wales/how-it-works/the-process/",
+    "phone": "08005875664",
+    "areaNames": [
+      "Caerphilly"
+    ]
+  },
+  {
+    "slug": "cambridgeshire",
+    "place": "Cambridgeshire",
+    "formal": "Cambridgeshire",
+    "providerId": "cambridgeshire-fostering-service",
+    "providerName": "Cambridgeshire Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.fostereast.gov.uk/cambridgeshire",
+    "phone": "08000520078",
+    "areaNames": [
+      "Cambridgeshire"
+    ]
+  },
+  {
+    "slug": "camden",
+    "place": "Camden",
+    "formal": "London Borough of Camden",
+    "providerId": "camden-fostering",
+    "providerName": "Camden Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://fostering.camden.gov.uk/become-a-foster-carer",
+    "phone": "02079746783",
+    "areaNames": [
+      "Camden"
+    ]
+  },
+  {
+    "slug": "cardiff",
+    "place": "Cardiff",
+    "formal": "Cardiff",
+    "providerId": "foster-wales-cardiff",
+    "providerName": "Foster Wales Cardiff",
+    "nation": "Wales",
+    "checked": "2026-11-02",
+    "website": "https://cardiff.fosterwales.gov.wales/contact-us/",
+    "phone": "02920873797",
+    "areaNames": [
+      "Cardiff"
+    ]
+  },
+  {
+    "slug": "carmarthenshire",
+    "place": "Carmarthenshire",
+    "formal": "Carmarthenshire",
+    "providerId": "foster-wales-carmarthenshire",
+    "providerName": "Foster Wales Carmarthenshire",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://carmarthenshire.fosterwales.gov.wales/the-process/",
+    "phone": "08000933699",
+    "areaNames": [
+      "Carmarthenshire"
+    ]
+  },
+  {
+    "slug": "ceredigion",
+    "place": "Ceredigion",
+    "formal": "Ceredigion",
+    "providerId": "foster-wales-ceredigion",
+    "providerName": "Foster Wales Ceredigion",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://ceredigion.fosterwales.gov.wales/contact-us/",
+    "phone": "01545574000",
+    "areaNames": [
+      "Ceredigion"
+    ]
+  },
+  {
+    "slug": "cheshire-east",
+    "place": "Cheshire East",
+    "formal": "Cheshire East",
+    "providerId": "cheshire-east-council-fostering",
+    "providerName": "Cheshire East Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.cheshireeast.gov.uk",
+    "phone": "03001233223",
+    "areaNames": [
+      "Cheshire East"
+    ]
+  },
+  {
+    "slug": "cheshire-west-and-chester",
+    "place": "Cheshire West and Chester",
+    "formal": "Cheshire West and Chester",
+    "providerId": "cheshire-west-and-chester-council-fostering",
+    "providerName": "Cheshire West and Chester Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.foster4.co.uk",
+    "phone": "01925444100",
+    "areaNames": [
+      "Cheshire West and Chester"
+    ]
+  },
+  {
+    "slug": "clackmannanshire",
+    "place": "Clackmannanshire",
+    "formal": "Clackmannanshire",
+    "providerId": "clackmannanshire-council-fostering",
+    "providerName": "Clackmannanshire Council Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://www.clacks.gov.uk/children/fosteringinformationrequest/",
+    "phone": null,
+    "areaNames": [
+      "Clackmannanshire"
+    ]
+  },
+  {
+    "slug": "conwy",
+    "place": "Conwy",
+    "formal": "Conwy",
+    "providerId": "foster-wales-conwy",
+    "providerName": "Foster Wales Conwy",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://conwy.fosterwales.gov.wales/the-process/",
+    "phone": "01492576350",
+    "areaNames": [
+      "Conwy"
+    ]
+  },
+  {
+    "slug": "cornwall",
+    "place": "Cornwall",
+    "formal": "Cornwall",
+    "providerId": "cornwall-council-fostering",
+    "providerName": "Cornwall Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.cornwall.gov.uk/health-and-social-care/childrens-services/adoption-and-fostering-in-cornwall-and-the-isles-of-scilly/foster/how-do-i-foster/",
+    "phone": "03004560120",
+    "areaNames": [
+      "Cornwall",
+      "Isles of Scilly"
+    ]
+  },
+  {
+    "slug": "county-durham",
+    "place": "County Durham",
+    "formal": "County Durham",
+    "providerId": "durham-county-council-fostering",
+    "providerName": "Durham County Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.fosterwithnortheast.org.uk/enquire-now",
+    "phone": null,
+    "areaNames": [
+      "County Durham"
+    ]
+  },
+  {
+    "slug": "cumberland",
+    "place": "Cumberland",
+    "formal": "Cumberland",
+    "providerId": "cumberland-council-fostering",
+    "providerName": "Cumbria Fostering (Cumberland Council)",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.cumberland.gov.uk",
+    "phone": "03000132065",
+    "areaNames": [
+      "Cumberland"
+    ]
+  },
+  {
+    "slug": "darlington",
+    "place": "Darlington",
+    "formal": "Darlington",
+    "providerId": "darlington-borough-council-fostering",
+    "providerName": "Darlington Borough Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.darlington.gov.uk/children-and-young-people/childrens-social-care/fostering/enquiries/",
+    "phone": "08009177771",
+    "areaNames": [
+      "Darlington"
+    ]
+  },
+  {
+    "slug": "denbighshire",
+    "place": "Denbighshire",
+    "formal": "Denbighshire",
+    "providerId": "foster-wales-denbighshire",
+    "providerName": "Foster Wales Denbighshire",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://denbighshire.fosterwales.gov.wales/how-it-works/the-process/",
+    "phone": "08007313215",
+    "areaNames": [
+      "Denbighshire"
+    ]
+  },
+  {
+    "slug": "derby",
+    "place": "Derby",
+    "formal": "Derby",
+    "providerId": "derby-city-council-fostering",
+    "providerName": "Derby City Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://fosterforeastmidlands.org.uk/",
+    "phone": "03033132950",
+    "areaNames": [
+      "Derby"
+    ]
+  },
+  {
+    "slug": "derbyshire",
+    "place": "Derbyshire",
+    "formal": "Derbyshire",
+    "providerId": "derbyshire-county-council-fostering",
+    "providerName": "Derbyshire County Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fosterforeastmidlands.org.uk/",
+    "phone": "03033132950",
+    "areaNames": [
+      "Derbyshire"
+    ]
+  },
+  {
+    "slug": "devon",
+    "place": "Devon",
+    "formal": "Devon",
+    "providerId": "devon-county-council-fostering",
+    "providerName": "Devon County Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.fosteringdevon.org.uk/",
+    "phone": null,
+    "areaNames": [
+      "Devon"
+    ]
+  },
+  {
+    "slug": "doncaster",
+    "place": "Doncaster",
+    "formal": "Doncaster",
+    "providerId": "doncaster-council-fostering",
+    "providerName": "Foster for Doncaster",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.doncaster.gov.uk/services/fostering",
+    "phone": "01302737789",
+    "areaNames": [
+      "Doncaster"
+    ]
+  },
+  {
+    "slug": "dorset",
+    "place": "Dorset",
+    "formal": "Dorset",
+    "providerId": "dorset-council-fostering",
+    "providerName": "Dorset Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.fosterindorset.co.uk",
+    "phone": "01305225568",
+    "areaNames": [
+      "Dorset"
+    ]
+  },
+  {
+    "slug": "dudley",
+    "place": "Dudley",
+    "formal": "Dudley",
+    "providerId": "fostering-in-dudley",
+    "providerName": "Fostering in Dudley",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.fosteringindudley.org.uk/",
+    "phone": "01384815833",
+    "areaNames": [
+      "Dudley"
+    ]
+  },
+  {
+    "slug": "dumfries-and-galloway",
+    "place": "Dumfries and Galloway",
+    "formal": "Dumfries and Galloway",
+    "providerId": "dumfries-and-galloway-council-fostering",
+    "providerName": "Dumfries and Galloway Council Fostering and Adoption Team",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://www.dumfriesandgalloway.gov.uk/foster-adopt-us/fostering-child",
+    "phone": null,
+    "areaNames": [
+      "Dumfries and Galloway"
+    ]
+  },
+  {
+    "slug": "dundee-city",
+    "place": "Dundee City",
+    "formal": "Dundee City",
+    "providerId": "dundee-city-council-fostering",
+    "providerName": "Dundee Fostering and Adoption (Dundee City Council)",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.dundeecity.gov.uk/fostering-and-adoption/enquire-now",
+    "phone": "01382436060",
+    "areaNames": [
+      "Dundee City"
+    ]
+  },
+  {
+    "slug": "ealing",
+    "place": "Ealing",
+    "formal": "London Borough of Ealing",
+    "providerId": "ealing-fostering-connections",
+    "providerName": "Ealing Fostering Connections",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://ealingfosteradopt.co.uk/",
+    "phone": "08007316550",
+    "areaNames": [
+      "Ealing"
+    ]
+  },
+  {
+    "slug": "east-dunbartonshire",
+    "place": "East Dunbartonshire",
+    "formal": "East Dunbartonshire",
+    "providerId": "east-dunbartonshire-council-fostering",
+    "providerName": "East Dunbartonshire Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://eastdunbarton-portal.oncreate.app/w/webpage/request?service=adoption_and_fostering_enquiry",
+    "phone": "01417773003",
+    "areaNames": [
+      "East Dunbartonshire"
+    ]
+  },
+  {
+    "slug": "east-lothian",
+    "place": "East Lothian",
+    "formal": "East Lothian",
+    "providerId": "east-lothian-council-fostering",
+    "providerName": "Foster East Lothian (East Lothian Council)",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.eastlothian.gov.uk/foster-east-lothian/what-are-steps-becoming-foster-carer",
+    "phone": null,
+    "areaNames": [
+      "East Lothian"
+    ]
+  },
+  {
+    "slug": "east-renfrewshire",
+    "place": "East Renfrewshire",
+    "formal": "East Renfrewshire",
+    "providerId": "east-renfrewshire-council-fostering",
+    "providerName": "East Renfrewshire Council Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.eastrenfrewshire.gov.uk/fostering-enquiry-form",
+    "phone": null,
+    "areaNames": [
+      "East Renfrewshire"
+    ]
+  },
+  {
+    "slug": "east-riding-of-yorkshire",
+    "place": "East Riding of Yorkshire",
+    "formal": "East Riding of Yorkshire",
+    "providerId": "east-riding-of-yorkshire-council-fostering",
+    "providerName": "East Riding Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.eastriding.gov.uk/fostering",
+    "phone": "01482394095",
+    "areaNames": [
+      "East Riding of Yorkshire"
+    ]
+  },
+  {
+    "slug": "east-sussex",
+    "place": "East Sussex",
+    "formal": "East Sussex",
+    "providerId": "east-sussex-county-council-fostering",
+    "providerName": "East Sussex County Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.eastsussex.gov.uk/children-families/children-in-care/fostering/become-foster-carer",
+    "phone": "01323464129",
+    "areaNames": [
+      "East Sussex"
+    ]
+  },
+  {
+    "slug": "edinburgh",
+    "place": "Edinburgh",
+    "formal": "City of Edinburgh",
+    "providerId": "city-of-edinburgh-council-fostering",
+    "providerName": "City of Edinburgh Council Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.edinburghfostering.org.uk/foster-us/foster-us-1",
+    "phone": "0800174833",
+    "areaNames": [
+      "Edinburgh"
+    ]
+  },
+  {
+    "slug": "enfield",
+    "place": "Enfield",
+    "formal": "London Borough of Enfield",
+    "providerId": "enfield-fostering",
+    "providerName": "Enfield Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.enfield.gov.uk/fostering/enquire-about-fostering",
+    "phone": "02083792831",
+    "areaNames": [
+      "Enfield"
+    ]
+  },
+  {
+    "slug": "essex",
+    "place": "Essex",
+    "formal": "Essex",
+    "providerId": "essex-fostering",
+    "providerName": "Essex Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.essex.gov.uk/fostering",
+    "phone": "0800801530",
+    "areaNames": [
+      "Essex"
+    ]
+  },
+  {
+    "slug": "falkirk",
+    "place": "Falkirk",
+    "formal": "Falkirk",
+    "providerId": "falkirk-council-fostering",
+    "providerName": "Falkirk Council Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://falkirkfosteringandadoption.co.uk/fostering/",
+    "phone": "01324508656",
+    "areaNames": [
+      "Falkirk",
+      "Falkirk and surrounding areas"
+    ]
+  },
+  {
+    "slug": "fife",
+    "place": "Fife",
+    "formal": "Fife",
+    "providerId": "fife-council-fostering",
+    "providerName": "Fife Council Family Based Care Service - Fostering Team",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://foster.fife.scot/",
+    "phone": "01383602235",
+    "areaNames": [
+      "Fife"
+    ]
+  },
+  {
+    "slug": "flintshire",
+    "place": "Flintshire",
+    "formal": "Flintshire",
+    "providerId": "foster-wales-flintshire",
+    "providerName": "Foster Wales Flintshire",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://flintshire.fosterwales.gov.wales/how-it-works/the-process/",
+    "phone": "01352701965",
+    "areaNames": [
+      "Flintshire"
+    ]
+  },
+  {
+    "slug": "gateshead",
+    "place": "Gateshead",
+    "formal": "Gateshead",
+    "providerId": "foster-with-gateshead",
+    "providerName": "Foster with Gateshead",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.gateshead.gov.uk/startyourfosteringjourney",
+    "phone": null,
+    "areaNames": [
+      "Gateshead"
+    ]
+  },
+  {
+    "slug": "glasgow-city",
+    "place": "Glasgow City",
+    "formal": "Glasgow City",
+    "providerId": "glasgow-city-council-families-for-children",
+    "providerName": "Families for Children (Glasgow City Council)",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://glasgow.gov.uk/article/17270/Foster-a-child",
+    "phone": "03452765555",
+    "areaNames": [
+      "Glasgow City"
+    ]
+  },
+  {
+    "slug": "gloucestershire",
+    "place": "Gloucestershire",
+    "formal": "Gloucestershire",
+    "providerId": "gloucestershire-county-council-fostering",
+    "providerName": "Gloucestershire County Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.gloucestershire.gov.uk/childrens-social-work-jobs/foster-with-us/",
+    "phone": "01242532654",
+    "areaNames": [
+      "Gloucestershire"
+    ]
+  },
+  {
+    "slug": "greenwich",
+    "place": "Greenwich",
+    "formal": "Royal Borough of Greenwich",
+    "providerId": "royal-greenwich-fostering",
+    "providerName": "Royal Greenwich Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.royalgreenwich.gov.uk/children-young-people-and-families/fostering-royal-greenwich/get-touch-our-fostering-team-0",
+    "phone": "08000521499",
+    "areaNames": [
+      "Greenwich"
+    ]
+  },
+  {
+    "slug": "gwynedd",
+    "place": "Gwynedd",
+    "formal": "Gwynedd",
+    "providerId": "foster-wales-gwynedd",
+    "providerName": "Foster Wales Gwynedd",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://fosterwales.gwynedd.llyw.cymru/the-process/",
+    "phone": "01286682660",
+    "areaNames": [
+      "Gwynedd"
+    ]
+  },
+  {
+    "slug": "hackney",
+    "place": "Hackney",
+    "formal": "London Borough of Hackney",
+    "providerId": "hackney-fostering",
+    "providerName": "Hackney Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.fosternorthlondon.gov.uk/",
+    "phone": "02079740125",
+    "areaNames": [
+      "Hackney"
+    ]
+  },
+  {
+    "slug": "halton",
+    "place": "Halton",
+    "formal": "Halton",
+    "providerId": "halton-borough-council-fostering",
+    "providerName": "Halton Borough Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.foster4.co.uk",
+    "phone": "08001953175",
+    "areaNames": [
+      "Halton"
+    ]
+  },
+  {
+    "slug": "hammersmith-and-fulham",
+    "place": "Hammersmith and Fulham",
+    "formal": "London Borough of Hammersmith and Fulham",
+    "providerId": "hammersmith-and-fulham-council-fostering",
+    "providerName": "Hammersmith and Fulham Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.lbhf.gov.uk/children-and-young-people/fostering-and-adoption",
+    "phone": null,
+    "areaNames": [
+      "Hammersmith and Fulham"
+    ]
+  },
+  {
+    "slug": "hampshire",
+    "place": "Hampshire",
+    "formal": "Hampshire",
+    "providerId": "fostering-hampshire-children",
+    "providerName": "Fostering Hampshire Children",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.hants.gov.uk",
+    "phone": "01489587052",
+    "areaNames": [
+      "Hampshire"
+    ]
+  },
+  {
+    "slug": "haringey",
+    "place": "Haringey",
+    "formal": "London Borough of Haringey",
+    "providerId": "haringey-council-fostering",
+    "providerName": "Haringey Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://haringey.gov.uk/children-young-people-families/childrens-social-care/fostering/become-a-foster-carer",
+    "phone": null,
+    "areaNames": [
+      "Haringey"
+    ]
+  },
+  {
+    "slug": "harrow",
+    "place": "Harrow",
+    "formal": "London Borough of Harrow",
+    "providerId": "harrow-council-fostering",
+    "providerName": "Harrow Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.fosterwithwestlondon.org.uk/your-local-council/fostering-harrow",
+    "phone": "02087531075",
+    "areaNames": [
+      "Harrow"
+    ]
+  },
+  {
+    "slug": "hartlepool",
+    "place": "Hartlepool",
+    "formal": "Hartlepool",
+    "providerId": "hartlepool-borough-council-fostering",
+    "providerName": "Hartlepool Borough Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.hartlepool.gov.uk/fostering",
+    "phone": "08009177771",
+    "areaNames": [
+      "Hartlepool"
+    ]
+  },
+  {
+    "slug": "havering",
+    "place": "Havering",
+    "formal": "London Borough of Havering",
+    "providerId": "havering-fostering",
+    "providerName": "Havering Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.localcommunityfostering.co.uk/",
+    "phone": "02084963437",
+    "areaNames": [
+      "Havering"
+    ]
+  },
+  {
+    "slug": "herefordshire",
+    "place": "Herefordshire",
+    "formal": "Herefordshire",
+    "providerId": "herefordshire-council-fostering",
+    "providerName": "Herefordshire Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.herefordshire.gov.uk",
+    "phone": "01432383240",
+    "areaNames": [
+      "Herefordshire"
+    ]
+  },
+  {
+    "slug": "hertfordshire",
+    "place": "Hertfordshire",
+    "formal": "Hertfordshire",
+    "providerId": "hertfordshire-county-council-fostering-service",
+    "providerName": "Hertfordshire County Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.hertfordshire.gov.uk/fostering",
+    "phone": "08009170925",
+    "areaNames": [
+      "Hertfordshire"
+    ]
+  },
+  {
+    "slug": "hillingdon",
+    "place": "Hillingdon",
+    "formal": "London Borough of Hillingdon",
+    "providerId": "hillingdon-council-fostering",
+    "providerName": "Hillingdon Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.fosterwithwestlondon.org.uk/contact/hillingdon",
+    "phone": "02087531075",
+    "areaNames": [
+      "Hillingdon"
+    ]
+  },
+  {
+    "slug": "hounslow",
+    "place": "Hounslow",
+    "formal": "London Borough of Hounslow",
+    "providerId": "hounslow-council-fostering",
+    "providerName": "Foster with Hounslow",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.hounslow.gov.uk/foster-hounslow/contact-fostering-team",
+    "phone": null,
+    "areaNames": [
+      "Hounslow"
+    ]
+  },
+  {
+    "slug": "inverclyde",
+    "place": "Inverclyde",
+    "formal": "Inverclyde",
+    "providerId": "inverclyde-council-fostering",
+    "providerName": "Inverclyde Council Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.inverclyde.gov.uk/health-and-social-care/support-for-children-families/fostering-and-kinship/fostering",
+    "phone": "01475715367",
+    "areaNames": [
+      "Inverclyde"
+    ]
+  },
+  {
+    "slug": "isle-of-anglesey",
+    "place": "Isle of Anglesey",
+    "formal": "Isle of Anglesey",
+    "providerId": "foster-wales-anglesey",
+    "providerName": "Foster Wales Isle of Anglesey",
+    "nation": "Wales",
+    "checked": "2026-11-02",
+    "website": "https://anglesey.fosterwales.gov.wales/how-it-works/the-process/",
+    "phone": "01248752772",
+    "areaNames": [
+      "Isle of Anglesey"
+    ]
+  },
+  {
+    "slug": "isle-of-wight",
+    "place": "Isle of Wight",
+    "formal": "Isle of Wight",
+    "providerId": "isle-of-wight-council-fostering",
+    "providerName": "Isle of Wight Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.iow.gov.uk/children-and-family-support/fostering/what-is-fostering",
+    "phone": "03001312797",
+    "areaNames": [
+      "Isle of Wight"
+    ]
+  },
+  {
+    "slug": "islington",
+    "place": "Islington",
+    "formal": "London Borough of Islington",
+    "providerId": "islington-council-fostering",
+    "providerName": "Islington Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.fosternorthlondon.gov.uk",
+    "phone": "02075277933",
+    "areaNames": [
+      "Islington"
+    ]
+  },
+  {
+    "slug": "kensington-and-chelsea",
+    "place": "Kensington and Chelsea",
+    "formal": "Royal Borough of Kensington and Chelsea",
+    "providerId": "kensington-and-chelsea-council-fostering",
+    "providerName": "Fostering Shared Services (Kensington and Chelsea)",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.fosteringsharedservices.org.uk/",
+    "phone": null,
+    "areaNames": [
+      "Kensington and Chelsea"
+    ]
+  },
+  {
+    "slug": "kingston-upon-hull",
+    "place": "Kingston upon Hull",
+    "formal": "Kingston upon Hull",
+    "providerId": "hull-city-council-fostering",
+    "providerName": "Hull City Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://hullfostering.co.uk/apply-foster",
+    "phone": "01482612800",
+    "areaNames": [
+      "Kingston upon Hull"
+    ]
+  },
+  {
+    "slug": "kingston-upon-thames",
+    "place": "Kingston upon Thames",
+    "formal": "Royal Borough of Kingston upon Thames",
+    "providerId": "kingston-upon-thames-council-fostering",
+    "providerName": "Kingston upon Thames Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.achievingforchildren.org.uk/pages/fostering",
+    "phone": null,
+    "areaNames": [
+      "Kingston upon Thames"
+    ]
+  },
+  {
+    "slug": "kirklees",
+    "place": "Kirklees",
+    "formal": "Kirklees",
+    "providerId": "kirklees-council-fostering",
+    "providerName": "Kirklees Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-04",
+    "website": "https://www.kirklees.gov.uk/beta/fostering/index.aspx",
+    "phone": "08003890086",
+    "areaNames": [
+      "Kirklees"
+    ]
+  },
+  {
+    "slug": "knowsley",
+    "place": "Knowsley",
+    "formal": "Knowsley",
+    "providerId": "knowsley-council-fostering",
+    "providerName": "Knowsley Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fostering.knowsley.gov.uk/Home/BecomingaFosterCarer",
+    "phone": "03456460098",
+    "areaNames": [
+      "Knowsley"
+    ]
+  },
+  {
+    "slug": "lambeth",
+    "place": "Lambeth",
+    "formal": "London Borough of Lambeth",
+    "providerId": "lambeth-fostering",
+    "providerName": "Lambeth Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.lambeth.gov.uk/fostering/get-touch",
+    "phone": "02079268710",
+    "areaNames": [
+      "Lambeth"
+    ]
+  },
+  {
+    "slug": "lancashire",
+    "place": "Lancashire",
+    "formal": "Lancashire",
+    "providerId": "foster-for-lancashire",
+    "providerName": "Foster for Lancashire",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.lancashire.gov.uk/fostering/get-in-touch/",
+    "phone": "03000190200",
+    "areaNames": [
+      "Lancashire"
+    ]
+  },
+  {
+    "slug": "leeds",
+    "place": "Leeds",
+    "formal": "Leeds",
+    "providerId": "leeds-city-council-fostering",
+    "providerName": "Foster4Leeds",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://eforms.leeds.gov.uk/ExpressionOfInterestInFostering/Description",
+    "phone": "01133783538",
+    "areaNames": [
+      "Leeds"
+    ]
+  },
+  {
+    "slug": "leicestershire",
+    "place": "Leicestershire",
+    "formal": "Leicestershire",
+    "providerId": "leicestershire-county-council-fostering",
+    "providerName": "Leicestershire County Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.leicestershire.gov.uk/education-and-children/fostering/become-a-foster-carer",
+    "phone": "01163050505",
+    "areaNames": [
+      "Leicestershire"
+    ]
+  },
+  {
+    "slug": "lewisham",
+    "place": "Lewisham",
+    "formal": "London Borough of Lewisham",
+    "providerId": "lewisham-council-fostering",
+    "providerName": "Lewisham Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://lewisham.gov.uk/myservices/children-and-young-people-service/looking-after-someone-elses-child/fostering/foster-for-lewisham",
+    "phone": "08000150129",
+    "areaNames": [
+      "Lewisham"
+    ]
+  },
+  {
+    "slug": "liverpool",
+    "place": "Liverpool",
+    "formal": "Liverpool",
+    "providerId": "liverpool-city-council-fostering",
+    "providerName": "Liverpool City Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fostering.liverpool.gov.uk",
+    "phone": null,
+    "areaNames": [
+      "Liverpool"
+    ]
+  },
+  {
+    "slug": "manchester",
+    "place": "Manchester",
+    "formal": "Manchester",
+    "providerId": "manchester-city-council-fostering",
+    "providerName": "Manchester City Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/why-you-should-foster-with-us",
+    "phone": null,
+    "areaNames": [
+      "Manchester"
+    ]
+  },
+  {
+    "slug": "medway",
+    "place": "Medway",
+    "formal": "Medway",
+    "providerId": "foster-for-medway",
+    "providerName": "Foster for Medway",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.medway.gov.uk/info/200250/fostering_process",
+    "phone": "03001312797",
+    "areaNames": [
+      "Medway"
+    ]
+  },
+  {
+    "slug": "merthyr-tydfil",
+    "place": "Merthyr Tydfil",
+    "formal": "Merthyr Tydfil",
+    "providerId": "foster-wales-merthyr-tydfil",
+    "providerName": "Foster Wales Merthyr Tydfil",
+    "nation": "Wales",
+    "checked": "2026-11-02",
+    "website": "https://merthyrtydfil.fosterwales.gov.wales/the-process/",
+    "phone": "01443425007",
+    "areaNames": [
+      "Merthyr Tydfil"
+    ]
+  },
+  {
+    "slug": "merton",
+    "place": "Merton",
+    "formal": "London Borough of Merton",
+    "providerId": "merton-council-fostering",
+    "providerName": "Merton Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://forms.merton.gov.uk/article/1268/Fostering-enquiry-form",
+    "phone": "08000730874",
+    "areaNames": [
+      "Merton"
+    ]
+  },
+  {
+    "slug": "middlesbrough",
+    "place": "Middlesbrough",
+    "formal": "Middlesbrough",
+    "providerId": "middlesbrough-council-fostering",
+    "providerName": "Middlesbrough Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://middlesbrough.gov.uk/need-to-know/foster-with-north-east",
+    "phone": null,
+    "areaNames": [
+      "Middlesbrough"
+    ]
+  },
+  {
+    "slug": "midlothian",
+    "place": "Midlothian",
+    "formal": "Midlothian",
+    "providerId": "midlothian-council-fostering",
+    "providerName": "Midlothian Council Family Centred Care Team - Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.midlothian.gov.uk/info/1401/fostering_adoption_and_looked-after_children/86/fostering/2",
+    "phone": "01312713615",
+    "areaNames": [
+      "Midlothian"
+    ]
+  },
+  {
+    "slug": "monmouthshire",
+    "place": "Monmouthshire",
+    "formal": "Monmouthshire",
+    "providerId": "foster-wales-monmouthshire",
+    "providerName": "Foster Wales Monmouthshire",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://monmouthshire.fosterwales.gov.wales/how-it-works/the-process/",
+    "phone": "01291635682",
+    "areaNames": [
+      "Monmouthshire"
+    ]
+  },
+  {
+    "slug": "moray",
+    "place": "Moray",
+    "formal": "Moray",
+    "providerId": "moray-council-fostering",
+    "providerName": "Moray Council Placement Services - Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.moray.gov.uk/child-protection-children-and-families/children-and-families/fostering/who-can-become-a-foster-carer/",
+    "phone": "01343563568",
+    "areaNames": [
+      "Moray"
+    ]
+  },
+  {
+    "slug": "na-h-eileanan-siar",
+    "place": "Na h-Eileanan Siar",
+    "formal": "Na h-Eileanan Siar (Western Isles)",
+    "providerId": "comhairle-nan-eilean-siar-fostering",
+    "providerName": "Comhairle nan Eilean Siar Fostering and Adoption Team",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://www.cne-siar.gov.uk/health-and-social-care/children-and-families/fostering-and-adoption/foster-carers",
+    "phone": "01851822749",
+    "areaNames": [
+      "Na h-Eileanan Siar"
+    ]
+  },
+  {
+    "slug": "neath-port-talbot",
+    "place": "Neath Port Talbot",
+    "formal": "Neath Port Talbot",
+    "providerId": "foster-wales-neath-port-talbot",
+    "providerName": "Foster Wales Neath Port Talbot",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://npt.fosterwales.gov.wales/contact-us/",
+    "phone": "01639685866",
+    "areaNames": [
+      "Neath Port Talbot"
+    ]
+  },
+  {
+    "slug": "newham",
+    "place": "Newham",
+    "formal": "London Borough of Newham",
+    "providerId": "newham-council-fostering",
+    "providerName": "Newham Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://newham-self.achieveservice.com/service/Adoption_and_Fostering_Enquiry_Form",
+    "phone": "08081753989",
+    "areaNames": [
+      "Newham"
+    ]
+  },
+  {
+    "slug": "newport",
+    "place": "Newport",
+    "formal": "Newport",
+    "providerId": "foster-wales-newport",
+    "providerName": "Foster Wales Newport",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://newport.fosterwales.gov.wales/how-it-works/the-process/",
+    "phone": "01633656615",
+    "areaNames": [
+      "Newport"
+    ]
+  },
+  {
+    "slug": "norfolk",
+    "place": "Norfolk",
+    "formal": "Norfolk",
+    "providerId": "norfolk-fostering-service",
+    "providerName": "Norfolk Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.norfolk.gov.uk/fostering",
+    "phone": null,
+    "areaNames": [
+      "Norfolk"
+    ]
+  },
+  {
+    "slug": "north-ayrshire",
+    "place": "North Ayrshire",
+    "formal": "North Ayrshire",
+    "providerId": "north-ayrshire-council-fostering",
+    "providerName": "North Ayrshire Council Families for Children Team - Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://north-ayrshire.gov.uk/news/During-Foster-Care-Fortnight-carers-encourage-others-to-offer-life-changing-support-to-children.aspx",
+    "phone": "01294310300",
+    "areaNames": [
+      "North Ayrshire"
+    ]
+  },
+  {
+    "slug": "north-east-lincolnshire",
+    "place": "North East Lincolnshire",
+    "formal": "North East Lincolnshire",
+    "providerId": "north-east-lincolnshire-council-fostering",
+    "providerName": "North East Lincolnshire Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://my.nelincs.gov.uk/s/form/fostering-enquiries",
+    "phone": "01472323966",
+    "areaNames": [
+      "North East Lincolnshire"
+    ]
+  },
+  {
+    "slug": "north-lanarkshire",
+    "place": "North Lanarkshire",
+    "formal": "North Lanarkshire",
+    "providerId": "north-lanarkshire-council-fostering",
+    "providerName": "North Lanarkshire Council Children's Carers' Centre - Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://foster-adopt.scot/",
+    "phone": "08000731566",
+    "areaNames": [
+      "North Lanarkshire"
+    ]
+  },
+  {
+    "slug": "north-lincolnshire",
+    "place": "North Lincolnshire",
+    "formal": "North Lincolnshire",
+    "providerId": "north-lincolnshire-council-fostering",
+    "providerName": "North Lincolnshire Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.northlincs.gov.uk/people-health-and-care/some-people-foster/",
+    "phone": null,
+    "areaNames": [
+      "North Lincolnshire"
+    ]
+  },
+  {
+    "slug": "north-northamptonshire",
+    "place": "North Northamptonshire",
+    "formal": "North Northamptonshire",
+    "providerId": "northamptonshire-childrens-trust",
+    "providerName": "Northamptonshire Children's Trust",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://nctrust.co.uk/fostering/",
+    "phone": null,
+    "areaNames": [
+      "North Northamptonshire",
+      "West Northamptonshire"
+    ]
+  },
+  {
+    "slug": "north-somerset",
+    "place": "North Somerset",
+    "formal": "North Somerset",
+    "providerId": "fostering-north-somerset",
+    "providerName": "Fostering North Somerset",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://fostering.n-somerset.gov.uk/about-fostering/the-application-process/",
+    "phone": "01275888999",
+    "areaNames": [
+      "North Somerset"
+    ]
+  },
+  {
+    "slug": "north-tyneside",
+    "place": "North Tyneside",
+    "formal": "North Tyneside",
+    "providerId": "north-tyneside-council-fostering",
+    "providerName": "North Tyneside Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://my.northtyneside.gov.uk/fostering",
+    "phone": null,
+    "areaNames": [
+      "North Tyneside"
+    ]
+  },
+  {
+    "slug": "north-yorkshire",
+    "place": "North Yorkshire",
+    "formal": "North Yorkshire",
+    "providerId": "north-yorkshire-council-fostering",
+    "providerName": "Fostering North Yorkshire",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://forms.northyorks.gov.uk/service/Fostering_request_a_call_back",
+    "phone": null,
+    "areaNames": [
+      "North Yorkshire"
+    ]
+  },
+  {
+    "slug": "oldham",
+    "place": "Oldham",
+    "formal": "Oldham",
+    "providerId": "oldham-council-fostering",
+    "providerName": "Oldham Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.oldham.gov.uk/info/200381/fostering/578/how_to_become_a_foster_carer",
+    "phone": "03003030321",
+    "areaNames": [
+      "Oldham"
+    ]
+  },
+  {
+    "slug": "orkney-islands",
+    "place": "Orkney Islands",
+    "formal": "Orkney Islands",
+    "providerId": "orkney-islands-council-fostering",
+    "providerName": "Orkney Islands Council Fostering and Adoption Team",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.orkney.gov.uk/our-services/orkney-health-and-social-care-partnership/children-and-families/fostering/fostering-faqs/",
+    "phone": "01856873535",
+    "areaNames": [
+      "Orkney Islands"
+    ]
+  },
+  {
+    "slug": "oxfordshire",
+    "place": "Oxfordshire",
+    "formal": "Oxfordshire",
+    "providerId": "oxfordshire-county-council-fostering",
+    "providerName": "Fostering with Oxfordshire County Council",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.oxfordshire.gov.uk/fostering",
+    "phone": "03001312797",
+    "areaNames": [
+      "Oxfordshire"
+    ]
+  },
+  {
+    "slug": "pembrokeshire",
+    "place": "Pembrokeshire",
+    "formal": "Pembrokeshire",
+    "providerId": "foster-wales-pembrokeshire",
+    "providerName": "Foster Wales Pembrokeshire",
+    "nation": "Wales",
+    "checked": "2026-11-02",
+    "website": "https://pembrokeshire.fosterwales.gov.wales/contact-us/",
+    "phone": "01437774650",
+    "areaNames": [
+      "Pembrokeshire"
+    ]
+  },
+  {
+    "slug": "perth-and-kinross",
+    "place": "Perth and Kinross",
+    "formal": "Perth and Kinross",
+    "providerId": "perth-and-kinross-council-fostering",
+    "providerName": "Perth and Kinross Council Family Based Care Team - Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.pkc.gov.uk/fosteringadoption",
+    "phone": "01738477806",
+    "areaNames": [
+      "Perth and Kinross"
+    ]
+  },
+  {
+    "slug": "peterborough",
+    "place": "Peterborough",
+    "formal": "Peterborough",
+    "providerId": "peterborough-city-council-fostering-service",
+    "providerName": "Peterborough City Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fosterwithpeterborough.org.uk",
+    "phone": "01733868686",
+    "areaNames": [
+      "Peterborough"
+    ]
+  },
+  {
+    "slug": "plymouth",
+    "place": "Plymouth",
+    "formal": "Plymouth",
+    "providerId": "foster-for-plymouth",
+    "providerName": "Foster for Plymouth",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.fosterforplymouth.co.uk/",
+    "phone": "01752308762",
+    "areaNames": [
+      "Plymouth"
+    ]
+  },
+  {
+    "slug": "portsmouth",
+    "place": "Portsmouth",
+    "formal": "Portsmouth",
+    "providerId": "portsmouth-city-council-fostering",
+    "providerName": "Portsmouth City Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://foster.portsmouth.gov.uk/enquire-now/",
+    "phone": "03001312797",
+    "areaNames": [
+      "Portsmouth"
+    ]
+  },
+  {
+    "slug": "powys",
+    "place": "Powys",
+    "formal": "Powys",
+    "providerId": "foster-wales-powys",
+    "providerName": "Foster Wales Powys",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://powys.fosterwales.gov.wales",
+    "phone": "08002230627",
+    "areaNames": [
+      "Powys"
+    ]
+  },
+  {
+    "slug": "reading",
+    "place": "Reading",
+    "formal": "Reading",
+    "providerId": "brighter-futures-for-children-reading",
+    "providerName": "Brighter Futures for Children",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.reading.gov.uk/fostering",
+    "phone": null,
+    "areaNames": [
+      "Reading"
+    ]
+  },
+  {
+    "slug": "redbridge",
+    "place": "Redbridge",
+    "formal": "London Borough of Redbridge",
+    "providerId": "redbridge-council-fostering",
+    "providerName": "Redbridge Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://localcommunityfostering.gov.uk/",
+    "phone": "02084963437",
+    "areaNames": [
+      "Redbridge"
+    ]
+  },
+  {
+    "slug": "redcar-and-cleveland",
+    "place": "Redcar and Cleveland",
+    "formal": "Redcar and Cleveland",
+    "providerId": "fostering-redcar-and-cleveland",
+    "providerName": "Fostering Redcar and Cleveland",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fostering.redcar-cleveland.gov.uk/get-in-touch/",
+    "phone": "08009177771",
+    "areaNames": [
+      "Redcar and Cleveland"
+    ]
+  },
+  {
+    "slug": "renfrewshire",
+    "place": "Renfrewshire",
+    "formal": "Renfrewshire",
+    "providerId": "renfrewshire-council-fostering",
+    "providerName": "Renfrewshire Council Fostering Service",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.renfrewshire.gov.uk/children-young-people-and-families/fostering-adoption-supported-care-and-kinship-care/fostering-renfrewshire/become-foster-carer-renfrewshire-council",
+    "phone": "03003001199",
+    "areaNames": [
+      "Renfrewshire"
+    ]
+  },
+  {
+    "slug": "rhondda-cynon-taf",
+    "place": "Rhondda Cynon Taf",
+    "formal": "Rhondda Cynon Taf",
+    "providerId": "foster-wales-rhondda-cynon-taf",
+    "providerName": "Foster Wales Rhondda Cynon Taf",
+    "nation": "Wales",
+    "checked": "2026-11-02",
+    "website": "https://rct.fosterwales.gov.wales/the-process/",
+    "phone": "01443425007",
+    "areaNames": [
+      "Rhondda Cynon Taf"
+    ]
+  },
+  {
+    "slug": "richmond-upon-thames",
+    "place": "Richmond upon Thames",
+    "formal": "London Borough of Richmond upon Thames",
+    "providerId": "richmond-upon-thames-council-fostering",
+    "providerName": "Richmond upon Thames Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.achievingforchildren.org.uk/pages/fostering",
+    "phone": null,
+    "areaNames": [
+      "Richmond upon Thames"
+    ]
+  },
+  {
+    "slug": "rotherham",
+    "place": "Rotherham",
+    "formal": "Rotherham",
+    "providerId": "rotherham-council-fostering",
+    "providerName": "Fostering Rotherham",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.fosteringrotherham.com/",
+    "phone": null,
+    "areaNames": [
+      "Rotherham"
+    ]
+  },
+  {
+    "slug": "rutland",
+    "place": "Rutland",
+    "formal": "Rutland",
+    "providerId": "rutland-county-council-fostering",
+    "providerName": "Rutland County Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.rutland.gov.uk/children-young-people-families/fostering-adoption-kinship-care/fostering/steps-become-foster-carer",
+    "phone": "01572720942",
+    "areaNames": [
+      "Rutland"
+    ]
+  },
+  {
+    "slug": "salford",
+    "place": "Salford",
+    "formal": "Salford",
+    "providerId": "salford-city-council-fostering",
+    "providerName": "Salford City Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.salford.gov.uk/fostering",
+    "phone": "01617991268",
+    "areaNames": [
+      "Salford"
+    ]
+  },
+  {
+    "slug": "sandwell",
+    "place": "Sandwell",
+    "formal": "Sandwell",
+    "providerId": "sandwell-childrens-trust-fostering",
+    "providerName": "Sandwell Children's Trust Fostering",
+    "nation": "England",
+    "checked": "2026-11-04",
+    "website": "https://sandwellchildrenstrust.org/fostering-and-adoption/",
+    "phone": null,
+    "areaNames": [
+      "Sandwell"
+    ]
+  },
+  {
+    "slug": "sefton",
+    "place": "Sefton",
+    "formal": "Sefton",
+    "providerId": "sefton-council-fostering",
+    "providerName": "Sefton Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-04",
+    "website": "https://seftonfostering.co.uk",
+    "phone": "08009232777",
+    "areaNames": [
+      "Sefton"
+    ]
+  },
+  {
+    "slug": "sheffield",
+    "place": "Sheffield",
+    "formal": "Sheffield",
+    "providerId": "sheffield-city-council-fostering",
+    "providerName": "Sheffield Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fostering.sheffield.gov.uk/your-fostering-journey/becoming-foster-carer",
+    "phone": "01142735075",
+    "areaNames": [
+      "Sheffield"
+    ]
+  },
+  {
+    "slug": "shropshire",
+    "place": "Shropshire",
+    "formal": "Shropshire",
+    "providerId": "shropshire-fostering",
+    "providerName": "Shropshire Fostering",
+    "nation": "England",
+    "checked": "2026-11-04",
+    "website": "https://www.shropshirefostering.co.uk/enquire",
+    "phone": null,
+    "areaNames": [
+      "Shropshire"
+    ]
+  },
+  {
+    "slug": "solihull",
+    "place": "Solihull",
+    "formal": "Solihull",
+    "providerId": "foster-for-solihull",
+    "providerName": "Foster for Solihull",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.solihull.gov.uk",
+    "phone": "01217884474",
+    "areaNames": [
+      "Solihull"
+    ]
+  },
+  {
+    "slug": "somerset",
+    "place": "Somerset",
+    "formal": "Somerset",
+    "providerId": "fostering-in-somerset",
+    "providerName": "Fostering in Somerset",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.fosteringinsomerset.org.uk",
+    "phone": "08005879900",
+    "areaNames": [
+      "Somerset"
+    ]
+  },
+  {
+    "slug": "south-ayrshire",
+    "place": "South Ayrshire",
+    "formal": "South Ayrshire",
+    "providerId": "south-ayrshire-council-fostering",
+    "providerName": "South Ayrshire Council Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": "https://hscp.south-ayrshire.gov.uk/Fostering",
+    "phone": "01292267675",
+    "areaNames": [
+      "South Ayrshire"
+    ]
+  },
+  {
+    "slug": "south-gloucestershire",
+    "place": "South Gloucestershire",
+    "formal": "South Gloucestershire",
+    "providerId": "south-gloucestershire-council-fostering",
+    "providerName": "South Gloucestershire Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.fosterwithyourlocalcouncil.org.uk/",
+    "phone": "03004560120",
+    "areaNames": [
+      "South Gloucestershire"
+    ]
+  },
+  {
+    "slug": "south-lanarkshire",
+    "place": "South Lanarkshire",
+    "formal": "South Lanarkshire",
+    "providerId": "south-lanarkshire-council-fostering",
+    "providerName": "South Lanarkshire Council Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-03",
+    "website": null,
+    "phone": null,
+    "areaNames": [
+      "South Lanarkshire"
+    ]
+  },
+  {
+    "slug": "south-tyneside",
+    "place": "South Tyneside",
+    "formal": "South Tyneside",
+    "providerId": "south-tyneside-council-fostering",
+    "providerName": "Fostering with South Tyneside Council",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://campaigns.southtyneside.gov.uk/fostering",
+    "phone": "08009177771",
+    "areaNames": [
+      "South Tyneside"
+    ]
+  },
+  {
+    "slug": "southampton",
+    "place": "Southampton",
+    "formal": "Southampton",
+    "providerId": "fostering-southampton",
+    "providerName": "Fostering Southampton",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.southampton.gov.uk/children-families/fostering/become-a-foster-carer/",
+    "phone": "03001312797",
+    "areaNames": [
+      "Southampton"
+    ]
+  },
+  {
+    "slug": "southend-on-sea",
+    "place": "Southend-on-Sea",
+    "formal": "Southend-on-Sea",
+    "providerId": "southend-fostering",
+    "providerName": "Southend Fostering",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.fostereast.gov.uk/southendonsea",
+    "phone": "01702212938",
+    "areaNames": [
+      "Southend-on-Sea"
+    ]
+  },
+  {
+    "slug": "southwark",
+    "place": "Southwark",
+    "formal": "London Borough of Southwark",
+    "providerId": "southwark-council-fostering",
+    "providerName": "Southwark Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.southwark.gov.uk/children-young-people-and-families/adoption-fostering-and-kinship-care/fostering/become-foster",
+    "phone": null,
+    "areaNames": [
+      "Southwark"
+    ]
+  },
+  {
+    "slug": "st-helens",
+    "place": "St Helens",
+    "formal": "St Helens",
+    "providerId": "st-helens-borough-council-fostering",
+    "providerName": "St Helens Borough Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fostering.sthelens.gov.uk",
+    "phone": null,
+    "areaNames": [
+      "St Helens"
+    ]
+  },
+  {
+    "slug": "stirling",
+    "place": "Stirling",
+    "formal": "Stirling",
+    "providerId": "stirling-council-fostering",
+    "providerName": "Stirling Council Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.stirling.gov.uk/fostering",
+    "phone": "01786404040",
+    "areaNames": [
+      "Stirling"
+    ]
+  },
+  {
+    "slug": "stockport",
+    "place": "Stockport",
+    "formal": "Stockport",
+    "providerId": "stockport-council-fostering",
+    "providerName": "Stockport Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://fosterforgm.com/stockport",
+    "phone": "03003030321",
+    "areaNames": [
+      "Stockport"
+    ]
+  },
+  {
+    "slug": "stockton-on-tees",
+    "place": "Stockton-on-Tees",
+    "formal": "Stockton-on-Tees",
+    "providerId": "stockton-on-tees-borough-council-fostering",
+    "providerName": "Stockton-on-Tees Borough Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://stockton.gov.uk/become-foster-carer",
+    "phone": "08009177771",
+    "areaNames": [
+      "Stockton-on-Tees"
+    ]
+  },
+  {
+    "slug": "stoke-on-trent",
+    "place": "Stoke-on-Trent",
+    "formal": "Stoke-on-Trent",
+    "providerId": "fostering-stoke",
+    "providerName": "Fostering Stoke",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fostering.stoke.gov.uk/",
+    "phone": "01782234555",
+    "areaNames": [
+      "Stoke-on-Trent"
+    ]
+  },
+  {
+    "slug": "suffolk",
+    "place": "Suffolk",
+    "formal": "Suffolk",
+    "providerId": "suffolk-fostering-service",
+    "providerName": "Suffolk Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.fosterandadopt.suffolk.gov.uk",
+    "phone": "01473264800",
+    "areaNames": [
+      "Suffolk"
+    ]
+  },
+  {
+    "slug": "sunderland",
+    "place": "Sunderland",
+    "formal": "Sunderland",
+    "providerId": "together-for-children-sunderland-fostering",
+    "providerName": "Together for Children Sunderland Fostering",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://fosterwithne.suncc2-prd.gosshosted.com/together-for-children",
+    "phone": null,
+    "areaNames": [
+      "Sunderland"
+    ]
+  },
+  {
+    "slug": "surrey",
+    "place": "Surrey",
+    "formal": "Surrey",
+    "providerId": "surrey-county-council-fostering",
+    "providerName": "Surrey County Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.surreycc.gov.uk/children/social-care/fostering/how",
+    "phone": "01372832929",
+    "areaNames": [
+      "Surrey"
+    ]
+  },
+  {
+    "slug": "sutton",
+    "place": "Sutton",
+    "formal": "London Borough of Sutton",
+    "providerId": "sutton-council-fostering",
+    "providerName": "Sutton Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://www.sutton.gov.uk/w/become-a-foster-carer",
+    "phone": "02087705563",
+    "areaNames": [
+      "Sutton"
+    ]
+  },
+  {
+    "slug": "swansea",
+    "place": "Swansea",
+    "formal": "Swansea",
+    "providerId": "foster-wales-swansea",
+    "providerName": "Foster Wales Swansea",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://swansea.fosterwales.gov.wales/how-it-works/the-process/",
+    "phone": null,
+    "areaNames": [
+      "Swansea"
+    ]
+  },
+  {
+    "slug": "swindon",
+    "place": "Swindon",
+    "formal": "Swindon",
+    "providerId": "swindon-borough-council-fostering",
+    "providerName": "Swindon Borough Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.fosterwithyourlocalcouncil.org.uk",
+    "phone": null,
+    "areaNames": [
+      "Swindon"
+    ]
+  },
+  {
+    "slug": "tameside",
+    "place": "Tameside",
+    "formal": "Tameside",
+    "providerId": "tameside-council-fostering",
+    "providerName": "Tameside Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.tameside.gov.uk/fostering",
+    "phone": "03003030321",
+    "areaNames": [
+      "Tameside"
+    ]
+  },
+  {
+    "slug": "telford-and-wrekin",
+    "place": "Telford and Wrekin",
+    "formal": "Telford and Wrekin",
+    "providerId": "telford-fostering",
+    "providerName": "Fostering for Telford & Wrekin Council",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.telfordfostering.co.uk/site/",
+    "phone": "01952387387",
+    "areaNames": [
+      "Telford and Wrekin"
+    ]
+  },
+  {
+    "slug": "torbay",
+    "place": "Torbay",
+    "formal": "Torbay",
+    "providerId": "torbay-council-fostering",
+    "providerName": "Torbay Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.torbay.gov.uk/children-and-families/fostering/become-a-foster-carer/",
+    "phone": "01803207845",
+    "areaNames": [
+      "Torbay"
+    ]
+  },
+  {
+    "slug": "torfaen",
+    "place": "Torfaen",
+    "formal": "Torfaen",
+    "providerId": "foster-wales-torfaen",
+    "providerName": "Foster Wales Torfaen",
+    "nation": "Wales",
+    "checked": "2026-11-02",
+    "website": "https://torfaen.fosterwales.gov.wales/how-it-works/the-process/",
+    "phone": "01495766669",
+    "areaNames": [
+      "Torfaen"
+    ]
+  },
+  {
+    "slug": "tower-hamlets",
+    "place": "Tower Hamlets",
+    "formal": "London Borough of Tower Hamlets",
+    "providerId": "tower-hamlets-council-fostering",
+    "providerName": "Tower Hamlets Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://localcommunityfostering.co.uk/become-a-foster-carer/",
+    "phone": null,
+    "areaNames": [
+      "Tower Hamlets"
+    ]
+  },
+  {
+    "slug": "trafford",
+    "place": "Trafford",
+    "formal": "Trafford",
+    "providerId": "trafford-council-fostering",
+    "providerName": "Trafford Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.trafford.gov.uk",
+    "phone": "01619123558",
+    "areaNames": [
+      "Trafford"
+    ]
+  },
+  {
+    "slug": "vale-of-glamorgan",
+    "place": "Vale of Glamorgan",
+    "formal": "Vale of Glamorgan",
+    "providerId": "foster-wales-vale-of-glamorgan",
+    "providerName": "Foster Wales Vale of Glamorgan",
+    "nation": "Wales",
+    "checked": "2026-11-02",
+    "website": "https://valeofglamorgan.fosterwales.gov.wales/the-process/",
+    "phone": "01446729600",
+    "areaNames": [
+      "Vale of Glamorgan"
+    ]
+  },
+  {
+    "slug": "waltham-forest",
+    "place": "Waltham Forest",
+    "formal": "London Borough of Waltham Forest",
+    "providerId": "waltham-forest-council-fostering",
+    "providerName": "Waltham Forest Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://localcommunityfostering.co.uk/",
+    "phone": "02084963437",
+    "areaNames": [
+      "Waltham Forest"
+    ]
+  },
+  {
+    "slug": "wandsworth",
+    "place": "Wandsworth",
+    "formal": "London Borough of Wandsworth",
+    "providerId": "wandsworth-council-fostering",
+    "providerName": "Wandsworth Fostering",
+    "nation": "England",
+    "checked": "2026-10-29",
+    "website": "https://microsite2.richmondandwandsworth.gov.uk",
+    "phone": "02088716666",
+    "areaNames": [
+      "Wandsworth"
+    ]
+  },
+  {
+    "slug": "warrington",
+    "place": "Warrington",
+    "formal": "Warrington",
+    "providerId": "warrington-borough-council-fostering",
+    "providerName": "Warrington Borough Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.foster4.co.uk/enquire/",
+    "phone": "03456460098",
+    "areaNames": [
+      "Warrington"
+    ]
+  },
+  {
+    "slug": "warwickshire",
+    "place": "Warwickshire",
+    "formal": "Warwickshire",
+    "providerId": "fostering-in-warwickshire",
+    "providerName": "Fostering in Warwickshire",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://fostering.warwickshire.gov.uk/",
+    "phone": "08004081556",
+    "areaNames": [
+      "Warwickshire"
+    ]
+  },
+  {
+    "slug": "west-berkshire",
+    "place": "West Berkshire",
+    "formal": "West Berkshire",
+    "providerId": "west-berkshire-fostering",
+    "providerName": "West Berkshire Fostering",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.westberks.gov.uk/article/39681/West-Berkshire-Fostering",
+    "phone": null,
+    "areaNames": [
+      "West Berkshire"
+    ]
+  },
+  {
+    "slug": "west-dunbartonshire",
+    "place": "West Dunbartonshire",
+    "formal": "West Dunbartonshire",
+    "providerId": "west-dunbartonshire-council-fostering",
+    "providerName": "West Dunbartonshire Council Fostering",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://www.west-dunbarton.gov.uk/site-data/external-links/online-forms/health-and-social-care/fostering-enquiry",
+    "phone": "01389776414",
+    "areaNames": [
+      "West Dunbartonshire"
+    ]
+  },
+  {
+    "slug": "west-lothian",
+    "place": "West Lothian",
+    "formal": "West Lothian",
+    "providerId": "fostering-and-adoption-west-lothian",
+    "providerName": "Fostering and Adoption West Lothian",
+    "nation": "Scotland",
+    "checked": "2026-11-02",
+    "website": "https://fosteringandadoption.westlothian.gov.uk/article/80125/How-to-become-a-Foster-Carer",
+    "phone": null,
+    "areaNames": [
+      "West Lothian"
+    ]
+  },
+  {
+    "slug": "west-sussex",
+    "place": "West Sussex",
+    "formal": "West Sussex",
+    "providerId": "west-sussex-county-council-fostering",
+    "providerName": "West Sussex County Council Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fosteringwestsussex.org.uk/",
+    "phone": "03302227775",
+    "areaNames": [
+      "West Sussex"
+    ]
+  },
+  {
+    "slug": "westminster",
+    "place": "Westminster",
+    "formal": "City of Westminster",
+    "providerId": "westminster-council-fostering",
+    "providerName": "Fostering Shared Services (Westminster)",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.fosteringsharedservices.org.uk/",
+    "phone": null,
+    "areaNames": [
+      "Westminster"
+    ]
+  },
+  {
+    "slug": "westmorland-and-furness",
+    "place": "Westmorland and Furness",
+    "formal": "Westmorland and Furness",
+    "providerId": "westmorland-and-furness-council-fostering",
+    "providerName": "Cumbria Fostering (Westmorland and Furness Council)",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.westmorlandandfurness.gov.uk",
+    "phone": "03000132065",
+    "areaNames": [
+      "Westmorland and Furness"
+    ]
+  },
+  {
+    "slug": "wigan",
+    "place": "Wigan",
+    "formal": "Wigan",
+    "providerId": "wigan-council-fostering",
+    "providerName": "Wigan Council Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.wigan.gov.uk/Resident/Health-Social-Care/Children-and-young-people/Fostering/Enquire-about-fostering.aspx",
+    "phone": "03003030321",
+    "areaNames": [
+      "Wigan"
+    ]
+  },
+  {
+    "slug": "wiltshire",
+    "place": "Wiltshire",
+    "formal": "Wiltshire",
+    "providerId": "fostering-wiltshire",
+    "providerName": "Fostering Wiltshire",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.fosterwithyourlocalcouncil.org.uk/",
+    "phone": "03004560120",
+    "areaNames": [
+      "Wiltshire"
+    ]
+  },
+  {
+    "slug": "windsor-and-maidenhead",
+    "place": "Windsor and Maidenhead",
+    "formal": "Windsor and Maidenhead",
+    "providerId": "windsor-and-maidenhead-council-fostering",
+    "providerName": "Royal Borough of Windsor and Maidenhead Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.rbwm.gov.uk/fostering",
+    "phone": null,
+    "areaNames": [
+      "Windsor and Maidenhead"
+    ]
+  },
+  {
+    "slug": "wirral",
+    "place": "Wirral",
+    "formal": "Wirral",
+    "providerId": "wirral-council-fostering",
+    "providerName": "Wirral Fostering Service",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://www.foster4.co.uk/wirral/",
+    "phone": "03456460098",
+    "areaNames": [
+      "Wirral"
+    ]
+  },
+  {
+    "slug": "wokingham",
+    "place": "Wokingham",
+    "formal": "Wokingham",
+    "providerId": "wokingham-borough-council-fostering",
+    "providerName": "Wokingham Borough Council Fostering",
+    "nation": "England",
+    "checked": "2026-11-02",
+    "website": "https://fostering.wokingham.gov.uk/fostering-us/become-foster-carer",
+    "phone": "01189746204",
+    "areaNames": [
+      "Wokingham"
+    ]
+  },
+  {
+    "slug": "wolverhampton",
+    "place": "Wolverhampton",
+    "formal": "Wolverhampton",
+    "providerId": "fostering-for-wolverhampton",
+    "providerName": "Fostering for Wolverhampton",
+    "nation": "England",
+    "checked": "2026-11-03",
+    "website": "https://www.fosteringforwolverhampton.com/",
+    "phone": "01902551133",
+    "areaNames": [
+      "Wolverhampton"
+    ]
+  },
+  {
+    "slug": "worcestershire",
+    "place": "Worcestershire",
+    "formal": "Worcestershire",
+    "providerId": "worcestershire-fostering",
+    "providerName": "Worcestershire Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://www.worcestershire.gov.uk/worcestershire-children-first-fostering",
+    "phone": null,
+    "areaNames": [
+      "Worcestershire"
+    ]
+  },
+  {
+    "slug": "wrexham",
+    "place": "Wrexham",
+    "formal": "Wrexham",
+    "providerId": "foster-wales-wrexham",
+    "providerName": "Foster Wales Wrexham",
+    "nation": "Wales",
+    "checked": "2026-11-03",
+    "website": "https://wrexham.fosterwales.gov.wales/",
+    "phone": "01978295316",
+    "areaNames": [
+      "Wrexham"
+    ]
+  },
+  {
+    "slug": "york",
+    "place": "York",
+    "formal": "York",
+    "providerId": "city-of-york-council-fostering",
+    "providerName": "York Fostering",
+    "nation": "England",
+    "checked": "2026-10-30",
+    "website": "https://fostering.york.gov.uk/becoming-foster-carer?categoryId=1",
+    "phone": "01904555678",
+    "areaNames": [
+      "York"
+    ]
+  }
+]

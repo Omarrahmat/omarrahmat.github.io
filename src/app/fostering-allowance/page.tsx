@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
-import { councilAllowances } from '@/lib/allowances';
+import { councilAllowances, noScaleCouncils } from '@/lib/allowances';
 import { NATIONS } from '@/lib/providers';
 
 export const metadata: Metadata = {
@@ -29,6 +29,13 @@ export default function AllowancesHub() {
             </section>
           );
         })}
+        {noScaleCouncils.length > 0 && (
+          <section style={{ marginTop: 16 }}>
+            <h2 style={{ fontSize: 28, marginBottom: 6 }}>Councils without a published 2026-27 scale</h2>
+            <p className="muted" style={{ marginBottom: 12, maxWidth: 820 }}>We could not find a current scale on these councils&rsquo; websites. Each page gives the legal minimum, typical council figures and how to ask the council.</p>
+            <ul className="index-list">{noScaleCouncils.map((c) => <li key={c.slug}><Link href={`/fostering-allowance/${c.slug}/`}>{c.place}</Link></li>)}</ul>
+          </section>
+        )}
       </div>
     </div>
   );

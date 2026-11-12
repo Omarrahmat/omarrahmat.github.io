@@ -1,17 +1,26 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { councilAllowances, getAllowance, NATION_MINIMUM, gbp } from '@/lib/allowances';
+import { councilAllowances, getAllowance, NATION_MINIMUM, gbp, noScaleCouncils, getNoScale } from '@/lib/allowances';
+import NoScaleCouncilPage from '@/components/NoScaleCouncil';
 import { areas, slugify } from '@/lib/areas';
 import { formatDate } from '@/lib/providers';
 
 export const dynamicParams = false;
-export function generateStaticParams() { return councilAllowances.map((c) => ({ council: c.slug })); }
+export function generateStaticParams() { return [...councilAllowances.map((c) => ({ council: c.slug })), ...noScaleCouncils.map((c) => ({ council: c.slug }))]; }
 
 export async function generateMetadata({ params }: { params: Promise<{ council: string }> }): Promise<Metadata> {
   const { council } = await params;
   const c = getAllowance(council);
-  if (!c) return {};
+  if (!c) {
+    const n = getNoScale(council);
+    if (!n) return {};
+    return {
+      title: `${n.place} foster carer allowance 2026-27`,
+      description: `What fostering pays in ${n.place}: the 2026-27 minimum allowance by age, what councils that publish their rates pay, and how to get ${n.place}'s own figures.`,
+      alternates: { canonical: `/fostering-allowance/${n.slug}/` },
+    };
+  }
   const lo = Math.min(...c.allowances.map((r) => r.weekly));
   const hi = Math.max(...c.allowances.map((r) => r.weekly));
   return {
@@ -24,7 +33,11 @@ export async function generateMetadata({ params }: { params: Promise<{ council: 
 export default async function CouncilAllowancePage({ params }: { params: Promise<{ council: string }> }) {
   const { council } = await params;
   const c = getAllowance(council);
-  if (!c) notFound();
+  if (!c) {
+    const n = getNoScale(council);
+    if (!n) notFound();
+    return <NoScaleCouncilPage c={n} />;
+  }
   const lo = Math.min(...c.allowances.map((r) => r.weekly));
   const hi = Math.max(...c.allowances.map((r) => r.weekly));
   const areaLinks = c.areaNames.map((n) => areas.find((a) => a.slug === slugify(n))).filter(Boolean) as { slug: string; name: string; count: number }[];

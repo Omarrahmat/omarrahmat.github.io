@@ -139,6 +139,16 @@ for (const viewport of [{ width: 1360, height: 900 }, { width: 390, height: 800 
     check(`article renders with sources (${tag})`, (await pg.locator('h1').count()) === 1 && (await pg.locator('.story-sources a').count()) >= 1);
     check(`banner shows headlines (${tag})`, (await pg.locator('.marquee a').count()) >= 2);
   }
+  // Councils without a published scale have their own neutral page (12 Nov 2026); private notes never appear.
+  const noScale = JSON.parse(fs.readFileSync(path.resolve(import.meta.dirname, '../src/data/council-noscale.json'), 'utf8'));
+  if (noScale.length) {
+    const ns = noScale[0];
+    await pg.goto(B + `/fostering-allowance/${ns.slug}/`);
+    const txt = await pg.locator('main, body').first().innerText();
+    check(`no-scale council page renders (${tag})`, (await pg.locator('h1').innerText()).includes(ns.place) && txt.includes('legal minimum') && txt.includes('could not find a current'), ns.slug);
+    check(`no-scale council page keeps notes private (${tag})`, !/bot check|does not match|below the 2026-27|may not be current|could not be read/i.test(txt));
+    check(`no-scale page fits the screen (${tag})`, await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+  }
   for (const p of ['/packages/', '/guides/', '/payments/', '/news/', '/legal/privacy/']) {
     await pg.goto(B + p);
     check(`${p} renders (${tag})`, (await pg.locator('h1').count()) === 1);
