@@ -359,6 +359,8 @@ const ROSTER: { group: string; desks: Desk[] }[] = [
     { name: 'Carer questions desk', when: 'Weekdays 09:47 and 13:47', job: 'One in-depth guide a run, each answering a question carers search for', aka: ['Allowances desk', 'Council allowances desk'] },
     { name: 'Guides desk', when: 'Mondays and Thursdays 14:41', job: 'Longer guides from its own list of topics' },
     { name: 'Area pages desk', when: 'Weekdays 10:52 and 15:52', job: 'Local write-ups for the “fostering agencies in” pages Google already shows' },
+    { name: 'Local coverage desk', when: 'Weekdays 11:41 and 16:11', job: 'Makes sure every target place has a page and every service that really covers it is listed there' },
+    { name: 'Local rankings desk', when: 'Weekdays 12:23', job: 'Reads Google’s figures and improves the area pages closest to page one, Croydon, Luton and London first' },
     { name: 'News desk', when: 'Weekdays 10:23', job: 'One sourced fostering story when there is real news' },
     { name: 'PR and links desk', when: 'Wednesdays 11:33', job: 'Pitches our data stories to press and charities for links', aka: ['PR desk'] },
   ] },
