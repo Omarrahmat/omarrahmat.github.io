@@ -1,15 +1,33 @@
 {
   "slug": "croydon",
-  "updatedOn": "2026-11-02",
+  "updatedOn": "2026-11-12",
   "paragraphs": [
-    "In Croydon, children in care live with carers approved by the council's own service, Foster Croydon, or by independent fostering agencies such as those listed on this page. The council's statement of purpose for 2025-26 says it aims to keep Croydon children with carers in or around the borough unless their needs are better met further away, and that it wants carers from a wide range of backgrounds to reflect the children it looks after.",
-    "Foster Croydon recruits for several kinds of fostering: short-term care while plans are made for a child, long-term care until a young person is ready for independence, parent and child placements, and family and friends (connected persons) care. Each carer has a supervising social worker who visits every six weeks, and there is a duty line in office hours and an out-of-hours rota for evenings and weekends. Support groups include a monthly carers' association meeting and a men's group, and new carers can be matched with an experienced carer as a mentor. Carers complete at least 30 hours of training in their first year and 20 hours each year after that.",
-    "Croydon publishes a weekly maintenance allowance for each child, from £208 for children aged up to 4 to £309 for 16 and 17 year olds, plus a weekly skills fee for the carer of £325 at the entry level or £450 at the advanced level. Our Croydon allowance page sets out the extras as well.",
-    "If you are weighing up fostering in Croydon, talk to the council and to two or three of the agencies below, and compare what each offers in training, support and pay."
+    "Seven fostering services list Croydon as an area they cover, all of them independent agencies, and they are shown above. The council also runs its own service, Foster Croydon, which Ofsted has rated good and which describes itself as one of the highest-paying councils in the south of England after a 30% rise in carer pay. Fostering for the council means looking after Croydon's own children with its social workers behind you; an independent agency assesses, trains and supervises you itself and is asked by councils, Croydon included, to find homes for the children they look after.",
+    "The council is clear that it needs more carers. Its market position statement for 2025 to 2027 says that on average between 525 and 550 Croydon children are in care at any one time, and that in June 2025 227 of the children in foster homes lived with council carers and 189 with carers from independent agencies. It describes demand for every type of foster home, and names children with disabilities, including complex neurodiversity, children moving on from residential care, parent and child placements, and short-term emergency care as particular needs. Its sufficiency strategy for 2024 to 2027 adds older children with complex needs and brothers and sisters who need to stay together, and sets the aim of reversing a fall in the number of council fostering households.",
+    "Keeping children close to home matters here. In July 2024, 79% of Croydon's children in care lived within 20 miles of the borough, and the council's market position statement asks for carers who live in Croydon itself.",
+    "Foster Croydon pays a weekly allowance for each child, from £208 for children up to 4 to £309 for 16 and 17-year-olds, and a weekly skills fee of £325 at entry level, £450 at the advanced level and £600 for specialist roles. Extras include Council Tax reimbursement, a £1,500 welcome payment for carers who transfer and a £1,500 yearly retention payment after three years. Our Croydon allowance page sets out the full scale.",
+    "You need to be over 21; you can rent, have pets or work if your hours are flexible, and you do not need a spare bedroom to foster babies up to two. Talk to the council and two or three of the agencies above before you choose, and see the pages for Bromley, Sutton and Lambeth, or London as a whole, if you live near the borough's edge."
   ],
   "sources": [
-    { "title": "Croydon Council Fostering Service Statement of Purpose 2025-2026", "url": "https://www.croydon.gov.uk/sites/default/files/2025-05/Fostering%20Service%20Statement%20of%20Purpose%202025-2026.pdf" },
-    { "title": "Fees and allowances (Foster Croydon, Croydon Council)", "url": "https://www.croydon.gov.uk/foster-croydon/fees-and-allowances" },
-    { "title": "Croydon foster carer allowance (Fostering Today)", "url": "https://fosteringtoday.com/fostering-allowance/croydon/" }
+    {
+      "title": "Croydon Children in Care and Care Experienced Young People: Market Position Statement 2025-2027 (Croydon Council)",
+      "url": "https://www.croydon.gov.uk/sites/default/files/2026-02/croydon-market-position-statement-2025-27.pdf"
+    },
+    {
+      "title": "Croydon Children Looked After and Care Experienced Adults Sufficiency Strategy 2024-27 (Croydon Council)",
+      "url": "https://www.croydon.gov.uk/sites/default/files/2024-10/croydon-children-looked-after-and-care-experienced-adults-sufficiency-strategy-2024-to-2027.pdf"
+    },
+    {
+      "title": "Foster For Croydon (Croydon Council)",
+      "url": "https://www.croydon.gov.uk/foster-croydon"
+    },
+    {
+      "title": "Can I foster? (Croydon Council)",
+      "url": "https://www.croydon.gov.uk/foster-croydon/can-i-foster"
+    },
+    {
+      "title": "Croydon foster carer allowance (Fostering Today)",
+      "url": "https://fosteringtoday.com/fostering-allowance/croydon/"
+    }
   ]
 }
