@@ -1,3 +1,14 @@
 {
-  "_comment": "Written by scripts/desk/sync-placements.mjs from Supabase subscriptions. Do not edit by hand."
+  "_comment": "Written by scripts/desk/sync-placements.mjs from Supabase subscriptions. Do not edit by hand.",
+  "fostering-together-for-children-with-disabilities": {
+    "tier": "featured",
+    "areas": [
+      "South East",
+      "West Midlands",
+      "East Midlands",
+      "East of England",
+      "Ashford"
+    ],
+    "until": "2026-11-19"
+  }
 }
