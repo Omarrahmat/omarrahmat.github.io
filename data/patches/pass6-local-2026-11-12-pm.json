@@ -1,0 +1,26 @@
+[
+ {
+  "id": "action-for-children-fostering-south-east",
+  "areasServed": ["Barnet", "Hounslow", "Newham"],
+  "sources": [{"url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/london-and-south-east-england/", "retrievedOn": "2026-11-12", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 12 Nov 2026 (pm): Action for Children's London and South East England fostering team page says it is recruiting foster carers across London and the South East, and that it also covers the Greater London boroughs including Barnet, Hounslow and Newham (named in its list). Only the three target places researched this run are added; the same page also names Tower Hamlets and Wandsworth, for a later run."
+ },
+ {
+  "id": "barnet-fostering",
+  "areasServed": ["Barnet"],
+  "sources": [{"url": "https://fostering.camden.gov.uk/fostering-news-events-stories/north-london-fostering-hub/", "retrievedOn": "2026-11-12", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 12 Nov 2026 (pm): Barnet Council's own fostering service (its record already names the London Borough of Barnet). Camden's article on the North London Fostering Hub says the hub brings together Barnet, Camden, Enfield, Hackney, Haringey and Islington councils to recruit and support more foster carers. Plain place name added alongside the formal council area (Chief of Staff hand-off 248). barnet.gov.uk pages returned a bot check and could not be read this run."
+ },
+ {
+  "id": "hounslow-council-fostering",
+  "areasServed": ["Hounslow"],
+  "sources": [{"url": "https://www.hounslow.gov.uk/foster-hounslow/foster-us", "retrievedOn": "2026-11-12", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 12 Nov 2026 (pm): Hounslow Council's 'Why foster with us' page says it needs foster carers for the children and young people in its care. Plain place name added alongside the formal council area."
+ },
+ {
+  "id": "newham-council-fostering",
+  "areasServed": ["Newham"],
+  "sources": [{"url": "https://www.newham.gov.uk/children-families/fostering-newham-council", "retrievedOn": "2026-11-12", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 12 Nov 2026 (pm): Newham Council's 'Fostering with Newham Council' page says the council is always recruiting foster carers. Plain place name added alongside the formal council area."
+ }
+]
