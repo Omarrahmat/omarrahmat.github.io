@@ -1,0 +1,20 @@
+[
+ {
+  "id": "action-for-children-fostering-south-east",
+  "areasServed": ["Brent", "Ealing", "Harrow"],
+  "sources": [{"url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/london-and-south-east-england/", "retrievedOn": "2026-11-13", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 13 Nov 2026 (pm): Action for Children's London and South East England fostering page says it is recruiting foster carers across London and the South East and that it also covers the Greater London boroughs of, among others, Brent, Ealing and Harrow. Only the three target places researched this run are added."
+ },
+ {
+  "id": "brent-fostering",
+  "areasServed": ["Brent"],
+  "sources": [{"url": "https://www.brent.gov.uk/fostering", "retrievedOn": "2026-11-13", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 13 Nov 2026 (pm): Brent Council's 'Fostering in Brent' page invites people to foster with Brent Council for local children; enquiries, recruitment and assessment are handled on its behalf by its partner Foster with West London. Plain place name added alongside the formal council area."
+ },
+ {
+  "id": "harrow-council-fostering",
+  "areasServed": ["Harrow"],
+  "sources": [{"url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1", "retrievedOn": "2026-11-13", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 13 Nov 2026 (pm): Harrow Council's 'Fostering in Harrow' page describes Harrow Fostering, which works with Foster with West London to recruit and assess foster carers on its behalf. Plain place name added alongside the formal council area."
+ }
+]
