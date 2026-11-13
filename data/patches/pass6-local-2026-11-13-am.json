@@ -1,0 +1,26 @@
+[
+ {
+  "id": "action-for-children-fostering-south-east",
+  "areasServed": ["Tower Hamlets", "Wandsworth", "Lambeth"],
+  "sources": [{"url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/london-and-south-east-england/", "retrievedOn": "2026-11-13", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 13 Nov 2026 (am): Action for Children's London and South East England fostering team page says it is recruiting foster carers across London and the South East, and its London list names Lambeth, Tower Hamlets and Wandsworth. Only the three target places researched this run are added."
+ },
+ {
+  "id": "tower-hamlets-council-fostering",
+  "areasServed": ["Tower Hamlets"],
+  "sources": [{"url": "https://towerhamlets.gov.uk/fostering", "retrievedOn": "2026-11-13", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 13 Nov 2026 (am): Tower Hamlets Council's 'Join our fostering family' page invites people to foster with Tower Hamlets and says the council provides a fostering service that seeks and approves families to foster children. Plain place name added alongside the formal council area."
+ },
+ {
+  "id": "wandsworth-council-fostering",
+  "areasServed": ["Wandsworth"],
+  "sources": [{"url": "https://fostering.wandsworth.gov.uk/", "retrievedOn": "2026-11-13", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 13 Nov 2026 (am): Wandsworth Council's 'Foster with us' site asks people to come direct to Wandsworth Council and foster local children. Plain place name added alongside the formal council area."
+ },
+ {
+  "id": "lambeth-fostering",
+  "areasServed": ["Lambeth"],
+  "sources": [{"url": "https://www.lambeth.gov.uk/fostering/fostering-process", "retrievedOn": "2026-11-13", "supports": ["areasServed"]}],
+  "notes": "Local coverage desk, 13 Nov 2026 (am): Lambeth Council's fostering process page explains how to make a difference to the life of a Lambeth child by fostering in Lambeth, with support from Lambeth Council Children's Services. Plain place name added alongside the formal council area."
+ }
+]
