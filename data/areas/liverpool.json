@@ -1,16 +1,29 @@
 {
   "slug": "liverpool",
-  "updatedOn": "2026-11-03",
+  "updatedOn": "2026-11-13",
   "paragraphs": [
-    "Children in care in Liverpool are looked after by Liverpool City Council's fostering service and by the independent agencies listed on this page. In April 2023 the council appealed for more residents to foster, saying the number of looked-after children in the city had risen by 31% since 2017 while foster carer numbers had not kept pace.",
-    "Liverpool is one of eight councils across Cheshire and Merseyside, led by Warrington, that were awarded new fostering funding in December 2023: more than £1 million for a larger shared recruitment hub, Foster4, and £1 million to extend the Mockingbird programme, in which an experienced hub carer supports a group of nearby fostering families.",
-    "To foster with the council you need to be over 21, have a spare room and live in the UK full-time. You can be single or married, of any gender or sexual orientation, own or rent your home, and have children or pets of your own. After a first call and a home visit, applicants take the two-day Skills to Foster course, then complete a full assessment with references, medical and police checks before going to the fostering panel. The council says this usually takes three to six months.",
-    "Approved carers have a named fostering social worker, training matched to the children they look after, family support workers and local support groups. The council has also listed free Lifestyles gym membership and Council Tax relief among its benefits, alongside child allowances and carer payments.",
-    "If you live in Liverpool, speak to the council and two or three of the agencies below, and compare their training, support and pay before you decide."
+    "Thirteen fostering services list Liverpool as an area they cover: Liverpool City Council's own fostering service and twelve independent agencies, all shown above. The council says its children's services are responsible for more than 1,500 looked-after children in the city. Fostering for the council means caring for Liverpool children, helping them stay in their own communities, with the council's social workers behind you; an independent agency assesses, approves and supervises you itself and offers homes to children placed by councils.",
+    "Liverpool recruits through Foster4, launched in May 2024 with Cheshire East, Cheshire West and Chester, Halton, Knowsley, St Helens, Warrington and Wirral and backed by the Department for Education. At launch the eight councils had more than 4,600 children in care between them and just over 1,150 approved council foster carers, and said there was an urgent need for more. Foster4 shares training across the eight areas and uses the Mockingbird model, in which an experienced hub carer supports six to ten nearby fostering families.",
+    "After an enquiry, initial checks and a home visit, applicants take the Skills to Foster course and then a two-stage assessment, with the assessing social worker visiting about seven times, before a fostering panel, which meets at least monthly. Foster4 aims to have carers approved within four to six months of Skills to Foster. Carers already with an agency or another council can transfer, which Liverpool aims to complete in eight to twelve weeks.",
+    "Council carers get Council Tax exemption, training before and after approval, free Lifestyles gym membership and use of a holiday home at Presthaven Beach Resort, alongside skills and children's allowance payments. We do not yet have a Liverpool allowance page, so ask the council and two or three of the agencies above for their rates and compare the support each offers.",
+    "If you live near the city's edge, the pages for Knowsley, Sefton and Wirral list more services."
   ],
   "sources": [
-    { "title": "Become a foster carer (Liverpool City Council)", "url": "https://fostering.liverpool.gov.uk/becoming-a-foster-carer/" },
-    { "title": "Liverpool City Council appeals for more foster carers (Liverpool Express, 20 April 2023)", "url": "https://liverpoolexpress.co.uk/liverpool-city-council-appeals-for-more-foster-carers/" },
-    { "title": "Funding boost for fostering across Cheshire and Merseyside (Liverpool Express, 18 December 2023)", "url": "https://liverpoolexpress.co.uk/funding-boost-for-fostering-across-cheshire-and-merseyside/" }
+    {
+      "title": "Why foster for your local authority? (Liverpool City Council)",
+      "url": "https://fostering.liverpool.gov.uk/why-foster-with-liverpool/why-us"
+    },
+    {
+      "title": "Who are Foster4? (Liverpool City Council)",
+      "url": "https://fostering.liverpool.gov.uk/stories-and-news/who-are-foster4/"
+    },
+    {
+      "title": "Foster4 launches to urgently recruit foster carers in Cheshire and Merseyside (St Helens Council, May 2024)",
+      "url": "https://news.sthelens.gov.uk/article/10839/Foster4-launches-to-urgently-recruit-foster-carers-in-Cheshire-and-Merseyside"
+    },
+    {
+      "title": "Information and Inspiration: fostering information booklet (Foster4, Liverpool City Council)",
+      "url": "https://fostering.liverpool.gov.uk/media/wupfj3t1/fostering-information-booklet.pdf"
+    }
   ]
 }
