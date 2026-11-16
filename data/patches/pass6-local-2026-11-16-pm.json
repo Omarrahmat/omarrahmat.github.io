@@ -1,0 +1,14 @@
+[
+  {
+    "id": "royal-greenwich-fostering",
+    "areasServed": ["Greenwich"],
+    "sources": [{"url": "https://www.royalgreenwich.gov.uk/children-young-people-and-families/become-foster-carer", "retrievedOn": "2026-11-16", "supports": ["areasServed"]}],
+    "notes": "Royal Borough of Greenwich's own 'Become a foster carer' page, recruiting foster carers for the borough's local children; plain place name added alongside 'Royal Borough of Greenwich' so the council counts for the Greenwich area page."
+  },
+  {
+    "id": "action-for-children-fostering-south-east",
+    "areasServed": ["Greenwich", "Hackney", "Merton"],
+    "sources": [{"url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/london-and-south-east-england/", "retrievedOn": "2026-11-16", "supports": ["areasServed"]}],
+    "notes": "Action for Children's London and South East fostering page, under 'Where are we recruiting foster carers?', names Greenwich and Hackney among the London boroughs where it is particularly looking for carers, and Merton among the Greater London boroughs it also covers."
+  }
+]
