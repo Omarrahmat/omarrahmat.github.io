@@ -1,0 +1,20 @@
+[
+  {
+    "id": "haringey-council-fostering",
+    "areasServed": ["Haringey"],
+    "sources": [{"url": "https://haringey.gov.uk/children-young-people-families/childrens-social-care/fostering/become-a-foster-carer", "retrievedOn": "2026-11-16", "supports": ["areasServed"]}],
+    "notes": "Haringey Council's own 'Become a foster carer' page; plain place name added alongside 'London Borough of Haringey' so the service counts for the Haringey area page. The page says recruitment for Barnet, Camden, Enfield, Hackney, Haringey and Islington is provided through the North London fostering hub (Foster North London) from 1 October 2026."
+  },
+  {
+    "id": "islington-council-fostering",
+    "areasServed": ["Islington"],
+    "sources": [{"url": "https://fostering.islington.gov.uk/", "retrievedOn": "2026-11-16", "supports": ["areasServed"]}],
+    "notes": "Islington Council's own fostering site; plain place name added alongside 'London Borough of Islington'. The site says recruitment for Barnet, Camden, Enfield, Hackney, Haringey and Islington is now provided through the North London Fostering Hub."
+  },
+  {
+    "id": "southwark-council-fostering",
+    "areasServed": ["Southwark"],
+    "sources": [{"url": "https://www.southwark.gov.uk/children-and-families/adoption-fostering-and-special-guardians/fostering/become-foster-carer", "retrievedOn": "2026-11-16", "supports": ["areasServed"]}],
+    "notes": "Southwark Council's own 'Become a foster carer' page (Southwark Fostering Panel); plain place name added alongside 'London Borough of Southwark'. Enquiries go to the South East London Fostering Hub."
+  }
+]
