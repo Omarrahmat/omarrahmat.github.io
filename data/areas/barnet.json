@@ -1,14 +1,21 @@
 {
   "slug": "barnet",
-  "updatedOn": "2026-11-13",
+  "updatedOn": "2026-11-16",
   "paragraphs": [
-    "The services listed above take enquiries from people living in Barnet, and they include Barnet Council's own fostering service as well as independent agencies. Fostering for the council means caring for Barnet's own children with its social workers supporting you; an independent agency assesses, trains and supervises you itself and is asked by councils to find homes for children they look after.",
-    "Barnet does not recruit on its own. It is one of six councils, with Camden, Enfield, Hackney, Haringey and Islington, in the North London Fostering Hub, which Camden hosts. The hub grew out of the North London Fostering and Permanency Consortium, through which the six boroughs have shared training, resources and recruitment since 2012, and its stated aim is to help more children stay near their schools, friends and support networks. Camden's announcement also says the government's Room Makers programme, which helps carers fund changes to their homes so they can take more children, is being extended to every fostering hub.",
-    "Barnet's financial policy for foster and connected carers, dated April 2024, pays two weekly amounts: a maintenance allowance for each child, set at £191 for babies up to two rising to £289 for 16 and 17-year-olds, and a skills fee of £181, £211 or £289 depending on level, reviewed at each annual review. On top of that it sets out birthday, festival and holiday payments, a uniform allowance, and an enhanced payment for out-of-hours placements. Carers placed through the north London partnership are paid at Barnet's rates. Rates are reviewed, so ask the council for the current figures.",
-    "Speak to the council and two or three of the services above before you decide, and compare training, support and pay. If you live near the borough's edge, the pages for Enfield, Haringey and London as a whole list more services."
+    "Three fostering services list Barnet as an area they cover, and all three are shown above: Barnet Council's own fostering service and two independent agencies. Fostering for the council means caring for Barnet's own children, with the council's social workers supporting you. An independent agency assesses, approves and supervises you itself, and councils, Barnet among them, ask agencies to find homes for children they cannot place with their own carers.",
+    "Barnet does not recruit on its own. It is one of six councils, with Camden, Enfield, Hackney, Haringey and Islington, in the North London Fostering Hub, which Camden hosts and which opened on Thursday 1 October. The hub builds on the North London Fostering and Permanency Consortium, through which the six boroughs have shared training, resources and recruitment since 2012, and its stated aim is to help more children stay close to their schools, friends and support networks. The government has also said its Room Makers programme, which helps carers adapt their homes so they can take more children, will be extended to every fostering hub.",
+    "The council's placement sufficiency strategy for 2023 to 2027 sets out which children most need homes. It puts growing in-house fostering among its priorities, noting that at the end of 2022 just over a quarter of Barnet's children in care (27.6%) lived with the council's own foster carers. It names vulnerable teenagers, including young people with mental health difficulties, a disability or neurodiversity, and those at risk of exploitation or going missing. It records 22 parent and child placements over a year, with five or six running at any one time, and says larger groups of brothers and sisters came into care in 2021/22. In that year one in five children in Barnet's care (20.4%) were unaccompanied asylum-seeking children.",
+    "If you could offer a home to a teenager, to a parent with a baby, or to siblings who want to stay together, say so when you first call: these are the needs the council's strategy names. Ask each service how it trains and supports carers for those placements and what it pays, as allowances and fees differ between the council and agencies.",
+    "Speak to the council and the two agencies above before you decide. Barnet borders several areas with their own pages, so if you live near the edge of the borough, the Enfield, Haringey, Brent, Harrow and Hertfordshire pages, and the page for London as a whole, list more services nearby."
   ],
   "sources": [
-    { "title": "Camden chosen to lead new North London Fostering Hub (Camden Council)", "url": "https://fostering.camden.gov.uk/fostering-news-events-stories/north-london-fostering-hub/" },
-    { "title": "Financial Policy for Barnet Foster Carers: Allowances and Fees, April 2024 (Barnet Council)", "url": "https://trixcms.trixonline.co.uk/api/assets/barnetfch/af747da6-dbd7-40fb-9fe3-ff79f2a72f50/fost-finance.pdf" }
+    {
+      "title": "Camden chosen to lead new North London Fostering Hub (Camden Council)",
+      "url": "https://fostering.camden.gov.uk/fostering-news-events-stories/north-london-fostering-hub/"
+    },
+    {
+      "title": "Placement Sufficiency Strategy 2023-2027 (Barnet Council, Children and Family Services)",
+      "url": "https://trixcms.trixonline.co.uk/api/assets/barnetfs/2d213f2d-fb28-4228-b7fc-bd3123cd6bdf/placement-strat.docx"
+    }
   ]
 }
