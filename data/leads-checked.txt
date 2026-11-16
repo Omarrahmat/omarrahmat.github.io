@@ -284,3 +284,6 @@ foster-wales-wrexham, 2026-11-16, found fostering@wrexham.gov.uk (wrexham.foster
 belfast-hsc-trust-fostering, 2026-11-16, found hello@adoptionandfostercare.hscni.net (belfasttrust.hscni.net foster care page; regional HSC NI Adoption and Foster Care address; added)
 northern-hsc-trust-fostering, 2026-11-16, found hello@adoptionandfostercare.hscni.net (northerntrust.hscni.net fostering page; same regional address as Belfast, not added again)
 recheck fosterplus, 2026-11-16, unchanged askus@fosterplus.co.uk still published as Head Office (England) on fosterplus.co.uk contact details page despite bounce; no other England enquiry address found; regions page not readable this run
+south-eastern-hsc-trust-fostering, 2026-11-16, none published (setrust.hscni.net contact page: phone and post only; fostering goes via regional adoptionandfostercare.hscni.net, whose hello@ address is already queued; not added)
+southern-hsc-trust-fostering, 2026-11-16, none published (southerntrust.hscni.net fostering article gives regional hotline and adoptionandfostercare.hscni.net only; regional hello@ already queued; not added)
+western-hsc-trust-fostering, 2026-11-16, none published (nidirect Western Trust contact page has no fostering email; trust's own contact page did not come up in search; regional hello@ already queued; not added)
