@@ -1,0 +1,11 @@
+[
+  {
+    "id": "compass-fostering-london",
+    "areasServed": ["Hackney", "Newham"],
+    "sources": [
+      {"url": "https://www.compassfostering.com/locations/fostering-hackney/", "retrievedOn": "2026-11-17", "supports": ["areasServed"]},
+      {"url": "https://www.compassfostering.com/locations/newham-fostering/", "retrievedOn": "2026-11-17", "supports": ["areasServed"]}
+    ],
+    "notes": "Compass Fostering's own 'Fostering in Hackney' and 'Fostering in Newham' location pages each say there is an urgent need for more foster carers in that borough, place it in Compass's London region and give the Hornchurch office as the local office."
+  }
+]
