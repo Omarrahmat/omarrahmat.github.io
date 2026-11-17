@@ -287,3 +287,10 @@ recheck fosterplus, 2026-11-16, unchanged askus@fosterplus.co.uk still published
 south-eastern-hsc-trust-fostering, 2026-11-16, none published (setrust.hscni.net contact page: phone and post only; fostering goes via regional adoptionandfostercare.hscni.net, whose hello@ address is already queued; not added)
 southern-hsc-trust-fostering, 2026-11-16, none published (southerntrust.hscni.net fostering article gives regional hotline and adoptionandfostercare.hscni.net only; regional hello@ already queued; not added)
 western-hsc-trust-fostering, 2026-11-16, none published (nidirect Western Trust contact page has no fostering email; trust's own contact page did not come up in search; regional hello@ already queued; not added)
+recheck wandsworth-council-fostering, 2026-11-17, found fosteringrecruitment@wandsworth.gov.uk (fostering.wandsworth.gov.uk contact us page; replaces bounced fostering@; not inserted: queue allows one row per provider, handed to Outreach desk)
+recheck north-lanarkshire-council-fostering, 2026-11-17, unchanged fosterandadopt@northlan.gov.uk still published (northlanarkshire.gov.uk Children's Carers' Centre page, updated 7 Aug 2024) despite bounce; enquiry form has no email
+recheck rotherham-council-fostering, 2026-11-17, unchanged support@fosteringrotherham.com still the only email on rotherham.gov.uk directory record despite bounce
+recheck inverclyde-council-fostering, 2026-11-17, site down (inverclyde.gov.uk fostering page refused automated reading); no other address found
+recheck affinity-fostering, 2026-11-17, none found (own site did not come up in search; only directories and data brokers)
+recheck f5-foster-care, 2026-11-17, none found (own site did not come up in search; only directories and data brokers)
+recheck together-for-children-sunderland-fostering, 2026-11-17, none new (Foster with North East own contact page did not come up in search; contact@fosterwithnortheast.org.uk from 13 Nov still unconfirmed on a web page)
