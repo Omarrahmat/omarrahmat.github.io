@@ -294,3 +294,7 @@ recheck inverclyde-council-fostering, 2026-11-17, site down (inverclyde.gov.uk f
 recheck affinity-fostering, 2026-11-17, none found (own site did not come up in search; only directories and data brokers)
 recheck f5-foster-care, 2026-11-17, none found (own site did not come up in search; only directories and data brokers)
 recheck together-for-children-sunderland-fostering, 2026-11-17, none new (Foster with North East own contact page did not come up in search; contact@fosterwithnortheast.org.uk from 13 Nov still unconfirmed on a web page)
+recheck clackmannanshire-council-fostering, 2026-11-17, unchanged (clacks.gov.uk fostering URLs served the Children & Families page; only customerservice@clacks.gov.uk in footer, not a fostering address); fosteradopt@clacks.gov.uk still unconfirmed
+recheck east-lothian-council-fostering, 2026-11-17, unchanged (fostering@ still shown only as typo "eatlothian" on foster enquiry data protection page, reviewed 7 Apr 2026; no other fostering address on /fostering, /foster, who-can-foster)
+recheck rotherham-council-fostering, 2026-11-17 pm, none new (only rotherham.gov.uk directory record and a squarespace staging copy came up; no own-domain contact page)
+recheck affinity-fostering, 2026-11-17 pm, none found (search again returned only directories and data brokers)
