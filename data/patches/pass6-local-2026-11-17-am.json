@@ -1,0 +1,19 @@
+[
+  {
+    "id": "compass-fostering-london",
+    "areasServed": ["Tower Hamlets", "Ealing"],
+    "sources": [
+      {"url": "https://www.compassfostering.com/locations/fostering-tower-hamlets/", "retrievedOn": "2026-11-17", "supports": ["areasServed"]},
+      {"url": "https://www.compassfostering.com/locations/fostering-ealing/", "retrievedOn": "2026-11-17", "supports": ["areasServed"]}
+    ],
+    "notes": "Compass Fostering's own 'Foster in Tower Hamlets' and 'Ealing Fostering' location pages each say there is an urgent need for more foster carers in that borough and place it in the Compass Fostering London region."
+  },
+  {
+    "id": "foster-care-associates-thames-valley",
+    "areasServed": ["Barnet"],
+    "sources": [
+      {"url": "https://www.thefca.co.uk/?p=10086", "retrievedOn": "2026-11-17", "supports": ["areasServed"]}
+    ],
+    "notes": "Foster Care Associates' own 'Fostering in Barnet' location page (canonical thefca.co.uk/locations/barnet/) offers training and support covering Barnet and invites people living in Barnet to become foster parents; the page places this within FCA's Thames Valley and Outer London region."
+  }
+]
