@@ -1,0 +1,30 @@
+[
+  {
+    "id": "capstone-foster-care-uk-london",
+    "areasServed": ["Hounslow", "Wandsworth"],
+    "sources": [
+      {"url": "https://www.capstonefostercare.co.uk/location/fostering-hounslow", "retrievedOn": "2026-11-18", "supports": ["areasServed"]},
+      {"url": "https://www.capstonefostercare.co.uk/location/fostering-wandsworth", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "Capstone Foster Care's own 'Foster in Hounslow' page says it services areas of Hounslow and is recruiting carers; its 'Fostering Wandsworth' page invites people to join its foster carers in Wandsworth and names its London office as the nearest local office."
+  },
+  {
+    "id": "greater-london-fostering",
+    "areasServed": ["Hounslow", "Wandsworth", "Tower Hamlets"],
+    "sources": [
+      {"url": "https://greaterlondonfostering.org/areaswecover/hounslow/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]},
+      {"url": "https://greaterlondonfostering.org/areaswecover/wandsworth/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]},
+      {"url": "https://greaterlondonfostering.org/areaswecover/tower-hamlets/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "Greater London Fostering's own 'Areas we cover' pages for Hounslow, Wandsworth and Tower Hamlets each describe it as an independent agency supporting carers across that borough."
+  },
+  {
+    "id": "sunbeam-fostering-agency",
+    "areasServed": ["Hounslow", "Tower Hamlets"],
+    "sources": [
+      {"url": "https://sunbeamfostering.com/fostering-in-hounslow/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]},
+      {"url": "https://sunbeamfostering.com/fostering-tower-hamlets/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "Sunbeam Fostering's own 'Fostering in Hounslow' page says it is recruiting foster carers in Hounslow with local support there; its 'Fostering in Tower Hamlets' page invites people to become foster carers in Tower Hamlets and says it provides local support in the borough."
+  }
+]
