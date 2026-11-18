@@ -1,0 +1,51 @@
+[
+  {
+    "id": "sunbeam-fostering-agency",
+    "areasServed": ["Merton", "Brighton and Hove"],
+    "sources": [
+      {"url": "https://sunbeamfostering.com/fostering-in-merton/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]},
+      {"url": "https://sunbeamfostering.com/fostering-in-brighton/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "Sunbeam Fostering's own 'Fostering in Merton' page says it provides local support in Merton, with training and local support groups held there; its 'Fostering in Brighton' page says it provides local support for carers in Brighton and surrounding areas through its London offices."
+  },
+  {
+    "id": "uk-fostering",
+    "areasServed": ["Merton"],
+    "sources": [
+      {"url": "https://ukfostering.org.uk/fostering-in-merton/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "UK Fostering's own 'Fostering in Merton' page says it needs more foster carers for the Merton area."
+  },
+  {
+    "id": "foster-care-associates-south-east-london",
+    "areasServed": ["Brighton and Hove"],
+    "sources": [
+      {"url": "https://www.thefca.co.uk/locations/brighton/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "FCA's own 'Fostering in Brighton & Hove' page says it works in partnership with the Brighton local authority. Adds the plain place name used by the Brighton and Hove area page (the record already lists 'Brighton')."
+  },
+  {
+    "id": "capstone-foster-care-uk-london",
+    "areasServed": ["Brighton and Hove"],
+    "sources": [
+      {"url": "https://www.capstonefostercare.co.uk/local-offices/fostering-in-the-south-east/brighton-training-hub", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "Capstone Foster Care's own Brighton office page (South East) says it delivers training for carers local to Brighton at its Brighton training hub (The Southwick Centre) and gives a local phone number."
+  },
+  {
+    "id": "newcastle-fostering-service",
+    "areasServed": ["Newcastle"],
+    "sources": [
+      {"url": "https://new.newcastle.gov.uk/fostering", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "Newcastle City Council's own fostering service ('Could you foster?') recruits carers living within 50 miles of Newcastle upon Tyne. Adds the plain place name 'Newcastle' used by the area page; the record already lists 'Newcastle upon Tyne'."
+  },
+  {
+    "id": "the-childrens-family-trust",
+    "areasServed": ["Newcastle"],
+    "sources": [
+      {"url": "https://thecft.org.uk/north-east-fostering/", "retrievedOn": "2026-11-18", "supports": ["areasServed"]}
+    ],
+    "notes": "The Children's Family Trust's own 'Fostering in the North East' page has a Newcastle section and says it supports foster families in towns and cities across the North East, including Newcastle."
+  }
+]
