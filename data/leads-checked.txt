@@ -313,3 +313,18 @@ recheck thrive-fostering, 2026-11-18, none confirmed (home and terms pages: addr
 recheck time-out-fostering, 2026-11-18, none found (contact page did not render; privacy page: form and named contact only)
 recheck uk-fostering-north-east, 2026-11-18, none confirmed (contact pages: addresses hidden by email protection)
 recheck foster-care-group-wales, 2026-11-18, none confirmed (contact and privacy pages: addresses hidden by email protection)
+recheck apple-fostering-services, 2026-11-18 pm, found info@applefostering.co.uk (applefostering.co.uk about-us, begin-your-fostering-journey and partnerships pages); queued seq 302
+recheck acorn-house-fostering-services, 2026-11-18 pm, found info@acornhousefostering.co.uk (acornhouse.co.uk FAQs page contact details; organisation's own name domain); queued seq 303
+recheck blue-sky-fostering, 2026-11-18 pm, found referrals@blueskyfostering.co.uk (blueskyfostering.co.uk local authorities page; generic referrals address); queued seq 304
+recheck active-care-solutions, 2026-11-18 pm, none published (enquiry and West Midlands pages: form, phone and live chat only)
+recheck anglia-fostering-agency, 2026-11-18 pm, none published (contact and Norwich pages: form and phone only)
+recheck capstone-excel, 2026-11-18 pm, none confirmed (complaints page addresses hidden by email protection; about and Kent office pages: form and phone only)
+recheck capstone-foster-care-south-west, 2026-11-18 pm, none confirmed (same Capstone site: addresses hidden by email protection)
+recheck capstone-foster-care-uk-london, 2026-11-18 pm, none confirmed (same Capstone site: addresses hidden by email protection)
+recheck 1st-affinity-fostering-services, 2026-11-18 pm, none published (contact and referral pages: form, phone and post only)
+recheck children-of-colour, 2026-11-18 pm, none published (home, about and FAQ pages: form only)
+recheck barnardos-scotland-edinburgh-fostering, 2026-11-18 pm, none published (Edinburgh statement of purpose July 2026: only cs.complaints@ head office complaints address, not an enquiry address)
+recheck barnardos-scotland-glasgow-fostering, 2026-11-18 pm, none published (Glasgow statement of purpose June 2025: only complaints address)
+recheck barnardos-scotland-north-fostering, 2026-11-18 pm, none published (Scotland North statement of purpose June 2025: only complaints address)
+recheck barnardos-fostering-northern-ireland, 2026-11-18 pm, none published (Northern Ireland fostering page: register form only)
+recheck barnardos-cymru-fostering, 2026-11-18 pm, none published (no Wales fostering address found in Barnardo's own pages searched)
