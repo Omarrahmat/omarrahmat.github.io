@@ -25,6 +25,9 @@ try { files = readdirSync(rawDir).filter((f) => f.endsWith('.json')).sort(); } c
 // data/patches/*.json: follow-up research that adds fields to existing records (matched by id).
 // A patch may set website, recruitmentUrl, phone, publicEnquiryEmail, regulatorReference, regulatorName,
 // address parts, areasServed and fosteringTypes (merged), and must bring its own sources.
+// areasServedExact is different: it is the list a service gave us itself (for example in a reply to our
+// "Is this right?" email), so it replaces the areas outright and wins over every other patch for that record,
+// whatever the file order. To change such a service's areas later, edit that list.
 const patches = new Map();
 const patchDir = join(root, 'data/patches');
 let patchFiles = [];
@@ -60,6 +63,7 @@ function applyPatches(raw) {
   const list = patches.get(raw?.id);
   if (!list) return raw;
   const out = JSON.parse(JSON.stringify(raw));
+  let exactAreas = null;
   for (const p of list) {
     if (!Array.isArray(p.sources) || p.sources.length === 0) {
       rejected.push({ file: p._file, id: p.id, errors: ['patch ignored: no sources'] });
@@ -75,10 +79,12 @@ function applyPatches(raw) {
     for (const k of ['areasServed', 'fosteringTypes']) {
       if (Array.isArray(p[k]) && p[k].length) out[k] = [...new Set([...(out[k] || []), ...p[k]])];
     }
+    if (Array.isArray(p.areasServedExact)) exactAreas = p.areasServedExact.filter((x) => typeof x === 'string' && x.trim()).map((x) => x.trim());
     out.sources = [...(out.sources || []), ...p.sources];
     if (p.notes) out.notes = [out.notes, p.notes].filter(Boolean).join(' ');
     patchedIds.add(p.id);
   }
+  if (exactAreas) out.areasServed = [...new Set(exactAreas)];
   return out;
 }
 
