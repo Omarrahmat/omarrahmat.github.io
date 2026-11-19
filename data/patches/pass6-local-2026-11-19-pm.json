@@ -1,0 +1,35 @@
+[
+  {
+    "id": "foster-care-associates-thames-valley",
+    "areasServed": ["Reading"],
+    "sources": [
+      {"url": "https://www.thefca.co.uk/locations/reading/", "retrievedOn": "2026-11-19", "supports": ["areasServed"]},
+      {"url": "https://www.thefca.co.uk/regions/thames-valley", "retrievedOn": "2026-11-19", "supports": ["areasServed"]}
+    ],
+    "notes": "FCA's own 'Fostering in Reading' page says it is changing the lives of children across Reading, works in partnership with Reading local authority, and that its team supports foster parents across the Thames Valley region of Buckinghamshire, Oxfordshire and Berkshire. FCA's Hertfordshire page also lists Reading among the cities and towns its Thames Valley team covers."
+  },
+  {
+    "id": "bedford-borough-council-fostering",
+    "areasServed": ["Bedford"],
+    "sources": [
+      {"url": "https://www.bedford.gov.uk/social-care-and-health/fostering/types-fostering", "retrievedOn": "2026-11-19", "supports": ["areasServed"]}
+    ],
+    "notes": "Bedford Borough Council's own fostering pages (the council for Bedford) describe the foster carers it approves in Bedford Borough and invite enquiries. Adds the plain place name 'Bedford' alongside 'Bedford Borough', as for the London borough councils (team_log hand-off 248)."
+  },
+  {
+    "id": "norfolk-fostering-service",
+    "areasServed": ["Norwich"],
+    "sources": [
+      {"url": "https://www.norfolk.gov.uk/41128", "retrievedOn": "2026-11-19", "supports": ["areasServed"]}
+    ],
+    "notes": "Norfolk County Council's own fostering service (the council for Norwich's children's services) says it has local offices in King's Lynn, Thetford, Norwich and Great Yarmouth."
+  },
+  {
+    "id": "foster-care-associates-eastern",
+    "areasServed": ["Norwich"],
+    "sources": [
+      {"url": "https://www.thefca.co.uk/locations/norfolk/", "retrievedOn": "2026-11-19", "supports": ["areasServed"]}
+    ],
+    "notes": "FCA's own 'Fostering in Norfolk' page, whose team supports foster parents across the East of England including Suffolk, Essex and Norfolk, lists Norwich among the nearby areas it covers."
+  }
+]
