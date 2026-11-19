@@ -343,3 +343,18 @@ recheck the-fostering-foundation, 2026-11-19, none usable (contact page form onl
 recheck three-circles-fostering, 2026-11-19, none published (contact page: phone and form only)
 recheck coram-fostering-service, 2026-11-19, none current (only adoption@ in a 2015 Ofsted report; not added)
 recheck fostering-people, 2026-11-19, found info@fosteringpeople.co.uk (fosteringpeople.co.uk England statement of purpose August 2025); queued seq 309
+recheck solace-fostering, 2026-11-19, none found (own site did not come up in two searches this run)
+recheck sparks-fostering, 2026-11-19, none found (own site did not come up in two searches this run)
+recheck xcel-2000-fostercare-services, 2026-11-19, none found (own site did not come up in two searches; only directory listings)
+recheck quarriers-fostering, 2026-11-19, none found (own fostering contact page did not come up in search this run)
+recheck kindercare-fostering-northern-ireland, 2026-11-19, none found (own site did not come up in two searches; only directories and registers)
+recheck pathway-care-calon-cymru, 2026-11-19, none found (own site did not come up in search; only directories)
+recheck fostering-people-scotland, 2026-11-19, same organisation as fostering-people (info@fosteringpeople.co.uk queued seq 309); not added again
+recheck barnet-fostering, 2026-11-19, site blocked (barnet.gov.uk contact page served bot check only)
+recheck camden-fostering, 2026-11-19, none published (fostering.camden.gov.uk/contact: phone and Foster North London enquiry link only)
+recheck ealing-fostering-connections, 2026-11-19, found foster@ealing.gov.uk (ealing.gov.uk/fosteradopt contact block); queued seq 310
+recheck fostering-hampshire-children, 2026-11-19, none readable (hants.gov.uk fostering contactus: address hidden by email protection again; not guessed)
+recheck north-lincolnshire-council-fostering, 2026-11-19, site blocked (northlincs.gov.uk bot verification page again)
+recheck northamptonshire-childrens-trust, 2026-11-19, none found (only tender notices came up in search; own contact page not returned)
+recheck shropshire-fostering, 2026-11-19, none found (only charity register and news pages came up; own fostering site not returned)
+recheck wigan-council-fostering, 2026-11-19, none published (wigan.gov.uk enquire page and fostering booklet PDF: phone and form only)
