@@ -1,0 +1,36 @@
+[
+  {
+    "id": "foster-care-associates-yorks-and-lincs",
+    "areasServed": ["Derby"],
+    "sources": [
+      {"url": "https://www.thefca.co.uk/regions/east-midlands", "retrievedOn": "2026-11-19", "supports": ["areasServed"]},
+      {"url": "https://www.thefca.co.uk/locations/derby/", "retrievedOn": "2026-11-19", "supports": ["areasServed"]}
+    ],
+    "notes": "FCA's own East Midlands page says it covers the whole of the East Midlands, including Derby; its Ofsted link and statement of purpose on that page are those of FCA Yorks and Lincs (SC038256). FCA's 'Fostering in Derby' page invites people in Derby and the surrounding areas to become foster parents and introduces its Derby team."
+  },
+  {
+    "id": "team-fostering-yorkshire-east-midlands",
+    "areasServed": ["Derby"],
+    "sources": [
+      {"url": "https://teamfostering.co.uk/why-us/areas-we-cover/east-midlands/fostering-in-derby/", "retrievedOn": "2026-11-19", "supports": ["areasServed"]}
+    ],
+    "notes": "Team Fostering's own 'Fostering in Derby' page, under its East Midlands areas we cover, says there is a growing need for foster carers in Derby and that it has worked across Derbyshire and the East Midlands for over two decades."
+  },
+  {
+    "id": "the-childrens-family-trust",
+    "areasServed": ["Derby", "Portsmouth"],
+    "sources": [
+      {"url": "https://thecft.org.uk/east-midlands/", "retrievedOn": "2026-11-19", "supports": ["areasServed"]},
+      {"url": "https://thecft.org.uk/south-central-office/", "retrievedOn": "2026-11-19", "supports": ["areasServed"]}
+    ],
+    "notes": "The CFT's own East Midlands (Newark office) page says it provides fostering services in Nottingham, Derby, Leicester, Northampton and Lincoln and asks people in Derby to get in touch; its South Central (Waterlooville office) page lists Portsmouth among the areas it supports and asks people in Portsmouth to get in touch."
+  },
+  {
+    "id": "foster-care-associates-south-east-london",
+    "areasServed": ["Portsmouth"],
+    "sources": [
+      {"url": "https://www.thefca.co.uk/locations/portsmouth/", "retrievedOn": "2026-11-19", "supports": ["areasServed"]}
+    ],
+    "notes": "FCA's own 'Fostering in Portsmouth' page invites people in Portsmouth and the surrounding areas to become foster parents, says FCA works in partnership with Portsmouth local authority, and lists it under its South East areas alongside Hampshire, Southampton, Eastleigh and the Isle of Wight."
+  }
+]
