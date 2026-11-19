@@ -328,3 +328,18 @@ recheck barnardos-scotland-glasgow-fostering, 2026-11-18 pm, none published (Gla
 recheck barnardos-scotland-north-fostering, 2026-11-18 pm, none published (Scotland North statement of purpose June 2025: only complaints address)
 recheck barnardos-fostering-northern-ireland, 2026-11-18 pm, none published (Northern Ireland fostering page: register form only)
 recheck barnardos-cymru-fostering, 2026-11-18 pm, none published (no Wales fostering address found in Barnardo's own pages searched)
+recheck clifford-house-fostering, 2026-11-19, none published (contact page: phone and form only)
+recheck fitzgerald-fostering-and-consultancy, 2026-11-19, none published (contact page: phone and form only)
+recheck footprints-foster-care, 2026-11-19, found enquiries@footprintsfostercare.co.uk (footprintsfostercare.co.uk contact page; info@ also in footer); queued seq 305
+recheck foster-care-matters, 2026-11-19, found info@fostercarematters.org.uk (fostercarematters.org.uk privacy policy; contact page link empty); queued seq 306
+recheck fostering-dimensions, 2026-11-19, none published (enquiry page: phone only)
+recheck fostering-uk, 2026-11-19, site down (privacy policy and children's guide refused automated reading)
+recheck olive-branch-fostering, 2026-11-19, found admin@olivebranchfostering.co.uk (olivebranchfostering.co.uk privacy policy; generic admin address); queued seq 307
+recheck isp-southampton, 2026-11-19, found sussex@ispfostering.org.uk (ispfostering.org.uk ISP Sussex statement of purpose April 2025, office covering Hampshire and Dorset); queued seq 308
+recheck outset-fostering-agency, 2026-11-19, none published (about page and 2022 statement of purpose: phone, form and third-party addresses only)
+recheck progress-childrens-services, 2026-11-19, none confirmed (parent and child page: address hidden by email protection)
+recheck ryancare-fostering, 2026-11-19, none published (home and team pages: phone and form only)
+recheck the-fostering-foundation, 2026-11-19, none usable (contact page form only; privacy page shows only a named person's address)
+recheck three-circles-fostering, 2026-11-19, none published (contact page: phone and form only)
+recheck coram-fostering-service, 2026-11-19, none current (only adoption@ in a 2015 Ofsted report; not added)
+recheck fostering-people, 2026-11-19, found info@fosteringpeople.co.uk (fosteringpeople.co.uk England statement of purpose August 2025); queued seq 309
