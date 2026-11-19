@@ -466,5 +466,40 @@
         "date": "2026-11-05"
       }
     ]
+  },
+  {
+    "slug": "ofsted-fostering-in-england-2025-26-fostering-households-rise-first-time-in-years",
+    "title": "Ofsted figures show fostering households in England rose in 2025-26 after years of decline",
+    "standfirst": "Ofsted's Fostering in England statistics for April 2025 to March 2026 show a small rise in fostering households, more approvals and more carers joining than leaving, though approved foster carer numbers dipped slightly.",
+    "publishedOn": "2026-11-19",
+    "eventDate": "2026-11-18",
+    "topics": [
+      "research",
+      "regulation",
+      "recruitment",
+      "england"
+    ],
+    "body": [
+      "Ofsted published its annual Fostering in England statistics on 18 November 2026, covering the year from 1 April 2025 to 31 March 2026. The figures come from 475 fostering services, which Ofsted says is 99% of those eligible, including every council fostering service in England.",
+      "The headline is a modest turnaround. There were 42,680 fostering households at 31 March 2026, up from 42,190 a year earlier, a rise of 1%. Ofsted says this ends the downward trend of recent years, although the total is still 3% lower than in 2022. The number of approved mainstream foster carers was 56,145, against 56,345 the year before, a fall of less than 1%. That is 9% fewer than the 61,360 recorded in 2022.",
+      "More households were approved, and more joined than left. Services received 8,345 applications during the year, compared with 8,290 the year before. Of the applications completed, 2,080 were approved and 3,195 were withdrawn. In all, 4,585 mainstream households were newly approved, 3,210 of them new to fostering, and Ofsted says approvals rose by 5%. Over the same period, 4,440 households, or 12% of those approved at some point in the year, stopped fostering. Taking joiners and leavers together, the net change was a gain of 145 households, after a loss of 255 the year before.",
+      "The picture differs between councils and independent fostering agencies. Council mainstream households fell from 18,415 to 18,140, which Ofsted describes as the smallest net decrease in recent years. Independent agency households rose from 15,020 to 15,305. Kinship arrangements, where family members or friends are approved to care for a child, also grew: there were 9,230 kinship households at the year end, compared with 8,755 a year earlier, making up 22% of all active fostering households.",
+      "There were 70,120 approved mainstream places, up slightly from 69,825. Ofsted says around 60% of places were filled and 17% were vacant at the year end, with about one in five unavailable for other reasons. The carer workforce is also getting older: about one third of approved mainstream carers are 60 or over, and carers in that age group made up the largest share of those who stopped fostering.",
+      "For anyone thinking about fostering, the figures suggest services are approving more new households, but the need remains, with many experienced carers nearing retirement and fewer carers than in 2022. Applications are open with both council fostering services and independent agencies, and our directory lists the services covering your area. Ofsted's full release, including regional tables and a methodology note, is available on GOV.UK."
+    ],
+    "sources": [
+      {
+        "title": "Main findings: fostering in England 1 April 2025 to 31 March 2026",
+        "url": "https://www.gov.uk/government/statistics/fostering-in-england-1-april-2025-to-31-march-2026/main-findings-fostering-in-england-1-april-2025-to-31-march-2026",
+        "publisher": "Ofsted",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Fostering in England 1 April 2025 to 31 March 2026: statistics announcement",
+        "url": "https://www.gov.uk/government/statistics/announcements/fostering-in-england-1-april-2025-to-31-march-2026",
+        "publisher": "Ofsted",
+        "date": "2026-09-22"
+      }
+    ]
   }
 ]
