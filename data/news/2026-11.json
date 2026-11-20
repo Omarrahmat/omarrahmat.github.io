@@ -501,5 +501,52 @@
         "date": "2026-09-22"
       }
     ]
+  },
+  {
+    "slug": "fostering-excellence-awards-2026-winners-birmingham-november",
+    "title": "Fostering Excellence Awards 2026: carers and council teams from across the UK recognised",
+    "standfirst": "The Fostering Network's Fostering Excellence Awards returned on 12 November 2026 in Birmingham, with Welsh carers taking eight of the 17 awards and council teams in Shetland and Bridgend among those honoured.",
+    "publishedOn": "2026-11-20",
+    "eventDate": "2026-11-12",
+    "topics": [
+      "campaigns",
+      "councils",
+      "wales",
+      "scotland"
+    ],
+    "body": [
+      "The Fostering Network held its Fostering Excellence Awards 2026 on Thursday 12 November at Birmingham Repertory Theatre. The awards recognise foster and kinship carers, fostering services, the sons and daughters of foster carers, young people in care, community supporters and employers who make fostering easier for their staff. The evening was hosted by the comedian Kiri Pritchard-McLean, who is herself a foster carer, and the children's author Jacqueline Wilson was among those presenting awards.",
+      "Seventeen awards were given on the night, and eight went to carers and teams working with Foster Wales, the national network of the 22 Welsh council fostering services, according to reports in Nation Cymru and Welsh Country. Welsh winners included a Newport carer recognised for supporting children through transitions, a Monmouthshire carer named in the new carer achievement category, and the children of Foster Wales carers in the category for sons and daughters. Bridgend's Kinship and Permanence Team was also among the Foster Wales winners.",
+      "In Wrexham, a couple who have fostered for 25 years with the council received the Lifelong Connections Award, which recognises carers who help children keep the relationships that matter to them. The council's lead member for children's and family services said the award reflected a lasting difference to the children they have cared for. Alastair Cope, head of Foster Wales, said he was pleased to see so many Welsh carers recognised.",
+      "In Scotland, the Shetland Times reports that Shetland Islands Council's family placement team won a team excellence award, from 650 nominations made across the UK. The team recruits and trains carers and supports them through supervision, out-of-hours help and local carer groups, and every member is trained in theraplay and life story work, the paper says.",
+      "For anyone thinking about fostering, the awards are a reminder that much of the support carers rely on comes from the team around them: supervising social workers, training, peer groups and help at short notice. When you talk to a service, it is worth asking what that support looks like in practice, how often you would see your social worker, and whether there is a local carers' group you could join.",
+      "The Fostering Network lists all of this year's winners by category on its awards pages. The awards are sponsored by The Mortgage Brain, Xeinadin, CaringLife and the John Lewis Partnership."
+    ],
+    "sources": [
+      {
+        "title": "Fostering Excellence Awards 2026",
+        "url": "https://www.thefosteringnetwork.org.uk/get-involved/fostering-excellence-awards/",
+        "publisher": "The Fostering Network",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Two foster carers at different life stages win a prestigious Fostering Excellence Award",
+        "url": "https://nation.cymru/news/two-foster-carers-at-different-life-stages-win-a-prestigious-fostering-excellence-award/",
+        "publisher": "Nation Cymru",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Wrexham foster carers recognised with national award",
+        "url": "https://www.welshcountry.co.uk/wrexham-foster-carers-recognised-with-national-award/",
+        "publisher": "Welsh Country",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Shetland Islands Council family placement team wins national fostering excellence award",
+        "url": "https://www.shetlandtimes.co.uk/news/fostering-heroes-scoop-top-national-award-for-exceptional-450551/",
+        "publisher": "The Shetland Times",
+        "date": "2026-11-19"
+      }
+    ]
   }
 ]
