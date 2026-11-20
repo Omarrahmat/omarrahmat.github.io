@@ -1,0 +1,68 @@
+[
+  {
+    "id": "compass-fostering-north",
+    "areasServed": [
+      "Sunderland"
+    ],
+    "sources": [
+      {
+        "url": "https://www.compassfostering.com/locations/fostering-sunderland/",
+        "retrievedOn": "2026-11-20",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Compass Fostering's own 'Foster in Sunderland' page (Compass Fostering is a trading name of Compass Fostering North Ltd) says there is an urgent need for more foster carers in Sunderland and describes itself as one of the independent fostering agencies in Sunderland."
+  },
+  {
+    "id": "uk-fostering-north-east",
+    "areasServed": [
+      "Sunderland"
+    ],
+    "sources": [
+      {
+        "url": "https://ukfostering.org.uk/fostering-in-sunderland/",
+        "retrievedOn": "2026-11-20",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "UK Fostering's own 'Fostering in Sunderland' page invites people who live in Sunderland to become foster carers with it; its North East office is in Sunderland (SR5)."
+  },
+  {
+    "id": "fostering-hearts",
+    "areasServed": [
+      "Reading",
+      "Slough"
+    ],
+    "sources": [
+      {
+        "url": "https://fosteringhearts.co.uk/areas-we-cover/berkshire/",
+        "retrievedOn": "2026-11-20",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Fostering Hearts' own Berkshire 'areas we cover' page says its Berkshire recruitment area is the part of Berkshire north of the M4, including Reading, Maidenhead and Slough. Berkshire as a whole is deliberately not added, as the page says it does not cover all of it."
+  },
+  {
+    "id": "south-coast-fostering-london",
+    "areasServed": [
+      "Reading",
+      "Slough"
+    ],
+    "sources": [
+      {
+        "url": "https://southcoastfostering.co.uk/areas-we-cover/berkshire/",
+        "retrievedOn": "2026-11-20",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "South Coast Fostering's own Berkshire 'areas we cover' page welcomes prospective foster carers in Reading, Slough, Bracknell, Windsor, Maidenhead and surrounding communities, and lists Reading and Slough among its covered towns."
+  }
+]
