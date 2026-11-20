@@ -1,17 +1,49 @@
 {
   "slug": "hounslow",
-  "updatedOn": "2026-11-13",
+  "updatedOn": "2026-11-20",
   "paragraphs": [
-    "The services listed above take enquiries from people in Hounslow, including the council's own service, Foster Hounslow, and independent agencies. In November 2025 the council launched a recruitment campaign called \"Grow in new ways\", aimed at professionals, couples and single people over 30 who may never have thought about fostering, because the number of foster carers across the UK is falling.",
-    "The council's own criteria are clear. You need to be over 21, in good health, and live or work within reasonable reach of the borough, able to manage school runs, family time and health appointments. A spare room is needed if you want to foster children over two. You can rent, own or live in council housing (a private landlord has to agree in writing), and you can be single, married, LGBT+ or disabled. No qualifications are needed, since the council provides the training. Most people can keep working, but someone has to be at home full-time to foster a baby under two; respite care suits less flexible jobs.",
-    "Hounslow also looks after unaccompanied children seeking asylum, many of them from Afghanistan and Albania, and asks for carers willing to learn about a child's culture and support them through specialist training.",
-    "The council describes nine stages from first contact to approval, including Skills to Foster training, checks and six references, six to eight home visits from a social worker, and a fostering panel; it says the whole process usually takes four to six months. After approval you have a supervising social worker, support around the clock and continuing training, and a start-up grant is available for essential furniture. Talk to the council and two or three of the services above before choosing, and see the Ealing and London pages if you live near the borough's edge."
+    "Hounslow says it has more than 300 children and young people in care who cannot live with their own family, and that it wants children to stay living in the borough when they cannot stay with relatives. Its own service, Foster Hounslow, is part of Foster with West London, the regional service for eight west London councils, whose staff handle everything from a first enquiry to assessment. The independent agencies shown above also take enquiries from Hounslow, and councils turn to agencies when their own carers cannot offer a home.",
+    "The council particularly welcomes people interested in fostering teenagers and brothers and sisters together. It also gives a safe home to unaccompanied children seeking asylum, the largest numbers from Afghanistan and Albania, and asks carers for those children to take specialist training and learn about the child's culture. In November 2025 it launched a campaign, \"Grow in new ways\", aimed at professionals, couples and single people over 30 who may never have thought about fostering, because the number of foster carers across the UK is falling. In May 2026 it marked Foster Care Fortnight by celebrating its longest-serving active carers, who began fostering for Hounslow in the 1980s.",
+    "You need to be over 21, in good health, and live or work within reasonable reach of the borough so you can manage school runs, family time and health appointments. A spare room is needed for children over two. You can rent, own or live in council housing (a private landlord is asked to agree in writing), and you can be single, married or living with a partner, LGBT+ or disabled. No qualifications are needed, as the council trains you. Most people keep working, though someone must be at home full-time for a baby under two, and respite care suits less flexible hours.",
+    "The council describes nine stages to approval, including a telephone questionnaire, Skills to Foster training, checks and six personal references, six to eight assessment visits and a fostering panel, usually over four to six months, with a start-up grant towards essential furniture during the assessment. Approved carers get a supervising social worker, support around the clock, ongoing training, Council Tax refunded while a child is in their care, Fostering Network membership and a Fusion leisure pass.",
+    "Before you choose, compare what the council offers with two or three of the agencies above. If you live near the borough's edge, the Ealing, Brent and Harrow pages, or London as a whole, may help too."
   ],
   "sources": [
-    { "title": "Hounslow Council launches new fostering campaign to inspire a new generation of carers (Hounslow Council, 3 November 2025)", "url": "https://www.hounslow.gov.uk/news/article/10125/hounslow-council-launches-new-fostering-campaign-to-inspire-a-new-generation-of-carers" },
-    { "title": "Who can foster (Hounslow Council)", "url": "https://www.hounslow.gov.uk/foster-hounslow/can-foster" },
-    { "title": "The fostering journey (Hounslow Council)", "url": "https://www.hounslow.gov.uk/foster-hounslow/fostering-journey" },
-    { "title": "Common myths about fostering (Hounslow Council)", "url": "https://www.hounslow.gov.uk/foster-hounslow/common-myths-fostering" },
-    { "title": "Fostering unaccompanied asylum-seeking children (Hounslow Council)", "url": "https://www.hounslow.gov.uk/foster-hounslow/types-fostering/2" }
+    {
+      "title": "Why foster with us (Hounslow Council)",
+      "url": "https://www.hounslow.gov.uk/foster-hounslow/foster-us"
+    },
+    {
+      "title": "Contact the fostering team (Hounslow Council)",
+      "url": "https://www.hounslow.gov.uk/foster-hounslow/contact-fostering-team"
+    },
+    {
+      "title": "Foster with Hounslow (Hounslow Council)",
+      "url": "https://www.hounslow.gov.uk/info/20074/adoption_and_fostering/1277/about_fostering/2"
+    },
+    {
+      "title": "Fostering unaccompanied asylum-seeking children (Hounslow Council)",
+      "url": "https://www.hounslow.gov.uk/foster-hounslow/types-fostering/2"
+    },
+    {
+      "title": "Who can foster (Hounslow Council)",
+      "url": "https://www.hounslow.gov.uk/foster-hounslow/can-foster"
+    },
+    {
+      "title": "The fostering journey (Hounslow Council)",
+      "url": "https://www.hounslow.gov.uk/foster-hounslow/fostering-journey"
+    },
+    {
+      "title": "Common myths about fostering (Hounslow Council)",
+      "url": "https://www.hounslow.gov.uk/foster-hounslow/common-myths-fostering"
+    },
+    {
+      "title": "Hounslow Council launches new fostering campaign to inspire a new generation of carers (Hounslow Council, 3 November 2025)",
+      "url": "https://www.hounslow.gov.uk/news/article/10125/hounslow-council-launches-new-fostering-campaign-to-inspire-a-new-generation-of-carers"
+    },
+    {
+      "title": "Hounslow celebrates local foster carers (Hounslow Council, 11 May 2026)",
+      "url": "https://www.hounslow.gov.uk/news/article/10217/hounslow-celebrates-local-foster-carers"
+    }
   ]
 }

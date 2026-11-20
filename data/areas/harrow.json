@@ -1,32 +1,21 @@
 {
   "slug": "harrow",
-  "updatedOn": "2026-11-12",
+  "updatedOn": "2026-11-20",
   "paragraphs": [
-    "Harrow Council fosters for children in the borough's care, and the services listed above also cover Harrow. The council's enquiries, recruitment and assessments are handled by Foster with West London, which brings eight west London councils together as one regional fostering service.",
-    "The council describes the range of fostering it needs: short-term care while plans are made for a child, long-term and permanent homes, parent and child placements, respite care (often for children with a disability or additional needs) and specialist care for children with complex needs, which is paid at a higher rate and suits carers with significant experience. Many of the children have lived through neglect, domestic abuse or parental substance misuse.",
-    "To foster for the council you need to be at least 21, with a spare bedroom for any child over two and some experience of children (you do not need to be a parent). You can rent or own your home, be single, married or in a civil partnership, and keep working if your hours are flexible. A health condition does not rule you out on its own. Council carers get a supervising social worker, 24-hour support, training, monthly support groups, free Fostering Network membership, a Blue Light Card and the backing of the Harrow Foster Carers Association. Carers approved elsewhere can transfer to Harrow under The Fostering Network's transfer protocol.",
-    "Talk to the council and to two or three of the services above before you choose, and see the Brent, Ealing and London pages if you live near the borough's edge."
+    "Harrow Council looks after children in the borough's care through its own fostering service, and the independent agencies shown above also take carers from Harrow. The council has handed its first enquiries, recruitment and assessments to Foster with West London, a single point of contact shared by eight councils: Brent, Ealing, Hammersmith and Fulham, Harrow, Hillingdon, Hounslow, Kensington and Chelsea, and Westminster. Carers who move across from another service are assessed by Harrow itself.",
+    "The council sets out the range of care it asks for: short-term homes that can last days, weeks or a few years, long-term and permanent homes, parent and child placements, respite (often for families of a child with a disability or additional needs) and specialist care for children with very complicated needs, where carers bring significant experience, do not take other work and are paid at a higher rate. Harrow says some of the children have experienced domestic abuse, substance misuse, abuse or neglect.",
+    "Choosing between the council and an agency is mostly about who stands behind you. A Harrow carer looks after the borough's own children and is supported by its social workers; an agency recruits, trains and supervises its carers itself and offers homes to councils across a wider area. To foster for Harrow you need to be at least 21, have a spare bedroom for any child over two and some experience of children, though not as a parent. Renting is fine, so is being single, married or in a civil partnership, and you can keep working if your hours are flexible. A health condition does not rule you out automatically.",
+    "The route runs from a first call with Foster with West London to a home visit, a three-day Skills to Foster course, then an assessment with DBS, employment and medical checks, which Harrow aims to finish in four to six months, before a fostering panel and a final decision. Once approved, a supervising social worker visits every four to six weeks, and carers have support around the clock, monthly support groups, free Fostering Network membership, a Blue Light Card, the Harrow Foster Carers Association and an annual awards event. Carers approved elsewhere can transfer under The Fostering Network's transfer protocol.",
+    "Speak to the council and to two or three of the agencies above before deciding. If you live near the borough's edge, the Brent, Barnet and Ealing pages, and London as a whole, are worth a look."
   ],
   "sources": [
-    {
-      "title": "Fostering in Harrow (Harrow Council)",
-      "url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1"
-    },
-    {
-      "title": "What is fostering? (Harrow Council)",
-      "url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1/2"
-    },
-    {
-      "title": "Could I be a foster carer? (Harrow Council)",
-      "url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1/3"
-    },
-    {
-      "title": "Support for foster carers (Harrow Council)",
-      "url": "https://www.harrow.gov.uk/childrens-social-care/support-foster-carers"
-    },
-    {
-      "title": "Transfer to Harrow Fostering (Harrow Council)",
-      "url": "https://www.harrow.gov.uk/childrens-social-care/transfer-harrow-fostering"
-    }
+    { "title": "Fostering in Harrow (Harrow Council)", "url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1" },
+    { "title": "What is fostering? (Harrow Council)", "url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1/2" },
+    { "title": "Could I be a foster carer? (Harrow Council)", "url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1/3" },
+    { "title": "Why choose us? (Harrow Council)", "url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1/4" },
+    { "title": "Your fostering journey (Harrow Council)", "url": "https://www.harrow.gov.uk/childrens-social-care/fostering-harrow-1/5" },
+    { "title": "Support for foster carers (Harrow Council)", "url": "https://www.harrow.gov.uk/childrens-social-care/support-foster-carers" },
+    { "title": "Transfer to Harrow Fostering (Harrow Council)", "url": "https://www.harrow.gov.uk/childrens-social-care/transfer-harrow-fostering" },
+    { "title": "Which local authority partners are working together in Foster with West London?", "url": "https://fosterwithwestlondon.lbhill1-prd.gosshosted.com/article/12574/Which-local-authority-partners-are-working-together-in-Foster-with-West-London" }
   ]
 }
