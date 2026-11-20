@@ -358,3 +358,18 @@ recheck north-lincolnshire-council-fostering, 2026-11-19, site blocked (northlin
 recheck northamptonshire-childrens-trust, 2026-11-19, none found (only tender notices came up in search; own contact page not returned)
 recheck shropshire-fostering, 2026-11-19, none found (only charity register and news pages came up; own fostering site not returned)
 recheck wigan-council-fostering, 2026-11-19, none published (wigan.gov.uk enquire page and fostering booklet PDF: phone and form only)
+recheck foster-cares-ltd, 2026-11-20, none usable (fostercares.co.uk contact page: "Email us here" link points to cares.co.uk, a different domain; not added)
+recheck nfa-wales, 2026-11-20, none published (Cardiff page: form only; Wales office page and statement of purpose could not be opened)
+recheck foster-care-associates-scotland, 2026-11-20, none published (fcascotland.co.uk Eastern Scotland page: phone and form only; contact page errored)
+recheck bcp-council-fostering, 2026-11-20, none published (bcpfostering.co.uk and bcpcouncil.gov.uk fostering pages: phone and form only)
+recheck cheshire-east-council-fostering, 2026-11-20, found fostering@cheshireeast.gov.uk (cheshireeast.gov.uk/fostering recruitment champions page); queued seq 311
+recheck derbyshire-county-council-fostering, 2026-11-20, found fostering@derbyshire.gov.uk (schoolsnet.derbyshire.gov.uk foster caring in Derbyshire page); queued seq 312
+recheck devon-county-council-fostering, 2026-11-20, none read (devon.gov.uk gives only general customer@ address; fosteringindevon.org.uk contact page could not be opened)
+recheck bradford-children-and-families-trust-fostering, 2026-11-20, none found (own site did not come up in two searches; only Ofsted, tender and job pages)
+recheck foster-with-northumberland, 2026-11-20, none published (northumberland.gov.uk enquire and about pages: forms only; campaign page gives regional fosterwithnortheast.org.uk address, not added)
+recheck kensington-and-chelsea-council-fostering, 2026-11-20, none fostering-specific (only general socialservices@ referral address on LSCP page; adoption page addresses obfuscated; not added)
+recheck south-ayrshire-council-fostering, 2026-11-20, none readable (hscp.south-ayrshire.gov.uk fostering and FAQ pages: address hidden by email protection again)
+recheck foster-for-plymouth, 2026-11-20, none published (plymouth.gov.uk pages: phone only; fosterforplymouth.co.uk could not be opened)
+recheck fostering-in-dudley, 2026-11-20, none fostering-specific (only general dudleycouncilplus@ in 2021 news; dudley.gov.uk/fostering no email; fosteringindudley.org.uk could not be opened)
+recheck fostering-in-somerset, 2026-11-20, none published (somerset.gov.uk fostering pages: phone only; fosteringinsomerset.org.uk could not be opened)
+recheck south-tyneside-council-fostering, 2026-11-20, none published (southtyneside.gov.uk overview and find-out-more pages: phone and form only; directory link article 1412 returns an error)
