@@ -1,0 +1,10 @@
+[
+  {
+    "id": "city-of-edinburgh-council-fostering",
+    "areasServed": ["Edinburgh"],
+    "sources": [
+      { "url": "https://edinburgh.gov.uk/support-families/kinship-fostering-adoption/2", "retrievedOn": "2026-10-27", "supports": ["areasServed"] }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (City of Edinburgh), which is the same place, so the council counts towards the Edinburgh page. No new claim; the council's own page was last opened on the date shown."
+  }
+]
