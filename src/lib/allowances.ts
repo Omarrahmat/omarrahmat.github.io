@@ -5,6 +5,8 @@ export type AllowanceRow = { label: string; weekly: number; note: string | null 
 export type CouncilAllowance = {
   slug: string; council: string; nation: string; year: string; retrievedOn: string; sourceUrl: string; sourceTitle: string;
   allowances: AllowanceRow[]; fees: AllowanceRow[]; feesNote: string | null; extras: string[]; summary: string; areaNames: string[];
+  /** Set when the council's fostering service sent us the figures itself (by email), not when we read them on its website. */
+  suppliedBy?: string | null; suppliedOn?: string | null;
 };
 
 export const councilAllowances = raw as CouncilAllowance[];

@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ council: 
   const hi = Math.max(...c.allowances.map((r) => r.weekly));
   return {
     title: `${c.council} foster carer allowance ${c.year}`,
-    description: `What ${c.council} pays its foster carers in ${c.year}: weekly allowances of ${gbp(lo)} to ${gbp(hi)} per child${c.fees.length ? ', plus fees' : ''}, from the council's own published rates, with the source and the date checked.`,
+    description: `What ${c.council} pays its foster carers in ${c.year}: weekly allowances of ${gbp(lo)} to ${gbp(hi)} per child${c.fees.length ? ', plus fees' : ''}, ${c.suppliedBy ? 'supplied by its fostering service' : "from the council's own published rates"}, with the source and the date checked.`,
     alternates: { canonical: `/fostering-allowance/${c.slug}/` },
   };
 }
@@ -57,8 +57,9 @@ export default async function CouncilAllowancePage({ params }: { params: Promise
         <p className="eyebrow" style={{ color: 'var(--forest)' }}><Link href="/fostering-allowance/">Allowances by council</Link></p>
         <h1 className="display-l" style={{ margin: '12px 0 16px' }}>{c.council}: foster carer allowances {c.year}.</h1>
         <p className="lead" style={{ marginBottom: 12 }}>
-          {c.council} publishes the weekly allowances it pays its own foster carers: {gbp(lo)} to {gbp(hi)} per child for {c.year}{c.fees.length ? ', plus a fee for the carer' : ''}.
-          These are the council&rsquo;s figures, taken from its website on {formatDate(c.retrievedOn)}.
+          {c.suppliedBy
+            ? <>{c.council} pays its own foster carers weekly allowances of {gbp(lo)} to {gbp(hi)} per child for {c.year}{c.fees.length ? ', plus a fee for the carer' : ''}. These are the council&rsquo;s figures, supplied to us by {c.suppliedBy} on {formatDate(c.suppliedOn ?? c.retrievedOn)}.</>
+            : <>{c.council} publishes the weekly allowances it pays its own foster carers: {gbp(lo)} to {gbp(hi)} per child for {c.year}{c.fees.length ? ', plus a fee for the carer' : ''}. These are the council&rsquo;s figures, taken from its website on {formatDate(c.retrievedOn)}.</>}
         </p>
         <p className="muted" style={{ marginBottom: 28, maxWidth: 820 }}>{c.summary}</p>
 
@@ -92,7 +93,7 @@ export default async function CouncilAllowancePage({ params }: { params: Promise
 
         <section aria-labelledby="src-h" style={{ marginTop: 8 }}>
           <h2 id="src-h" style={{ fontSize: 22, marginBottom: 6 }}>Source</h2>
-          <p><a href={c.sourceUrl} rel="noopener" target="_blank">{c.sourceTitle}</a>, checked {formatDate(c.retrievedOn)}. Councils usually change their rates each April; if this page is out of date, <Link href="/contact/">tell us</Link> and we will correct it.</p>
+          <p>{c.suppliedBy ? <>Supplied by {c.suppliedBy} by email on {formatDate(c.suppliedOn ?? c.retrievedOn)}. Its fostering pages: <a href={c.sourceUrl} rel="noopener" target="_blank">{c.sourceTitle}</a>.</> : <><a href={c.sourceUrl} rel="noopener" target="_blank">{c.sourceTitle}</a>, checked {formatDate(c.retrievedOn)}.</>} Councils usually change their rates each April; if this page is out of date, <Link href="/contact/">tell us</Link> and we will correct it.</p>
         </section>
 
         {others.length > 0 && (

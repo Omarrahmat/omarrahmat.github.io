@@ -37,6 +37,9 @@ for (const file of files) {
   const fees = rows(g.fees, 12);
   if (typeof g.summary !== 'string' || g.summary.trim().length < 60) errors.push('summary (60+ characters, your own words)');
   if (/\b(click here|lorem)\b/i.test(g.summary || '')) errors.push('summary wording');
+  // Figures a council's fostering service sent us itself: say who and when. The source link is then its fostering pages.
+  const suppliedBy = typeof g.suppliedBy === 'string' && g.suppliedBy.trim() ? g.suppliedBy.trim() : null;
+  if (suppliedBy && (suppliedBy.length > 120 || !DATE.test(String(g.suppliedOn)))) errors.push('suppliedBy needs suppliedOn (a date) and at most 120 characters');
   if (seen.has(g.slug)) errors.push('duplicate slug');
   if (errors.length) { rejected.push({ file, slug: g.slug ?? null, errors }); continue; }
   seen.add(g.slug);
@@ -54,6 +57,7 @@ for (const file of files) {
     extras: (Array.isArray(g.extras) ? g.extras : []).filter((x) => typeof x === 'string' && x.trim()).slice(0, 8).map((x) => x.trim()),
     summary: g.summary.trim(),
     areaNames: (Array.isArray(g.areaNames) ? g.areaNames : []).filter((x) => typeof x === 'string' && x.trim()).map((x) => x.trim()),
+    ...(suppliedBy ? { suppliedBy, suppliedOn: g.suppliedOn } : {}),
   });
 }
 accepted.sort((a, b) => a.council.localeCompare(b.council));

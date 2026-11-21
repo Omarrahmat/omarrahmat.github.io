@@ -32,3 +32,13 @@ and writes src/data/council-allowances.json; rejected files are listed in data/a
 - `fees` is any weekly fee, reward or skills payment paid to the carer on top, by level, if the council publishes one. Leave it out if not.
 - `areaNames` are the names used in the directory (a provider's areasServed or town) so the page can link to "Fostering agencies in <area>".
 - File name: `<slug>.json`.
+
+## Figures a council's fostering service sends us itself
+
+When a council's own fostering service emails us its rates (in reply to our pay-rates check, or to an offer), publish
+them the same working day. Write the record in the usual way with two extra fields: `"suppliedBy": "<the service's
+name>"` and `"suppliedOn": "<the date of its email>"`. `sourceUrl` is then the service's own fostering page and
+`sourceTitle` that page's title. The pay page then says the figures were supplied to us by that service on that date,
+instead of "taken from its website". Copy the figures exactly as sent, and ask the service before publishing if anything
+is unclear. Put the email's thread id in the commit message. Never use these two fields for figures from anyone but the
+council's own fostering service.
