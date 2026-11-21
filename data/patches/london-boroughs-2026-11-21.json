@@ -1,57 +1,5 @@
 [
   {
-    "id": "amber-fostering",
-    "areasServed": [
-      "Barking and Dagenham",
-      "Barnet",
-      "Bexley",
-      "Brent",
-      "Bromley",
-      "Camden",
-      "Croydon",
-      "Ealing",
-      "Enfield",
-      "Greenwich",
-      "Hackney",
-      "Hammersmith and Fulham",
-      "Haringey",
-      "Harrow",
-      "Havering",
-      "Hillingdon",
-      "Hounslow",
-      "Islington",
-      "Kensington and Chelsea",
-      "Kingston upon Thames",
-      "Lambeth",
-      "Lewisham",
-      "Merton",
-      "Newham",
-      "Redbridge",
-      "Richmond upon Thames",
-      "Southwark",
-      "Sutton",
-      "Tower Hamlets",
-      "Waltham Forest",
-      "Wandsworth",
-      "Westminster",
-      "Greater London",
-      "South London",
-      "East London",
-      "Luton",
-      "Bedfordshire"
-    ],
-    "sources": [
-      {
-        "url": "https://files.ofsted.gov.uk/v1/file/50291937",
-        "retrievedOn": "2026-11-21",
-        "supports": [
-          "areasServed"
-        ]
-      }
-    ],
-    "notes": "Ofsted's inspection report (20 to 24 October 2025) says the agency, based in north-east London, provides foster care placements in London, Luton and Bedfordshire, Birmingham and Lincolnshire. On that basis it is listed under each London borough and under Luton and Bedfordshire separately, so it counts towards those pages. Confirmed for its Fostering Today pilot on 21 Nov 2026. To change its areas, edit this entry."
-  },
-  {
     "id": "barking-and-dagenham-fostering-service",
     "areasServed": [
       "Barking and Dagenham"
