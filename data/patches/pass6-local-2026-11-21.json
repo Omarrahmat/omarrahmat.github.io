@@ -1,0 +1,45 @@
+[
+  {
+    "id": "kingston-upon-thames-council-fostering",
+    "areasServed": ["Kingston upon Thames"],
+    "sources": [
+      { "url": "https://www.achievingforchildren.org.uk/pages/fostering/about-fostering", "retrievedOn": "2026-11-21", "supports": ["areasServed"] },
+      { "url": "https://www.kingston.gov.uk/news/2024/shining-light-positive-impact-fostering-can-have-children", "retrievedOn": "2026-11-21", "supports": ["areasServed"] }
+    ],
+    "notes": "Plain place name added so the council counts towards the Kingston upon Thames page. Achieving for Children's own 'about fostering' page says its fostering service provides foster care for Kingston, Richmond and Windsor and Maidenhead councils; Kingston Council's news page of 11 March 2024 calls Achieving for Children the council's children's services provider."
+  },
+  {
+    "id": "richmond-upon-thames-council-fostering",
+    "areasServed": ["Richmond upon Thames"],
+    "sources": [
+      { "url": "https://www.richmond.gov.uk/services/children_and_family_care/fostering", "retrievedOn": "2026-11-21", "supports": ["areasServed"] },
+      { "url": "https://www.achievingforchildren.org.uk/pages/fostering/about-fostering", "retrievedOn": "2026-11-21", "supports": ["areasServed"] }
+    ],
+    "notes": "Plain place name added so the council counts towards the Richmond upon Thames page. The London Borough of Richmond upon Thames's own fostering page says Achieving for Children runs fostering for the borough; Achieving for Children's 'about fostering' page names Richmond among the councils it provides foster care for."
+  },
+  {
+    "id": "capstone-foster-care-uk-london",
+    "areasServed": ["Kingston upon Thames"],
+    "sources": [
+      { "url": "https://www.capstonefostercare.co.uk/location/fostering-kingston-upon-thames", "retrievedOn": "2026-11-21", "supports": ["areasServed"] }
+    ],
+    "notes": "Capstone Foster Care's own 'Fostering Kingston Upon Thames' page invites people to join its foster carers in Kingston upon Thames and names its London office as the nearest."
+  },
+  {
+    "id": "greater-london-fostering",
+    "areasServed": ["Kingston upon Thames", "Richmond upon Thames"],
+    "sources": [
+      { "url": "https://greaterlondonfostering.org/areaswecover/kingston-upon-thames/", "retrievedOn": "2026-11-21", "supports": ["areasServed"] },
+      { "url": "https://greaterlondonfostering.org/areaswecover/richmond/", "retrievedOn": "2026-11-21", "supports": ["areasServed"] }
+    ],
+    "notes": "Greater London Fostering lists Kingston upon Thames and Richmond among its 'areas we cover'; each borough page says the agency supports carers across the borough, and the Richmond page is headed 'Richmond Needs Foster Carers'."
+  },
+  {
+    "id": "uk-fostering",
+    "areasServed": ["Richmond upon Thames"],
+    "sources": [
+      { "url": "https://ukfostering.org.uk/fostering-in-richmond-upon-thames/", "retrievedOn": "2026-11-21", "supports": ["areasServed"] }
+    ],
+    "notes": "UK Fostering's own 'Fostering in Richmond upon Thames' page says it is looking for foster carers in Richmond upon Thames, London. Its Kingston upon Thames page was opened too but speaks of the council's need rather than its own recruitment, so Kingston is not added. Sunbeam's 'Kingston' and 'Richmond' pages do not say which Kingston or Richmond, so neither is added."
+  }
+]
