@@ -115,10 +115,13 @@ export const directoryEntries: DirectoryEntry[] = providers.map(toDirectoryEntry
  * visitor's search touches one of its paid areas (a town, council area or nation it has paid for), so nobody
  * sees a paid listing outside the area it serves. At most three pinned slots per result set; when more
  * listings qualify, the slots rotate daily so each gets a fair share. Pinned cards are labelled "Featured".
+ *
+ * Paying partners always come before a pilot partner (a service placed without paying, data/owner-handled.json):
+ * "pinned first" is what a partner pays for, so a pilot takes only the slots paying partners leave free.
  */
 export const PINNED_SLOTS = 3;
 
-export function pinnedFor<T extends { id: string; tier: Tier; placementAreas: string[]; nation: Nation }>(
+export function pinnedFor<T extends { id: string; tier: Tier; placementAreas: string[]; nation: Nation; enquiriesTo?: 'fostering-today' }>(
   entries: T[],
   query: string,
   nation: string,
@@ -134,7 +137,11 @@ export function pinnedFor<T extends { id: string; tier: Tier; placementAreas: st
     // Nation filter only: premium listings paid for the whole nation qualify.
     return e.tier === 'premium' && areas.some((a) => a === e.nation.toLowerCase());
   });
-  if (eligible.length <= PINNED_SLOTS) return eligible;
-  const start = day % eligible.length;
-  return [...eligible.slice(start), ...eligible.slice(0, start)].slice(0, PINNED_SLOTS);
+  const take = (list: T[], n: number) => {
+    if (list.length <= n) return list;
+    const start = day % list.length;
+    return [...list.slice(start), ...list.slice(0, start)].slice(0, n);
+  };
+  const paying = take(eligible.filter((e) => !e.enquiriesTo), PINNED_SLOTS);
+  return [...paying, ...take(eligible.filter((e) => e.enquiriesTo), PINNED_SLOTS - paying.length)];
 }

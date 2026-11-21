@@ -74,14 +74,20 @@ export function validateRecord(raw) {
 
   const sources = Array.isArray(r.sources) ? r.sources : [];
   const cleanSources = [];
+  const seenSource = new Map();
   for (const s of sources) {
     if (s && isHttps(s.url) && DATE_RE.test(String(s.retrievedOn || ''))) {
-      cleanSources.push({
-        url: s.url,
-        retrievedOn: s.retrievedOn,
-        supports: Array.isArray(s.supports) ? s.supports.filter((x) => typeof x === 'string') : [],
-        kind: sourceKind(s.url, r.website),
-      });
+      const supports = Array.isArray(s.supports) ? s.supports.filter((x) => typeof x === 'string') : [];
+      // A page cited twice (a later patch that opened it again) is one source: keep the latest check and all it supports.
+      const seen = seenSource.get(s.url);
+      if (seen) {
+        seen.supports = [...new Set([...seen.supports, ...supports])];
+        if (s.retrievedOn > seen.retrievedOn) seen.retrievedOn = s.retrievedOn;
+        continue;
+      }
+      const entry = { url: s.url, retrievedOn: s.retrievedOn, supports, kind: sourceKind(s.url, r.website) };
+      seenSource.set(s.url, entry);
+      cleanSources.push(entry);
     } else {
       warnings.push('dropped an invalid source entry');
     }

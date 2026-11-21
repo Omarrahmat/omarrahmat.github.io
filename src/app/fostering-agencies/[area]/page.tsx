@@ -37,7 +37,16 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
   const allowances = allowancesForArea(a.name);
   const logos = builtLogos(); // a logo added since the build is put in when the page loads (scripts/static/client-entry.tsx)
   const guide = (areaGuides as { slug: string; updatedOn: string; paragraphs: string[]; sources: { title: string; url: string }[] }[]).find((g) => g.slug === a.slug);
-  const near = areas.filter((x) => x.slug !== a.slug && entries.some((p) => p.areasServed.some((n) => slugify(n) === x.slug))).sort((x, y) => y.count - x.count).slice(0, 8);
+  // Nearby: the places that share the most services with this one, and on a tie the place whose own page is made
+  // up most of those same services. (Ranking by size alone put Essex beside Manchester, and one service with a
+  // long list of areas put every one of them beside each other.)
+  const shared = new Map<string, number>();
+  for (const p of entries) for (const k of new Set(p.areasServed.map(slugify))) if (k !== a.slug) shared.set(k, (shared.get(k) ?? 0) + 1);
+  const sharedWith = (x: { slug: string }) => shared.get(x.slug) ?? 0;
+  const near = areas
+    .filter((x) => shared.has(x.slug))
+    .sort((x, y) => sharedWith(y) - sharedWith(x) || sharedWith(y) / y.count - sharedWith(x) / x.count || y.count - x.count || x.name.localeCompare(y.name))
+    .slice(0, 8);
   return (
     <div className="section-tight">
       <div className="container">

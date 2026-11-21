@@ -1,0 +1,278 @@
+[
+  {
+    "id": "amber-fostering",
+    "areasServed": [
+      "Barking and Dagenham",
+      "Barnet",
+      "Bexley",
+      "Brent",
+      "Bromley",
+      "Camden",
+      "Croydon",
+      "Ealing",
+      "Enfield",
+      "Greenwich",
+      "Hackney",
+      "Hammersmith and Fulham",
+      "Haringey",
+      "Harrow",
+      "Havering",
+      "Hillingdon",
+      "Hounslow",
+      "Islington",
+      "Kensington and Chelsea",
+      "Kingston upon Thames",
+      "Lambeth",
+      "Lewisham",
+      "Merton",
+      "Newham",
+      "Redbridge",
+      "Richmond upon Thames",
+      "Southwark",
+      "Sutton",
+      "Tower Hamlets",
+      "Waltham Forest",
+      "Wandsworth",
+      "Westminster",
+      "Greater London",
+      "South London",
+      "East London",
+      "Luton",
+      "Bedfordshire"
+    ],
+    "sources": [
+      {
+        "url": "https://files.ofsted.gov.uk/v1/file/50291937",
+        "retrievedOn": "2026-11-21",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Ofsted's inspection report (20 to 24 October 2025) says the agency, based in north-east London, provides foster care placements in London, Luton and Bedfordshire, Birmingham and Lincolnshire. On that basis it is listed under each London borough and under Luton and Bedfordshire separately, so it counts towards those pages. Confirmed for its Fostering Today pilot on 21 Nov 2026. To change its areas, edit this entry."
+  },
+  {
+    "id": "barking-and-dagenham-fostering-service",
+    "areasServed": [
+      "Barking and Dagenham"
+    ],
+    "sources": [
+      {
+        "url": "https://www.lbbd.gov.uk/fostering",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Barking and Dagenham), which is the same place, so the council counts towards the Barking and Dagenham page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "camden-fostering",
+    "areasServed": [
+      "Camden"
+    ],
+    "sources": [
+      {
+        "url": "https://fostering.camden.gov.uk/become-a-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Camden), which is the same place, so the council counts towards the Camden page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "waltham-forest-council-fostering",
+    "areasServed": [
+      "Waltham Forest"
+    ],
+    "sources": [
+      {
+        "url": "https://www.walthamforest.gov.uk/families-young-people-and-children/fostering-and-adoption/fostering-waltham-forest",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Waltham Forest), which is the same place, so the council counts towards the Waltham Forest page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "hammersmith-and-fulham-council-fostering",
+    "areasServed": [
+      "Hammersmith and Fulham"
+    ],
+    "sources": [
+      {
+        "url": "https://www.lbhf.gov.uk/children-and-young-people/fostering-and-adoption",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Hammersmith and Fulham), which is the same place, so the council counts towards the Hammersmith and Fulham page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "havering-fostering",
+    "areasServed": [
+      "Havering"
+    ],
+    "sources": [
+      {
+        "url": "https://www.havering.gov.uk/fostering-1",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Havering), which is the same place, so the council counts towards the Havering page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "kensington-and-chelsea-council-fostering",
+    "areasServed": [
+      "Kensington and Chelsea"
+    ],
+    "sources": [
+      {
+        "url": "https://www.rbkc.gov.uk/newsroom/could-i-really-be-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (Royal Borough of Kensington and Chelsea), which is the same place, so the council counts towards the Kensington and Chelsea page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "redbridge-council-fostering",
+    "areasServed": [
+      "Redbridge"
+    ],
+    "sources": [
+      {
+        "url": "https://www.redbridge.gov.uk/adult-and-childrens-services/childrens-services/fostering/",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Redbridge), which is the same place, so the council counts towards the Redbridge page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "westminster-council-fostering",
+    "areasServed": [
+      "Westminster"
+    ],
+    "sources": [
+      {
+        "url": "https://www.westminster.gov.uk/news/meet-westminster-foster-carer-who-committed-changing-young-peoples-lives",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (City of Westminster), which is the same place, so the council counts towards the Westminster page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "bexley-fostering",
+    "areasServed": [
+      "Bexley"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bexley.gov.uk/foster-bexley/new-fostering/how-apply-become-foster-carer",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Bexley), which is the same place, so the council counts towards the Bexley page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "bromley-fostering",
+    "areasServed": [
+      "Bromley"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bromley.gov.uk/fostering/becoming-foster-carer-process",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Bromley), which is the same place, so the council counts towards the Bromley page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "croydon-council-fostering-service",
+    "areasServed": [
+      "Croydon"
+    ],
+    "sources": [
+      {
+        "url": "https://www.croydon.gov.uk/sites/default/files/2024-08/fostering-statement-of-purpose-2024-2025.pdf",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Croydon), which is the same place, so the council counts towards the Croydon page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "enfield-fostering",
+    "areasServed": [
+      "Enfield"
+    ],
+    "sources": [
+      {
+        "url": "https://www.enfield.gov.uk/services/children-and-education/fostering-a-child",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Enfield), which is the same place, so the council counts towards the Enfield page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "lewisham-council-fostering",
+    "areasServed": [
+      "Lewisham"
+    ],
+    "sources": [
+      {
+        "url": "https://lewisham.gov.uk/myservices/children-and-young-people-service/looking-after-someone-elses-child/fostering/why-choose-lewisham/why-foster-with-us",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Lewisham), which is the same place, so the council counts towards the Lewisham page. No new claim; the council's own page was last opened on the date shown."
+  },
+  {
+    "id": "sutton-council-fostering",
+    "areasServed": [
+      "Sutton"
+    ],
+    "sources": [
+      {
+        "url": "https://sutton.gov.uk/-/sutton-council-calls-on-residents-to-consider-becoming-foster-carers",
+        "retrievedOn": "2026-10-27",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "Plain place name added alongside the formal council area already in the record (London Borough of Sutton), which is the same place, so the council counts towards the Sutton page. No new claim; the council's own page was last opened on the date shown."
+  }
+]
