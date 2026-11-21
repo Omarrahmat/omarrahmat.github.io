@@ -25,6 +25,7 @@ export default function FindAnAgency() {
         <Suspense fallback={<p>Loading the directory…</p>}>
           <DirectoryClient providers={directoryEntries} logos={builtLogos()} />
         </Suspense>
+        <p style={{ marginTop: 28 }}>Not sure who to ring? <Link href="/ask/?from=search" style={{ fontWeight: 700 }}>Ask a fostering service that covers your area to call you</Link>.</p>
 
         <section style={{ marginTop: 72 }} aria-labelledby="all-h">
           <h2 id="all-h" style={{ fontSize: 32, marginBottom: 8 }}>Every service, by nation</h2>

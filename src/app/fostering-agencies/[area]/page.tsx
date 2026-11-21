@@ -56,11 +56,14 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
           {entries.length} fostering services list {a.name} as an area they cover: {agencies} independent {agencies === 1 ? 'agency' : 'agencies'} and {councils} local authority {councils === 1 ? 'service' : 'services'}.
           Each detail shows where it came from and the date we looked.
         </p>
-        <p className="muted" style={{ marginBottom: 28 }}>
+        <p className="muted" style={{ marginBottom: 16 }}>
           {pinned.some((p) => p.enquiriesTo === 'fostering-today')
             ? 'Listings marked Featured are paid or pilot placements. Placement never changes how details are checked. '
             : 'Listings marked Featured are paid placements. Payment never changes how details are checked. '}
           <Link href="/calculator/" style={{ fontWeight: 700 }}>See what foster carers can earn</Link>.
+        </p>
+        <p style={{ marginBottom: 28 }}>
+          <Link className="btn btn-dark" href={`/ask/?area=${encodeURIComponent(a.name)}&from=area`}>Ask a service in {a.name} to call you</Link>
         </p>
         {pinned.length > 0 && (
           <div className="grid-3" style={{ marginBottom: 24 }}>

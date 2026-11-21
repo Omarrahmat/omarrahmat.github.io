@@ -69,3 +69,43 @@ export function ContactForm() {
     </Suspense>
   );
 }
+
+/**
+ * "Ask for a call": a visitor asks for one fostering service that covers their area to ring them. It works for every
+ * area, whether or not a service has paid for it; Fostering Today passes the enquiry to a single service. The area
+ * comes from the page that sent the visitor here (?area=Croydon) and can be changed.
+ */
+function AskInner() {
+  const params = useSearchParams();
+  const area = (params.get('area') ?? '').slice(0, 80);
+  const from = (params.get('from') ?? '').replace(/[^a-z-]/g, '').slice(0, 40);
+  return (
+    <SimpleForm
+      idPrefix="ask"
+      table="area_enquiries"
+      extra={from ? { source: from } : {}}
+      fields={[
+        { name: 'area', label: 'Your town or borough', required: true, defaultValue: area, placeholder: 'e.g. Croydon', help: 'So we ask a service that covers where you live.' },
+        { name: 'wants', label: 'Who would you like to hear from?', type: 'select', required: true, options: ['Either', 'The council', 'An independent agency'], defaultValue: 'Either' },
+        { name: 'name', label: 'Your name', required: true },
+        { name: 'email', label: 'Email', type: 'email', required: true },
+        { name: 'phone', label: 'Phone', type: 'tel', required: true },
+        { name: 'postcode', label: 'Postcode', required: true },
+        { name: 'best_time', label: 'Best time to call', type: 'select', required: true, options: ['Daytime', 'Evening', 'Weekend', 'Any time'] },
+        { name: 'message', label: 'Anything you want to ask', type: 'textarea' },
+      ]}
+      consentText="I agree that Fostering Today may pass these details to one fostering service that covers my area so that it can contact me about fostering, and may keep a record of this enquiry. My details will not be shared with anyone else. See the privacy notice."
+      submitLabel="Ask for a call"
+      successTitle="Sent."
+      successBody="We will pass your details to one fostering service that covers your area, within one working day, and email you its name. It will call you at the time you chose."
+    />
+  );
+}
+
+export function AskForm() {
+  return (
+    <Suspense fallback={<p>Loading the form…</p>}>
+      <AskInner />
+    </Suspense>
+  );
+}

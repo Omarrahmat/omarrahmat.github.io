@@ -26,7 +26,7 @@ const nodePaths = [findPkgDir('react')];
 const ISLANDS = {
   SimpleForm: ['default'],
   DirectoryClient: ['default'],
-  ParamForms: ['ClaimForm', 'ContactForm'],
+  ParamForms: ['ClaimForm', 'ContactForm', 'AskForm'],
   EnquiryForm: ['default'],
   PayCalculator: ['default'],
   Portal: ['default'],
@@ -162,4 +162,25 @@ for (const f of files) {
   fs.writeFileSync(p, f.content);
 }
 fs.rmSync(tmp, { recursive: true, force: true });
+
+// One small data file for the desks: which services cover each place, in the order the area page lists them, and
+// which of them are paying partners there. The inbox desk reads it to pass on an "ask for a call" enquiry
+// (claude/inbox-playbook.md). It holds nothing that is not already on the pages.
+{
+  const provs = JSON.parse(fs.readFileSync(path.join(src, 'data/providers.json'), 'utf8'));
+  const slugify = (s) => s.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const areasOut = {};
+  for (const p of provs) {
+    for (const a of p.areasServed || []) {
+      const k = slugify(a);
+      if (!k) continue;
+      const e = areasOut[k] || (areasOut[k] = { name: a, services: [] });
+      if (e.services.some((s) => s.id === p.id)) continue;
+      const q = a.toLowerCase();
+      const placed = p.tier !== 'free' && !p.enquiriesTo && (p.placementAreas || []).some((x) => x.toLowerCase().includes(q) || q.includes(x.toLowerCase()));
+      e.services.push({ id: p.id, name: p.name, type: p.providerType === 'local_authority' ? 'council' : p.providerType === 'independent_agency' ? 'agency' : 'other', placed });
+    }
+  }
+  fs.writeFileSync(path.join(out, 'area-services.json'), JSON.stringify({ areas: areasOut }));
+}
 console.log(`Built ${files.length} files into out/`);

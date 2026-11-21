@@ -29,6 +29,8 @@ const tiers = [
     items: [
       'Everything in Free',
       'Pinned first on the local page for up to five areas you choose (for example "Fostering agencies in Croydon") and in search results, with a "Featured" label',
+      'Shown on the council pay page for each of those areas, where people check what fostering pays',
+      'First call on "Ask for a call" enquiries from those areas: when a visitor asks for a service to ring them, it comes to you',
       'Enquiry form on your profile, sent straight to your recruitment team',
       'An "Enquire" button on your card in search results, and every enquiry shown in your portal and emailed to the address you choose',
       'A report by email each month',
@@ -55,7 +57,9 @@ const rows: [string, string, string, string][] = [
   ['Badge for your website', 'Yes', 'Yes', 'Yes'],
   ['Pinned first on area pages and in results', 'No', 'Up to 5 areas', 'All your areas and your nation'],
   ['Your own description, phone, website and recruitment link', 'Yes', 'Yes', 'Yes'],
+  ['Shown on the council pay page for your areas', 'No', 'Up to 5 areas', 'All your areas'],
   ['Enquiry form on your profile', 'No', 'Yes', 'Yes'],
+  ['First call on "Ask for a call" enquiries in your areas', 'No', 'Up to 5 areas', 'All your areas'],
   ['Sponsored slot in a guide or newsletter', 'No', 'No', 'Monthly'],
   ['Recruitment-drive feature', 'No', 'No', 'Yes'],
   ['Portal statistics (appearances, views, clicks)', 'Yes', 'Yes', 'Yes'],
@@ -124,7 +128,7 @@ export default function Packages() {
           </div>
           <div className="notice">
             <h3 style={{ fontSize: 22, marginBottom: 8 }}>Every enquiry is yours, not shared</h3>
-            <p>Enquiries from your profile go straight to your team. We never sell leads, pass details around or charge per enquiry. One fixed monthly price, however many people get in touch.</p>
+            <p>Enquiries from your profile go straight to your team. When a visitor asks for a call in one of your areas, the enquiry is passed to one Featured partner for that area, in turn, and to nobody else. We never sell leads, pass details around or charge per enquiry. One fixed monthly price, however many people get in touch.</p>
           </div>
           <div className="notice">
             <h3 style={{ fontSize: 22, marginBottom: 8 }}>Your profile keeps working for you</h3>

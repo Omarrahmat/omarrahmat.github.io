@@ -1,7 +1,7 @@
 import { hydrateRoot } from 'react-dom/client';
 import SimpleForm from '@/components/SimpleForm';
 import DirectoryClient from '@/components/DirectoryClient';
-import { ClaimForm, ContactForm } from '@/components/ParamForms';
+import { ClaimForm, ContactForm, AskForm } from '@/components/ParamForms';
 import EnquiryForm from '@/components/EnquiryForm';
 import PayCalculator from '@/components/PayCalculator';
 import Portal from '@/components/Portal';
@@ -10,7 +10,7 @@ import ProfileLive, { LogoTile } from '@/components/ProfileLive';
 import { trackVisit, publicLogos, publicLogoUrl } from '@/lib/supa';
 
 // The owner dashboard (HQ) is not in this list: it hydrates from its own script, scripts/static/hq-entry.tsx.
-const registry: Record<string, any> = { SimpleForm, DirectoryClient, ClaimForm, ContactForm, EnquiryForm, PayCalculator, Portal, Unsubscribe, ProfileLive, LogoTile };
+const registry: Record<string, any> = { SimpleForm, DirectoryClient, ClaimForm, ContactForm, AskForm, EnquiryForm, PayCalculator, Portal, Unsubscribe, ProfileLive, LogoTile };
 
 /** Hydrate every island under `root` that has not been hydrated yet. */
 function hydrateIslands(root: ParentNode = document) {

@@ -131,6 +131,41 @@ for (const viewport of [{ width: 1360, height: 900 }, { width: 390, height: 800 
   await pg.waitForTimeout(300);
   check(`contact form pre-selects plan (${tag})`, (await pg.inputValue('select')) === 'Featured Agency');
 
+  // "Ask for a call": reached from an area page with the place filled in; one row to area_enquiries, nothing else.
+  if (local) {
+    const area = local.areasServed.find((a) => perArea.get(slug(a)) >= 2);
+    await pg.goto(B + `/fostering-agencies/${slug(area)}/`);
+    const ask = pg.locator('a.btn[href^="/ask/?area="]');
+    check(`area page offers "ask for a call" (${tag})`, (await ask.count()) === 1 && (await ask.innerText()).includes(area));
+    await Promise.all([pg.waitForURL(/\/ask\/\?area=/), ask.click()]);
+    await pg.waitForTimeout(300);
+    check(`ask form carries the place (${tag})`, (await pg.inputValue('#ask-area')) === area && (await pg.inputValue('#ask-wants')) === 'Either', await pg.inputValue('#ask-area'));
+    check(`ask page fits the screen (${tag})`, await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+    let asked = null;
+    await pg.route(live, async (route) => {
+      const req = route.request();
+      asked = { table: req.url().split('/rest/v1/')[1], body: JSON.parse(req.postData() || '{}') };
+      await route.fulfill({ status: 201, body: '' });
+    });
+    await pg.fill('#ask-name', 'Test Person');
+    await pg.fill('#ask-email', 'test@example.com');
+    await pg.fill('#ask-phone', '07000 000000');
+    await pg.fill('#ask-postcode', 'CR0 1AA');
+    await pg.selectOption('#ask-best_time', 'Evening');
+    await pg.check('input[name=consent]');
+    await pg.click('button[type=submit]');
+    await pg.waitForTimeout(400);
+    const askText = await pg.locator('body').innerText();
+    if (asked) {
+      const b = asked.body;
+      check(`ask form posts one row to area_enquiries (${tag})`, asked.table === 'area_enquiries' && b.area === area && b.wants === 'Either' && b.source === 'area' && b.consent_given === true && !('provider_id' in b) && !('status' in b), JSON.stringify(asked));
+      check(`ask form shows success (${tag})`, askText.includes('Sent.') && !askText.includes('Demo mode'));
+    } else {
+      check(`ask form submits in demo mode (${tag})`, askText.includes('Sent.') && askText.includes('Demo mode'));
+    }
+    await pg.unroute(live);
+  }
+
   const articles = JSON.parse(fs.readFileSync(path.resolve(import.meta.dirname, '../src/data/articles.json'), 'utf8'));
   if (articles.length) {
     await pg.goto(B + '/news/');

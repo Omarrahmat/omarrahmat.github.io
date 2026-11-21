@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { councilAllowances, getAllowance, NATION_MINIMUM, gbp, noScaleCouncils, getNoScale } from '@/lib/allowances';
 import NoScaleCouncilPage from '@/components/NoScaleCouncil';
+import FeaturedHere from '@/components/FeaturedHere';
 import { areas, slugify } from '@/lib/areas';
 import { formatDate } from '@/lib/providers';
 
@@ -86,10 +87,15 @@ export default async function CouncilAllowancePage({ params }: { params: Promise
         </div>
 
         {areaLinks.length > 0 && (
-          <p style={{ marginBottom: 24 }}>
+          <p style={{ marginBottom: 12 }}>
             Thinking about fostering here? Compare every service that covers the area: {areaLinks.map((a, i) => <span key={a.slug}>{i > 0 ? ', ' : ''}<Link href={`/fostering-agencies/${a.slug}/`} style={{ fontWeight: 700 }}>Fostering agencies in {a.name}</Link> ({a.count})</span>)}.
           </p>
         )}
+        <p style={{ marginBottom: 24 }}>
+          {areaLinks.length > 0 ? 'Or ' : 'Thinking about fostering here? '}
+          <Link href={`/ask/?area=${encodeURIComponent(c.areaNames[0] ?? c.council)}&from=pay`} style={{ fontWeight: 700 }}>{areaLinks.length > 0 ? 'ask' : 'Ask'} a fostering service that covers the area to call you</Link>.
+        </p>
+        <FeaturedHere areas={areaLinks} />
 
         <section aria-labelledby="src-h" style={{ marginTop: 8 }}>
           <h2 id="src-h" style={{ fontSize: 22, marginBottom: 6 }}>Source</h2>

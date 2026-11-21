@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import FeaturedHere from '@/components/FeaturedHere';
 import { councilAllowances, MINIMUM_TABLE, gbp, type NoScaleCouncil } from '@/lib/allowances';
 import { areas, slugify } from '@/lib/areas';
 import { formatDate, formatPhone } from '@/lib/providers';
@@ -73,10 +74,15 @@ export default function NoScaleCouncilPage({ c }: { c: NoScaleCouncil }) {
         )}
 
         {areaLinks.length > 0 && (
-          <p style={{ marginBottom: 24, maxWidth: 820 }}>
+          <p style={{ marginBottom: 12, maxWidth: 820 }}>
             Thinking about fostering in {c.place}? Compare the council with the independent agencies that cover the area: {areaLinks.map((a, i) => <span key={a.slug}>{i > 0 ? ', ' : ''}<Link href={`/fostering-agencies/${a.slug}/`} style={{ fontWeight: 700 }}>Fostering agencies in {a.name}</Link> ({a.count})</span>)}.
           </p>
         )}
+        <p style={{ marginBottom: 24, maxWidth: 820 }}>
+          {areaLinks.length > 0 ? 'Or ' : `Thinking about fostering in ${c.place}? `}
+          <Link href={`/ask/?area=${encodeURIComponent(c.place)}&from=pay`} style={{ fontWeight: 700 }}>{areaLinks.length > 0 ? 'ask' : 'Ask'} a fostering service that covers {c.place} to call you</Link>.
+        </p>
+        <FeaturedHere areas={areaLinks} />
 
         <section aria-labelledby="src-h" style={{ marginTop: 8 }}>
           <h2 id="src-h" style={{ fontSize: 22, marginBottom: 6 }}>Checked</h2>
