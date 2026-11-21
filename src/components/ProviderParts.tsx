@@ -42,7 +42,9 @@ export function ProviderCard({ provider, featured = false, logo }: { provider: D
     <article className={`provider-card${featured ? ' provider-card-featured' : ''}`}>
       <div className="band" style={{ background: BAND[provider.providerType] }}>
         {TYPE_LABEL[provider.providerType]}
-        {featured && <span className="tag tag-featured" title="This provider pays for placement in this area. Payment never changes how details are checked.">Featured · paid placement</span>}
+        {featured && (provider.enquiriesTo === 'fostering-today'
+          ? <span className="tag tag-featured" title="Placed first as a Fostering Today pilot partner. Placement never changes how details are checked.">Featured · pilot partner</span>
+          : <span className="tag tag-featured" title="This provider pays for placement in this area. Payment never changes how details are checked.">Featured · paid placement</span>)}
       </div>
       <div className="body">
         <div style={{ display: 'flex', gap: 14, alignItems: 'center' }}>

@@ -59,6 +59,15 @@ function placementFor(id) {
   return { tier: p.tier, placementAreas: Array.isArray(p.areas) ? p.areas.filter((a) => typeof a === 'string') : [] };
 }
 
+// data/owner-handled.json: services whose enquiries come to Fostering Today's own team, who make the first call
+// (pilot partners agreed by the owner). The enquiry form on their profile says so instead of "goes straight to
+// their fostering team". Kept apart from placements.json because the payments desk rewrites that file every hour.
+let ownerHandled = new Set();
+try {
+  const o = JSON.parse(readFileSync(join(root, 'data/owner-handled.json'), 'utf8'));
+  ownerHandled = new Set((Array.isArray(o.ids) ? o.ids : []).filter((x) => typeof x === 'string'));
+} catch { /* optional */ }
+
 function applyPatches(raw) {
   const list = patches.get(raw?.id);
   if (!list) return raw;
@@ -101,6 +110,7 @@ for (const file of files) {
     const res = validateRecord(raw);
     if (!res.ok) { rejected.push({ file, id: raw?.id ?? null, errors: res.errors }); continue; }
     const rec = { ...res.record, ...placementFor(res.record.id) };
+    if (ownerHandled.has(rec.id)) rec.enquiriesTo = 'fostering-today';
     if (seenIds.has(rec.id)) { rejected.push({ file, id: rec.id, errors: ['duplicate id'] }); continue; }
     if (excluded.has(rec.id)) { rejected.push({ file, id: rec.id, errors: [`excluded: ${excluded.get(rec.id)}`] }); continue; }
     // The same registration (regulator reference) is one record; otherwise the same site and name is.

@@ -48,7 +48,7 @@ export default async function AreaPage({ params }: { params: Promise<{ area: str
           Each detail shows where it came from and the date we looked.
         </p>
         <p className="muted" style={{ marginBottom: 28 }}>
-          Listings marked Featured are paid placements. Payment never changes how details are checked. <Link href="/calculator/" style={{ fontWeight: 700 }}>See what foster carers can earn</Link>.
+          Listings marked Featured are paid or pilot placements. Placement never changes how details are checked. <Link href="/calculator/" style={{ fontWeight: 700 }}>See what foster carers can earn</Link>.
         </p>
         {pinned.length > 0 && (
           <div className="grid-3" style={{ marginBottom: 24 }}>

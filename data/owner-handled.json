@@ -1,0 +1,4 @@
+{
+  "_comment": "Services whose enquiries come to Fostering Today's own team, who make the first call (pilot partners agreed by Omar). Their enquiry form says so. Also set subscriptions.owner_handles_enquiries in the database, which is what the inbox desk reads. Not written by any script: edit by hand.",
+  "ids": ["amber-fostering"]
+}

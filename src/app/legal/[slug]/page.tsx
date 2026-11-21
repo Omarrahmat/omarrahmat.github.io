@@ -11,10 +11,11 @@ const PAGES: Record<string, { title: string; summary: string }> = {
 
 
 const UPDATED = '28 October 2026';
+const PRIVACY_UPDATED = '21 November 2026';
 
 const PRIVACY = (
   <>
-    <p className="muted">Last updated {UPDATED}</p>
+    <p className="muted">Last updated {PRIVACY_UPDATED}</p>
     <h2>Who we are</h2>
     <p>
       Fostering Today (fosteringtoday.com) is operated by Urban Carers Ltd, registered in England and Wales, company number 15419139,
@@ -25,6 +26,7 @@ const PRIVACY = (
     <ul>
       <li><strong>Newsletter sign-up.</strong> Your email address and the time you agreed. We use it to send the newsletter. Our basis is your consent. We keep it until you unsubscribe, then keep only a record that you opted out so we do not email you again.</li>
       <li><strong>Contact and enquiry forms.</strong> Your name, email address, organisation, and what you write. We use it to reply and to deal with your enquiry. Our basis is our legitimate interest in answering people who contact us, or taking steps you ask for before a contract. We normally delete these within 24 months of the last message.</li>
+      <li><strong>Enquiries to a fostering service.</strong> When you use the enquiry form on a service&rsquo;s profile we collect your name, email address, phone number, postcode, the best time to call and anything you write. We pass them to that service so it can contact you about fostering. For some partner services our own team makes the first call instead; the form says so before you send it. Our basis is your consent, given on the form. We keep a record for 24 months.</li>
       <li><strong>Claiming a listing.</strong> Your name, role, organisation, and contact details, so we can check you are authorised to speak for the service. Basis: legitimate interest in keeping the directory accurate. We keep the record for as long as the listing is claimed and for a reasonable period afterwards.</li>
       <li><strong>Correction requests.</strong> What you say is wrong, any contact details you give, and the evidence. Basis: legitimate interest in keeping the directory accurate. Kept for 24 months so we can show what changed and why.</li>
       <li><strong>Emails you send us.</strong> The message, your address and anything you include. Please do not send us personal details about children or anyone in care; we do not need them.</li>

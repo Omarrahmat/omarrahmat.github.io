@@ -146,12 +146,14 @@ export default async function AgencyPage({ params }: { params: Promise<{ id: str
 
         {p.tier !== 'free' && (
           <section id="enquire" style={{ marginTop: 48, maxWidth: 720 }} aria-labelledby="enq-h">
-            <h2 id="enq-h" style={{ fontSize: 32, marginBottom: 8 }}>Ask {p.name} about fostering</h2>
+            <h2 id="enq-h" style={{ fontSize: 32, marginBottom: 8 }}>{p.enquiriesTo === 'fostering-today' ? `Ask about fostering with ${p.name}` : `Ask ${p.name} about fostering`}</h2>
             <p className="muted" style={{ marginBottom: 20 }}>
-              Goes straight to their fostering team. No obligation, and your details are not shared with anyone else.
+              {p.enquiriesTo === 'fostering-today'
+                ? `Your enquiry comes to the Fostering Today team, who will call you about fostering with ${p.name}. No obligation.`
+                : 'Goes straight to their fostering team. No obligation, and your details are not shared with anyone else.'}
             </p>
             <div className="form-card">
-              <EnquiryForm providerId={p.id} providerName={p.name} />
+              <EnquiryForm providerId={p.id} providerName={p.name} handledByUs={p.enquiriesTo === 'fostering-today'} />
             </div>
           </section>
         )}

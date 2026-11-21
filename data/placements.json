@@ -1,3 +1,14 @@
 {
-  "_comment": "Written by scripts/desk/sync-placements.mjs from Supabase subscriptions. Do not edit by hand."
+  "_comment": "Written by scripts/desk/sync-placements.mjs from Supabase subscriptions. Do not edit by hand.",
+  "amber-fostering": {
+    "tier": "premium",
+    "areas": [
+      "London",
+      "Luton and Bedfordshire",
+      "Birmingham",
+      "Lincolnshire",
+      "Ilford",
+      "England"
+    ]
+  }
 }

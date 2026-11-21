@@ -39,6 +39,8 @@ export interface Provider {
   notes: string | null;
   tier: Tier;
   placementAreas: string[];
+  /** Set when Fostering Today's own team takes this service's enquiries and makes the first call (data/owner-handled.json). */
+  enquiriesTo?: 'fostering-today';
 }
 
 export interface Article {
@@ -79,4 +81,6 @@ export interface DirectoryEntry {
   kinds: { areasServed?: ProviderSource['kind']; fosteringTypes?: ProviderSource['kind'] };
   tier: Tier;
   placementAreas: string[];
+  /** A pilot partner (data/owner-handled.json): placed first without paying, so its card must not say "paid". */
+  enquiriesTo?: 'fostering-today';
 }

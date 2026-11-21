@@ -104,6 +104,7 @@ export function toDirectoryEntry(p: Provider): DirectoryEntry {
     kinds,
     tier: p.tier ?? 'free',
     placementAreas: p.placementAreas ?? [],
+    ...(p.enquiriesTo ? { enquiriesTo: p.enquiriesTo } : {}),
   };
 }
 
