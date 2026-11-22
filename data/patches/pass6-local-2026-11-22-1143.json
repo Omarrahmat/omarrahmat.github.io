@@ -1,0 +1,10 @@
+[
+  {
+    "id": "action-for-children-fostering-south-east",
+    "areasServed": ["Hillingdon", "Redbridge", "Havering", "Hammersmith and Fulham", "Kensington and Chelsea", "Westminster"],
+    "sources": [
+      { "url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/london-and-south-east-england/", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Action for Children's own London and South East fostering page (service 'Fostering South East - London, Kent'), under 'Where are we recruiting foster carers?': London 'including' Hammersmith & Fulham, Kensington & Chelsea and Westminster, and 'We also cover the Greater London Boroughs of' a list naming Havering, Hillingdon and Redbridge. Hand-off 479 part 1."
+  }
+]
