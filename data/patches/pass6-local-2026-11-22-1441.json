@@ -1,0 +1,34 @@
+[
+  {
+    "id": "foster-care-associates-northern-ireland",
+    "areasServed": ["Belfast"],
+    "sources": [
+      { "url": "https://www.thefca.co.uk/locations/belfast/", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "FCA's own 'Fostering in Belfast' page (Foster Care Associates Belfast, FCA Northern Ireland team) asks people who live in Belfast or the surrounding areas to become foster parents. Plain place name added beside the existing 'Belfast and surrounding areas'."
+  },
+  {
+    "id": "belfast-hsc-trust-fostering",
+    "areasServed": ["Belfast"],
+    "sources": [
+      { "url": "https://belfasttrust.hscni.net/service/foster-care/", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Plain place name added alongside the formal 'Belfast Health and Social Care Trust area' already in the record: the Belfast Trust is the statutory fostering service for Belfast (its own Foster Care page, opened today). Same pattern as the council plain-name patches (hand-offs 248 and 496)."
+  },
+  {
+    "id": "telford-fostering",
+    "areasServed": ["Telford"],
+    "sources": [
+      { "url": "https://telford.gov.uk/fostering", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Plain place name added alongside 'Telford and Wrekin': Telford & Wrekin Council's own fostering and adoption page (opened today) invites people in Telford and Wrekin to register interest in fostering. The council is the fostering service for Telford, so it counts towards the Telford page."
+  },
+  {
+    "id": "stockton-on-tees-borough-council-fostering",
+    "areasServed": ["Stockton"],
+    "sources": [
+      { "url": "https://stockton.gov.uk/fostering", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Plain place name added alongside 'Stockton-on-Tees': Stockton-on-Tees Borough Council's own fostering page (opened today, recruiting through Foster with North East). Agencies' pages call the town 'Stockton', so the council now shows on that page too."
+  }
+]
