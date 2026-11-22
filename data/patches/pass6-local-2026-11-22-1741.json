@@ -1,0 +1,26 @@
+[
+  {
+    "id": "foster-care-associates-eastern",
+    "areasServed": ["Southend-on-Sea", "Havering", "Haringey"],
+    "sources": [
+      { "url": "https://thefca.co.uk/regions/eastern/", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "FCA Eastern's own region page (opened today): 'We provide foster care for mainly six referring local authorities ... Norfolk, Suffolk, Essex, Southend on Sea, Havering and Haringey.' Norfolk, Suffolk and Essex already listed; the three councils it places children for added under the names our pages use."
+  },
+  {
+    "id": "cumberland-council-fostering",
+    "areasServed": ["Westmorland and Furness"],
+    "sources": [
+      { "url": "https://www.cumberland.gov.uk/cared-care-experienced-and-separated-young-people-sufficiency-strategy/fostering", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Cumberland Council's own sufficiency strategy (fostering section, opened today) describes 'a hosted fostering service which covers the Cumberland Council and Westmorland and Furness Council'."
+  },
+  {
+    "id": "westmorland-and-furness-council-fostering",
+    "areasServed": ["Cumberland"],
+    "sources": [
+      { "url": "https://www.westmorlandandfurness.gov.uk/health-and-social-care/children-and-families/become-foster-carer", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Westmorland and Furness Council's own Become a foster carer page (opened today): working with Cumberland Council, 'We run the Cumbria Fostering Service together.'"
+  }
+]
