@@ -1,0 +1,28 @@
+[
+  {
+    "id": "glasgow-city-council-families-for-children",
+    "areasServed": ["Glasgow"],
+    "sources": [
+      { "url": "https://glasgow.gov.uk/article/17270/Foster-a-child", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Plain place name added beside 'Glasgow City' so the council's own fostering service counts towards the Glasgow page (hand-off 496). Glasgow City Council's own 'Foster a child' page recruits carers for Glasgow's children through Families for Children."
+  },
+  {
+    "id": "dundee-city-council-fostering",
+    "areasServed": ["Dundee"],
+    "sources": [
+      { "url": "https://dundeecity.gov.uk/fostering-and-adoption", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Plain place name added beside 'Dundee City' so the council's own fostering service counts towards the Dundee page (hand-off 496). Dundee City Council's own fostering and adoption page invites people to foster with Dundee City Council."
+  },
+  {
+    "id": "foster-care-associates-thames-valley",
+    "areasServed": ["Windsor and Maidenhead"],
+    "sources": [
+      { "url": "https://www.thefca.co.uk/regions/thames-valley", "retrievedOn": "2026-11-22", "supports": ["areasServed"] },
+      { "url": "https://www.thefca.co.uk/locations/windsor/", "retrievedOn": "2026-11-22", "supports": ["areasServed"] },
+      { "url": "https://www.thefca.co.uk/locations/maidenhead/", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "FCA's Thames Valley region page lists Windsor and Maidenhead under 'Areas we cover', and its own Windsor and Maidenhead pages say FCA provides foster care there, supported from the Thames Valley region. Both towns of the Royal Borough are covered, so the borough name is added beside the two town names already held (hand-off 479 part 2)."
+  }
+]
