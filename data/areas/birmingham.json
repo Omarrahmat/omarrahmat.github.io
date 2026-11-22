@@ -1,20 +1,33 @@
 {
   "slug": "birmingham",
-  "updatedOn": "2026-11-04",
+  "updatedOn": "2026-11-22",
   "paragraphs": [
-    "In Birmingham, the council's fostering service is run by Birmingham Children's Trust, which looks after approximately 1,950 children in care. When a child in the city needs a foster home, the Trust first checks whether one of its own carers is available, and the independent fostering agencies listed below also care for Birmingham children.",
-    "The Trust wants carers from every background who reflect the diversity of the city. It says homes are most needed for children over 10 and teenagers, for brothers and sisters who need to stay together, for children with additional needs such as physical or learning disabilities, and for unaccompanied asylum-seeking children, who are usually teenage boys and may speak very little English. Professional experience with children is welcome but not required, and carers who already foster for another agency or council can apply to transfer.",
-    "Trust carers are given their own fostering social worker, a mentor who is an experienced foster carer, and training. The Trust says becoming a carer takes about six months, including training and assessment.",
-    "Agencies set their own fees and support packages, so it is worth speaking to the Trust and to two or three of the agencies on this page, and asking each about training, out-of-hours help and what they pay, before you decide."
+    "Searching for a fostering agency in Birmingham brings up two kinds of service. The city's own fostering service, Foster Birmingham, is run by Birmingham Children's Trust on the council's behalf; the independent agencies on this page recruit and support their own carers and also care for Birmingham children. The Trust says it has about 1,950 children in care.",
+    "Ofsted inspected the Trust's fostering service from 28 October to 1 November 2024 and judged it good for children's experiences and progress, for how well they are helped and protected, and for leadership. At that point it had 594 approved fostering households, 341 of them mainstream carers and 253 kinship carers looking after children they already knew, with 819 children living with them. Inspectors noted that new carers are welcomed and supported by experienced ones, that training runs online and in person, and that a therapeutic team gives wraparound help to carers and children.",
+    "The Trust asks most of all for carers for children over 10 and teenagers, brothers and sisters who need to stay together, children with physical or learning disabilities, and young people who arrived in the UK alone seeking asylum, usually teenage boys, some speaking little English. It wants carers who reflect the city's mix of communities, and welcomes people who already foster elsewhere or work with children, though neither is required.",
+    "Whether you can keep your job depends on the child. The Trust says a child under five needs a carer at home full time; short-term carers of older children may work around 16 hours a week, and long-term carers part-time if the child's needs are met. Becoming a carer takes about six months, with a supporting social worker, a mentor who is an experienced carer, and membership of the Birmingham Foster Carers Association. We do not yet have a Birmingham allowance page, so ask the Trust and each agency for their weekly rates in writing.",
+    "Families near the city's edges can also look at the Solihull, Sandwell, Walsall, Dudley and West Midlands pages."
   ],
   "sources": [
+    {
+      "title": "What is fostering? (Birmingham Children's Trust, birmingham.gov.uk)",
+      "url": "https://www.birmingham.gov.uk/info/50080/fostering/1111/what_is_foster_care"
+    },
     {
       "title": "Foster carers we currently need (Birmingham Children's Trust, birmingham.gov.uk)",
       "url": "https://www.birmingham.gov.uk/info/50080/fostering/1113/what_types_of_foster_carer_do_we_currently_need"
     },
     {
-      "title": "What is fostering? (Birmingham Children's Trust, birmingham.gov.uk)",
-      "url": "https://www.birmingham.gov.uk/info/50080/fostering/1111/what_is_foster_care"
+      "title": "Can I work and be a foster carer? (Birmingham Children's Trust, birmingham.gov.uk)",
+      "url": "https://www.birmingham.gov.uk/info/50080/birmingham_fostering_service/1141/can_i_work_and_be_a_foster_carer"
+    },
+    {
+      "title": "Inspection report: Birmingham Children's Trust Fostering Agency, 28 October to 1 November 2024 (Ofsted)",
+      "url": "https://files.ofsted.gov.uk/v1/file/50264346"
+    },
+    {
+      "title": "Birmingham Children's Trust to take part in foster care campaign (Greater Birmingham Chambers of Commerce, 2 May 2025)",
+      "url": "https://www.greaterbirminghamchambers.com/resource/birmingham-children-s-trust-to-take-part-in-foster-care-campaign.html"
     }
   ]
 }

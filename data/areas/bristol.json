@@ -1,15 +1,37 @@
 {
   "slug": "bristol",
-  "updatedOn": "2026-11-02",
+  "updatedOn": "2026-11-22",
   "paragraphs": [
-    "Children in care in Bristol are looked after by carers approved by Bristol City Council's own service, Foster with Bristol City Council, and by the independent fostering agencies listed on this page. The council says many children come into its care each year, for reasons that include family breakdown, a parent's illness, neglect, domestic abuse or drug and alcohol misuse at home. Some stay in foster care for a short time and others until they are ready to live on their own.",
-    "The council names the groups of children it most needs homes for: babies, teenagers, brothers and sisters who need to stay together, unaccompanied asylum-seeking children, and children with additional needs. If you could offer a home to one of these groups, it is worth saying so early in any conversation with a fostering service.",
-    "Bristol pays every carer a weekly Level 1 allowance for each child, from £181.95 for a child aged up to 2 to £296.16 for a young person aged 16 or 17, and the same rate continues for young people who stay on after 18 under Staying Put. Carers approved at Level 2 receive an extra £160 a week per child, and at Level 3 an extra £250. Our Bristol allowance page lists the birthday, festival and holiday payments too.",
-    "The council's fostering team offers an informal chat to anyone thinking about fostering. Speaking to the council and to two or three of the agencies below, and asking each about training, support and pay, is a good way to find the right fit."
+    "If you are weighing up fostering agencies in Bristol, the first choice is between Foster with Bristol City Council, the council's own not-for-profit service, and the independent agencies listed on this page. Council carers look after Bristol's own children; agencies recruit, approve and support their own carers and offer homes to councils, Bristol included. The council says around 350 households foster with it.",
+    "Its sufficiency strategy for 2025 to 2028 describes the local picture. In March 2025, 753 children were in the council's care, seven in ten of them aged 10 or over, and 59% of the children who came into care in 2024/25 were aged 10 or over. The share of children placed 20 miles or more from home rose from 16% in 2019 to 20% in 2023, above the 17% national figure, and the council plans to work with agencies to recruit more carers in or close to the city and to build a group of carers who can help children whose earlier foster homes broke down, or who are ready to leave residential care. Its fostering pages name babies, teenagers, brothers and sisters, children with additional needs and young people who arrived alone seeking asylum as the homes most needed.",
+    "Bristol pays every council carer a weekly Level 1 allowance for each child, from £181.95 for a child up to 2 to £296.16 at 16 or 17, the same rate continuing under Staying Put, with an extra £160 a week per child at Level 2 and £250 at Level 3. Our Bristol allowance page has the full scale and the birthday, festival and holiday payments.",
+    "The council says becoming a carer takes about eight months: roughly ten weeks to the Skills to Foster course, sixteen weeks of assessment to panel and two weeks to approval. You need to be 21 or over, with a spare bedroom unless you are caring for a baby under 3; working, being single or having a health condition need not stop you. Support includes a supervising social worker, a carer buddy in the first year, a seven-day out-of-hours line, therapeutic support, the Bristol Foster Carers Association and Mockingbird, where two constellations had 28 carers by April 2025.",
+    "Ask the council and two or three of the agencies above how they support carers of teenagers. Families nearby can also look at the South Gloucestershire, North Somerset and Bath and North East Somerset pages."
   ],
   "sources": [
-    { "title": "Our children who need fostering (Foster with Bristol City Council)", "url": "https://www.bristol.gov.uk/foster-with-bristol-city-council/our-children/our-children-who-need-fostering" },
-    { "title": "Fees (Foster with Bristol City Council)", "url": "https://www.bristol.gov.uk/foster-with-bristol-city-council/payments-foster-carers/fees" },
-    { "title": "Bristol foster carer allowance (Fostering Today)", "url": "https://fosteringtoday.com/fostering-allowance/bristol/" }
+    {
+      "title": "Children in Care and Care Leaver Sufficiency Strategy 2025-2028 (Bristol City Council)",
+      "url": "https://www.bristol.gov.uk/files/documents/10476-children-in-care-and-care-leaver-sufficiency-strategy/file"
+    },
+    {
+      "title": "Our children who need fostering (Foster with Bristol City Council)",
+      "url": "https://www.bristol.gov.uk/foster-with-bristol-city-council/our-children/our-children-who-need-fostering"
+    },
+    {
+      "title": "Support for foster carers (Foster with Bristol City Council)",
+      "url": "https://www.bristol.gov.uk/foster-with-bristol-city-council/why-choose-us/support-for-foster-carers"
+    },
+    {
+      "title": "Who can foster (Foster with Bristol City Council)",
+      "url": "https://www.bristol.gov.uk/foster-with-bristol-city-council/our-carers/who-can-foster"
+    },
+    {
+      "title": "The application process (Foster with Bristol City Council)",
+      "url": "https://www.bristol.gov.uk/web/foster-with-bristol-city-council/the-application-process"
+    },
+    {
+      "title": "Bristol foster carer allowance (Fostering Today)",
+      "url": "https://fosteringtoday.com/fostering-allowance/bristol/"
+    }
   ]
 }

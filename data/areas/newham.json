@@ -1,32 +1,20 @@
 {
   "slug": "newham",
-  "updatedOn": "2026-11-13",
+  "updatedOn": "2026-11-22",
   "paragraphs": [
-    "The services listed above take enquiries from people in Newham, including the council's own fostering service and independent agencies. The council announced in January 2026 that Ofsted had judged its children's services outstanding in every area, and the inspector noted the excellent support foster carers receive.",
-    "Newham needs carers for babies and toddlers, children under 12 and teenagers, and many of its carers look after a teenager long-term until they are ready to live on their own. It also places young parents with their babies, with the carer helping the parent build confidence and skills. Its July 2026 campaign, \"Be the missing piece\", asked for homes for sibling groups and for children with disabilities or who have lived through complex trauma, and set out to reach more carers from the borough's Bangladeshi and Black African communities. The council says it relies on independent agencies when it needs a home for a child quickly.",
-    "The council lists payments of up to £866.53 a week, its specialist carer rate, with a separate allowance for the child on top, plus extra payments for birthdays, holidays and festivals, a £750 setting-up grant for furniture and equipment, full Council Tax exemption, and £1,000 if someone you recommend is approved and takes their first child. Support includes your own social worker, a 24-hour line, a monthly support group, the local foster carers' association, free Fostering Network membership and a place on its Mockingbird programme. Carers approved elsewhere can transfer, and the council aims to complete that assessment in under 12 weeks.",
-    "The council holds online information sessions and drop-ins at Stratford and Canning Town libraries. Talk to the council and two or three services above before you choose, and see the Hackney and London pages too."
+    "Anyone looking for a fostering agency in Newham can choose between the council's own fostering service and the independent agencies on this page. The council recruits and supports carers for Newham's own children; an agency approves and supervises its carers itself and is asked by councils, Newham among them, when a child needs a home. Newham's children's services were judged outstanding in every area by Ofsted, announced in January 2026, and the council quotes the inspectors' finding that its foster carers receive excellent support.",
+    "The council's sufficiency strategy for 2022 to 2025 shows why it wants more local carers. At the end of March 2022, 155 of the 361 children in its care lived with independent agency carers and 96 with council carers, and the strategy set the aim of a much larger share of foster homes provided in house, with carers from a wide range of ethnic backgrounds and homes for disabled children, teenagers including young people seeking asylum, emergencies and short breaks. Its July 2026 campaign, \"Be the missing piece\", said the council still has to rely on agencies to find homes quickly and asked in particular for carers from the borough's Bangladeshi and Black African communities, including Somali, Nigerian and Ghanaian families.",
+    "The children waiting range from babies and toddlers to teenagers, many of whom stay with one carer until they are ready to live on their own. There are also brothers and sisters to keep together, young parents who move in with their baby, and children with disabilities or who have been through complex trauma. A separate specialist scheme looks for people with childcare, education, health or family experience of additional needs, often for children leaving residential care, with three weeks of respite a year, weekly social work visits and the council's own clinical team.",
+    "To apply to the council you need to be over 21, live within reasonable travelling distance of Newham and have room for a child, whether you rent or own; you can be single or in a couple, working or at home. Council carers have their own social worker, a 24-hour line, a monthly support group, the Newham Foster Carers' Association, free Fostering Network membership, Mockingbird and full Council Tax exemption. We do not have a Newham allowance page yet, so ask the council and each agency for its weekly rates in writing.",
+    "The council runs online information sessions and library drop-ins. Families on the borough's borders can also look at the Tower Hamlets, Hackney, Waltham Forest, Barking and Dagenham and London pages."
   ],
   "sources": [
-    {
-      "title": "Fostering with Newham Council: What is fostering? (Newham Council)",
-      "url": "https://www.newham.gov.uk/children-families/fostering-newham-council"
-    },
-    {
-      "title": "Why foster for Newham? (Newham Council)",
-      "url": "https://www.newham.gov.uk/children-families/fostering-newham-council/2"
-    },
-    {
-      "title": "Support and training (Newham Council)",
-      "url": "https://www.newham.gov.uk/children-families/fostering-newham-council/3"
-    },
-    {
-      "title": "Transfer to us (Newham Council)",
-      "url": "https://www.newham.gov.uk/children-families/fostering-newham-council/5"
-    },
-    {
-      "title": "Be the missing piece. Foster in Newham. (Newham Council, 16 July 2026)",
-      "url": "https://www.newham.gov.uk/news/article/1567/be-the-missing-piece-foster-in-newham-"
-    }
+    { "title": "What is fostering? (Newham Council)", "url": "https://www.newham.gov.uk/children-families/fostering-newham-council" },
+    { "title": "Why foster for Newham? (Newham Council)", "url": "https://www.newham.gov.uk/children-families/fostering-newham-council/2" },
+    { "title": "Support and training (Newham Council)", "url": "https://www.newham.gov.uk/children-families/fostering-newham-council/3" },
+    { "title": "How to apply (Newham Council)", "url": "https://www.newham.gov.uk/children-families/fostering-newham-council/4" },
+    { "title": "Specialist fostering scheme (Newham Council)", "url": "https://www.newham.gov.uk/children-families/fostering-newham-council/6" },
+    { "title": "Be the missing piece. Foster in Newham. (Newham Council, 16 July 2026)", "url": "https://www.newham.gov.uk/news/article/1567/be-the-missing-piece-foster-in-newham-" },
+    { "title": "Newham Children in Care Sufficiency Strategy 2022-2025 (Newham Council)", "url": "https://www.newham.gov.uk/downloads/file/10547/children-in-care-sufficiency-strategy-final-october-22" }
   ]
 }
