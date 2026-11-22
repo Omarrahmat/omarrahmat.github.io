@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bcp-council-fostering",
+    "areasServed": ["Bournemouth", "Christchurch", "Poole"],
+    "sources": [
+      { "url": "https://www.bcpcouncil.gov.uk/news-hub/news-articles/bcp-council-launches-fostering-drive-to-support-children-and-young-people", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "BCP Council's own fostering news page (opened today): Bournemouth, Christchurch and Poole (BCP) Council is urging people to come forward as foster carers, recruits local residents and wants 30 more foster families. It is the council for the three towns, so the plain town names our pages use are added beside the formal council-area name (hand-offs 248 and 496)."
+  },
+  {
+    "id": "hull-city-council-fostering",
+    "areasServed": ["Hull"],
+    "sources": [
+      { "url": "https://www.hull.gov.uk/downloads/file/3549/hull-fostering", "retrievedOn": "2026-11-22", "supports": ["areasServed"] }
+    ],
+    "notes": "Hull City Council's own Hull Fostering notice (opened today) says its Fostering Service approves, supports and pays foster carers. It is the council for Hull, so the plain name 'Hull' that our Hull page uses is added beside 'Kingston upon Hull' (hand-off 496: check the council is listed under the plain place name, e.g. Hull)."
+  }
+]
