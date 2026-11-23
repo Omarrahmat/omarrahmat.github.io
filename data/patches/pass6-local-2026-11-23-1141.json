@@ -1,0 +1,10 @@
+[
+  {
+    "id": "fosterplus-scotland",
+    "areasServed": ["South Lanarkshire", "North Lanarkshire"],
+    "sources": [
+      { "url": "https://fosterplus.co.uk/offices/hamilton", "retrievedOn": "2026-11-23", "supports": ["areasServed"] }
+    ],
+    "notes": "Fosterplus's own 'Fostering In South Lanarkshire' page (Glasgow office, Care Inspectorate) asks 'Interested in fostering in North Lanarkshire or South Lanarkshire?' and invites people to join 'our North Lanarkshire and South Lanarkshire fostering team', supporting families in Hamilton, East Kilbride, Carluke, Douglas and Cumbernauld. Added the two council areas by their plain names beside the existing 'Lanarkshire'."
+  }
+]
