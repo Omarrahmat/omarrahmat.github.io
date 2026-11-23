@@ -1,0 +1,29 @@
+{
+  "slug": "north-yorkshire",
+  "council": "North Yorkshire Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-23",
+  "sourceUrl": "https://www.northyorks.gov.uk/sites/default/files/2026-04/Fostering%20Guide%20April%202026.pdf",
+  "sourceTitle": "A guide to fostering, April 2026 (Fostering North Yorkshire, North Yorkshire Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 200.71 },
+    { "label": "5 to 10", "weekly": 228.68 },
+    { "label": "11 to 15", "weekly": 284.51 },
+    { "label": "16 plus", "weekly": 346.12 }
+  ],
+  "fees": [
+    { "label": "Accredited carers, child aged 0 to 4", "weekly": 72 },
+    { "label": "Accredited carers, child aged 5 to 10", "weekly": 90 },
+    { "label": "Accredited carers, child aged 11 to 15", "weekly": 108 },
+    { "label": "Accredited carers, child aged 16 plus", "weekly": 126 }
+  ],
+  "feesNote": "Every carer, including those not yet accredited, receives the weekly rate for the child's age; accredited carers also receive an age-related fee on top, which the council's guide shows rounded to the nearest pound. Advanced and specialist carers are paid further skills fees, which the guide lists under a 2025-26 heading, so they are not shown here.",
+  "extras": [
+    "Birthday, Christmas and two weeks' holiday allowances, shown in the council's guide as four weeks of the child's weekly rate a year",
+    "Short break care paid per period of up to 24 hours, at three levels",
+    "Day care at £10.17 an hour from April 2026"
+  ],
+  "summary": "North Yorkshire pays every foster carer a weekly rate for each child in four age bands; these 2026-27 figures follow the council's decision of 3 March 2026 to raise foster carer payments by 3.4%. Once accredited, carers also receive a weekly age-related fee on top, and advanced and specialist carers are paid additional skills fees.",
+  "areaNames": ["North Yorkshire"]
+}
