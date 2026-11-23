@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lotus-foster-care",
+    "areasServed": ["Greater London", "Barking and Dagenham", "Barnet", "Bexley", "Brent", "Bromley", "Camden", "Croydon", "Ealing", "Enfield", "Greenwich", "Hackney", "Haringey", "Harrow", "Havering", "Hillingdon", "Hounslow", "Islington", "Lambeth", "Lewisham", "Merton", "Newham", "Redbridge", "Southwark", "Sutton", "Tower Hamlets", "Waltham Forest", "Wandsworth", "Hampshire"],
+    "sources": [
+      { "url": "https://lotusfostercare.co.uk/areas-we-cover/", "retrievedOn": "2026-11-23", "supports": ["areasServed"] }
+    ],
+    "notes": "Lotus Foster Care's own 'Areas We Cover' page lists these places by name (plus 'Hammersmith', not added because it does not say Hammersmith and Fulham). Hand-off 496 part 3 (agency with no areas)."
+  },
+  {
+    "id": "shining-stars-fostering-agency",
+    "areasServed": ["Birmingham", "Sandwell", "Dudley", "Wolverhampton", "Leicester", "Coventry", "Northampton", "Milton Keynes", "Luton", "London", "Croydon", "Bromley", "Sutton", "Hillingdon", "Havering", "Greenwich", "Kent", "Dartford", "Medway"],
+    "sources": [
+      { "url": "https://shiningstarsfostering.com/recruiting-foster-carers/", "retrievedOn": "2026-11-23", "supports": ["areasServed"] },
+      { "url": "https://shiningstarsfostering.com/work-from-home/", "retrievedOn": "2026-11-23", "supports": ["areasServed"] }
+    ],
+    "notes": "Own site: 'Recruiting Foster Carers in:' Birmingham, Sandwell, Dudley, Wolverhampton, Leicester, Coventry, Northampton, Milton Keynes, Luton. Work-from-home page: 'We are currently recruiting foster carers across all the London Boroughs and the surrounding counties'; 'We urgently need foster carers in all London areas including' Croydon, Bromley, Sutton, Morden, Hillingdon, Havering, Greenwich; need for carers 'in Kent including' Dartford, Gillingham, Medway. Hand-off 496 part 3."
+  },
+  {
+    "id": "nurture-fostering",
+    "areasServed": ["London", "Surrey", "South East", "Suffolk"],
+    "sources": [
+      { "url": "https://www.nurturefostering.co.uk/about-fostering/locations-we-cover/", "retrievedOn": "2026-11-23", "supports": ["areasServed"] }
+    ],
+    "notes": "Own 'Locations We Cover' page: 'Our foster parents are located across Surrey, The South East, London and are in the home counties. We also have some in Suffolk and the Midlands.' Midlands and home counties not added (too general). Hand-off 496 part 3."
+  }
+]
