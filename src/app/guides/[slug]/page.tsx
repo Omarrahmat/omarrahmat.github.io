@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { guides, getGuide, anchor } from '@/lib/guides';
 import { formatDate } from '@/lib/providers';
+import AskCta from '@/components/AskCta';
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -80,6 +81,7 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
                 </section>
               )}
             </div>
+            <AskCta from="guide" />
             <section className="story-sources" aria-labelledby="src-h" style={{ marginTop: 36 }}>
               <h2 id="src-h" style={{ fontSize: 24, marginBottom: 10 }}>Sources</h2>
               <ul>
@@ -104,6 +106,7 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
                 {g.faq.length > 0 && <li><a href="#questions">Common questions</a></li>}
               </ol>
               <p style={{ marginTop: 16 }}><Link href="/find-an-agency/" className="btn btn-dark btn-small">Find a fostering service</Link></p>
+              <p style={{ marginTop: 12 }}>Or <Link href="/ask/?from=guide" style={{ fontWeight: 700 }}>ask a service to call you</Link>.</p>
             </div>
           </aside>
         </div>

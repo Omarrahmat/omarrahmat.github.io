@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { PayStats, PayTable } from '@/components/PayTable';
+import AskCta from '@/components/AskCta';
 import stats from '@/data/pay-stats.json';
 
 export const metadata: Metadata = {
@@ -35,6 +36,7 @@ export default function Payments() {
           <h2 style={{ fontSize: 24, marginBottom: 8 }}>Why the headline minimums look low</h2>
           <p>Each government sets a minimum weekly allowance for the child&rsquo;s costs (£176 to £309 in England for 2026-27). That is the floor for one part of the payment. The fee for you comes on top and is set by each service, which is why the totals above are two or three times the minimum. Most of what you receive is also tax-free under Qualifying Care Relief; the <Link href="/calculator/">calculator</Link> shows how much.</p>
         </div>
+        <AskCta from="payments" />
       </div>
     </div>
   );

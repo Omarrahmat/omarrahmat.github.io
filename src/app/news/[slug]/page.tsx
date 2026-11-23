@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { articles, getArticle, TOPIC_LABEL } from '@/lib/articles';
 import { ArticleCard } from '@/components/ArticleParts';
 import { formatDate } from '@/lib/providers';
+import AskCta from '@/components/AskCta';
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -50,6 +51,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           <div className="story-body">
             {a.body.map((p, i) => <p key={i}>{p}</p>)}
           </div>
+          <AskCta from="news" />
           <section className="story-sources" aria-labelledby="src-h">
             <h2 id="src-h" style={{ fontSize: 24, marginBottom: 10 }}>Sources</h2>
             <ul>

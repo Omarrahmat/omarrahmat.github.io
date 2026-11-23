@@ -172,6 +172,7 @@ for (const viewport of [{ width: 1360, height: 900 }, { width: 390, height: 800 
     check(`news index lists stories (${tag})`, (await pg.locator('.story-card').count()) === articles.length);
     await pg.goto(B + `/news/${articles[0].slug}/`);
     check(`article renders with sources (${tag})`, (await pg.locator('h1').count()) === 1 && (await pg.locator('.story-sources a').count()) >= 1);
+    check(`news story offers "ask for a call" (${tag})`, (await pg.locator('.ask-cta a[href="/ask/?from=news"]').count()) === 1);
     check(`banner shows headlines (${tag})`, (await pg.locator('.marquee a').count()) >= 2);
   }
   // Councils without a published scale have their own neutral page (12 Nov 2026); private notes never appear.
@@ -183,6 +184,22 @@ for (const viewport of [{ width: 1360, height: 900 }, { width: 390, height: 800 
     check(`no-scale council page renders (${tag})`, (await pg.locator('h1').innerText()).includes(ns.place) && txt.includes('legal minimum') && txt.includes('could not find a current'), ns.slug);
     check(`no-scale council page keeps notes private (${tag})`, !/bot check|does not match|below the 2026-27|may not be current|could not be read/i.test(txt));
     check(`no-scale page fits the screen (${tag})`, await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+  }
+  // "Ask for a call" is offered at the end of every guide and on the pay overview, and never on a service's own profile.
+  const guideList = JSON.parse(fs.readFileSync(path.resolve(import.meta.dirname, '../src/data/guides.json'), 'utf8'));
+  if (guideList.length) {
+    await pg.goto(B + `/guides/${guideList[0].slug}/`);
+    check(`guide offers "ask for a call" (${tag})`, (await pg.locator('.ask-cta a[href="/ask/?from=guide"]').count()) === 1, guideList[0].slug);
+    check(`guide with the link fits the screen (${tag})`, await pg.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1));
+    await Promise.all([pg.waitForURL(/\/ask\/\?from=guide/), pg.locator('.ask-cta a').click()]);
+    check(`guide link opens the form (${tag})`, (await pg.locator('#ask-area').count()) === 1 && (await pg.inputValue('#ask-area')) === '');
+  }
+  await pg.goto(B + '/payments/');
+  check(`pay overview offers "ask for a call" (${tag})`, (await pg.locator('.ask-cta a[href="/ask/?from=payments"]').count()) === 1);
+  {
+    const provs = JSON.parse(fs.readFileSync(path.resolve(import.meta.dirname, '../src/data/providers.json'), 'utf8'));
+    await pg.goto(B + `/agency/${provs[0].id}/`);
+    check(`a service's own profile never offers "ask for a call" (${tag})`, (await pg.locator('a[href^="/ask/"]').count()) === 0, provs[0].id);
   }
   for (const p of ['/packages/', '/guides/', '/payments/', '/news/', '/legal/privacy/']) {
     await pg.goto(B + p);
