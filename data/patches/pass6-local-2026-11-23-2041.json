@@ -1,0 +1,68 @@
+[
+  {
+    "id": "foster-care-associates-midlands",
+    "areasServed": [
+      "Dudley",
+      "Coventry",
+      "Wolverhampton",
+      "Walsall",
+      "Worcestershire",
+      "Staffordshire",
+      "Birmingham",
+      "Bromsgrove",
+      "Solihull",
+      "Stoke-on-Trent"
+    ],
+    "sources": [
+      {
+        "url": "https://www.thefca.co.uk/regions/west-midlands/",
+        "retrievedOn": "2026-11-23",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "FCA's own West Midlands region page, 'Areas we cover': Dudley, Coventry, Wolverhampton, Walsall, Worcestershire, Staffordshire, Birmingham, Bromsgrove, Solihull, Stoke-on-Trent. This is the Midlands service (SC045338, office at Stoke Prior, Bromsgrove), which listed no area before."
+  },
+  {
+    "id": "foster-care-associates-yorks-and-lincs",
+    "areasServed": [
+      "Leicester",
+      "Mansfield",
+      "Northampton",
+      "Nottingham",
+      "North Yorkshire",
+      "Peterborough",
+      "Scunthorpe",
+      "South Yorkshire",
+      "West Yorkshire"
+    ],
+    "sources": [
+      {
+        "url": "https://thefca.co.uk/regions/yorkshire/",
+        "retrievedOn": "2026-11-23",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "FCA's own Yorkshire and Lincolnshire page, 'Areas we cover in the Yorks and Lincs Region': Bradford, Derby, Doncaster, Hull, Leeds, Leicester, Mansfield, Northampton, Nottingham, North Yorkshire, Peterborough, Scunthorpe, Sheffield, South Yorkshire, West Yorkshire. Added the ones not already listed. Research only; no contact with any Nottingham or Notts body."
+  },
+  {
+    "id": "foster-care-associates-south-western",
+    "areasServed": [
+      "Dorset",
+      "Gloucestershire"
+    ],
+    "sources": [
+      {
+        "url": "https://www.thefca.co.uk/locations/devon/",
+        "retrievedOn": "2026-11-23",
+        "supports": [
+          "areasServed"
+        ]
+      }
+    ],
+    "notes": "FCA's own 'Fostering in Devon' page, 'Cities/towns we cover': Somerset, Gloucester, Bodmin, Plymouth, Cornwall, Swindon, Yeovil, Taunton, Dorset, Gloucestershire, Wiltshire. Dorset and Gloucestershire were the two not yet listed."
+  }
+]
