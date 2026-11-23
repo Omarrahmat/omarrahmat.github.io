@@ -188,3 +188,5 @@ kirklees-council-fostering, 2026-11-04, re-check: allowances page not found; why
 sefton-council-fostering, 2026-11-04, re-check: no 2026-27 fostering allowance decision found on the council site
 barking-and-dagenham-fostering-service, 2026-11-04, re-check: committee uplift report blocked to automated reading
 blackburn-with-darwen-council-fostering-service, 2026-11-04, re-check: annual uplift report still could not be opened
+brent-fostering, 2026-11-23, re-check (hand-off 515): table still dated only by an April 2025 increase, no 2026-27 label, and "up to £495" still does not match its own top figure of £502.43
+west-sussex-county-council-fostering, 2026-11-23, re-check: only published scheme with a scale is the April 2021 payment and accreditation scheme (2021/22 rates); 2026-27 fees and charges schedule has no fostering rates

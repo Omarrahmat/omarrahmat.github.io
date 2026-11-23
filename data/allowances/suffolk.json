@@ -1,0 +1,35 @@
+{
+  "slug": "suffolk",
+  "council": "Suffolk County Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-23",
+  "sourceUrl": "https://www.fosterandadopt.suffolk.gov.uk/asset-library/final-new-foster-carers-fees-and-allowance-2026-27.pdf",
+  "sourceTitle": "Allowances and fees 2026-2027 (The Fostering Service, Suffolk County Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 187 },
+    { "label": "5 to 10", "weekly": 206 },
+    { "label": "11 to 15", "weekly": 234 },
+    { "label": "16 to 17", "weekly": 274 }
+  ],
+  "fees": [
+    { "label": "Level 2, child aged 0 to 10", "weekly": 145 },
+    { "label": "Level 2, child aged 11 to 17", "weekly": 165 },
+    { "label": "Level 3, child aged 0 to 10", "weekly": 215 },
+    { "label": "Level 3, child aged 11 to 15", "weekly": 245 },
+    { "label": "Level 3, child aged 16 to 17", "weekly": 275 },
+    { "label": "Level 4, child aged 0 to 10", "weekly": 331 },
+    { "label": "Level 4, child aged 11 to 15", "weekly": 369 },
+    { "label": "Level 4, child aged 16 to 17", "weekly": 402 },
+    { "label": "Level 5, child aged 0 to 10", "weekly": 480 },
+    { "label": "Level 5, child aged 11 to 15", "weekly": 500 },
+    { "label": "Level 5, child aged 16 to 17", "weekly": 524 }
+  ],
+  "feesNote": "Suffolk uses a five-level tiered scheme: the child allowance is the same at every level, and from Level 2 a weekly carer fee is paid on top, rising with the level and, at most levels, with the child's age. Level 1 carries no fee. The council's fees page puts the total for its carers at £332 to £798 per child per week, which matches Levels 2 to 5 of this table.",
+  "extras": [
+    "Four additional payments a year, for the summer holiday, birthdays and Christmas or other festivals (the council does not publish the amounts)",
+    "Up to 21 paid nights a year so carers can take a break"
+  ],
+  "summary": "Suffolk pays a weekly child allowance in four age bands and, for carers at Levels 2 to 5 of its tiered scheme, a weekly fee on top, so the total for one child runs from £332 to £798 a week in 2026-27. Your social worker helps you find the level that fits from the first visit, carers can look after children at different levels at once, and you can move up the levels as you gain experience.",
+  "areaNames": ["Suffolk"]
+}
