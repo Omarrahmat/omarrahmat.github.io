@@ -1,28 +1,19 @@
 {
   "slug": "swansea",
-  "updatedOn": "2026-11-06",
+  "updatedOn": "2026-11-23",
   "paragraphs": [
-    "Swansea Council's fostering service is Foster Wales Swansea, one of the 22 local authority fostering teams that make up Foster Wales. It is a not-for-profit service, and when a Swansea child needs a foster home the council first looks to its own carers, turning to independent agencies such as those on this page when none of its carers is available. The council reports that 141 children were placed in foster care in 2023 to 2024, 30 of them with agency carers.",
-    "In February 2025 the Senedd passed a law that will remove private profit from children's residential and foster care in Wales, so in future care for looked-after children will be provided only by public, charitable or not-for-profit organisations. If you are comparing services, it is worth asking each one how this affects them.",
-    "Foster Wales Swansea says its fees and allowances are above the minimum rates set by the Welsh Government, with extra payments for birthdays, Christmas, holidays and religious festivals, and a weekly retainer for approved carers waiting to be matched. Carers have a supervising social worker, an out-of-hours support line, support groups (including groups for men who foster and for carers' own children), a buddy scheme and at least 15 hours of free training a year. You can start with weekends and school holidays and change your approval later.",
-    "Speak to the council and two or three of the services below before deciding which is right for you."
+    "Swansea Council's fostering service is Foster Wales Swansea, one of the 22 council fostering services that together make up Foster Wales, and the independent agencies shown above also cover the city. When a Swansea child needs a foster home the council's fostering team asks its own carers first and approaches agencies only when none of them is free. Its own figures for 2023-24 show 141 children placed in foster care, 30 of them with agency carers; of those 30, fourteen were in sibling groups, four were in parent and child placements, five were over 13 and seven were younger children with complex needs.",
+    "Those figures show where more local carers are wanted: brothers and sisters who need to stay together, parents who need support with a baby, teenagers and children with complex needs. Across Wales, Foster Wales reports around 4,875 children in foster care in March 2024 and 2,042 children needing a foster carer between April 2023 and March 2024, with council carers looking after around 74% of new placements.",
+    "In February 2025 the Senedd passed a law that removes private profit from children's residential and foster care in Wales, so in future that care will be provided only by public, charitable or not-for-profit organisations. If you are comparing services, ask each one how this affects them.",
+    "Foster Wales Swansea sets out seven steps: an enquiry, a home visit, a free two-day Skills to Foster course, an assessment with checks and references, a fostering panel and a decision usually within one to two weeks of panel, then matching. It says the whole process typically takes around four to six months, and that renting or owning your home, and being single or in a relationship, make no difference. You need a spare bedroom.",
+    "The council says its fees and allowances are above the Welsh Government minimum, with extra payments for birthdays, Christmas and holidays and a weekly fee while approved carers wait to be matched. Carers have a dedicated supervising social worker, a support line outside office hours, support groups including one for carers' own children, a buddy scheme and free training, at least 15 hours a year. Speak to the council and two or three of the services above, and see the Wales page and the Neath Port Talbot, Carmarthenshire and Bridgend pages for services nearby."
   ],
   "sources": [
-    {
-      "title": "Fostering in Swansea (Foster Wales Swansea)",
-      "url": "https://swansea.fosterwales.gov.wales/"
-    },
-    {
-      "title": "Fostering with Swansea Council versus a fostering agency (Foster Wales Swansea)",
-      "url": "https://swansea.fosterwales.gov.wales/fostering-with-swansea-council-versus-a-fostering-agency/"
-    },
-    {
-      "title": "Foster carer support (Foster Wales Swansea)",
-      "url": "https://swansea.fosterwales.gov.wales/foster-carer-support/"
-    },
-    {
-      "title": "How it works (Foster Wales Swansea)",
-      "url": "https://swansea.fosterwales.gov.wales/how-it-works/"
-    }
+    { "title": "Fostering with Swansea Council versus a fostering agency (Foster Wales Swansea)", "url": "https://swansea.fosterwales.gov.wales/fostering-with-swansea-council-versus-a-fostering-agency/" },
+    { "title": "Foster Wales Swansea", "url": "https://swansea.fosterwales.gov.wales/" },
+    { "title": "How to become a foster carer in Swansea: a step-by-step guide (Foster Wales Swansea)", "url": "https://swansea.fosterwales.gov.wales/the-process-of-becoming-a-foster-carer/" },
+    { "title": "Foster carer support (Foster Wales Swansea)", "url": "https://swansea.fosterwales.gov.wales/foster-carer-support/" },
+    { "title": "Types of foster care (Foster Wales Swansea)", "url": "https://swansea.fosterwales.gov.wales/types-of-fostering/" },
+    { "title": "Fostering statistics in Wales (Foster Wales)", "url": "https://fosterwales.gov.wales/fostering-statistics-wales/" }
   ]
 }
