@@ -1,0 +1,20 @@
+[
+  {
+    "id": "suffolk-fostering-service",
+    "areasServed": ["Ipswich"],
+    "sources": [
+      { "url": "https://www.eadt.co.uk/news/21394849.ipswich-can-help-make-dreams-come-true-children-care-ever-considered-fostering-adoption/", "retrievedOn": "2026-11-23", "supports": ["areasServed"] },
+      { "url": "https://fosterandadopt.suffolk.gov.uk/asset-library/2023-2024-fostering-statement-of-purpose1.pdf", "retrievedOn": "2026-11-23", "supports": ["areasServed"] }
+    ],
+    "notes": "Suffolk County Council is the children's services authority for Ipswich. Its fostering and adoption teams' joint recruitment campaign (EADT report) says that in Ipswich alone 80 foster carers are needed for the town's children in care, with the council's fostering contact details. The council's fostering statement of purpose gives the service's address at Endeavour House, Ipswich. Added the plain town name beside 'Suffolk'."
+  },
+  {
+    "id": "devon-county-council-fostering",
+    "areasServed": ["Exeter"],
+    "sources": [
+      { "url": "https://www.devon.gov.uk/news/local-people-invited-explore-fostering-exeter-event/", "retrievedOn": "2026-11-23", "supports": ["areasServed"] },
+      { "url": "https://www.devon.gov.uk/children-families-education/news/new-approach-recruiting-foster-carers-devon-showing-early-impact/", "retrievedOn": "2026-11-23", "supports": ["areasServed"] }
+    ],
+    "notes": "Devon County Council is the children's services authority for Exeter. Its own news (17 Mar 2026) says Fostering Devon held its Hearts and Homes recruitment event in Exeter, open to anyone thinking about fostering; its 21 May 2026 news on recruiting foster carers names the Exeter conference as part of that approach. Added the plain city name beside 'Devon'."
+  }
+]
