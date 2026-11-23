@@ -1,0 +1,10 @@
+[
+  {
+    "id": "foster-care-associates-north-east",
+    "areasServed": ["Stockton-on-Tees"],
+    "sources": [
+      { "url": "https://www.thefca.co.uk/?p=922", "retrievedOn": "2026-11-23", "supports": ["areasServed"] }
+    ],
+    "notes": "FCA's own 'Fostering in Stockton' location page (canonical thefca.co.uk/locations/stockton/) invites people who live in Stockton or the surrounding areas to foster with FCA, offers 24/7 fostering support in Stockton, and is run by its team supporting foster parents across the North East. The service already lists 'Stockton'; added the borough name our pages use, 'Stockton-on-Tees' (the only Stockton in the North East), so the Stockton-on-Tees council pay page has an area page."
+  }
+]
