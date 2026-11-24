@@ -1,0 +1,14 @@
+[
+  {
+    "id": "foster-care-associates-eastern",
+    "areasServed": ["Ipswich", "Colchester", "Great Yarmouth"],
+    "sources": [{"url": "https://thefca.co.uk/regions/eastern/", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "FCA's own 'Fostering in the East of England' page lists under 'Areas we cover': Suffolk, Norfolk, Colchester, Norwich, Ipswich, Essex, Great Yarmouth. Ipswich, Colchester and Great Yarmouth were missing; the rest are already listed."
+  },
+  {
+    "id": "fosterplus",
+    "areasServed": ["Luton"],
+    "sources": [{"url": "https://fosterplus.co.uk/locations/luton", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Fosterplus's own 'Fostering in Luton' page (canonical https://www.fosterplus.co.uk/locations/luton/) says it has provided fostering services in Luton for many years and is always looking for homes for children and young people in Luton. Bedford is not named, so not added."
+  }
+]
