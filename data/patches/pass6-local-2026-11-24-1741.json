@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fosterplus",
+    "areasServed": ["Northamptonshire"],
+    "sources": [{"url": "https://www.fosterplus.co.uk/?p=1293", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Fosterplus's own 'Fostering in Northamptonshire' page (canonical /locations/northamptonshire/) says it is always looking for homes for children and young people in Northamptonshire and has provided fostering services in Northamptonshire for many years. County only: no town or unitary area (North or West Northamptonshire) is named, so none is added."
+  },
+  {
+    "id": "team-fostering-yorkshire-east-midlands",
+    "areasServed": ["Bradford"],
+    "sources": [{"url": "https://teamfostering.co.uk/why-us/areas-we-cover/yorkshire/", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Team Fostering's own 'Fostering in Yorkshire' areas-we-cover page says it supports foster carers in Sheffield, Rotherham, Doncaster, Barnsley, Huddersfield, Bradford and surrounding areas. Only Bradford was missing; the others are already listed."
+  }
+]
