@@ -1,24 +1,20 @@
 {
   "slug": "wolverhampton",
-  "updatedOn": "2026-11-09",
+  "updatedOn": "2026-11-24",
   "paragraphs": [
-    "City of Wolverhampton Council recruits and supports its own carers through its Fostering for Wolverhampton service. The council reported that in March 2023 there were 218 fostering households caring for 274 local children and young people, while 104 children lived with independent agency foster parents, such as those listed on this page.",
-    "The council asks carers to live within about 20 miles of the city and to have a spare bedroom, and says assessment can take as little as 16 weeks. It has appealed in particular for carers who can keep brothers and sisters together, and in the right circumstances it can help sibling carers buy a larger vehicle.",
-    "Carers receive a regular tax-exempt fee and allowance. New carers are matched with an experienced foster parent through a buddy system, supervising social workers give closer support in the first weeks of a placement, and help is available around the clock. The council also runs social events and a peer support network for its carers.",
-    "Before deciding, compare what the council offers with two or three of the agencies below, and ask each about pay, training and support in Wolverhampton."
+    "City of Wolverhampton Council recruits and supports its own carers through Fostering for Wolverhampton, and some of the city's children live with independent agencies such as those shown above. The council's annual report for 2022 to 2023 recorded 218 fostering households caring for 274 children and young people in March 2023, while 104 children lived with foster parents approved by external agencies. The same report noted that fostering was rated good by Ofsted as part of a wider inspection of children's services.",
+    "The council says what matters is a safe, nurturing home rather than your circumstances: you do not need to be married, own your home or have children of your own, and carers can be single, married or in a relationship, working or not. Its annual report asked carers to live within 20 miles of the city and have a spare bedroom, and said the process can take as little as 16 weeks. Placements run from a few days to several years.",
+    "Support is built around the first weeks. New carers have intensive support from a supervising social worker for the first six weeks of a placement and monthly visits after that, a buddy who is already fostering, help around the clock and a regular, tax-exempt fee and allowance. Carers of brothers and sisters can, in the right circumstances, ask for help to buy a larger vehicle. The council has also recruited hub carers, experienced carers within 30 miles of the city who lead a small group of fostering families, giving advice, training and overnight respite in return for an enhanced package.",
+    "Wolverhampton works with Dudley, Sandwell and Walsall in Black Country Fostering, a regional hub the government named as one of four new fostering hubs in England. It offers one point of contact for information and advice, an ambassador scheme to talk with experienced carers, and training for carers already fostering (blackcountryfostering.org.uk, 0800 923 3706). The council's own team is on 01902 551133.",
+    "Fostering for the council means caring for Wolverhampton's own children with the team that plans for them; an agency recruits and supports its own carers and takes referrals from councils. Talk to the council and two or three of the agencies above before you decide."
   ],
   "sources": [
-    {
-      "title": "Fostering annual report reveals 2022 to 2023 highlights (City of Wolverhampton Council)",
-      "url": "https://www.wolverhampton.gov.uk/news/fostering-annual-report-reveals-2022-2023-highlights"
-    },
-    {
-      "title": "Financial help on offer for foster carers of sibling groups (City of Wolverhampton Council)",
-      "url": "https://www.wolverhampton.gov.uk/news/financial-help-offer-foster-carers-sibling-groups"
-    },
-    {
-      "title": "Make a difference with Fostering for Wolverhampton (City of Wolverhampton Council)",
-      "url": "https://www.wolverhampton.gov.uk/news/make-difference-fostering-wolverhampton-2"
-    }
+    { "title": "Fostering annual report reveals 2022 to 2023 highlights (City of Wolverhampton Council)", "url": "https://wolverhampton.gov.uk/news/fostering-annual-report-reveals-2022-2023-highlights" },
+    { "title": "Fostering and adoption (City of Wolverhampton Council)", "url": "https://wolverhampton.gov.uk/health-and-social-care/children-social-care/fostering-and-adoption" },
+    { "title": "Change a child's life with Fostering for Wolverhampton (City of Wolverhampton Council)", "url": "https://www.wolverhampton.gov.uk/news/change-childs-life-fostering-wolverhampton-0" },
+    { "title": "Financial help on offer for foster carers of sibling groups (City of Wolverhampton Council, 16 November 2017)", "url": "https://wolverhampton.gov.uk/news/financial-help-offer-foster-carers-sibling-groups" },
+    { "title": "New fostering scheme: Foster Families United By You (City of Wolverhampton Council)", "url": "https://wolverhampton.gov.uk/news/new-fostering-scheme-can-be-supported-you" },
+    { "title": "Black Country councils unite to establish regional fostering hub (Sandwell Children's Trust)", "url": "https://www.sandwellchildrenstrust.org/?p=64391" },
+    { "title": "Black Country councils join forces to recruit more foster carers (Express & Star)", "url": "https://www.expressandstar.com/your-world/black-country-recruit-foster-carers-9348682" }
   ]
 }
