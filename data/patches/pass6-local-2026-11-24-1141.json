@@ -1,0 +1,26 @@
+[
+  {
+    "id": "compass-fostering-east",
+    "areasServed": ["Norwich"],
+    "sources": [{"url": "https://www.compassfostering.com/locations/norwich-foster-care/", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Compass Fostering's own 'Fostering in Norwich' page, located in its Compass Fostering East region: says there is an urgent need for more foster carers in Norwich and that its local office helps people interested in fostering in Norwich."
+  },
+  {
+    "id": "nexus-fostering-home-counties-and-east-london",
+    "areasServed": ["Norwich", "Ipswich"],
+    "sources": [{"url": "https://www.nexusfostering.co.uk/office-locations/norwich", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Nexus Fostering's own Norwich (Anglia regional) office page: actively recruiting foster carers in Norfolk and Suffolk, including Norwich, Great Yarmouth, Swaffham, Thetford, Stowmarket, Ipswich and Lowestoft. Added to the Nexus entry that already lists East Anglia."
+  },
+  {
+    "id": "capstone-foster-care-uk-london",
+    "areasServed": ["Slough"],
+    "sources": [{"url": "https://www.capstonefostercare.co.uk/location/fostering-slough", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Capstone Foster Care's own 'Foster in Slough' page: recruiting foster carers, working in partnership with Slough Borough Council and serving local areas of Slough (Burnham, Chalvey, Cippenham, Langley, Upton and others); links to its South East local office, the Capstone entry that lists South East."
+  },
+  {
+    "id": "orange-grove-fostercare-southern-counties",
+    "areasServed": ["Slough", "Reading", "Wokingham", "Windsor and Maidenhead"],
+    "sources": [{"url": "https://www.orangegrovefostercare.co.uk/offices/bracknell-forest/", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Orange Grove Foster Care's own Bracknell Forest page (Southern Counties team): its Bracknell Forest training centre supports families across Berkshire including Slough, Maidenhead, Woodley and Reading, and it also supports families fostering in Wokingham and Windsor. Entry already lists Berkshire."
+  }
+]
