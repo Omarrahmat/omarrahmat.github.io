@@ -1,0 +1,23 @@
+[
+  {
+    "id": "three-circles-fostering",
+    "areasServed": ["Lancashire", "Morecambe", "Lancaster", "Blackpool", "Preston", "Blackburn", "Burnley", "Chorley", "Accrington"],
+    "sources": [{"url": "https://www.threecirclesfostering.com/fosteringareas/fostering-in-lancashire", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Three Circles Fostering's own 'Fostering in Lancashire' page (Ofsted SC443768 in its footer) says it has over 20 years recruiting and supporting foster carers and names the Lancashire towns it covers, including Blackpool, Blackburn, Preston, Burnley, Lancaster, Chorley, Accrington and Morecambe. The service listed no area before. Cheshire, which the page also mentions, is not added."
+  },
+  {
+    "id": "sunbeam-fostering-agency",
+    "areasServed": ["Morecambe", "Aldershot"],
+    "sources": [
+      {"url": "https://sunbeamfostering.com/fostering-in-morecambe/", "retrievedOn": "2026-11-24", "supports": ["areasServed"]},
+      {"url": "https://sunbeamfostering.com/fostering-in-aldershot/", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}
+    ],
+    "notes": "Sunbeam's own 'Fostering in Morecambe' page says it provides local support for carers in Morecambe. Aldershot: see second source. Its own 'Fostering in Aldershot' page says it provides local support for carers in Aldershot and surrounding areas through its head office in Langley."
+  },
+  {
+    "id": "capstone-foster-care-uk-london",
+    "areasServed": ["Aldershot"],
+    "sources": [{"url": "https://www.capstonefostercare.co.uk/location/fostering-aldershot", "retrievedOn": "2026-11-24", "supports": ["areasServed"]}],
+    "notes": "Capstone Foster Care's own 'Fostering Aldershot' page says it is constantly recruiting new carers and is servicing areas of Aldershot. Added to the Capstone entry that lists South East (as with its Slough page on 24 Nov)."
+  }
+]
