@@ -432,3 +432,18 @@ recheck fosterplus-scotland, 2026-11-24 am, confirmed askus.edinburgh@fosterplus
 recheck isp-southampton, 2026-11-24 am, sussex@ispfostering.org.uk is the ISP Sussex registration address in its statement of purpose PDF, which covers the Southampton (Hampshire & Dorset) office; no Southampton address published (seq 308)
 recheck apex-fostering, 2026-11-24 am, info@apexfostering.uk still shown on apexfostering.uk/contact-apex-fostering/ despite bounce; only other address is socmedia@ (media); no second address queued
 apple-fostering-services, 2026-11-24, blocked by recipient's mail rule, 23 Nov; never queue again
+recheck together-for-children-sunderland-fostering, 2026-11-24 pm, confirmed fostering@togetherforchildren.org.uk only in Fostering Information Pack PDF (c.2022) on togetherforchildren.org.uk; get-in-touch page would not open (seq 270, held)
+recheck clackmannanshire-council-fostering, 2026-11-24 pm, confirmed fosteradopt@clacks.gov.uk in fostering information pack clacks.gov.uk/document/7117.pdf; HTML fostering pages show only customerservice@ footer (seq 273, held)
+recheck east-lothian-council-fostering, 2026-11-24 pm, confirmed fostering@eastlothian.gov.uk in Foster East Lothian enquiry pack PDF on eastlothian.gov.uk (seq 277, held)
+recheck aim-high-fostering-services, 2026-11-24 pm, none published (statement of purpose and journey pages: phone and form; home, about, privacy would not open)
+recheck chrysalis-consortium, 2026-11-24 pm, none published (transfer, info evening and allowance pages: phone only; contact page would not open)
+recheck time-out-fostering, 2026-11-24 pm, none published (home, about, contact: phone and form only)
+recheck fostering-uk, 2026-11-24 pm, none published (home and team pages: phone and form only)
+recheck solace-fostering, 2026-11-24 pm, none usable (only named founders' addresses on another domain)
+recheck sparks-fostering, 2026-11-24 pm, none readable (all addresses hidden by email protection)
+recheck xcel-2000-fostercare-services, 2026-11-24 pm, none published (contact, FAQ, complaints: forms and phone only)
+recheck quarriers-fostering, 2026-11-24 pm, found fostering@quarriers.org.uk (main.carers.quarriers.org.uk/how-we-help/fostering/, Quarriers Fostering contact; queued seq 317)
+recheck pathway-care-calon-cymru, 2026-11-24 pm, none published (contact, press, Cardiff office: form and phone only)
+recheck kindercare-fostering-northern-ireland, 2026-11-24 pm, none published (home, contact, FAQ: phone only; enquiry links go to National Fostering Group)
+recheck coram-fostering-service, 2026-11-24 pm, none current (contact page no fostering address; only adoption@ in 2015 Ofsted report)
+recheck the-fostering-foundation, 2026-11-24 pm, none usable (contact form only; privacy page shows only a named person's address)
