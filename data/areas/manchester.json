@@ -1,24 +1,21 @@
 {
   "slug": "manchester",
-  "updatedOn": "2026-11-04",
+  "updatedOn": "2026-11-24",
   "paragraphs": [
-    "Children in care in Manchester are looked after by Manchester City Council's own fostering service and by the independent agencies listed on this page. The council is one of the ten Greater Manchester councils in Foster for Greater Manchester, a partnership run with the Greater Manchester Combined Authority to grow the number of foster carers. Enquiries made through the partnership get a reply within one working day.",
-    "The partnership says people of any age over 21, sexuality, gender, marital status, employment status, religion or background can foster. You need to be able to care for children, have a suitable home that you own or rent securely, and have good spoken and written English. In October 2023 the lead councillors for children's services in all ten councils signed a pledge to support their foster carers.",
-    "Manchester is looking for emergency foster carers who can take a child at short notice for up to two weeks while the council decides whether they can go home or need a longer-term family. The council says emergency carers receive up to £580 a week depending on the child's age, with a dedicated social worker and on-call help around the clock. Experience of children with emotional difficulties, for example from childcare, schools or residential care, is helpful.",
-    "Council carers also get a support team, local support networks, training and a route to progress. Agencies set their own fees and support, so compare the council with two or three of the agencies below before you choose."
+    "Children in care in Manchester are looked after by Manchester City Council's own fostering service and by the independent agencies shown above. The council says it wants the city to become one of the best places in the UK for children to grow up, and it welcomes carers who are single, married, working, retired or renting. First enquiries go through the Foster for Greater Manchester form, which the city-region's councils share.",
+    "The need is spelled out in Greater Manchester's market position statement: there are not enough foster carers across the city-region, there are fewer council and agency carers than in 2020, and the rise in children in care has been driven by 10 to 15 year olds, so carers for teenagers are wanted most. It also asks for more specialist homes for children with complex health needs and disabilities, and for sibling groups. Manchester's own recruitment and retention strategy, reported to councillors in June 2023, recorded 22 new foster families approved in 2022-23, double the year before, and said the council still needed more carers who can meet children's cultural needs; it took information events to Beswick, Hulme, Moss Side, Levenshulme and local mosques.",
+    "Alongside short and long-term care, the council recruits emergency carers, known as buzz carers, who take a child at any hour, usually for up to two weeks, while social workers plan what happens next; experience of children with emotional difficulties from childcare, schools or residential work helps. It also needs short-break carers for disabled children, for days, weekends or holidays, and says no special qualifications are needed. Parent and child, step-across, sleepover fostering, supported lodgings and care for young people seeking asylum are other options.",
+    "The council's process takes about six months: two months to learn about fostering, with a suitability call, a home visit and the Skills to Foster course, then four months of checks, home visits for the Form F report, the fostering panel and the agency decision maker. Approved carers get a social worker, regular visits, 24-hour phone support, meet-ups and groups for their own children, and can join Mockingbird or the carer-led Manchester hives.",
+    "Fostering for the council means caring for Manchester's own children with its social workers; an agency assesses, trains and supports you itself and offers homes to councils that need them. We have not published Manchester's pay rates, so ask the council and two or three of the services above what they pay. The Salford, Trafford, Stockport, Tameside and Greater Manchester pages list services nearby."
   ],
   "sources": [
-    {
-      "title": "Foster for Greater Manchester (Greater Manchester Combined Authority)",
-      "url": "https://greatermanchester-ca.gov.uk/what-we-do/children-and-young-people/foster-for-greater-manchester"
-    },
-    {
-      "title": "Become an emergency foster carer (Manchester City Council)",
-      "url": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/become-an-emergency-foster-carer"
-    },
-    {
-      "title": "Why you should foster with us (Manchester City Council)",
-      "url": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/why-you-should-foster-with-us"
-    }
+    { "title": "Market position statements: foster care (Greater Manchester Combined Authority, Children's Sufficiency Observatory)", "url": "https://greatermanchester-ca.gov.uk/what-we-do/children-and-young-people/childrens-sufficiency-observatory/market-position-statements" },
+    { "title": "Fostering Recruitment and Retention Strategy 2023-25, report to Children and Young People Scrutiny Committee, 21 June 2023 (Manchester City Council)", "url": "https://democracy.manchester.gov.uk/documents/s40699/Fostering.pdf" },
+    { "title": "Why you should foster with us (Manchester City Council)", "url": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/why-you-should-foster-with-us" },
+    { "title": "Become an emergency foster carer (Manchester City Council)", "url": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/become-an-emergency-foster-carer" },
+    { "title": "Emergency fostering: buzz carers (Manchester City Council)", "url": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/types-of-fostering/short-term-fostering/emergency-fostering-buzz-carers" },
+    { "title": "Fostering: give a disabled child a short break (Manchester City Council)", "url": "https://www.manchester.gov.uk/foster_shortbreaks" },
+    { "title": "How the fostering process works (Manchester City Council)", "url": "https://www.manchester.gov.uk/social-services/childrens-services/fostering/how-the-fostering-process-works" },
+    { "title": "Help and support for foster carers (Manchester City Council)", "url": "https://www.manchester.gov.uk/info/159/fostering/9013/help_and_support_for_foster_carers" }
   ]
 }
