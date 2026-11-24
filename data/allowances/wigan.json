@@ -1,0 +1,25 @@
+{
+  "slug": "wigan",
+  "council": "Wigan Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-24",
+  "sourceUrl": "https://www.wigan.gov.uk/Docs/PDF/Resident/Health-Social-Care/Children-and-young-people/Fostering/Fostering-allowances-and-fees-for-foster-carers-booklet.pdf",
+  "sourceTitle": "Fostering Allowances and Fees for Foster Carers, with effect from 06/04/2026 (Wigan Council)",
+  "allowances": [
+    { "label": "0 to 2", "weekly": 176, "note": "Tier 1 maintenance payment" },
+    { "label": "3 to 4", "weekly": 182, "note": "Tier 1 maintenance payment" },
+    { "label": "5 to 10", "weekly": 201, "note": "Tier 1 maintenance payment" },
+    { "label": "11 to 15", "weekly": 227, "note": "Tier 1 maintenance payment" },
+    { "label": "16 to 17", "weekly": 267, "note": "Tier 1 maintenance payment" }
+  ],
+  "extras": [
+    "Tier 2, newly approved carers: £296.23 (0 to 2), £306.15 (3 to 4), £328.39 (5 to 10), £371.36 (11 to 15) and £418.29 (16 to 17) a week per child, as the booklet lists them",
+    "Tier 3, experienced carers: £373.69 (0 to 2), £386.25 (3 to 4), £414.20 (5 to 10), £467.61 (11 to 15) and £518.71 (16 to 17) a week per child, as the booklet lists them",
+    "A higher Tier 4 for specialist carers",
+    "Birthday and festival allowances of £176 to £267 and a holiday allowance of £352 to £534, by age",
+    "Initial equipment payment of £550 per child on first approval, and mileage at 45p a mile"
+  ],
+  "summary": "Wigan's booklet for 2026-27 sets out weekly payments in four tiers by the child's age: Tier 1 is the maintenance payment, listed for carers approved on a temporary basis before a full assessment, and newly approved, experienced and specialist carers are paid at Tiers 2 to 4. The booklet does not say whether the Tier 2 to 4 figures include the maintenance payment, so ask Wigan's fostering team how your weekly total would be made up.",
+  "areaNames": ["Wigan"]
+}

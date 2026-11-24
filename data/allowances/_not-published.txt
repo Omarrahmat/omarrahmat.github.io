@@ -197,3 +197,12 @@ hartlepool-borough-council-fostering, 2026-11-24, re-check: payments page still 
 foster-wales-powys, 2026-11-24, re-check: page still gives one allowance figure and a fee range, no age bands or year
 shropshire-fostering, 2026-11-24, re-check: September 2026 cabinet report proposes 2026-27 skills payments but gives no allowance figures and no decision is shown
 bradford-children-and-families-trust-fostering, 2026-11-24, re-check: a "current foster carer payments 2026-2027" document on the trust's procedures site could not be opened
+fostering-southampton, 2026-11-24, re-check: allowances and skills fees page still dated from August 2024 (extras 2024/2025)
+foster-with-gateshead, 2026-11-24, re-check: payments page still gives rates from 1 April 2024
+cambridgeshire-fostering-service, 2026-11-24, re-check: finances page still states no year and gives one combined table by skill level
+stockport-council-fostering, 2026-11-24, re-check: payments page still states no year and no fee split
+trafford-council-fostering, 2026-11-24, re-check: pay page still headed 2025 to 2026
+lambeth-fostering, 2026-11-24, re-check: fees page still states no year
+bexley-fostering, 2026-11-24, re-check: payments page still states no year for its rates
+east-riding-of-yorkshire-council-fostering, 2026-11-24, re-check: procedures chapter (updated Dec 2023) gives structure only, no figures
+fostering-hampshire-children, 2026-11-24, re-check: newest decision report found is for 2011/12; no current scale
