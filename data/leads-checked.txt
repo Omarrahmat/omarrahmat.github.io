@@ -417,3 +417,18 @@ recheck foster-care-associates-northern-ireland, 2026-11-23 pm, found contactus@
 recheck compass-fostering-central, 2026-11-23 pm, none published (compassfostering.com home, contact-us and Wales pages: phone and forms only)
 recheck compass-fostering-south, 2026-11-23 pm, none published (compassfostering.com home, contact-us and Wales pages: phone and forms only)
 recheck compass-fostering-wales, 2026-11-23 pm, none published (compassfostering.com home, contact-us and Wales pages: phone and forms only)
+recheck belfast-hsc-trust-fostering, 2026-11-24 am, confirmed hello@adoptionandfostercare.hscni.net (adoptionandfostercare.hscni.net/getintouch and belfasttrust.hscni.net/service/foster-care/; seq 300)
+recheck foster-care-matters, 2026-11-24 am, not confirmed (fostercarematters.org.uk shows only a bot-verification screen; seq 306 stays held)
+recheck olive-branch-fostering, 2026-11-24 am, confirmed admin@olivebranchfostering.co.uk only in statement of purpose PDF July 2025 on olivebranchfostering.co.uk; contact-us and enquire pages phone and form only (seq 307)
+recheck fostering-people, 2026-11-24 am, not found (fosteringpeople.co.uk transfer, locations and IFA pages: phone and forms only; seq 309 stays held)
+recheck ealing-fostering-connections, 2026-11-24 am, confirmed foster@ealing.gov.uk (ealing.gov.uk/a_to_z/service/287/fostering and ealing.gov.uk/fosteradopt; seq 310)
+recheck cheshire-east-council-fostering, 2026-11-24 am, confirmed fostering@cheshireeast.gov.uk (cheshireeast.gov.uk/fostering/recruitment-champion-ambassadors.aspx; main journey page routes to Foster4 hub; seq 311)
+recheck derbyshire-county-council-fostering, 2026-11-24 am, confirmed fostering@derbyshire.gov.uk (schoolsnet.derbyshire.gov.uk foster-caring-in-derbyshire page; main page gives regional hub address; seq 312)
+recheck foster-with-bucks, 2026-11-24 am, confirmed fostering@buckinghamshire.gov.uk (information pack PDF on media.buckinghamshire.gov.uk; get-in-touch page phone and form only; seq 313)
+recheck foster-with-gateshead, 2026-11-24 am, confirmed fosteringteam@gateshead.gov.uk (gateshead.gov.uk/article/8459 fostering privacy notice; get-in-touch page would not open; seq 314)
+recheck brighton-and-hove-city-council-fostering, 2026-11-24 am, weak: fosteringrecruitment@brighton-hove.gov.uk only in Dec 2025 booklet PDF on mta-sts.brighton-hove.gov.uk mirror; main-domain fostering pages show no address (seq 315)
+recheck foster-care-associates-eastern, 2026-11-24 am, not confirmed: contactus@thefca.co.uk not on thefca.co.uk home, about, region, privacy or media pages today (only press@ on media page; enquiry form and phone); seq 316 should be held
+recheck fosterplus-scotland, 2026-11-24 am, confirmed askus.edinburgh@fosterplus.co.uk (fosterplus.co.uk/young-persons-hub/contact-details/, Head Office Scotland; seq 208)
+recheck isp-southampton, 2026-11-24 am, sussex@ispfostering.org.uk is the ISP Sussex registration address in its statement of purpose PDF, which covers the Southampton (Hampshire & Dorset) office; no Southampton address published (seq 308)
+recheck apex-fostering, 2026-11-24 am, info@apexfostering.uk still shown on apexfostering.uk/contact-apex-fostering/ despite bounce; only other address is socmedia@ (media); no second address queued
+apple-fostering-services, 2026-11-24, blocked by recipient's mail rule, 23 Nov; never queue again
