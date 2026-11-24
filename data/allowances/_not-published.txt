@@ -190,3 +190,10 @@ barking-and-dagenham-fostering-service, 2026-11-04, re-check: committee uplift r
 blackburn-with-darwen-council-fostering-service, 2026-11-04, re-check: annual uplift report still could not be opened
 brent-fostering, 2026-11-23, re-check (hand-off 515): table still dated only by an April 2025 increase, no 2026-27 label, and "up to £495" still does not match its own top figure of £502.43
 west-sussex-county-council-fostering, 2026-11-23, re-check: only published scheme with a scale is the April 2021 payment and accreditation scheme (2021/22 rates); 2026-27 fees and charges schedule has no fostering rates
+havering-fostering, 2026-11-24, re-check: only scale is 2023-24; November 2025 cabinet report proposes a rise but its tables are not readable and no 2026-27 scale is published
+city-of-york-council-fostering, 2026-11-24, re-check: "Fees and Allowances 2026/27" budget annex shows only 2025/26 allowances and undated skill fees
+telford-fostering, 2026-11-24, re-check: 2026-27 social care fees letter covers adult services only, no fostering figures
+hartlepool-borough-council-fostering, 2026-11-24, re-check: payments page still headed 2024 allowances, fees undated
+foster-wales-powys, 2026-11-24, re-check: page still gives one allowance figure and a fee range, no age bands or year
+shropshire-fostering, 2026-11-24, re-check: September 2026 cabinet report proposes 2026-27 skills payments but gives no allowance figures and no decision is shown
+bradford-children-and-families-trust-fostering, 2026-11-24, re-check: a "current foster carer payments 2026-2027" document on the trust's procedures site could not be opened
