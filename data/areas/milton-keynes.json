@@ -1,15 +1,37 @@
 {
   "slug": "milton-keynes",
-  "updatedOn": "2026-11-02",
+  "updatedOn": "2026-11-25",
   "paragraphs": [
-    "Children in care in Milton Keynes are looked after by Milton Keynes City Council's fostering service and by the independent agencies listed on this page. In May 2026 the council said it had 120 foster carers looking after 185 children, from babies and sibling groups to teenagers and children with complex needs, and that it needs more carers for both short and long-term placements so that children can stay close to home.",
-    "The council offers short-term, long-term, emergency, parent and child and respite fostering, and supported lodgings for young people aged 16 to 21 who are getting ready to live independently. It says it needs more carers for unaccompanied asylum-seeking children, and has a constant need for supported lodgings hosts. You can be single, married or in a couple, renting or owning your home, as long as you are at least 21 and have a spare bedroom. Parenting experience helps but is not essential, and many carers keep working.",
-    "Under its 2026/27 payment scheme, Milton Keynes pays a weekly allowance for each child from £203 for a child under five to £298 for a 16 or 17 year old, plus a weekly professional fee per child that starts at £169.50 for newly approved carers and rises through the tiers. The council also mentions specialist training, a mentoring scheme and support around the clock. Our Milton Keynes allowance page has the full figures, including birthday, festival and holiday payments.",
-    "Agencies set their own fees and support, so speak to the council and two or three of the agencies below, and ask each about training and out-of-hours help, before you choose."
+    "In May 2026 Milton Keynes City Council had 120 of its own foster carers looking after 185 children, from babies and toddlers to sibling groups, children with complex needs and teenagers, and it said more carers are needed for both short and long-term care. The independent agencies shown above also list Milton Keynes among the places they cover. Fostering for the council means caring for the city's own children with its social workers; an agency recruits and supports its own carers and offers homes to councils.",
+    "The council's aim, set out in its commissioning intentions, is to give children the best care in Milton Keynes or as close to it as possible. It works with independent agencies through the South Central framework and holds regular forums with local providers, and in July 2025 it asked agencies how they could help build more local homes for children in its care, including enhanced foster placements for children who might otherwise go into a children's home.",
+    "The council offers short-term, long-term, emergency, parent and child and respite fostering, and supported lodgings for young people aged 16 to 21, for which it says the need is constant. It also wants more carers for unaccompanied asylum-seeking children. You need to be at least 21 and have a spare bedroom; you can be single, married or in a couple, and rent or own your home.",
+    "Its statement of purpose for 2024-25 describes the route: a reply to your enquiry within one working day, a home visit within ten working days, and an assessment it aims to finish within six months. New carers are offered a mentor, there are monthly support groups (including one for kinship carers), out-of-hours help by phone and a Milton Keynes foster carers' association.",
+    "Our Milton Keynes allowance page sets out the council's 2026/27 scheme, which applies from 6 April 2026: a weekly allowance for each child from £203 for under-fives to £298 for 16 and 17-year-olds, plus a weekly professional fee per child that starts at £169.50 for newly approved carers at Tier 1 and reaches £550 at Tier 4. There is also a yearly festival payment of £83 to £207 by age and up to £517 per child a year towards a family holiday, on request. Speak to the council and two or three of the services above before you choose, and see the Bedford, Bedfordshire, Buckinghamshire, Northampton and Luton pages if you live near the city's edge."
   ],
   "sources": [
-    { "title": "Foster Care Fortnight: answering your questions about fostering (Milton Keynes City Council)", "url": "https://www.milton-keynes.gov.uk/news/2026/foster-care-fortnight-answering-your-questions-about-fostering" },
-    { "title": "Types of fostering (Milton Keynes City Council)", "url": "https://milton-keynes.gov.uk/children-young-people-and-families/fostering/types-fostering" },
-    { "title": "Milton Keynes foster carer allowance 2026-27 (Fostering Today)", "url": "https://fosteringtoday.com/fostering-allowance/milton-keynes/" }
+    {
+      "title": "Foster Care Fortnight: answering your questions about fostering (Milton Keynes City Council, 12 May 2026)",
+      "url": "https://www.milton-keynes.gov.uk/news/2026/foster-care-fortnight-answering-your-questions-about-fostering"
+    },
+    {
+      "title": "Types of fostering (Milton Keynes City Council)",
+      "url": "https://milton-keynes.gov.uk/children-young-people-and-families/fostering/types-fostering"
+    },
+    {
+      "title": "Fostering Service Statement of Purpose 2024-25 (Milton Keynes City Council)",
+      "url": "https://www.milton-keynes.gov.uk/sites/default/files/2024-10/Fostering%20Statement%20of%20Purpose%2024-25.pdf"
+    },
+    {
+      "title": "Commissioning Intentions, Children and Young People 2023-25, updated December 2024 (Milton Keynes City Council)",
+      "url": "https://www.milton-keynes.gov.uk/sites/default/files/2025-01/Commissioning%20Intentions%20Children%20%26%20Young%20People%202023-25%20%28Updated%20December%202024%29.pdf"
+    },
+    {
+      "title": "Independent Foster Care: Local Homes for Local Children (Find a Tender, July 2025)",
+      "url": "https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-0557e5"
+    },
+    {
+      "title": "Milton Keynes foster carer allowance 2026-27 (Fostering Today)",
+      "url": "https://fosteringtoday.com/fostering-allowance/milton-keynes/"
+    }
   ]
 }
