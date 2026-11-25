@@ -178,7 +178,7 @@ fs.rmSync(tmp, { recursive: true, force: true });
       if (e.services.some((s) => s.id === p.id)) continue;
       const q = a.toLowerCase();
       const placed = p.tier !== 'free' && !p.enquiriesTo && (p.placementAreas || []).some((x) => x.toLowerCase().includes(q) || q.includes(x.toLowerCase()));
-      e.services.push({ id: p.id, name: p.name, type: p.providerType === 'local_authority' ? 'council' : p.providerType === 'independent_agency' ? 'agency' : 'other', placed });
+      e.services.push({ id: p.id, name: p.name, type: p.providerType === 'local_authority' ? 'council' : p.providerType === 'independent_agency' ? 'agency' : 'other', placed, nation: p.nation });
     }
   }
   fs.writeFileSync(path.join(out, 'area-services.json'), JSON.stringify({ areas: areasOut }));
