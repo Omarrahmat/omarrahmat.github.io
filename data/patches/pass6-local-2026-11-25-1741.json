@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fosterplus",
+    "areasServed": ["Bedfordshire", "Buckinghamshire", "Oxfordshire", "Cambridge", "Reading", "Dunstable", "High Wycombe", "Aylesbury", "Hertfordshire", "Hatfield", "Hitchin", "Stevenage", "St Albans", "Slough", "Watford"],
+    "sources": [{"url": "https://www.fosterplus.co.uk/?p=713", "retrievedOn": "2026-11-25", "supports": ["areasServed"]}],
+    "notes": "Fosterplus's own 'Fostering in Milton Keynes' page (canonical https://www.fosterplus.co.uk/regions/milton-keynes/, office Wavendon Tower, Milton Keynes): says it supports foster parents and children across Buckinghamshire, Northamptonshire, Bedfordshire, Hertfordshire and Cambridgeshire, and its 'Areas we cover' list names Bedfordshire, Buckinghamshire, Northamptonshire, Oxfordshire, Luton, Cambridge, Reading, Dunstable, High Wycombe, Aylesbury, Hertfordshire, Hatfield, Hitchin, Stevenage, St Albans, Slough and Watford. Northamptonshire and Luton were already listed. Milton Keynes itself is named only as the office base, so not added from this page."
+  },
+  {
+    "id": "fosterplus",
+    "areasServed": ["Doncaster", "Sheffield", "Rotherham", "Barnsley", "Leeds", "Huddersfield", "Wakefield", "Scunthorpe", "Dewsbury", "Chesterfield", "Grimsby", "South Yorkshire", "Yorkshire"],
+    "sources": [{"url": "https://www.fosterplus.co.uk/?p=705", "retrievedOn": "2026-11-25", "supports": ["areasServed"]}],
+    "notes": "Fosterplus's own 'Fostering in Doncaster' page (canonical https://www.fosterplus.co.uk/regions/doncaster/), which links the same Midlands and South Yorkshire Ofsted report as this entry: says it supports foster families and children across Yorkshire, including Sheffield, Doncaster, Rotherham, Barnsley, Leeds, Huddersfield and Wakefield, and its 'Areas we cover' list names Sheffield, Rotherham, Scunthorpe, Wakefield, Dewsbury, Barnsley, Chesterfield, Worksop, Grimsby and South Yorkshire. Worksop left out (Notts)."
+  }
+]
