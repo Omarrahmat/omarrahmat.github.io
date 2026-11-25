@@ -1,0 +1,19 @@
+[
+  {
+    "id": "together-trust-fostering-service",
+    "areasServed": ["Manchester", "Stockport", "Cheshire", "Lancashire", "Bury", "Preston", "Warrington", "Merseyside", "Liverpool", "St Helens", "Southport", "Cumbria", "Greater Manchester"],
+    "sources": [
+      {"url": "https://togethertrust.org.uk/fostering", "retrievedOn": "2026-11-25", "supports": ["areasServed"]},
+      {"url": "https://www.togethertrust.org.uk/foster-together/?p=422", "retrievedOn": "2026-11-25", "supports": ["areasServed"]}
+    ],
+    "notes": "Foster Together (Together Trust) own site: 'We cover fostering in the following areas: Manchester, Stockport (including Cheadle), Cheshire, Lancashire (including Bury and Preston), Warrington, Merseyside (including Liverpool, St Helens and Southport), and Cumbria.' Preston page: 'Foster carers are needed more than ever in Preston'; 'Based in Greater Manchester'. Cheadle not added (no place of that name in our areas)."
+  },
+  {
+    "id": "barnardos-north-west-fostering-service",
+    "areasServed": ["Cheshire", "Greater Manchester"],
+    "sources": [
+      {"url": "https://barnardos.org.uk/foster/north-west-england", "retrievedOn": "2026-11-25", "supports": ["areasServed"]}
+    ],
+    "notes": "Barnardo's own North of England fostering page: 'Our North West England team cover Cumbria, Cheshire, Lancashire, Greater Manchester and Merseyside, including Liverpool.' Cumbria, Lancashire, Merseyside, Liverpool already listed."
+  }
+]
