@@ -1,0 +1,40 @@
+{
+  "slug": "argyll-and-bute",
+  "council": "Argyll and Bute Council",
+  "nation": "Scotland",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-25",
+  "sourceUrl": "https://www.argyll-bute.gov.uk/financial-arrangements-foster-carer",
+  "sourceTitle": "Financial arrangements of a foster carer (Argyll and Bute Council)",
+  "allowances": [
+    {
+      "label": "0 to 4",
+      "weekly": 300.51
+    },
+    {
+      "label": "5 to 10",
+      "weekly": 302.94,
+      "note": "The council's breakdown table on the same page adds up to £310.51 for this age band, so ask the fostering team which figure applies"
+    },
+    {
+      "label": "11 to 15",
+      "weekly": 360.6
+    },
+    {
+      "label": "16 to 17",
+      "weekly": 393.39,
+      "note": "The council's breakdown table on the same page adds up to £403.55 for this age band, so ask the fostering team which figure applies"
+    }
+  ],
+  "extras": [
+    "The weekly rate includes a carer's component of £103.80 a week for children aged 0 to 10 and £120.20 a week for children aged 11 to 17",
+    "Birthday, religious festival and holiday money is built into the weekly rate rather than paid separately",
+    "14 nights of paid respite a year, which does not reduce the allowance",
+    "Mileage at 45p a mile for travel over 50 miles for a child",
+    "Allowances are paid into the carer's bank account every fortnight"
+  ],
+  "summary": "Argyll and Bute Council publishes its 2026-27 fostering rates as one weekly amount per child by age. The amount covers the child's upkeep and includes a component for the carer, so no separate fee is listed. The council's own breakdown on the same page gives slightly higher totals for the 5 to 10 and 16 to 17 bands, so confirm the exact figure with the fostering team.",
+  "areaNames": [
+    "Argyll and Bute"
+  ]
+}

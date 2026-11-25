@@ -210,3 +210,5 @@ leeds-city-council-fostering, 2026-11-25, re-check (hand-off 613): why-foster-wi
 renfrewshire-council-fostering, 2026-11-25, re-check (hand-off 611): page published 17 April 2026 with allowances above the 2026-27 Scottish Recommended Allowance, but no year stated and no council paper found confirming them as 2026-27
 surrey-county-council-fostering, 2026-11-25, re-check: allowances page still states no year
 bedford-borough-council-fostering, 2026-11-25, re-check: allowances page still states no year; worked examples still use different figures from its tables
+barnsley-council-fostering, 2026-11-25, re-check: only scale is the Finance Guide dated November 2025 (back page says last updated July 2024); no 2026-27 year
+angus-council-fostering, 2026-11-25, re-check: Fostering allowances and pay page would not open
