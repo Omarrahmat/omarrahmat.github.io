@@ -1,18 +1,57 @@
 {
   "slug": "bromley",
-  "updatedOn": "2026-11-03",
+  "updatedOn": "2026-11-25",
   "paragraphs": [
-    "Children in care from Bromley live with carers approved by the council's own fostering team or by independent agencies such as those listed on this page. When the council launched its share of the national \"Any of Us\" recruitment film in October 2023, it said about 340 children were looked after in the borough.",
-    "To apply to Bromley you need to be over 21, have a spare bedroom and keep a smoke-free home. Short-term carers should live within about an hour of Bromley so children can stay in touch with family and friends. The council asks for two personal references, a medical report and enhanced DBS checks for adults in the household, runs a three-day preparation course, and aims to finish the assessment within 16 weeks before the case goes to its fostering panel.",
-    "Once approved, carers have a supervising social worker, a 24-hour out-of-hours phone line, membership of the Fostering Network, the Bromley Foster Care Association and small fostering hubs of six to eight families who meet to support each other. Carers who introduce a new fostering household receive £1,000 in vouchers once that household is approved.",
-    "Bromley publishes a weekly child allowance from £208 for children up to 4 to £309 for those aged 16 and over, plus a carer's fee of £206.66 a week for children up to 12 and £258.27 for those aged 13 and over. It also pays one-off sums at Christmas, for birthdays and for the summer holidays. The rates page does not say which year the figures cover, so check them with the fostering team.",
-    "If you live in or near Bromley, it is worth speaking to the council and to two or three of the agencies below, and comparing their training, support and pay before you decide."
+    "Children in care from Bromley live with carers approved by the council's own fostering service or by the independent agencies shown above. The council says it has a diverse group of children who need foster care, and that it always aims to place its own children with its own carers first. For someone weighing the council against an agency, that is the practical difference Bromley points to: its carers are likely to have more regular local placements, with children in local schools and contact meetings held in the borough. Agencies recruit across wider areas and set their own pay and support, so ask each one how often it places children from Bromley.",
+    "You can apply to Bromley if you are over 21, single, living with a partner or married, and own or rent a home with a spare bedroom for a foster child. You need to keep a smoke-free home for the child even if you smoke, and short-term carers need to live within an hour of the borough. No qualifications are needed, but some experience of having children around you is. The council asks for two personal references, a medical report and enhanced DBS checks for every adult in the household, runs a preparation group over three separate days, and holds six to eight assessment interviews. It aims to finish the whole assessment within 16 weeks, after which its fostering panel makes a recommendation.",
+    "Once approved, Bromley carers have a supervising social worker, a 24-hour out-of-hours duty team with extra fostering support on weekday evenings and weekends, THRIVE therapeutic support, membership of the Fostering Network and the Bromley Foster Care Association, and fostering hubs of six to eight families who meet to support each other. Carers who transfer from another service, and households who recommend a friend who is then approved, receive £1,000 in vouchers.",
+    "Bromley sets out its weekly allowances and carer's fees, with extra payments at Christmas, for birthdays and for the summer holidays, on its own rates page. That page does not say which year the figures are for, so ask the fostering team for the current rates.",
+    "Speak to the council and to two or three of the services above before you decide. If you live near the borough's edge, see our pages for Croydon, Lewisham, Greenwich and Bexley, or South London and London as a whole."
   ],
   "sources": [
-    { "title": "Applying: can I foster? (Bromley Council)", "url": "https://www.bromley.gov.uk/fostering/applying-can-foster" },
-    { "title": "Becoming a foster carer: the process (Bromley Council)", "url": "https://www.bromley.gov.uk/fostering/becoming-foster-carer-process" },
-    { "title": "Support and training for foster carers (Bromley Council)", "url": "https://bromley.gov.uk/fostering/support-training-foster-carers" },
-    { "title": "Fostering allowance rates (Bromley Council)", "url": "https://www.bromley.gov.uk/fostering/fostering-allowance-rates" },
-    { "title": "New film shows how any of us could be the next foster carer to change a life (Bromley Council, 31 October 2023)", "url": "https://bromley.gov.uk/news/article/596/new-film-shows-how-any-of-us-could-be-the-next-foster-carer-to-change-a-life" }
+    {
+      "title": "Our children need you (Bromley Council)",
+      "url": "https://www.bromley.gov.uk/fostering/fostering-bromley"
+    },
+    {
+      "title": "Who can foster and how to apply (Bromley Council)",
+      "url": "https://www.bromley.gov.uk/fostering/applying-can-foster"
+    },
+    {
+      "title": "Becoming a foster carer: the process (Bromley Council)",
+      "url": "https://www.bromley.gov.uk/fostering/becoming-foster-carer-process"
+    },
+    {
+      "title": "Transferring to Bromley (Bromley Council)",
+      "url": "https://www.bromley.gov.uk/fostering/fostering-transferring-bromley"
+    },
+    {
+      "title": "Support and training for foster carers (Bromley Council)",
+      "url": "https://bromley.gov.uk/fostering/support-training-foster-carers"
+    },
+    {
+      "title": "Fostering allowance rates (Bromley Council)",
+      "url": "https://www.bromley.gov.uk/fostering/fostering-allowance-rates"
+    },
+    {
+      "title": "Fostering Today: fostering agencies in South London",
+      "url": "https://fosteringtoday.com/fostering-agencies/south-london/"
+    },
+    {
+      "title": "Fostering Today: fostering agencies in Croydon",
+      "url": "https://fosteringtoday.com/fostering-agencies/croydon/"
+    },
+    {
+      "title": "Fostering Today: fostering agencies in Lewisham",
+      "url": "https://fosteringtoday.com/fostering-agencies/lewisham/"
+    },
+    {
+      "title": "Fostering Today: fostering agencies in Greenwich",
+      "url": "https://fosteringtoday.com/fostering-agencies/greenwich/"
+    },
+    {
+      "title": "Fostering Today: fostering agencies in Bexley",
+      "url": "https://fosteringtoday.com/fostering-agencies/bexley/"
+    }
   ]
 }
