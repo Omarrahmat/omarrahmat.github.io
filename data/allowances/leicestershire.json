@@ -1,0 +1,32 @@
+{
+  "slug": "leicestershire",
+  "council": "Leicestershire County Council",
+  "nation": "England",
+  "year": "2026-27",
+  "retrievedOn": "2026-11-25",
+  "sourceUrl": "https://www.leicestershire.gov.uk/sites/default/files/2023-10/foster-carer-additional-payments-and-allowances-information.pdf",
+  "sourceTitle": "Foster carer payments and allowances 2026/27 (Leicestershire County Council)",
+  "allowances": [
+    { "label": "0 to 4", "weekly": 182.00 },
+    { "label": "5 to 10", "weekly": 201.00 },
+    { "label": "11 to 15", "weekly": 227.00 },
+    { "label": "16 and over", "weekly": 267.00 }
+  ],
+  "fees": [
+    { "label": "Level 1 skills fee, child aged 0 to 4", "weekly": 45.50, "note": "£50.25 for ages 5 to 10, £56.75 for 11 to 15, £66.75 for 16 and over" },
+    { "label": "Level 2 skills fee, child aged 0 to 4", "weekly": 91.00, "note": "£100.50 for ages 5 to 10, £113.50 for 11 to 15, £133.50 for 16 and over" },
+    { "label": "Level 3 skills fee, child aged 0 to 4", "weekly": 136.50, "note": "£150.75 for ages 5 to 10, £170.25 for 11 to 15, £200.25 for 16 and over" },
+    { "label": "Level 4 skills fee, child aged 0 to 4", "weekly": 254.80, "note": "£281.40 for ages 5 to 10, £317.80 for 11 to 15, £373.80 for 16 and over" }
+  ],
+  "feesNote": "Leicestershire pays a weekly skills fee on top of the child's allowance at every level, and the fee rises with both the level and the child's age. Every new mainstream carer starts at Level 1 and moves up once they meet the training and competencies for the next level. With the allowance added, the council's own table puts the weekly total for one child at £227.50 to £333.75 at Level 1 and £436.80 to £640.80 at Level 4.",
+  "extras": [
+    "Set-up allowance of £374.70 for newly approved foster carers",
+    "Birthday allowance equal to one week's fostering allowance, paid automatically before the child's birthday",
+    "Festival allowance equal to one week's fostering allowance, paid in early December or for another major religious festival",
+    "Holiday allowance based on two weeks of the fostering allowance for the child's age (claimed by the carer)",
+    "School uniform grants of £138.80 on starting primary school and £198.50 on starting secondary school",
+    "Emergency clothing allowance of up to £198.50 per child"
+  ],
+  "summary": "Leicestershire County Council publishes its 2026/27 foster carer payments in four age bands, from £182 to £267 a week per child, with a skills fee paid on top from Level 1 upwards. All new carers start at Level 1, which for one child comes to £227.50 to £333.75 a week, and the fee grows as carers move up to Level 4. Birthday, festival, holiday and set-up payments are paid as well.",
+  "areaNames": ["Leicestershire"]
+}

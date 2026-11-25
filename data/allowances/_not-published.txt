@@ -206,3 +206,7 @@ lambeth-fostering, 2026-11-24, re-check: fees page still states no year
 bexley-fostering, 2026-11-24, re-check: payments page still states no year for its rates
 east-riding-of-yorkshire-council-fostering, 2026-11-24, re-check: procedures chapter (updated Dec 2023) gives structure only, no figures
 fostering-hampshire-children, 2026-11-24, re-check: newest decision report found is for 2011/12; no current scale
+leeds-city-council-fostering, 2026-11-25, re-check (hand-off 613): why-foster-with-us and how-much pages still state no year; Level 3 fee printed as £207.938 on one page and £207.38 on the other
+renfrewshire-council-fostering, 2026-11-25, re-check (hand-off 611): page published 17 April 2026 with allowances above the 2026-27 Scottish Recommended Allowance, but no year stated and no council paper found confirming them as 2026-27
+surrey-county-council-fostering, 2026-11-25, re-check: allowances page still states no year
+bedford-borough-council-fostering, 2026-11-25, re-check: allowances page still states no year; worked examples still use different figures from its tables
