@@ -1,0 +1,14 @@
+[
+  {
+    "id": "action-for-children-fostering-south-east",
+    "areasServed": ["Islington", "Lewisham", "Southwark", "Bexley", "Bromley", "Croydon", "Enfield", "Haringey", "Sutton"],
+    "sources": [{"url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/london-and-south-east-england/", "retrievedOn": "2026-11-25", "supports": ["areasServed"]}],
+    "notes": "Own London and South East England page, 'Where are we recruiting foster carers?': names Islington, Lewisham and Southwark among the London boroughs it is particularly looking in, and says it also covers Bexley, Bromley, Croydon, Enfield, Haringey and Sutton among the Greater London boroughs."
+  },
+  {
+    "id": "foster-care-associates-south-east-london",
+    "areasServed": ["Bournemouth"],
+    "sources": [{"url": "https://www.thefca.co.uk/?p=951", "retrievedOn": "2026-11-25", "supports": ["areasServed"]}],
+    "notes": "Own Fostering in Croydon page (canonical /locations/croydon/), 'Areas we cover across the South East' list names Bournemouth. Poole and Christchurch are not named, so not added."
+  }
+]
