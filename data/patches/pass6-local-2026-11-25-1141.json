@@ -1,0 +1,14 @@
+[
+  {
+    "id": "action-for-children-fostering-south-east",
+    "areasServed": ["Barking and Dagenham", "Camden", "Waltham Forest", "Kingston upon Thames", "Richmond upon Thames"],
+    "sources": [
+      {
+        "url": "https://www.actionforchildren.org.uk/fostering/your-local-team/fostering-in-england/london-and-south-east-england/",
+        "retrievedOn": "2026-11-25",
+        "supports": ["areasServed"]
+      }
+    ],
+    "notes": "Local coverage desk, 25 Nov 2026 (11:41): Action for Children's own London and South East England fostering page (service 'Fostering South East - London, Kent'), under 'Where are we recruiting foster carers?', names Camden among the London boroughs it is particularly looking for carers in, and lists Barking & Dagenham, Kingston upon Thames, Richmond upon Thames and Waltham Forest among the Greater London boroughs it also covers. Kingston and Richmond per hand-off 475."
+  }
+]
