@@ -1,0 +1,23 @@
+[
+  {
+    "id": "capstone-foster-care-south-west",
+    "areasServed": ["Torbay"],
+    "sources": [{"url": "https://www.capstonefostercare.co.uk/location/fostering-torbay", "retrievedOn": "2026-11-26", "supports": ["areasServed"]}],
+    "notes": "Capstone Foster Care's Torbay page says it is recruiting new carers and is 'servicing areas of Torbay'. Added to the South West service, which covers Devon. Local coverage desk, 26 Nov 2026 11:41."
+  },
+  {
+    "id": "compass-fostering-wales",
+    "areasServed": ["Caerphilly"],
+    "sources": [{"url": "https://www.compassfostering.com/locations/caerphilly-fostering/", "retrievedOn": "2026-11-26", "supports": ["areasServed"]}],
+    "notes": "Compass Fostering's Caerphilly page (Wales region, Cardiff office) says there is an urgent need for more foster carers in Caerphilly and invites enquiries. Local coverage desk, 26 Nov 2026 11:41."
+  },
+  {
+    "id": "family-fostering-partners",
+    "areasServed": ["Caerphilly", "Monmouthshire"],
+    "sources": [
+      {"url": "https://www.familyfosteringpartners.co.uk/fostering-in-caerphilly-becoming-a-foster-carer/", "retrievedOn": "2026-11-26", "supports": ["areasServed"]},
+      {"url": "https://www.familyfosteringpartners.co.uk/fostering-in-monmouthshire/", "retrievedOn": "2026-11-26", "supports": ["areasServed"]}
+    ],
+    "notes": "Family Fostering Partners' own pages say it guides people becoming foster carers in Caerphilly (and refers to its foster carers there), and that it supports and trains people hoping to foster in the Monmouthshire area. Local coverage desk, 26 Nov 2026 11:41."
+  }
+]
