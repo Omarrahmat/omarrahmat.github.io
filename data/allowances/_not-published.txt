@@ -212,3 +212,7 @@ surrey-county-council-fostering, 2026-11-25, re-check: allowances page still sta
 bedford-borough-council-fostering, 2026-11-25, re-check: allowances page still states no year; worked examples still use different figures from its tables
 barnsley-council-fostering, 2026-11-25, re-check: only scale is the Finance Guide dated November 2025 (back page says last updated July 2024); no 2026-27 year
 angus-council-fostering, 2026-11-25, re-check: Fostering allowances and pay page would not open
+sheffield-city-council-fostering, 2026-11-26, re-check: earnings page still states no year (tax figures on it are 2025-26); committee paper not used
+bromley-fostering, 2026-11-26, re-check: rates page still states no year and its 5-10 total (£431.66) differs from its own worked example (£439.66); payments policy DOCX unreadable
+east-sussex-county-council-fostering, 2026-11-26, re-check: weekly-pay page still gives combined ranges only, no year
+foster-for-medway, 2026-11-26, re-check: only scale found is the 2025 fees and allowance policy (review due 01/04/2026), with a 0-4 total that does not add up
