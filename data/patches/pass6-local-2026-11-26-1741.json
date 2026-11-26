@@ -1,0 +1,10 @@
+[
+  {
+    "id": "community-foster-care",
+    "areasServed": ["Lancashire", "Cumbria", "North Yorkshire", "Greater Manchester"],
+    "sources": [
+      {"url": "https://www.communityfostercare.co.uk/fostering-in-lancashire", "retrievedOn": "2026-11-26", "supports": ["areasServed"]}
+    ],
+    "notes": "Community Foster Care's own 'Fostering in Lancashire, Cumbria, and Surrounding Areas' page says its Lancaster office covers Lancashire, Cumbria and the surrounding areas, including North Yorkshire and Greater Manchester. Lancaster named only as the office, so not added as a town."
+  }
+]
