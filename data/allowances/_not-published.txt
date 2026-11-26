@@ -216,3 +216,7 @@ sheffield-city-council-fostering, 2026-11-26, re-check: earnings page still stat
 bromley-fostering, 2026-11-26, re-check: rates page still states no year and its 5-10 total (£431.66) differs from its own worked example (£439.66); payments policy DOCX unreadable
 east-sussex-county-council-fostering, 2026-11-26, re-check: weekly-pay page still gives combined ranges only, no year
 foster-for-medway, 2026-11-26, re-check: only scale found is the 2025 fees and allowance policy (review due 01/04/2026), with a 0-4 total that does not add up
+foster-for-lancashire, 2026-11-26, re-check (hand-off 662): allowances page still states no year and gives only a weekly range (£424.95-£558.55) and Fee Plus amounts, no age-band table
+durham-county-council-fostering, 2026-11-26, re-check: fees page still gives only annual worked examples, no weekly scale or year
+darlington-borough-council-fostering, 2026-11-26, re-check: rate card says it was last reviewed in March 2024, not a 2026-27 scale
+bolton-council-fostering, 2026-11-26, re-check: mainstream-fostering-allowances PDF still has no readable text
