@@ -1,0 +1,34 @@
+[
+  {
+    "id": "the-childrens-family-trust",
+    "areasServed": ["Southampton", "Hampshire", "Surrey", "Dorset"],
+    "sources": [
+      {"url": "https://thecft.org.uk/south-central", "retrievedOn": "2026-11-26", "supports": ["areasServed"]}
+    ],
+    "notes": "The charity's own South Central page lists Southampton, Portsmouth, Hampshire, Surrey and Dorset under 'The areas we support' (Portsmouth already listed). Waterlooville is the office only and is not added."
+  },
+  {
+    "id": "the-childrens-family-trust",
+    "areasServed": ["Birmingham", "Bristol", "Cheshire", "Gloucestershire", "Herefordshire", "Oxfordshire", "Shropshire", "Staffordshire", "Warwickshire", "Worcestershire"],
+    "sources": [
+      {"url": "https://thecft.org.uk/west-midlands", "retrievedOn": "2026-11-26", "supports": ["areasServed"]}
+    ],
+    "notes": "The charity's own West Midlands page lists these ten areas, each with its own section and enquiry link. Bromsgrove and Stoke Prior are the office address only and are not added."
+  },
+  {
+    "id": "the-childrens-family-trust",
+    "areasServed": ["Derbyshire", "Leicestershire", "Northamptonshire", "Lincolnshire", "Leicester", "Northampton", "Lincoln"],
+    "sources": [
+      {"url": "https://thecft.org.uk/east-midlands/", "retrievedOn": "2026-11-26", "supports": ["areasServed"]}
+    ],
+    "notes": "The charity's own East Midlands page lists these counties and, under 'The areas we support', Derby, Northampton, Leicester and Lincoln (Derby already listed). Nottingham and Nottinghamshire are also named there but left out under our standing rule. Newark is the office only."
+  },
+  {
+    "id": "the-childrens-family-trust",
+    "areasServed": ["Hartlepool", "Middlesbrough"],
+    "sources": [
+      {"url": "https://thecft.org.uk/north-east-fostering/", "retrievedOn": "2026-11-26", "supports": ["areasServed"]}
+    ],
+    "notes": "The charity's own North East page has sections for Durham, Hartlepool, Middlesbrough and Newcastle (Newcastle already listed). 'Durham' is not added because the page does not say whether it means the city or the county. Bishop Auckland is the office only."
+  }
+]
