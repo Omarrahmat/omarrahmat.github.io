@@ -1,36 +1,23 @@
 {
   "slug": "enfield",
-  "updatedOn": "2026-11-06",
+  "updatedOn": "2026-11-26",
   "paragraphs": [
-    "Children in Enfield's care live with carers approved by the council's own fostering service or by independent agencies such as those on this page. The council's fostering statement of purpose for 2024 to 2027 says that, where possible, it tries to keep children close to their families, friends, schools and GP, and that it gives priority to recruiting carers who live in or near the borough. Since 1 October 2026, Enfield's fostering recruitment has been handled by the North London Fostering Hub, led by Camden for six boroughs including Enfield.",
-    "Enfield approves carers for short-term and long-term fostering (with Staying Put possible up to 21), respite, parent and child placements, and family and friends care. Applicants must be over 21 and living in the UK; single people and unmarried couples in long-term relationships are welcome. Preparation is a four-day Skills to Foster programme, and approved carers complete four training events a year plus development days twice a year.",
-    "Each carer has a named supervising social worker, there are support groups every two months, and the council pays for membership of the Fostering Network, which gives access to independent advice. Before applying, you can ask for a one-to-one conversation with an existing Enfield foster carer.",
-    "Enfield pays a weekly maintenance allowance for the child and a skills fee for the carer, in five age bands, with extra payments for birthdays, festivals and holidays and higher rates where a child's needs call for them. Its fostering site says allowances can reach over £450 a week but does not publish the full rates, so ask the council and two or three of the agencies below for their figures and compare the support each offers."
+    "Children in Enfield's care live with carers approved by the council's own fostering service or by independent agencies such as the services shown above. The council's fostering statement of purpose for 2024 to 2027 says it tries to keep children close to their families, friends, schools and GP, and that finding carers who live in or close to the borough remains a priority. Recruitment now runs through the North London Fostering Hub, hosted by Camden, which brings Enfield together with Barnet, Camden, Hackney, Haringey and Islington to recruit and support more carers across the area; it launched on 1 October.",
+    "Enfield's draft strategy for looked after children for 2023 to 2028, published for consultation in February 2023, gives a picture of local need. The council was caring for 396 children and young people on 31 March 2022, and around 65% of children in its care were in foster homes in 2020. Young people aged 10 to 15 made up 35% of children in care and those aged 16 and over 30%, and 46% were living outside the borough, which is why the council wants more carers locally and has helped existing carers add bedrooms through loft conversions and extensions.",
+    "The council's fostering pages say which children most need homes: brothers and sisters who should stay together, teenagers, babies and children under two, disabled children, young people on remand aged 10 to 17, and young parents with their babies. Carers are approved for short-term and long-term fostering, with Staying Put possible up to 21, respite, parent and child, and family and friends care.",
+    "Enfield welcomes enquiries from anyone over 21 who lives in the UK, including single people and unmarried couples, and offers a one-to-one conversation with one of its foster carers. Preparation is a four-day Skills to Foster programme; approved carers get a named supervising social worker, four training events a year, development days, support groups and paid Fostering Network membership. Pay is a weekly maintenance allowance plus a skills fee in five age bands, with birthday, festival and holiday allowances; the council does not publish the amounts, so ask it and two or three of the services above for their figures. Nearby, see our pages for Barnet, Haringey, Waltham Forest, Hertfordshire and London."
   ],
   "sources": [
-    {
-      "title": "Fostering Statement of Purpose 2024-27 (Enfield Council)",
-      "url": "https://www.enfield.gov.uk/__data/assets/pdf_file/0027/53973/Fostering-Statement-of-Purpose-2024-27.pdf"
-    },
-    {
-      "title": "Why foster with Enfield Council",
-      "url": "https://www.enfield.gov.uk/fostering/what-is-fostering/why-foster-with-enfield-council"
-    },
-    {
-      "title": "How we support you to foster (Enfield Council)",
-      "url": "https://enfield.gov.uk/fosteringandpermanence"
-    },
-    {
-      "title": "Camden chosen to lead new North London Fostering Hub (Camden Council)",
-      "url": "https://fostering.camden.gov.uk/fostering-news-events-stories/north-london-fostering-hub/"
-    },
-    {
-      "title": "Become a foster carer (Haringey Council)",
-      "url": "https://haringey.gov.uk/children-young-people-families/childrens-social-care/fostering/become-a-foster-carer"
-    },
-    {
-      "title": "Fostering Today: six north London councils launch a shared fostering hub",
-      "url": "https://fosteringtoday.com/news/north-london-fostering-hub-launches-six-councils-november-2026/"
-    }
+    { "title": "Fostering Statement of Purpose 2024-27 (Enfield Council)", "url": "https://www.enfield.gov.uk/__data/assets/pdf_file/0027/53973/Fostering-Statement-of-Purpose-2024-27.pdf" },
+    { "title": "Why foster with Enfield Council", "url": "https://www.enfield.gov.uk/fostering/what-is-fostering/why-foster-with-enfield-council" },
+    { "title": "Children who need fostering (Enfield Council)", "url": "https://www.enfield.gov.uk/fostering/what-is-fostering/children-who-need-fostering" },
+    { "title": "Draft Looked After Children Strategy 2023-2028: consultation (Enfield Council)", "url": "https://www.enfield.gov.uk/consultations/draft-looked-after-children-strategy-2023-2028" },
+    { "title": "Enfield Looked After Children Strategy 2023-2028, draft January 2023 (Enfield Council)", "url": "https://enfield.gov.uk/__data/assets/pdf_file/0017/33623/LAC-Strategy-Draft-January-2023.pdf" },
+    { "title": "Camden chosen to lead new North London Fostering Hub (Camden Council)", "url": "https://fostering.camden.gov.uk/fostering-news-events-stories/north-london-fostering-hub/" },
+    { "title": "Fostering Today: fostering agencies in Barnet", "url": "https://fosteringtoday.com/fostering-agencies/barnet/" },
+    { "title": "Fostering Today: fostering agencies in Haringey", "url": "https://fosteringtoday.com/fostering-agencies/haringey/" },
+    { "title": "Fostering Today: fostering agencies in Waltham Forest", "url": "https://fosteringtoday.com/fostering-agencies/waltham-forest/" },
+    { "title": "Fostering Today: fostering agencies in Hertfordshire", "url": "https://fosteringtoday.com/fostering-agencies/hertfordshire/" },
+    { "title": "Fostering Today: fostering agencies in London", "url": "https://fosteringtoday.com/fostering-agencies/london/" }
   ]
 }

@@ -1,16 +1,26 @@
 {
   "slug": "walsall",
-  "updatedOn": "2026-11-09",
+  "updatedOn": "2026-11-26",
   "paragraphs": [
-    "Walsall Council runs a not-for-profit fostering service, rated good by Ofsted, from Darlaston. It says it always tries to place children with its own carers first before looking at independent agencies such as those listed on this page.",
-    "Alongside short-term, long-term and family and friends fostering, the council runs an emergency scheme for young people, usually aged 10 to 18, who need a home at short notice, short breaks for young people with disabilities or complex needs, and New Horizon, which finds family homes for children aged about 10 to 18 who are living in children's homes. New Horizon asks for at least two years' experience with young people whose behaviour can be challenging and one carer based at home.",
-    "From April 2026 the council pays two weekly amounts: a household fee and an allowance for each child. The fee for one child is £246 a week, or £307 for advanced carers, and New Horizon Mockingbird carers receive £900. Child allowances run from £182 a week for under-fives to £267 for those aged 16 and over, with an extra week at birthdays and festivals and two weeks in the summer holidays. Carers living in the borough do not pay council tax, and those living outside get an equivalent payment. Our Walsall allowance page has the full table.",
-    "Support includes out-of-hours help, buddying, support groups and the Mockingbird fostering community. Carers already fostering elsewhere can transfer in as little as four months. Compare the council with two or three of the agencies below before you decide."
+    "Walsall Council runs a not-for-profit fostering service, rated good by Ofsted, from Fallings Heath in Darlaston. It says it always tries to match children with its own foster carers first, before looking to independent agencies such as the services shown above. The council is also one of four, with Dudley, Sandwell and Wolverhampton, behind Black Country Fostering, a shared partnership that gives people one point of contact for information and advice, alongside training for existing carers.",
+    "The council's placement sufficiency strategy for 2025 to 2028 counted 578 children in its care on 31 March 2025, down from 665 a year earlier, and by the end of June 2025, 71.4% of them were living in foster care. Children aged 10 and over now make up 59% of those in care, and the strategy names older boys with more complex needs as a growing group. One of its priorities is for more children to live in or near Walsall, connected to their communities.",
+    "That shapes what the council asks of carers. Its emergency scheme takes young people, usually aged 10 to 18, at short notice, and it offers short breaks for young people with disabilities or complex needs. New Horizon finds family homes for children, usually aged 10 to 18, who are living in children's homes; it asks for at least two years' experience with young people whose behaviour can be challenging and one carer based at home.",
+    "From April 2026 Walsall pays a weekly household fee and an allowance for each child. The fee for one child is £246, or £307 for advanced carers, and New Horizon Mockingbird carers receive £900. Child allowances run from £182 a week for under-fives to £267 for those aged 16 and over, with an extra week at birthdays and festivals and two weeks in the summer holidays. Carers in the borough pay no council tax to Walsall, and those living outside it get an equivalent payment. Our Walsall allowance page has the full table.",
+    "Walsall was the first council in the West Midlands to adopt Mockingbird, launched in July 2018, and now runs six constellations in which a hub carer supports a group of fostering families. New carers also get a buddy, coffee mornings and out-of-hours help. Compare the council with two or three of the services above, and see our pages for Wolverhampton, Dudley, Sandwell and the West Midlands."
   ],
   "sources": [
     { "title": "Why foster with Walsall (Walsall Council)", "url": "https://go.walsall.gov.uk/fostering/why-foster-walsall" },
     { "title": "Types of fostering (Walsall Council)", "url": "https://go.walsall.gov.uk/fostering/types-fostering" },
+    { "title": "New Horizon fostering scheme (Walsall Council)", "url": "https://go.walsall.gov.uk/fostering/types-fostering/new-horizon-fostering-scheme" },
+    { "title": "Support for foster carers (Walsall Council)", "url": "https://go.walsall.gov.uk/fostering/why-foster-walsall/support-foster-carers" },
     { "title": "Payments, allowances and benefits (Walsall Council)", "url": "https://go.walsall.gov.uk/fostering/why-foster-walsall/payments-allowances-and-benefits" },
-    { "title": "Fostering (Walsall Council)", "url": "https://go.walsall.gov.uk/fostering" }
+    { "title": "Mockingbird (Walsall Council)", "url": "https://go.walsall.gov.uk/fostering/mockingbird" },
+    { "title": "Placement Sufficiency Strategy 2025-2028 (Walsall Children's Services)", "url": "https://trixcms.trixonline.co.uk/api/assets/walsallcs/eb31c79d-cb53-429d-9325-de71e758a18c/place-suff-strategy.pdf" },
+    { "title": "Black Country councils join forces to recruit more foster carers (Express & Star)", "url": "https://www.expressandstar.com/your-world/black-country-recruit-foster-carers-9348682" },
+    { "title": "Walsall foster carer allowance 2026-27 (Fostering Today)", "url": "https://fosteringtoday.com/fostering-allowance/walsall/" },
+    { "title": "Fostering Today: fostering agencies in Wolverhampton", "url": "https://fosteringtoday.com/fostering-agencies/wolverhampton/" },
+    { "title": "Fostering Today: fostering agencies in Dudley", "url": "https://fosteringtoday.com/fostering-agencies/dudley/" },
+    { "title": "Fostering Today: fostering agencies in Sandwell", "url": "https://fosteringtoday.com/fostering-agencies/sandwell/" },
+    { "title": "Fostering Today: fostering agencies in the West Midlands", "url": "https://fosteringtoday.com/fostering-agencies/west-midlands/" }
   ]
 }
