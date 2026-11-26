@@ -1,15 +1,23 @@
 {
   "slug": "coventry",
-  "updatedOn": "2026-11-02",
+  "updatedOn": "2026-11-26",
   "paragraphs": [
-    "Children in care in Coventry live with carers approved by Coventry City Council's fostering service or by the independent agencies listed on this page. The council says children come into its care because of a crisis at home, because parents need extra support, or because of concerns such as drug or alcohol dependency or violence in the home, and that foster carers give them a safe local home while decisions about their future are made.",
-    "Coventry says it particularly needs carers who can keep brothers and sisters together, carers for teenagers, and carers for children with more complex needs. It is also looking for people to offer parent and child fostering, and for its Next Steps scheme, which needs experience of working with young people. To encourage carers to take siblings, the council pays its fee for each child placed.",
-    "The council's 2026/2027 payments leaflet sets a weekly allowance for each child from £195.67 for children aged up to 4 to £337.40 for young people aged 16 and over. Mainstream carers also receive a weekly fee per child of £175.40 at the standard level or £269.78 at the enhanced level, and five extra weeks of allowance are paid through the year for birthdays, festivals, holidays and clothing. Our Coventry allowance page has the full table.",
-    "The council runs drop-in and information events, and its fostering team is based at One Friargate in the city centre. Before choosing a service, speak to the council and two or three of the agencies below, and ask each about training, support and pay."
+    "Children in care in Coventry live with carers approved by Coventry City Council's own fostering service or by independent agencies such as the services shown above. The council's plan for housing the children in its care, Homes for Children and Young People in Coventry 2023-27, counted 724 children looked after on 31 March 2023, about 1% of the city's children, and a higher rate per 10,000 children than England as a whole.",
+    "Most of those children live in foster homes, and in March 2023 about three in four of the children in foster care were with Coventry's own carers. The council had aimed for 285 children living with its own mainstream carers by then, reached 266, and says plainly that its targets have not been met. It wants more foster homes inside the city or within easy reach of children's schools, and it asks agencies for more local places too, so that children can stay near their school, friends and family.",
+    "Coventry says it particularly needs carers who can keep brothers and sisters together, carers for teenagers, and carers for children with more complex needs; its strategy also reports a widening gap in skilled carers for disabled children. It is especially looking for parent and child carers, and for its Next Steps scheme, a one-to-one therapeutic placement that asks for at least two years' experience of caring for or working with young people whose behaviour is challenging. To encourage people to take siblings, the council pays its fee for each child cared for.",
+    "The council's 2026/2027 payments leaflet sets a weekly allowance for each child from £195.67 for children up to 4 to £337.40 for young people aged 16 and over. Mainstream carers also receive a weekly fee per child of £175.40 at the standard level or £269.78 at the enhanced level, and five extra weeks of allowance are paid through the year for birthdays, festivals, holidays and clothing. Our Coventry allowance page has the full table.",
+    "Fostering with the council means joining the team at One Friargate that looks after the city's own children, and it runs drop-ins and information events. An agency approves, trains and supports you itself, and councils, Coventry among them, ask it to care for children who need a home. Speak to the council and two or three of the services above before you choose. If you live outside the city, see our pages for Warwickshire, Solihull, Birmingham and the West Midlands."
   ],
   "sources": [
+    { "title": "Homes for Children and Young People in Coventry 2023-27: sufficiency strategy (Coventry City Council)", "url": "https://www.coventry.gov.uk/childrens-social-care/homes-children-young-people-coventry-2023-27" },
+    { "title": "Executive summary: plan on a page (Coventry City Council)", "url": "https://www.coventry.gov.uk/childrens-social-care/homes-children-young-people-coventry-2023-27/2" },
+    { "title": "Placement requirements (Coventry City Council)", "url": "https://www.coventry.gov.uk/childrens-social-care/homes-children-young-people-coventry-2023-27/9" },
     { "title": "Coventry needs more foster carers for Coventry children (Coventry City Council)", "url": "https://www.coventry.gov.uk/fostering-1/fostering/print" },
-    { "title": "Payments and Finances for Fostering with Coventry City Council 2026/2027", "url": "https://www.coventry.gov.uk/downloads/file/42028/fostering-fees-leaflet" },
-    { "title": "Coventry foster carer allowance 2026-27 (Fostering Today)", "url": "https://fosteringtoday.com/fostering-allowance/coventry/" }
+    { "title": "Different types of fostering: Next Steps (Coventry City Council)", "url": "https://www.coventry.gov.uk/fostering-1/different-types-fostering/3" },
+    { "title": "Coventry foster carer allowance 2026-27 (Fostering Today)", "url": "https://fosteringtoday.com/fostering-allowance/coventry/" },
+    { "title": "Fostering Today: fostering agencies in Warwickshire", "url": "https://fosteringtoday.com/fostering-agencies/warwickshire/" },
+    { "title": "Fostering Today: fostering agencies in Solihull", "url": "https://fosteringtoday.com/fostering-agencies/solihull/" },
+    { "title": "Fostering Today: fostering agencies in Birmingham", "url": "https://fosteringtoday.com/fostering-agencies/birmingham/" },
+    { "title": "Fostering Today: fostering agencies in the West Midlands", "url": "https://fosteringtoday.com/fostering-agencies/west-midlands/" }
   ]
 }
