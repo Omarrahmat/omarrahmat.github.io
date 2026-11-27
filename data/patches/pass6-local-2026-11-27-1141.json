@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pathway-care-calon-cymru",
+    "areasServed": ["Merthyr Tydfil", "Torfaen", "Vale of Glamorgan"],
+    "sources": [{"url": "https://www.caloncymrufostering.co.uk/office-locations", "retrievedOn": "2026-11-27", "supports": ["areasServed"]}],
+    "notes": "Calon Cymru Fostering's own office locations page says it supports foster carers throughout South and West Wales and, under 'Primary areas covered', names Merthyr Tydfil, Torfaen and Vale of Glamorgan among sixteen areas."
+  },
+  {
+    "id": "tlc-wales",
+    "areasServed": ["Torfaen", "Merthyr Tydfil"],
+    "sources": [{"url": "https://tlcwales.org.uk/about-tlc/locations/", "retrievedOn": "2026-11-27", "supports": ["areasServed"]}],
+    "notes": "TLC's own locations page lists the placing authorities it works with, including Torfaen and Merthyr (Merthyr Tydfil County Borough, the only Merthyr local authority). Its 'Vale' entry was not added because the page does not spell the name out."
+  }
+]
