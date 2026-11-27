@@ -652,5 +652,46 @@
         "date": "2026-11-24"
       }
     ]
+  },
+  {
+    "slug": "england-children-looked-after-2026-foster-placements-rise-first-time-in-years",
+    "title": "Children in care in England rise to 82,910 as foster placements edge up for first time in four years",
+    "standfirst": "New Department for Education figures show 54,900 children in care in England were living with foster carers on 31 March 2026, up 360 on a year earlier, while the share in children's homes rose again.",
+    "publishedOn": "2026-11-27",
+    "eventDate": "2026-11-19",
+    "topics": [
+      "research",
+      "england",
+      "policy"
+    ],
+    "body": [
+      "The Department for Education published its annual statistics on children looked after in England on 19 November 2026, covering the year to 31 March 2026. They show 82,910 children in the care of English councils on that date, up 1% (1,190 children) on 2025. That is a rate of 69 in every 10,000 children under 18, up from 68 the year before.",
+      "Foster care remains where most children in care live. On 31 March 2026, 54,900 children were in foster placements, up 1% (360 children) on the year. The department's own table shows this is the first rise in the period it covers: the number had fallen each year from 57,180 in 2022 to 54,540 in 2025. Because the total number of children in care grew faster, the share living with foster carers slipped from 67% to 66%, down from 70% in 2022.",
+      "Family and friends foster care grew more quickly. 13,960 children were placed with a relative or friend who is an approved foster carer, up 4% (590 children), and these placements now make up a quarter (25%) of all foster placements, compared with 22% in 2022.",
+      "The figures also show continued growth in residential care. 10,710 children were living in children's homes, including secure homes, up 13% (1,220 children) in a year. They now account for 13% of children in care, up from 12% in 2025 and 9% in 2022. A further 10% were in supported accommodation, 6% were placed with parents and 2% were placed for adoption. The number of unaccompanied asylum-seeking children in care fell 9% to 6,000; excluding them, the number of children in care rose 2% to 76,920.",
+      "More children entered care during the year than left it. 33,790 children started to be looked after in 2025-26, up 5% (1,480 children), while 32,990 ceased to be looked after. Fewer children left care through adoption (2,720, down 11%) or a special guardianship order (3,870, down 6%).",
+      "For anyone thinking about fostering, the picture is of steady demand. More children are coming into care, a growing number are living in children's homes rather than with families, and the Department for Education launched its first nationally coordinated fostering recruitment campaign on 14 October 2026. Ofsted's separate Fostering in England statistics, published the day before these figures, cover the number of fostering households and approvals. Anyone interested can find out what their local council pays and which services cover their area before making an enquiry.",
+      "The next edition of these statistics is due in November 2027. Local authority figures are in the department's full release, linked below."
+    ],
+    "sources": [
+      {
+        "title": "Children looked after in England including adoptions: Reporting year 2026",
+        "url": "https://explore-education-statistics.service.gov.uk/find-statistics/children-looked-after-in-england-including-adoptions/2026",
+        "publisher": "Department for Education",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Government foster care target attainable, but must keep focus on retaining existing foster carers, says Coram research",
+        "url": "https://www.coram.org.uk/news/unlocking-fostering-potential/",
+        "publisher": "Coram",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Children looked after in England including adoption: 2025 to 2026",
+        "url": "https://www.gov.uk/government/statistics/children-looked-after-in-england-including-adoption-2025-to-2026",
+        "publisher": "Department for Education",
+        "date": "2026-11-19"
+      }
+    ]
   }
 ]
