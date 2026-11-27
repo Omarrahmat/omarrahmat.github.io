@@ -1,0 +1,14 @@
+[
+  {
+    "id": "compass-fostering-south",
+    "areasServed": ["Exeter"],
+    "sources": [{"url": "https://www.compassfostering.com/locations/fostering-exeter/", "retrievedOn": "2026-11-27", "supports": ["areasServed"]}],
+    "notes": "Compass Fostering's own Exeter page says there is an urgent need for more foster carers in Exeter and asks who could change the life of a child in Exeter; its Exeter office is listed under Compass Fostering South."
+  },
+  {
+    "id": "capstone-foster-care-south-west",
+    "areasServed": ["Exeter"],
+    "sources": [{"url": "https://www.capstonefostercare.co.uk/location/fostering-exeter", "retrievedOn": "2026-11-27", "supports": ["areasServed"]}],
+    "notes": "Capstone Foster Care's own Exeter fostering agency page says it serves areas of Exeter and is recruiting new carers; Exeter is a service area there, not an office address. Added to Capstone's South West service, which already lists Devon."
+  }
+]
