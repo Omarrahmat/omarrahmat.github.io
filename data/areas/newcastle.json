@@ -1,18 +1,23 @@
 {
   "slug": "newcastle",
-  "updatedOn": "2026-11-12",
+  "updatedOn": "2026-11-27",
   "paragraphs": [
-    "In Newcastle upon Tyne, children in care live with carers approved by Newcastle City Council's fostering service or by independent agencies such as those listed below. The council is one of twelve North East councils in Foster with North East, the regional hub led from Sunderland, so enquiries from within 50 miles of the city go through the hub first.",
-    "Newcastle offers an unusually wide range of fostering: respite, short-term and long-term care, emergency care with a retainer, parent and child, short breaks for disabled children, supported lodgings for 16 to 21 year olds, and a pilot for children seeking sanctuary. Two schemes, Build a Future and Change a Future, are for young people in or close to residential care and ask for professional experience of working with young people who are hard to reach. Carers can be approved for more than one kind.",
-    "The council's process runs from enquiry and a home visit to an invitation to apply, then an assessment of four to six months with medical and DBS checks, references and the Skills to Foster course, then panel and approval. Support includes a supervising social worker, a 24-hour phone line, therapeutic staff, training and a Mockingbird-style carer community.",
-    "Newcastle pays a weekly allowance for each child by age plus a fee that rises with the child's needs; our Newcastle allowance page shows that a Tier 1 carer receives £288.65 to £426.98 a week for one child. Compare that with what two or three of the agencies below offer before you decide."
+    "If you live in Newcastle upon Tyne, you can foster for Newcastle City Council or for one of the independent agencies shown above. The council belongs to Foster with North East, the regional hub for twelve councils, and asks people living within 50 miles of the city to make their first enquiry through the hub.",
+    "The council's plan for children in care, which uses figures from 31 March 2023, says the city then looked after 635 children, down from 670 a year earlier. About three in four of them lived in foster care, and a little over half were living inside the city's boundary. The council says that demand for foster homes, with its own carers and with agencies alike, is still greater than the number of homes available. Its own service offers respite, short-term, long-term and emergency care, parent and child placements, short breaks for disabled children, and two schemes, Build a Future and Change a Future, for young people moving on from or at risk of residential care.",
+    "Our Newcastle pay page sets out the council's rates. A weekly allowance for the child, from £182 for under-fives to £267 for those aged 16 and over, is paid alongside a weekly fee that rises with the child's needs, so a mainstream carer receives £288.65 to £426.98 a week for one child. Build a Future and parent and child placements pay £760 a week in total.",
+    "The council asks that carers be over 21 and have a spare bedroom. Renting is fine with your landlord's agreement, single people and LGBT people are welcome, you can keep a flexible job, and there is no upper age limit. Its carers get a named supervising social worker, a phone line answered round the clock, therapeutic staff, training and a carer community. In March 2023 it launched its first Mockingbird group, in which an experienced hub carer supports eight nearby fostering families.",
+    "A council approves carers for its own children; an agency approves and supports you itself and looks after children for councils across the region. Ask the council and two or three of the services above what they pay and how they would support you. If you live outside the city, see our pages for Gateshead, North Tyneside, Northumberland and Tyne and Wear."
   ],
   "sources": [
+    { "title": "Children in care sufficiency strategy 2024-2027 (Newcastle City Council)", "url": "https://www.newcastle.gov.uk/sites/default/files/Services/Care%20and%20Support/Sufficiency%20strategy%202023%20-%202027.pdf" },
     { "title": "About fostering (Newcastle City Council)", "url": "https://new.newcastle.gov.uk/fostering/about-fostering" },
-    { "title": "Types of fostering (Newcastle City Council)", "url": "https://new.newcastle.gov.uk/fostering/about-fostering/types-fostering" },
-    { "title": "The fostering process (Newcastle City Council)", "url": "https://new.newcastle.gov.uk/fostering/about-fostering/fostering-process" },
+    { "title": "Top myths about fostering (Newcastle City Council)", "url": "https://new.newcastle.gov.uk/fostering/about-fostering/top-myths-about-fostering" },
     { "title": "Benefits of fostering for Newcastle (Newcastle City Council)", "url": "https://new.newcastle.gov.uk/fostering/benefits-fostering-newcastle" },
-    { "title": "Trailblazing fostering hub celebrates its first birthday (Sunderland City Council)", "url": "https://icm.sunderland.gov.uk/article/33059/Trailblazing-fostering-hub-celebrates-its-first-birthday" },
-    { "title": "Newcastle foster carer allowance (Fostering Today)", "url": "https://fosteringtoday.com/fostering-allowance/newcastle/" }
+    { "title": "Newcastle's fostering team launch innovative programme to support carers (Newcastle City Council, 8 March 2023)", "url": "https://www.newcastle.gov.uk/citylife-news/community/newcastles-fostering-team-launch-innovative-programme-support-carers" },
+    { "title": "Newcastle foster carer allowance (Fostering Today)", "url": "https://fosteringtoday.com/fostering-allowance/newcastle/" },
+    { "title": "Fostering Today: fostering agencies in Gateshead", "url": "https://fosteringtoday.com/fostering-agencies/gateshead/" },
+    { "title": "Fostering Today: fostering agencies in North Tyneside", "url": "https://fosteringtoday.com/fostering-agencies/north-tyneside/" },
+    { "title": "Fostering Today: fostering agencies in Northumberland", "url": "https://fosteringtoday.com/fostering-agencies/northumberland/" },
+    { "title": "Fostering Today: fostering agencies in Tyne and Wear", "url": "https://fosteringtoday.com/fostering-agencies/tyne-and-wear/" }
   ]
 }
