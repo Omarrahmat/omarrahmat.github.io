@@ -1,0 +1,14 @@
+[
+  {
+    "id": "oak-fostering",
+    "areasServed": ["Bedford"],
+    "sources": [{"url": "https://oakfostering.co.uk/fostering-agency-in-bedford/", "retrievedOn": "2026-11-27", "supports": ["areasServed"]}],
+    "notes": "Oak Fostering's Bedford page: 'We cover a 1.5-hour radius from our office in Ampthill, including: Milton Keynes, Bedfordshire, Bedford, Northamptonshire, Cambridgeshire' and 'We only recruit carers within a 1.5-hour radius of our office'."
+  },
+  {
+    "id": "family-works-fostering",
+    "areasServed": ["Bedford", "Luton"],
+    "sources": [{"url": "https://fw-fostering.co.uk/locations/fostering-in-bedfordshire/", "retrievedOn": "2026-11-27", "supports": ["areasServed"]}],
+    "notes": "Family Works Fostering's Bedfordshire page, 'Areas We Cover in Bedfordshire': 'We support foster carers across Bedfordshire, including' Bedford, Luton, Dunstable, Leighton Buzzard, Biggleswade, Sandy."
+  }
+]
