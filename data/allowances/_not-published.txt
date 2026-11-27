@@ -220,3 +220,4 @@ foster-for-lancashire, 2026-11-26, re-check (hand-off 662): allowances page stil
 durham-county-council-fostering, 2026-11-26, re-check: fees page still gives only annual worked examples, no weekly scale or year
 darlington-borough-council-fostering, 2026-11-26, re-check: rate card says it was last reviewed in March 2024, not a 2026-27 scale
 bolton-council-fostering, 2026-11-26, re-check: mainstream-fostering-allowances PDF still has no readable text
+brighton-and-hove-city-council-fostering, 2026-11-27, re-check: foster-carer-payments page now readable (combined weekly Level 1 £400-£540, Level 2 £500-£650 by age) but states no year, headline maximum £645 differs from table's £650; Dec 2025 booklet has no figures
