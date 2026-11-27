@@ -1,24 +1,21 @@
 {
   "slug": "derby",
-  "updatedOn": "2026-11-19",
+  "updatedOn": "2026-11-27",
   "paragraphs": [
-    "The services shown above all list Derby as an area they cover: Derby City Council's own fostering service and independent agencies. Fostering for the council means caring for children from the city with the council's social workers behind you; an agency assesses, approves and supports its own carers and takes children councils ask it to place.",
-    "During Foster Care Fortnight in May 2026 the council said more carers were urgently needed so that every child could be matched with a home that suits them. One scheme it has promoted is Fostering Plus, for young people moving from residential care into a family, who are likely to have complex needs and may have moved several times. The council describes it as a full-time, self-employed role, with a supervising social worker, therapeutic support built around the young person, out-of-hours help in the evenings and at weekends, training in attachment and therapeutic parenting, and 28 days of paid respite a year.",
-    "The council's allowance booklet for 2024-25 sets weekly allowances for each child from £170 for children up to four to £274.56 for 16 to 18-year-olds, with a separate skills payment in four bands from £80 to £230 a week, extra payments for birthdays, festivals and holidays, and a £500 weekly skills payment on top of the child's allowances for Fostering Plus. Parent and child placements were paid £700 a week. These were the rates for 2024-25, so ask the council for this year's figures.",
-    "Speak to the council and the agencies above and compare training, support and pay before you decide. The Derbyshire and Leicester pages list more services nearby."
+    "If you live in Derby, you can foster for Derby City Council or for one of the independent agencies shown above. The council recruits through Foster for East Midlands Councils, a regional hub it set up with neighbouring councils in March 2024. In May 2026 the council said the hub had received nearly 2,700 enquiries and more than 200 applications, and that up to 75 new fostering households had come forward across the region. During Foster Care Fortnight that month it said more carers were still urgently needed so that every child could be matched with the right home.",
+    "The council's plan for children in care for 2025 to 2028 explains why local homes matter. At 31 March 2024 Derby had 598 children in care, 426 of them living in foster care. Only 382 of the 598 were living within 20 miles of home, and the council wants at least three in four to be placed within 20 miles of the city centre. It names fewer households fostering for the council as one of its challenges, and its plan is to attract and keep more of its own carers. The homes it finds hardest to secure locally are for teenagers whose behaviour is complex or challenging, for large groups of brothers and sisters, and for young people who need specialist care.",
+    "One answer is Fostering Plus, which the council created for young people moving from a children's home into family life, who are likely to need a higher level of care. It is a full-time, self-employed role with a supervising social worker, therapy built around the child and carer, help in the evenings and at weekends, training in attachment and therapeutic parenting, and 28 days of paid respite.",
+    "The hub says you need to be at least 21 and live permanently in the UK, and usually to have a spare bedroom, although people without one may still foster children up to the age of two. You can be single or in a couple, rent or own, and be in work or not, and LGBTQ+ applicants are welcome. Pets are fine if they are safe around children.",
+    "Fostering for the council means caring for Derby's own children with its social workers behind you; an agency approves and supports its own carers and looks after children for councils across the region. Ask the council and two or three of the services above about pay, training and support. Our Derbyshire, Leicester and Staffordshire pages list more services nearby."
   ],
   "sources": [
-    {
-      "title": "Celebrating Foster Care Fortnight 2026: This is Fostering (Derby City Council, 11 May 2026)",
-      "url": "https://derby.gov.uk/news/2026/may/celebrating-foster-care-fortnight-2026-this-is-fostering/"
-    },
-    {
-      "title": "A career through Fostering Plus could change lives (Derby City Council, July 2023)",
-      "url": "https://www.derby.gov.uk/news/2023/july/a-career-through-fostering-plus-could-change-lives"
-    },
-    {
-      "title": "Foster Care Allowance 2024-25 (Derby City Council)",
-      "url": "https://trixcms.trixonline.co.uk/api/assets/derbycsc/b6e2f6e0-e6a0-4b9e-96e6-5ecd8da190fe/fc-allow-booklet.pdf"
-    }
+    { "title": "Children in care placements commissioning and sufficiency strategy 2025-2028 (Derby City Council)", "url": "https://www.derby.gov.uk/media/derbycitycouncil/content/documents/healthandsocialcare/childrens/cic-sufficiency-strategy2025-28-.pdf" },
+    { "title": "Local authorities celebrate regional fostering partnership working (Derby City Council, 27 May 2026)", "url": "https://derby.gov.uk/news/2026/may/local-authorities-celebrated-regional-fostering-partnership-working/" },
+    { "title": "Celebrating Foster Care Fortnight 2026: This is Fostering (Derby City Council, 11 May 2026)", "url": "https://derby.gov.uk/news/2026/may/celebrating-foster-care-fortnight-2026-this-is-fostering/" },
+    { "title": "Can I foster? (Derby City Council, 31 October 2025)", "url": "https://derby.gov.uk/news/2025/october/can-i-foster" },
+    { "title": "A career through Fostering Plus could change lives (Derby City Council, July 2023)", "url": "https://www.derby.gov.uk/news/2023/july/a-career-through-fostering-plus-could-change-lives" },
+    { "title": "Fostering Today: fostering agencies in Derbyshire", "url": "https://fosteringtoday.com/fostering-agencies/derbyshire/" },
+    { "title": "Fostering Today: fostering agencies in Leicester", "url": "https://fosteringtoday.com/fostering-agencies/leicester/" },
+    { "title": "Fostering Today: fostering agencies in Staffordshire", "url": "https://fosteringtoday.com/fostering-agencies/staffordshire/" }
   ]
 }
