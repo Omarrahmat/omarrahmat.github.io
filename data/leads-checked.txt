@@ -507,3 +507,18 @@ recheck warrington-borough-council-fostering, 2026-11-26 pm, none found (search 
 recheck foster-for-lancashire, 2026-11-26 pm, regional hub only (get-in-touch page gives hello@fosterwithus.org.uk; privacy notice dpo@ and dataprotection@ only; not added)
 recheck southern-hsc-trust-fostering, 2026-11-26 pm, regional hub only (southerntrust.hscni.net fostering page gives hello@adoptionandfostercare.hscni.net, already queued; not added)
 recheck foster-wales-network, 2026-11-26 pm, none published (search again returned only the local team contact pages, all already queued)
+recheck barnardos-scotland-edinburgh-fostering, 2026-11-27 am, found familyplacementservice@barnardos.org.uk (barnardos.org.uk service page barnardos-scotland-fostering-edinburgh, "Contact details", Cloudflare-protected link decoded); queued seq 332
+recheck barnardos-scotland-glasgow-fostering, 2026-11-27 am, found fosteringglasgow@barnardos.org.uk (barnardos.org.uk service page barnardos-scotland-fostering-glasgow, "Contact details", Cloudflare-protected link decoded); queued seq 333
+recheck barnardos-scotland-north-fostering, 2026-11-27 am, none published (foster/north-scotland now the Scotland page: form only)
+recheck barnardos-fostering-northern-ireland, 2026-11-27 am, none published (foster/northern-ireland: form and social links only)
+recheck barnardos-cymru-fostering, 2026-11-27 am, none published (foster/wales form only; Wales statement of purpose Sept 2025 gives only cs.complaints@)
+recheck capstone-foster-care-south-west, 2026-11-27 am, none found (search returned only directories and data brokers, no capstonefostercare.co.uk page)
+recheck capstone-foster-care-uk-london, 2026-11-27 am, none found (as above)
+recheck barnet-fostering, 2026-11-27 am, site blocked (contact page and statement of purpose served Incapsula bot check)
+recheck camden-fostering, 2026-11-27 am, none published (fostering.camden.gov.uk/contact: phone and Foster North London form only)
+recheck fostering-hampshire-children, 2026-11-27 am, none readable (contactus address protected; fetched text had no encoded value to decode)
+recheck north-lincolnshire-council-fostering, 2026-11-27 am, site blocked (bot verification page on both fostering pages)
+recheck wigan-council-fostering, 2026-11-27 am, none published (enquire, help and Contacts/Fostering-team pages and 2025/26 statement of purpose: phone and form only)
+recheck bcp-council-fostering, 2026-11-27 am, none published (family information directory and May 2024 news: phone and referral form only)
+recheck devon-county-council-fostering, 2026-11-27 am, none fostering-specific (devon.gov.uk FOI contacts page: only general customer@ in footer; not added)
+recheck south-ayrshire-council-fostering, 2026-11-27 am, none readable (Fostering and FAQ pages: address protected; fetched text had no encoded value)
