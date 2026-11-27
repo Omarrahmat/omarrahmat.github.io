@@ -1,32 +1,20 @@
 {
   "slug": "southampton",
-  "updatedOn": "2026-11-11",
+  "updatedOn": "2026-11-27",
   "paragraphs": [
-    "Children in care in Southampton are looked after by Southampton City Council's own fostering service, alongside the independent fostering agencies listed on this page. The council's aim is to give local children a safe and caring foster home close to where they already live, and it looks for carers for children of every age, from newborn babies to teenagers.",
-    "The council offers several kinds of fostering, including respite breaks, short-term care while a longer plan is agreed, long-term fostering, parent and child placements, emergency placements, supported lodgings for young people aged 16 to 21, step-across care for young people moving from a children's home into a family, and care for unaccompanied children seeking asylum. New carers are usually encouraged to begin with short-term fostering.",
-    "Each carer has a dedicated supervising social worker, and there is round-the-clock help from the Emergency Duty Team, along with support groups, social events and the Mockingbird programme. Carers can join the Southampton Foster Carers Association and FosterTalk. Training includes mandatory courses such as First Aid and Record Keeping, then core and specialist sessions on subjects like attachment, trauma and life story work. The council's published rates for 2026/27 give a weekly maintenance allowance from £190 for children aged 0 to 2 up to £288 for young people aged 16 and over (after a small weekly amount is set aside as savings for the child), plus a weekly skills fee per child of £120, £240 or £350 depending on the carer's level.",
-    "Becoming a carer starts with initial checks, which generally take around two months, followed by a Form F assessment, usually completed within four months, before an approval panel. Anyone over 21 can apply. A good next step is to speak to the council and to two or three of the agencies listed below, comparing the training, support and pay each one offers."
+    "Children in care in Southampton are looked after by Southampton City Council's fostering service and by independent agencies such as the services shown above. In a Foster Care Fortnight appeal the council said the number of children coming into its care keeps rising and that it needs more fostering households from the city and the area around it, so that children can stay close to their family, friends and school. Carers who can look after older children and teenagers are the ones it said it most needs.",
+    "Carers approved by the council have their own supervising social worker, round-the-clock help from the Emergency Duty Team, support groups and social events, and membership of the Southampton Foster Carers Association and FosterTalk; LGBTQ+ carers can also join New Family Social. Training covers subjects such as attachment and trauma and supporting a child with special educational needs, carers can move up through the council's fostering skills levels, and there are extra payments for specialist fostering. We have not yet published a Southampton pay page, so ask the council for its current fees and allowances when you compare it with an agency.",
+    "The council is recognised by The Fostering Network as a fostering friendly employer: its own staff who foster can work flexibly and have up to five extra days of paid leave a year for training, settling a child in and other fostering commitments, and it encourages Southampton businesses to do the same.",
+    "Anyone over 21 can apply, whether or not they have children of their own; marital status, sexuality, education and disability do not decide it, and the council will ask about any experience of looking after children and about a spare bedroom. After the online form, the first checks (references, a DBS check, council checks and a medical with your GP) generally take around two months. A social worker then completes the Form F assessment in your home, usually within four months, alongside Skills to Foster training, before you go to the approval panel.",
+    "Fostering with the council means caring for Southampton's own children with its team behind you; an agency approves, trains and supports you itself, and councils, Southampton among them, ask it to care for children who need a home. Speak to the council and two or three of the services above about the children who most need homes and the support each offers. If you live outside the city, see our pages for Hampshire, Portsmouth and the Isle of Wight."
   ],
   "sources": [
-    {
-      "title": "Southampton City Council Fostering Service allowances and skills level fees (Southampton City Council)",
-      "url": "https://www.southampton.gov.uk/children-families/children-families-online-documents/scc-fostering-service-allowances-and-skills-level-fees"
-    },
-    {
-      "title": "Become a foster carer with us (Southampton City Council)",
-      "url": "https://southampton.gov.uk/children-families/fostering/become-a-foster-carer"
-    },
-    {
-      "title": "Why foster with us? (Southampton City Council)",
-      "url": "https://southampton.gov.uk/children-families/fostering/why-foster-with-us"
-    },
-    {
-      "title": "Foster care training (Southampton City Council)",
-      "url": "https://southampton.gov.uk/children-families/training-support/foster-care-training"
-    },
-    {
-      "title": "Types of Fostering with Southampton City Council (Southampton City Council)",
-      "url": "https://southampton.gov.uk/media/1yhpltrn/types-of-fostering-apr21-v2.pdf"
-    }
+    { "title": "Keep children within their communities: more foster carers are needed in Southampton (Southampton City Council)", "url": "https://southampton.gov.uk/news/article/keep-children-within-their-communities-more-foster-carers-are-needed-in-southampton" },
+    { "title": "Why foster with us? (Southampton City Council)", "url": "https://southampton.gov.uk/children-families/fostering/why-foster-with-us" },
+    { "title": "Become a foster carer with us (Southampton City Council)", "url": "https://southampton.gov.uk/children-families/fostering/become-a-foster-carer" },
+    { "title": "Southampton City Council is now a fostering friendly employer (Southampton City Council)", "url": "https://southampton.gov.uk/news/article/southampton-city-council-is-now-a-fostering-friendly-employer" },
+    { "title": "Fostering Today: fostering agencies in Hampshire", "url": "https://fosteringtoday.com/fostering-agencies/hampshire/" },
+    { "title": "Fostering Today: fostering agencies in Portsmouth", "url": "https://fosteringtoday.com/fostering-agencies/portsmouth/" },
+    { "title": "Fostering Today: fostering agencies on the Isle of Wight", "url": "https://fosteringtoday.com/fostering-agencies/isle-of-wight/" }
   ]
 }
