@@ -221,3 +221,9 @@ durham-county-council-fostering, 2026-11-26, re-check: fees page still gives onl
 darlington-borough-council-fostering, 2026-11-26, re-check: rate card says it was last reviewed in March 2024, not a 2026-27 scale
 bolton-council-fostering, 2026-11-26, re-check: mainstream-fostering-allowances PDF still has no readable text
 brighton-and-hove-city-council-fostering, 2026-11-27, re-check: foster-carer-payments page now readable (combined weekly Level 1 £400-£540, Level 2 £500-£650 by age) but states no year, headline maximum £645 differs from table's £650; Dec 2025 booklet has no figures
+hull-city-council-fostering, 2026-11-27, re-check: only figures found in search are a July 2024 pay-rise news item (redirect loop, could not be read); no 2026-27 scale
+derbyshire-county-council-fostering, 2026-11-27, re-check: Fostering allowances review committee papers on democracy.derbyshire.gov.uk could not be opened; no 2026-27 scale read
+hillingdon-council-fostering, 2026-11-27, re-check: financial policy (version 1.2, effective 01.04.2026) still labels its fee table 2025-2026; no 2026-27 scale
+foster-wales-carmarthenshire, 2026-11-27, re-check: support-and-rewards page gives only a weekly range (£295 to £330), no age bands or year
+islington-council-fostering, 2026-11-27, re-check: fees page still states no year and printed totals do not equal the sum of its columns
+swindon-borough-council-fostering, 2026-11-27, re-check: payments page still undated (created 2017), single allowance figure and skills levels, no age bands
