@@ -1,0 +1,10 @@
+[
+  {
+    "id": "foster-care-associates-thames-valley",
+    "areasServed": ["Berkshire", "Hertford"],
+    "sources": [
+      {"url": "https://www.thefca.co.uk/locations/reading/", "retrievedOn": "2026-11-27", "supports": ["areasServed"]}
+    ],
+    "notes": "FCA's own 'Fostering in Reading' page (opened 27 Nov 2026) says its team supports foster parents across the Thames Valley region of Buckinghamshire, Oxfordshire and Berkshire, and lists Hertford under 'Other nearby areas we cover' alongside Luton, Milton Keynes, Maidenhead and Windsor (already listed). Adds Berkshire and Hertford."
+  }
+]
