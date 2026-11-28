@@ -1,0 +1,14 @@
+[
+  {
+    "id": "team-fostering-north-east",
+    "areasServed": ["Redcar and Cleveland", "Stockton-on-Tees"],
+    "sources": [
+      {
+        "url": "https://teamfostering.co.uk/why-us/areas-we-cover/north-east/fostering-in-middlesbrough/",
+        "retrievedOn": "2026-11-28",
+        "supports": ["areasServed"]
+      }
+    ],
+    "notes": "Team Fostering's own Middlesbrough page (re-opened 28 Nov 2026) says it works with families and individuals across Middlesbrough and surrounding areas like Stockton, Redcar and Hartlepool, supporting carers across Teesside. Already listed under Redcar and Stockton; adds the borough names the council pages use (Redcar and Cleveland, Stockton-on-Tees). Held from 26 Nov under hand-off 659 until its Is this right? email had gone."
+  }
+]
