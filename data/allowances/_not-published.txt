@@ -229,3 +229,6 @@ islington-council-fostering, 2026-11-27, re-check: fees page still states no yea
 swindon-borough-council-fostering, 2026-11-27, re-check: payments page still undated (created 2017), single allowance figure and skills levels, no age bands
 worcestershire-fostering, 2026-11-28, re-check: payments page still says "correct as of 1 April 2025"; Financial Support to Foster Carers (updated Feb 2026) gives no rate table
 foster-for-plymouth, 2026-11-28, re-check: newest council figures are the April 2025 news range (£350 to £779, 2025/26); Feb 2026 cabinet supplement could not be opened
+city-of-edinburgh-council-fostering, 2026-11-28, re-check: search shows only the May 2026 council news on fees; no council allowance table found
+together-for-children-sunderland-fostering, 2026-11-28, re-check: search found no Sunderland or Together for Children 2026-27 allowance or fee scale
+cornwall-council-fostering, 2026-11-28, re-check: search found only adult social care fees and charges, no fostering scale
